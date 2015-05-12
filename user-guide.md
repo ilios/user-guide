@@ -74,7 +74,7 @@ ___
 
 The Ilios workflow is based on a curriculum structure which incorporates several interconnected levels (displayed below starting with the highest level -- program):
 
-![](http://i.imgur.com/gTF30gR.jpg)
+![](images/interconnected.JPG)
 
 - A deployment of Ilios may include multiple related schools or institutions.
 - Every school or institution creates and owns specific programs of study. 
@@ -145,7 +145,7 @@ Once you are logged in, you will be presented with the “Dashboard” or landin
 
 The Dashboard is designed to provide quick access to common sets of information and simple task and activity tracking. Navigation is performed by using the Ilios Menu, which appears on the upper left part of the screen and can be accessed and expanded by clicking “Ilios Menu” as shown below.  It is a fly away menu that expands once it has been clicked and is available even if you have scrolled down the page.
 
-![After clicking Menu](http://i.imgur.com/AUNXzrJ.jpg)
+![After clicking Menu](images/dashboard.jpg)
 
 Available menu items include:
 
@@ -243,7 +243,7 @@ To search for a previously created Program, enter a part of the name of the prog
 
 ####Courses
 
-![Courses Screen (Ilios 3.0)](http://i.imgur.com/VBETjLa.jpg)
+![Courses Screen (Ilios 3.0)](images/courses.jpg)
 
 #####My Courses 
 
@@ -251,40 +251,42 @@ By default, in Ilios 3.0, all courses for the selected school are displayed.  Th
 
 ***Original appearance:***
 
-![](http://i.imgur.com/kUQav9w.jpg)
+![All Courses](images/allcourses.jpg)
 
 ***After clicking / toggling:***
 
-![](http://i.imgur.com/SXoBuk5.jpg)
+![My Courses](images/mycourses.jpg)
 
 The screen is then refreshed to display only the courses with which the logged in user is associated. In this example, the logged-in user is not associated in any way with the Anesthesia 110 course so it is no longer displayed.
 
-![](http://i.imgur.com/dOaFVID.jpg)
+![My Courses Listed](images/mycoursesscreen.jpg)
 
 #####Add New Course
 
 Courses are unique to the academic year in which they are taught. To create a new course, click the ***Add New*** button, and provide a course name and select the appropriate year of instruction.  
 
-![](http://i.imgur.com/MwmIILz.jpg)
+![Add New Course Title](images/newcoursetitle.jpg)
 
 After clicking ***Done*** in the example shown above, the remaining details of the new Course can now be added.  Click ***Back to Courses*** to return to the Course  list to complete these details at a later time.  The Course is initially saved with a state of ***Not Published*** since it has no Sessions or Offerings at this point.  
 
-![](http://i.imgur.com/zB01Wm8.jpg)
+![New Course After Save](images/newcourseaftersave.jpg)
 
 After clicking ***Back to Courses***, the screen appears as follows with the New Course being appropriately titled ***Drugs And Side Effects 101***.  The Courses are sorted by default in alphabetical ascending order.
 
-![](http://i.imgur.com/HxzUVY5.jpg)
+![Return to Courses List](images/allcourseslist.jpg)
+
 #####Maintain Existing Course
 To manage an existing course, enter part of the course’s title into the ***"Filter by course title”*** text field located above the ***“Add New”*** button.  The result will automatically return a course list which applies the critieria entered.  A list of all matches will populate your search panel; highlighting and selecting the desired program will load it to your screen. 
 
 ***Courses Pre-filter***
-![](http://i.imgur.com/VpJhPkq.jpg)
+
+![Courses Pre-filter](images/coursesprefilter.jpg)
 
 ***Courses Post-Filter*** 
 
 In this second screen shot, a search string of “chro” has been entered and as a result, only one course gets returned.
 
-![](http://i.imgur.com/VukCtup.jpg)
+![After Filter Applied](images/coursespostfilter.jpg)
 
 For courses which are given more than once in an academic year, the course name or Course ID should identify this: for example Intersession 1 (2011-12), Intersession 2 (2011-12), Intersession 3 (2011-12), IDS 33A, IDS 33B, etc. Creating multiple instances of a course within an academic year is handled using the Course Rollover feature. For courses that are given more than once in an academic year, the listings are in chronological order according to start date.
 
@@ -292,11 +294,11 @@ In order to populate courses with learner groups, the course must first be assoc
 
 ***Selection Screen (Program Cohort)***
 
-![](http://i.imgur.com/aenldfh.jpg)
+![Select The Cohort](images/cohortselection.jpg)
 
 ***Courses and Sessions (after Cohort Selected***)
 
-![](http://i.imgur.com/05ejZVm.jpg)
+![](images/cohortpostselect.jpg)
 
 ***Course attributes:***
 
@@ -320,18 +322,19 @@ In order to populate courses with learner groups, the course must first be assoc
 The screen shot below shows the Courses and Sessions screen with the list of associated Sessions for a course.  These sessions do not have associated offerings or else First Offering would be populated with the date of the first session offering.
 
 ***Session List***
-![](http://i.imgur.com/vKJ2jMw.jpg)
+![List Of Sessions](images/sessionlist.jpg)
+
+***Session Detail***
 
 The session detail screen is very lengthy so in this situation, the top part is shown in the screen shot below.
 
-***Session Detail***
-![](http://i.imgur.com/1P7pN6K.jpg)
+![Session Detail](images/sessiondetailtop.jpg)
 
 Once a course has been saved, Sessions may be added to the course. A Session is a discrete instructional unit of curricular material or activity within a course. To add a new session, click “Add New”. This will create an empty Session, ready to be populated  with the Session's attributes.  Follow the steps shown below.
 
 **Add New Session**
 
-![](http://i.imgur.com/Jfdj4fw.jpg)
+![New Session](images/newsessionadd.jpg)
 
 Once a session is saved by clicking the Done button shown above, offerings for that session can be added. Offerings may be created individually on the calendar and populated with group, instructor and location information using the calendar tools. Offerings also may be generated using specific learner groups as the seeding mechanism, by selecting the “Open Offering Small Group Generator” link. This link allows you to select one or more eligible learner groups, a time slot on the calendar, and automatically generated offerings via one of two strategies: 
 
@@ -347,23 +350,23 @@ Sessions may also be saved as independent learning units, providing an estimated
 
 **Session attributes (all session types):**
 
-- Groups – (Currently displays only in aggregate at the course level.) Display only. Shows a list by name of the Learner Groups currently associated with the Session. 
-- Session Type - Selected from a predefined list of instructional and assessment methods, loaded into the system at implementation. 
-- Description - Free-text entry allowing for detailed information, instruction, and description of the Session curriculum and activities.
-- Core/Supplemental - Allows for the flagging of elective vs. required curriculum units.
-- Special Attire Required - flags the content as noted. Special instructions or details should be entered in the Session Description field.
-- Special Equipment Required - flags the content as noted. Special instructions or details should be entered in the Session Description field.
-- Topics - Selected from a school-specific, pre-defined list. 
-- MeSH Terms - Selected by searching the MeSH database.
-- Learning Materials - Session-level learning materials are available only to the specific Session to which they belong.
-- Objectives - Free-text entry field. Each Objective entered at the Session level may be associated with any number of the parent course’s Course-level Objectives. Session Objectives may also be assigned their own MeSH terms.
+- Groups: (Currently displays only in aggregate at the course level.) Display only. Shows a list by name of the Learner Groups currently associated with the Session. 
+- Session Type: Selected from a predefined list of instructional and assessment methods, loaded into the system at implementation. 
+- Description: Free-text entry allowing for detailed information, instruction, and description of the Session curriculum and activities.
+- Core/Supplemental: Allows for the flagging of elective vs. required curriculum units.
+- Special Attire Required: flags the content as noted. Special instructions or details should be entered in the Session Description field.
+- Special Equipment Required: flags the content as noted. Special instructions or details should be entered in the Session Description field.
+- Topics: Selected from a school-specific, pre-defined list. 
+- MeSH Terms: Selected by searching the MeSH database.
+- Learning Materials: Session-level learning materials are available only to the specific Session to which they belong.
+- Objectives: Free-text entry field. Each Objective entered at the Session level may be associated with any number of the parent course’s Course-level Objectives. Session Objectives may also be assigned their own MeSH terms.
 
 **Independent Learning Session Attributes (additional for ILM):**
 
-- Expected instructional hours – Numeric entry of the total time in hours allotted for the activities associated with the session.
-- Due Date – Date by which time the activities are expected to be completed. Default is the final day of the course. 
-- Assigned Learner Groups – since there are no calendared offerings for ILM, groups are associated directly to the session.
-- Assigned Instructors - since there are no calendared offerings for ILM, the responsible instructors of record are associated directly to the session.
+- Expected instructional hours: Numeric entry of the total time in hours allotted for the activities associated with the session.
+- Due Date: Date by which time the activities are expected to be completed. Default is the final day of the course. 
+- Assigned Learner Groups: Since there are no calendared offerings for ILM, groups are associated directly to the session.
+- Assigned Instructors: Since there are no calendared offerings for ILM, the responsible instructors of record are associated directly to the session.
  
 ## Calendar and Offerings
 
@@ -405,7 +408,7 @@ Only offerings for the session currently being worked are editable in the calend
 
 The Course Summary provides a complete view of a given course: all detail for all sessions. It is available via the “Print Summary” link in the details panel for any course displayed in Courses and Sessions. The course summary loads a view of the entire course in a web page. 
 
-![](http://i.imgur.com/Y2E4Di4.jpg)
+![Print Summary Button](images/printsummary.jpg)
 
 ##Group Management
 
@@ -413,7 +416,7 @@ The Course Summary provides a complete view of a given course: all detail for al
 
 To manage Instructor Groups in Ilios, from  Ilios Menu, select ***Instructor Groups***.
 
-![](http://i.imgur.com/0GF0rSa.jpg)
+![Manage Instructor Groups](images/instructorgroups.jpg)
  
 The Instructor Groups module in Ilios allows for the creation of reusable and trackable sets of instructors that can be associated to course/session activity. The groups are populated from the existing directory of instructors, and can be modified and added to as needed. An instructor may be associated with any number of instructor groups, or none at all. Instructors and instructor groups are associated with course content at the offering level for each session (session offerings).
  
@@ -428,7 +431,7 @@ Instructors who are not already in the directory provided should typically be ad
 
 To manage Learner Groups in Ilios, from Ilios menu, select ***Learner Groups.***
 
-![](http://i.imgur.com/vY1RTZn.jpg)
+![Manage Learner Groups](images/learnergroups.jpg)
 
 Group Management is a method of tagging, grouping and managing the learners who are attached to curricular activity in Ilios. This module allows for the association of sets of learners to specific content, and the makes possible reporting on those associations. The demographic details of individual learners are not tracked within Ilios.
 
@@ -501,14 +504,27 @@ For each unique use of a learning material, additional attributes may be added s
 Ilios has an incorporated a version of the searchable MeSH (Medical Subject Headings) thesaurus maintained by the U.S. National Library of Medicine, to allow the tagging of various levels of curricular data with appropriate (shareable) vocabulary.
 
 An example of adding a MeSH term to a Course Objective is shown below.
+________________
 
-![](http://i.imgur.com/P8YhpJZ.jpg)
+**1. Select the Course**
 
-![](http://i.imgur.com/kTbRwA0.jpg)
+![Add MeSH to Course Objective Part 1](images/addMeSH1.jpg)
+________________
 
-![](http://i.imgur.com/fEQPxP3.jpg)
+**2. Expand to see the Course Details**
 
-![](http://i.imgur.com/vhFOnIN.jpg)
+![Expand the Course Details](images/addMeSH2.jpg)
+________________
+
+**3. Select the Objective**
+
+![Select the Objective](images/addMeSH3.jpg)
+________________
+
+**4. Select the MeSH Term**
+
+![Select the MeSH Term](images/addMeSH4.jpg)
+________________
 
 MeSH terms may be associated with Courses, Sessions, Learning Materials, and Learning Objectives (at any level - Program, Course, or Session).
 
@@ -543,16 +559,27 @@ Program Objectives (graduation requirements) are created at the Program Year; ea
 ###Enter A Course Objective
 
 To enter a Course level Objective, select a Course and open up the details and then ...
+_______________________
 
-![](http://i.imgur.com/MwWe2OX.jpg)
+**1. Add New Objective**
 
-![](http://i.imgur.com/U1N94pp.jpg)
+![Add New](images/addObj1.jpg)
+_______________________
 
-![](http://i.imgur.com/sBz3RC7.jpg)
+**2. Enter Details**
+
+![Enter Details](images/addObj2.jpg)
+_______________________
+
+**3. View the New Objective**
+
+![See the Added Objective](images/addObj3.jpg)
+_______________________
 
 The Parent Program Objective or Competency (only 1 allowed per Course Objective) can now be added by using the Add New button under Parent Objectives.  A long list will appear on the page allowing for one item to be selected as shown (partial screen shot below).  After clicking Add New ...
 
-![](http://i.imgur.com/6fZJBgO.jpg)
+![Add Parent Objective](images\addParentObj.jpg)
+_______________________
 
 Course Objectives are created at the top level of each course, and may be associated with any of the available Program Objectives from the Program(s) associated to that course.
 
@@ -617,7 +644,7 @@ Ilios has a built in publishing workflow for curricular material. The publishing
 
 In the example below, all of the required fields have been entered and the Sessions have been entered and are ready to be published as well.
 
-![](http://i.imgur.com/IfEE5bF.jpg)
+![Publish Course](images\publishcourse1.jpg)
 
 **To Publish a Course (with one or more Missing Items) ...**
 
@@ -632,9 +659,9 @@ In the ***Course Level Only*** workflow, the top-level (“course-level”) attr
 - Objectives
 - Mesh 
 
-The required fields for publishing a Course are listed above. The others are desired fields. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Items” value on the Publish drop-down menu. If you choose to review the missing items, the Publish option will be available on the review screen.  You are required to review the items before publishing the Course or select Publish As Is.
+The required fields for publishing a Course are indicated above. The others are desired fields. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Items” value on the Publish drop-down menu. If you choose to review the missing items, the Publish option will be available on the review screen.  You are required to review the items before publishing the Course or select Publish As Is.
 
-![](http://i.imgur.com/JvNZEso.jpg)
+![Review Missing Items](images\publishcourse2.jpg)
 
 In the ***Single Session Only*** workflow, a single session is checked to verify data. Session level attributes checked are:
 
@@ -648,17 +675,17 @@ The fields required to create a Session are indicated above. The others are desi
 
 ***To Publish a Session (with one or more Missing Items)***
 
-![](http://i.imgur.com/2xU26EF.jpg)
+![Session With Missing Items](images\publishsession1.jpg)
 
 **Session Detail** appears.
 
-![](http://i.imgur.com/9NTDrfM.jpg)
+![Session Detail](images\publishsession2.jpg)
 
 ***Review Missing Items***
 
 Upon clicking Option #2 (***Review 2 Missing Items*** - see above), the screen will display what data from among the desired fields is missing.
 
-![](http://i.imgur.com/cLbdvdd.jpg)
+![Review Missing Items](images\publishsession3.jpg)
 
 In the ***Publish Full Course with All Sessions*** workflow, a display of the course level info and every associated session is made available. The course level info and each session function independently as above, allowing override individually. If an associated session was previously in published state, it will still be displayed in the list and allow for republishing following the rules above. Any changes to a previously published session will overwrite its previous status. A course may be in Not Published state, yet have sessions which are Published or Scheduled. The Published/Scheduled sessions will not display on the public calendar until the parent course is in published or Scheduled state. Not Published sessions never display on the public calendar.
 

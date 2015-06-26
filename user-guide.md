@@ -1,4 +1,4 @@
-![](https://github.com/ilios/user-guide/blob/master/Images/Ilios%20Banner.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/Ilios%20Banner.jpg)
 
 # The Ilios User Guide 
 ####v 3.0 Release
@@ -73,7 +73,7 @@ ___
 
 The Ilios workflow is based on a curriculum structure which incorporates several interconnected levels (displayed below starting with the highest level -- program):
 
-![](https://github.com/ilios/user-guide/blob/master/Images/interconnected.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/interconnected.jpg)
 
 - A deployment of Ilios may include multiple related schools or institutions.
 - Every school or institution creates and owns specific programs of study. 
@@ -144,7 +144,7 @@ Once you are logged in, you will be presented with the “Dashboard” or landin
 
 The Dashboard is designed to provide quick access to common sets of information and simple task and activity tracking. Navigation is performed by using the Ilios Menu, which appears on the upper left part of the screen and can be accessed and expanded by clicking “Ilios Menu” as shown below.  It is a fly away menu that expands once it has been clicked and is available even if you have scrolled down the page.
 
-![After clicking Ilios Menu](https://github.com/ilios/user-guide/blob/master/Images/Dashboard.jpg)
+![After clicking Ilios Menu](https://github.com/ilios/user-guide/blob/master/images/Dashboard.jpg)
 
 Available menu items include:
 
@@ -241,7 +241,7 @@ To search for a previously created Program, enter a part of the name of the prog
 
 ####Courses
 
-![Courses Screen (Ilios 3.0)](https://github.com/ilios/user-guide/blob/master/Images/Courses.jpg)
+![Courses Screen (Ilios 3.0)](https://github.com/ilios/user-guide/blob/master/images/Courses.jpg)
 
 #####My Courses 
 
@@ -249,42 +249,42 @@ By default, in Ilios 3.0, all courses for the selected school are displayed.  Th
 
 ***Original appearance:***
 
-![](https://github.com/ilios/user-guide/blob/master/Images/allcourses.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/allcourses.jpg)
 
 ***After clicking / toggling:***
 
-![](https://github.com/ilios/user-guide/blob/master/Images/mycourses.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/mycourses.jpg)
 
 The screen is then refreshed to display only the courses with which the logged in user is associated. In this example, the logged-in user is not associated in any way with the Anesthesia 110 course so it is no longer displayed.
 
-![](https://github.com/ilios/user-guide/blob/master/Images/mycoursesscreen.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/mycoursesscreen.jpg)
 
 #####Add New Course
 
 Courses are unique to the academic year in which they are taught. To create a new course, click the ***Add New*** button, and provide a course name and select the appropriate year of instruction.  
 
-![](https://github.com/ilios/user-guide/blob/master/Images/newcoursetitle.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/newcoursetitle.jpg)
 
 After clicking ***Done*** in the example shown above, the remaining details of the new Course can now be added.  Click ***Back to Courses*** to return to the Course  list to complete these details at a later time.  The Course is initially saved with a state of ***Not Published*** since it has no Sessions or Offerings at this point.  
 
-![](https://github.com/ilios/user-guide/blob/master/Images/newcourseaftersave.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/newcourseaftersave.jpg)
 
 After clicking ***Back to Courses***, the screen appears as follows with the New Course being appropriately titled ***Drugs And Side Effects 101***.  The Courses are sorted by default in alphabetical ascending order.
 
-![](https://github.com/ilios/user-guide/blob/master/Images/allcourseslist.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/allcourseslist.jpg)
 
 #####Maintain Existing Course
 To manage an existing course, enter part of the course’s title into the ***"Filter by course title”*** text field located above the ***“Add New”*** button.  The result will automatically return a course list which applies the critieria entered.  A list of all matches will populate your search panel; highlighting and selecting the desired program will load it to your screen. 
 
 ***Courses Pre-filter***
 
-![](https://github.com/ilios/user-guide/blob/master/Images/coursesprefilter.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/coursesprefilter.jpg)
 
 ***Courses Post-Filter*** 
 
 In this second screen shot, a search string of “chro” has been entered and as a result, only one course gets returned.
 
-![](https://github.com/ilios/user-guide/blob/master/Images/coursespostfilter.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/coursespostfilter.jpg)
 
 For courses which are given more than once in an academic year, the course name or Course ID should identify this: for example Intersession 1 (2011-12), Intersession 2 (2011-12), Intersession 3 (2011-12), IDS 33A, IDS 33B, etc. Creating multiple instances of a course within an academic year is handled using the Course Rollover feature. For courses that are given more than once in an academic year, the listings are in chronological order according to start date.
 
@@ -292,11 +292,11 @@ In order to populate courses with learner groups, the course must first be assoc
 
 ***Selection Screen (Program Cohort)***
 
-![](https://github.com/ilios/user-guide/blob/master/Images/cohortselection.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/cohortselection.jpg)
 
 ***Courses and Sessions (after Cohort Selected***)
 
-![](https://github.com/ilios/user-guide/blob/master/Images/cohortselected.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/cohortselected.jpg)
 
 ***Course attributes:***
 
@@ -320,18 +320,18 @@ In order to populate courses with learner groups, the course must first be assoc
 The screen shot below shows the Courses and Sessions screen with the list of associated Sessions for a course.  These sessions do not have associated offerings or else First Offering would be populated with the date of the first session offering.
 
 ***Session List***
-![](https://github.com/ilios/user-guide/blob/master/Images/sessionlist.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/sessionlist.jpg)
 
 The session detail screen is very lengthy so in this situation, the top part is shown in the screen shot below.
 
 ***Session Detail***
-![](https://github.com/ilios/user-guide/blob/master/Images/sessiondetailtop.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/sessiondetailtop.jpg)
 
 Once a course has been saved, Sessions may be added to the course. A Session is a discrete instructional unit of curricular material or activity within a course. To add a new session, click “Add New”. This will create an empty Session, ready to be populated  with the Session's attributes.  Follow the steps shown below.
 
 **Add New Session**
 
-![](https://github.com/ilios/user-guide/blob/master/Images/newsessionadd.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/newsessionadd.jpg)
 
 Once a session is saved by clicking the Done button shown above, offerings for that session can be added. Offerings may be created individually on the calendar and populated with group, instructor and location information using the calendar tools. Offerings also may be generated using specific learner groups as the seeding mechanism, by selecting the “Open Offering Small Group Generator” link. This link allows you to select one or more eligible learner groups, a time slot on the calendar, and automatically generated offerings via one of two strategies: 
 
@@ -405,7 +405,7 @@ Only offerings for the session currently being worked are editable in the calend
 
 The Course Summary provides a complete view of a given course: all detail for all sessions. It is available via the “Print Summary” link in the details panel for any course displayed in Courses and Sessions. The course summary loads a view of the entire course in a web page. 
 
-![](https://github.com/ilios/user-guide/blob/master/Images/printsummary.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/printsummary.jpg)
 
 ##Group Management
 
@@ -413,7 +413,7 @@ The Course Summary provides a complete view of a given course: all detail for al
 
 To manage Instructor Groups in Ilios, from  Ilios Menu, select ***Instructor Groups***.
 
-![](https://github.com/ilios/user-guide/blob/master/Images/instructorgroups.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/instructorgroups.jpg)
  
 The Instructor Groups module in Ilios allows for the creation of reusable and trackable sets of instructors that can be associated to course/session activity. The groups are populated from the existing directory of instructors, and can be modified and added to as needed. An instructor may be associated with any number of instructor groups, or none at all. Instructors and instructor groups are associated with course content at the offering level for each session (session offerings).
  
@@ -426,7 +426,7 @@ Instructors who are not already in the directory provided should typically be ad
 
 To manage Learner Groups in Ilios, from Ilios menu, select ***Learner Groups.***
 
-![](https://github.com/ilios/user-guide/blob/master/Images/learnergroups.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/learnergroups.jpg)
 
 Group Management is a method of tagging, grouping and managing the learners who are attached to curricular activity in Ilios. This module allows for the association of sets of learners to specific content, and the makes possible reporting on those associations. The demographic details of individual learners are not tracked within Ilios.
 
@@ -500,13 +500,13 @@ Ilios has an incorporated a version of the searchable MeSH (Medical Subject Head
 
 An example of adding a MeSH term to a Course Objective is shown below.
 
-![](https://github.com/ilios/user-guide/blob/master/Images/AddMeSH1.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/AddMeSH1.jpg)
 
-![](https://github.com/ilios/user-guide/blob/master/Images/AddMeSH2.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/AddMeSH2.jpg)
 
-![](https://github.com/ilios/user-guide/blob/master/Images/AddMeSH3.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/AddMeSH3.jpg)
 
-![](https://github.com/ilios/user-guide/blob/master/Images/AddMeSH4.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/AddMeSH4.jpg)
 
 MeSH terms may be associated with Courses, Sessions, Learning Materials, and Learning Objectives (at any level - Program, Course, or Session).
 
@@ -542,15 +542,15 @@ Program Objectives (graduation requirements) are created at the Program Year; ea
 
 To enter a Course level Objective, select a Course and open up the details and then ...
 
-![](https://github.com/ilios/user-guide/blob/master/Images/AddObj1.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/AddObj1.jpg)
 
-![](https://github.com/ilios/user-guide/blob/master/Images/AddObj2.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/AddObj2.jpg)
 
-![](https://github.com/ilios/user-guide/blob/master/Images/AddObj3.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/AddObj3.jpg)
 
 The Parent Program Objective or Competency (only 1 allowed per Course Objective) can now be added by using the Add New button under Parent Objectives.  A long list will appear on the page allowing for one item to be selected as shown (partial screen shot below).  After clicking Add New ...
 
-![](https://github.com/ilios/user-guide/blob/master/Images/AddParentObj.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/AddParentObj.jpg)
 
 Course Objectives are created at the top level of each course, and may be associated with any of the available Program Objectives from the Program(s) associated to that course.
 
@@ -615,7 +615,7 @@ Ilios has a built in publishing workflow for curricular material. The publishing
 
 In the example below, all of the required fields have been entered and the Sessions have been entered and are ready to be published as well.
 
-![](https://github.com/ilios/user-guide/blob/master/Images/publishcourse1.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/publishcourse1.jpg)
 
 **To Publish a Course (with one or more Missing Items) ...**
 
@@ -632,7 +632,7 @@ In the ***Course Level Only*** workflow, the top-level (“course-level”) attr
 
 The required fields for publishing a Course are listed above. The others are desired fields. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Items” value on the Publish drop-down menu. If you choose to review the missing items, the Publish option will be available on the review screen.  You are required to review the items before publishing the Course or select Publish As Is.
 
-![](https://github.com/ilios/user-guide/blob/master/Images/publishcourse2.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/publishcourse2.jpg)
 
 In the ***Single Session Only*** workflow, a single session is checked to verify data. Session level attributes checked are:
 
@@ -646,17 +646,17 @@ The fields required to create a Session are indicated above. The others are desi
 
 ***To Publish a Session (with one or more Missing Items)***
 
-![](https://github.com/ilios/user-guide/blob/master/Images/publishsession1.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/publishsession1.jpg)
 
 **Session Detail** appears.
 
-![](https://github.com/ilios/user-guide/blob/master/Images/publishsession2.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/publishsession2.jpg)
 
 ***Review Missing Items***
 
 Upon clicking Option #2 (***Review 2 Missing Items*** - see above), the screen will display what data from among the desired fields is missing.
 
-![](https://github.com/ilios/user-guide/blob/master/Images/publishsession3.jpg)
+![](https://github.com/ilios/user-guide/blob/master/images/publishsession3.jpg)
 
 In the ***Publish Full Course with All Sessions*** workflow, a display of the course level info and every associated session is made available. The course level info and each session function independently as above, allowing override individually. If an associated session was previously in published state, it will still be displayed in the list and allow for republishing following the rules above. Any changes to a previously published session will overwrite its previous status. A course may be in Not Published state, yet have sessions which are Published or Scheduled. The Published/Scheduled sessions will not display on the public calendar until the parent course is in published or Scheduled state. Not Published sessions never display on the public calendar.
 

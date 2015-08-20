@@ -73,7 +73,7 @@ ___
 
 The Ilios workflow is based on a curriculum structure which incorporates several interconnected levels (displayed below starting with the highest level -- program):
 
-![](Images/interconnected.jpg)
+![](Images/inter_connected.jpg)
 
 - A deployment of Ilios may include multiple related schools or institutions.
 - Every school or institution creates and owns specific programs of study.
@@ -144,7 +144,7 @@ Once you are logged in, you will be presented with the “Dashboard” or landin
 
 The Dashboard is designed to provide quick access to common sets of information and simple task and activity tracking. Navigation is performed by using the Ilios Menu, which appears on the upper left part of the screen and can be accessed and expanded by clicking “Ilios Menu” as shown below.  It is a fly away menu that expands once it has been clicked and is available even if you have scrolled down the page.
 
-![After clicking Ilios Menu](https://github.com/ilios/user-guide/blob/master/Images/Dashboard.jpg)
+![After clicking Ilios Menu](/Images/dashboard.jpg)
 
 Available menu items include:
 
@@ -241,7 +241,7 @@ To search for a previously created Program, enter a part of the name of the prog
 
 ####Courses
 
-![Courses Screen (Ilios 3.0)](https://github.com/ilios-user-guide/tree/master/Images/courses.jpg)
+![Courses Screen (Ilios 3.0)](/Images/courses.jpg)
 
 #####My Courses
 
@@ -249,42 +249,42 @@ By default, in Ilios 3.0, all courses for the selected school are displayed.  Th
 
 ***Original appearance:***
 
-![All Courses](Images/allcourses.jpg)
+![All Courses](Images/all_courses.jpg)
 
 ***After clicking / toggling:***
 
-![My Courses](Images/mycourses.jpg)
+![My Courses](Images/my_courses.jpg)
 
 The screen is then refreshed to display only the courses with which the logged in user is associated. In this example, the logged-in user is not associated in any way with the Anesthesia 110 course so it is no longer displayed.
 
-![My Courses Listed](Images/mycoursesscreen.jpg)
+![My Courses Listed](Images/my_courses_screen.jpg)
 
 #####Add New Course
 
 Courses are unique to the academic year in which they are taught. To create a new course, click the ***Add New*** button, and provide a course name and select the appropriate year of instruction.
 
-![Add New Course Title](Images/newcoursetitle.jpg)
+![Add New Course Title](Images/new_course_title.jpg)
 
 After clicking ***Done*** in the example shown above, the remaining details of the new Course can now be added.  Click ***Back to Courses*** to return to the Course  list to complete these details at a later time.  The Course is initially saved with a state of ***Not Published*** since it has no Sessions or Offerings at this point.
 
-![New Course After Save](Images/newcourseaftersave.jpg)
+![New Course After Save](Images/new_course_after_save.jpg)
 
 After clicking ***Back to Courses***, the screen appears as follows with the New Course being appropriately titled ***Drugs And Side Effects 101***.  The Courses are sorted by default in alphabetical ascending order.
 
-![Return to Courses List](Images/allcourseslist.jpg)
+![Return to Courses List](Images/all_courses_list.jpg)
 
 #####Maintain Existing Course
 To manage an existing course, enter part of the course’s title into the ***"Filter by course title”*** text field located above the ***“Add New”*** button.  The result will automatically return a course list which applies the critieria entered.  A list of all matches will populate your search panel; highlighting and selecting the desired program will load it to your screen.
 
 ***Courses Pre-filter***
 
-![Courses Pre-filter](Images/coursesprefilter.jpg)
+![Courses Pre-filter](Images/courses_pre_filter.jpg)
 
 ***Courses Post-Filter***
 
 In this second screen shot, a search string of “chro” has been entered and as a result, only one course gets returned.
 
-![After Filter Applied](Images/coursespostfilter.jpg)
+![After Filter Applied](Images/courses_post_filter.jpg)
 
 For courses which are given more than once in an academic year, the course name or Course ID should identify this: for example Intersession 1 (2011-12), Intersession 2 (2011-12), Intersession 3 (2011-12), IDS 33A, IDS 33B, etc. Creating multiple instances of a course within an academic year is handled using the Course Rollover feature. For courses that are given more than once in an academic year, the listings are in chronological order according to start date.
 
@@ -292,11 +292,11 @@ In order to populate courses with learner groups, the course must first be assoc
 
 ***Selection Screen (Program Cohort)***
 
-![Select The Cohort](Images/cohortselection.jpg)
+![Select The Cohort](Images/cohort_selection.jpg)
 
 ***Courses and Sessions (after Cohort Selected***)
 
-![](Images/cohortpostselect.jpg)
+![](Images/cohort_post_select.jpg)
 
 ***Course attributes:***
 
@@ -320,19 +320,19 @@ In order to populate courses with learner groups, the course must first be assoc
 The screen shot below shows the Courses and Sessions screen with the list of associated Sessions for a course.  These sessions do not have associated offerings or else First Offering would be populated with the date of the first session offering.
 
 ***Session List***
-![List Of Sessions](Images/sessionlist.jpg)
+![List Of Sessions](Images/session_list.jpg)
 
 ***Session Detail***
 
 The session detail screen is very lengthy so in this situation, the top part is shown in the screen shot below.
 
-![Session Detail](Images/sessiondetailtop.jpg)
+![Session Detail](Images/session_detail_top.jpg)
 
 Once a course has been saved, Sessions may be added to the course. A Session is a discrete instructional unit of curricular material or activity within a course. To add a new session, click “Add New”. This will create an empty Session, ready to be populated  with the Session's attributes.  Follow the steps shown below.
 
 **Add New Session**
 
-![New Session](Images/newsessionadd.jpg)
+![New Session](Images/new_session_add.jpg)
 
 Once a session is saved by clicking the Done button shown above, offerings for that session can be added. Offerings may be created individually on the calendar and populated with group, instructor and location information using the calendar tools. Offerings also may be generated using specific learner groups as the seeding mechanism, by selecting the “Open Offering Small Group Generator” link. This link allows you to select one or more eligible learner groups, a time slot on the calendar, and automatically generated offerings via one of two strategies:
 
@@ -406,15 +406,13 @@ Only offerings for the session currently being worked are editable in the calend
 
 The Course Summary provides a complete view of a given course: all detail for all sessions. It is available via the “Print Summary” link in the details panel for any course displayed in Courses and Sessions. The course summary loads a view of the entire course in a web page.
 
-![Print Summary Button](Images/printsummary.jpg)
+![Print Summary Button](Images/print_summary.jpg)
 
 ##Group Management
 
 ####Instructors
 
 To manage Instructor Groups in Ilios, from  Ilios Menu, select ***Instructor Groups***.
-
-![Manage Instructor Groups](Images/instructorgroups.jpg)
 
 The Instructor Groups module in Ilios allows for the creation of reusable and trackable sets of instructors that can be associated to course/session activity. The groups are populated from the existing directory of instructors, and can be modified and added to as needed. An instructor may be associated with any number of instructor groups, or none at all. Instructors and instructor groups are associated with course content at the offering level for each session (session offerings).
 
@@ -426,8 +424,6 @@ Instructors who are not already in the directory provided should typically be ad
 ####Learners
 
 To manage Learner Groups in Ilios, from Ilios menu, select ***Learner Groups.***
-
-![Manage Learner Groups](Images/learnergroups.jpg)
 
 Group Management is a method of tagging, grouping and managing the learners who are attached to curricular activity in Ilios. This module allows for the association of sets of learners to specific content, and the makes possible reporting on those associations. The demographic details of individual learners are not tracked within Ilios.
 
@@ -504,22 +500,22 @@ ________________
 
 **1. Select the Course**
 
-![Add MeSH to Course Objective Part 1](Images/addMeSH1.jpg)
+![Add MeSH to Course Objective Part 1](Images/add_mesh1.jpg)
 ________________
 
 **2. Expand to see the Course Details**
 
-![Expand the Course Details](Images/addMeSH2.jpg)
+![Expand the Course Details](Images/add_mesh2.jpg)
 ________________
 
 **3. Select the Objective**
 
-![Select the Objective](Images/addMeSH3.jpg)
+![Select the Objective](Images/add_mesh3.jpg)
 ________________
 
 **4. Select the MeSH Term**
 
-![Select the MeSH Term](Images/addMeSH4.jpg)
+![Select the MeSH Term](Images/add_mesh4.jpg)
 ________________
 
 MeSH terms may be associated with Courses, Sessions, Learning Materials, and Learning Objectives (at any level - Program, Course, or Session).
@@ -559,7 +555,7 @@ _______________________
 
 **1. Add New Objective**
 
-![Add New](Images/addObj1.jpg)
+![Add New](Images/add_obj1.jpg)
 _______________________
 
 **2. Enter Details**
@@ -627,7 +623,7 @@ Ilios has a built in publishing workflow for curricular material. The publishing
 
 In the example below, all of the required fields have been entered and the Sessions have been entered and are ready to be published as well.
 
-![Publish Course](Images/publishcourse1.jpg)
+![Publish Course](Images/publish_course1.jpg)
 
 **To Publish a Course (with one or more Missing Items) ...**
 
@@ -644,7 +640,7 @@ In the ***Course Level Only*** workflow, the top-level (“course-level”) attr
 
 The required fields for publishing a Course are indicated above. The others are desired fields. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Items” value on the Publish drop-down menu. If you choose to review the missing items, the Publish option will be available on the review screen.  You are required to review the items before publishing the Course or select Publish As Is.
 
-![Review Missing Items](Images/publishcourse2.jpg)
+![Review Missing Items](Images/publish_course2.jpg)
 
 In the ***Single Session Only*** workflow, a single session is checked to verify data. Session level attributes checked are:
 
@@ -658,17 +654,17 @@ The fields required to create a Session are indicated above. The others are desi
 
 ***To Publish a Session (with one or more Missing Items)***
 
-![Session With Missing Items](Images/publishsession1.jpg)
+![Session With Missing Items](Images/publish_session1.jpg)
 
 **Session Detail** appears.
 
-![Session Detail](Images/publishsession2.jpg)
+![Session Detail](Images/publish_session2.jpg)
 
 ***Review Missing Items***
 
 Upon clicking Option #2 (***Review 2 Missing Items*** - see above), the screen will display what data from among the desired fields is missing.
 
-![Review Missing Items](Images/publishsession3.jpg)
+![Review Missing Items](Images/publish_session3.jpg)
 
 In the ***Publish Full Course with All Sessions*** workflow, a display of the course level info and every associated session is made available. The course level info and each session function independently as above, allowing override individually. If an associated session was previously in published state, it will still be displayed in the list and allow for republishing following the rules above. Any changes to a previously published session will overwrite its previous status. A course may be in Not Published state, yet have sessions which are Published or Scheduled. The Published/Scheduled sessions will not display on the public calendar until the parent course is in published or Scheduled state. Not Published sessions never display on the public calendar.
 

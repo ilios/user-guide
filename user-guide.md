@@ -144,7 +144,7 @@ Once you are logged in, you will be presented with the “Dashboard” or landin
 
 The Dashboard is designed to provide quick access to common sets of information and simple task and activity tracking. Navigation is performed by using the Ilios Menu, which appears on the upper left part of the screen and can be accessed and expanded by clicking “Ilios Menu” as shown below.  It is a fly away menu that expands once it has been clicked and is available even if you have scrolled down the page.
 
-![After clicking Ilios Menu](/Images/dashboard.jpg)
+![After clicking Ilios Menu](/images/dashboard.jpg)
 
 Available menu items include:
 

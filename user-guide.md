@@ -73,7 +73,7 @@ ___
 
 The Ilios workflow is based on a curriculum structure which incorporates several interconnected levels (displayed below starting with the highest level -- program):
 
-![](Images/inter_connected.jpg)
+![Interconnected](images/inter_connected.jpg)
 
 - A deployment of Ilios may include multiple related schools or institutions.
 - Every school or institution creates and owns specific programs of study.

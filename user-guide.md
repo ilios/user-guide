@@ -1,15 +1,14 @@
-![](http://i.imgur.com/UOFF8Ej.jpg)
+![](images/ilios_banner.jpg)
 
-# The Ilios User Guide 
+# The Ilios User Guide
 ####v 3.0 Release
 
 # Contents
   - [General Information](#general-information)
-	  - [When working with Ilios ...](#when-working-with-Ilios)
+	  - [When working with Ilios...](#when-working-with-Ilios)
 	  - [Ilios Workflow](#ilios-workflow)
 	  - [Glossary](#glossary)
   - [Logging In](#logging-in)
-  - [Dependencies Title](#dependencies-title)
   - [Dashboard](#dashboard)
 	  - [Calendar View](#calendar-view)
 	  - [Multi-School Environment](#multi-school-environment)
@@ -21,7 +20,7 @@
 		  - [Maintain Existing](#maintain-existing-course)
 	  - [Sessions](#sessions)
 		  - [Add New](#add-new-session)
-  - [Calendar And Offerings](#calendar-and-offerings) 
+  - [Calendar And Offerings](#calendar-and-offerings)
   - [Course Summary](#course-summary)
   - [Group Management](#group-management)
 	  - [Instructors](#instructors)
@@ -41,9 +40,9 @@
 		  - [Filing](#filing)
 	  - [User Account and Role Management](#user-account-and-role-management)
   - [Curriculum Inventory Management](#curriculum-inventory-management)
-  - -[Calendar Embed for 3rd Party Applications](#calendar-embed-for-3rd-party-applications)
+  - [Calendar Embed for 3rd Party Applications](#calendar-embed-for-3rd-party-applications)
 
-## General Information 
+## General Information
 
 ####When working with Ilios…
 
@@ -51,7 +50,7 @@ One important thing to remember:
 
 **Ilios is a web application.**
 
-This application is web-based, meaning it must be accessed through web-browsing interfaces. While it may be used on any current web browser including Internet Explorer 10 and above, Ilios is optimized for use with Mozilla’s Firefox web browser 32 and above, as well as all webkit-based web browsers such as Google Chrome (ver. 30.x and above) Safari (for Mac), or Opera (ver. 10.x and above). 
+This application is web-based, meaning it must be accessed through web-browsing interfaces. While it may be used on any current web browser including Internet Explorer 10 and above, Ilios is optimized for use with Mozilla’s Firefox web browser 32 and above, as well as all webkit-based web browsers such as Google Chrome (ver. 30.x and above) Safari (for Mac), or Opera (ver. 10.x and above).
 
 ***Saving Work***
 
@@ -63,7 +62,7 @@ Ilios is designed to provide as much information as possible in a single display
 
 ***Optimal Viewing***
 
-Your primary view is that of an editor and content creator. In order to facilitate this complex view, the system currently works best on a high-resolution display monitor. Other views such as Learner views, and other non-content creation views, are usable at lower resolution, and can be viewed on smart phones and other handheld devices. 
+Your primary view is that of an editor and content creator. In order to facilitate this complex view, the system currently works best on a high-resolution display monitor. Other views such as Learner views, and other non-content creation views, are usable at lower resolution, and can be viewed on smart phones and other handheld devices.
 
 ***Course Calendar***
 
@@ -74,13 +73,13 @@ ___
 
 The Ilios workflow is based on a curriculum structure which incorporates several interconnected levels (displayed below starting with the highest level -- program):
 
-![](images/interconnected.JPG)
+![](Images/interconnected.jpg)
 
 - A deployment of Ilios may include multiple related schools or institutions.
-- Every school or institution creates and owns specific programs of study. 
+- Every school or institution creates and owns specific programs of study.
 	- Each program is divided into specific academic years.
-- Each course managed is associated with a specific program or programs, via those years. 
-- Each course is made up of a number of sessions, or units. 
+- Each course managed is associated with a specific program or programs, via those years.
+- Each course is made up of a number of sessions, or units.
 - Each session or unit is “offered” at a specific time and location, or given a specific due date. These “offerings” are expressed as items on the calendar display, which provides access to detail information for users of the system.
 - When working in Ilios, each of the levels maintains its state and changes do not cascade up or down.  This is so work can be done on each level independently and is a result of our wanting to provide as much information as possible on one screen.
 
@@ -98,7 +97,7 @@ The following list of terms are currently used to describe attributes and activi
 ***Curricular Object:*** A Program, Course, Session, or Offering.
 
 ***Designation:*** A subgroup within a larger Learner Group often referred to by a name (Blue group/team) or number (group 1, group 2b). These may be made up of both individual person objects and other subgroups.
- 
+
 ***Enrollment:*** The entry of a Learner into a specific Program or Course.
 
 ***Group:*** A collection of people (Learners or Instructors) which can be associated with Sessions.
@@ -113,12 +112,12 @@ The following list of terms are currently used to describe attributes and activi
 
 ***Learning Materials:*** Digital assets (such as files) and information (such as citations and web links) which may be associated with curricular objects.
 
-***Learning Objectives:*** Free-text entry fields of the desired learning outcomes for Programs, Courses, and Sessions. 
- 
+***Learning Objectives:*** Free-text entry fields of the desired learning outcomes for Programs, Courses, and Sessions.
+
 ***Level:*** Point in educational time / progress within a given program for an individual or cohort of individuals. This is represented as an attribute of Course.
 
 ***MeSH (Medical Subject Headings):*** A controlled vocabulary that may be associated with curriculum objects and learning materials.
- 
+
 ***Not Published:*** The default status of an object (Session, Course) which is not finalized and does not display in detail on the public calendars or to learners. Users with edit privileges may see, edit, and modify these objects. The other states available for objects are Published and Scheduled.  Draft status is no longer used in Ilios 3.0.
 
 ***Objective:*** The desired learning or teaching outcomes for a given curricular object. These may be general Program level Objectives (also referred to as graduation requirements), Course level learning Objectives, or Session level teaching Objectives.  Objectives may be associated with Competencies; however, only one higher level competency can be associated with each Learning Objective at the Session level.
@@ -137,7 +136,7 @@ The following list of terms are currently used to describe attributes and activi
 
 ##Logging In
 
-Ilios allows for either native or enterprise authentication. If your institution uses either shibboleth authentication or basic LDAP, Ilios provides configuration for this. If not, you may either modify the configuration of the authentication files to meet the needs of your system, or implement the native Ilios username/password authentication system. 
+Ilios allows for either native or enterprise authentication. If your institution uses either shibboleth authentication or basic LDAP, Ilios provides configuration for this. If not, you may either modify the configuration of the authentication files to meet the needs of your system, or implement the native Ilios username/password authentication system.
 
 ##Dashboard
 
@@ -145,10 +144,9 @@ Once you are logged in, you will be presented with the “Dashboard” or landin
 
 The Dashboard is designed to provide quick access to common sets of information and simple task and activity tracking. Navigation is performed by using the Ilios Menu, which appears on the upper left part of the screen and can be accessed and expanded by clicking “Ilios Menu” as shown below.  It is a fly away menu that expands once it has been clicked and is available even if you have scrolled down the page.
 
-![After clicking Menu](images/dashboard.jpg)
+![After clicking Ilios Menu](https://github.com/ilios/user-guide/blob/master/Images/Dashboard.jpg)
 
 Available menu items include:
-
 
 - **Dashboard:** This is the default Home page
 - **Courses and Sessions:** Displays a filterable list of all courses and sessions for the schools with which your name is associated in Ilios.
@@ -164,7 +162,7 @@ The center of the display is a view of the Ilios calendar, defaulting to a displ
 
 Clicking on any event in the calendar will bring up the detail viewing panel for that specific offering of the session. Clicking on any linked event listed in the sortable box below the calendar will jump the calendar display to the date of that event.
 
-***iCal Download:*** This functionality is available to users accessing Ilios directly. It provides a direct download of the user’s calendar in the current displayed mode (if viewing the student calendar, then that will be downloaded; if viewing the instructor role calendar, then that will be the download received.) The download is in .ics standard format, to allow easy import into Outlook, iCal, Google Calendar, and other standard calendar and scheduling systems. 
+***iCal Download:*** This functionality is available to users accessing Ilios directly. It provides a direct download of the user’s calendar in the current displayed mode (if viewing the student calendar, then that will be downloaded; if viewing the instructor role calendar, then that will be the download received.) The download is in .ics standard format, to allow easy import into Outlook, iCal, Google Calendar, and other standard calendar and scheduling systems.
 
 The time frame covered by the iCal Download calendar starts 90 days prior to the current day and extends 90 days into the future.
 
@@ -172,7 +170,7 @@ The time frame covered by the iCal Download calendar starts 90 days prior to the
 
 To connect a calendar application with Ilios, you will need a unique URL that you can copy and paste into the other calendar application. To get one, log into Ilios and click the calendar feed button to obtain a URL that looks something like `"https://your-ilios-server/ilios.php/calendar_exporter/api/..."`. Copy that URL into your calendar application of choice. For more information, please click [here](https://wiki.library.ucsf.edu/display/DevUCSF/Ilios+Calendar+Feed+API) for more information.
 
-**NOTE:** The URL generated for this is like a password. Anyone who knows it can view your calendar! Keep it safe. If you are ever concerned that someone knows your feed URL, you can change it by pressing the ‘Generate’ button under where the URL appears. If you generate a new URL, you will have to update any applications you configured with the previously used URL. The assignment of a secure URL with encrypted token for access to your calendar is similar to the methods in practice with other online calendars such as Google Calendar. 
+**NOTE:** The URL generated for this is like a password. Anyone who knows it can view your calendar! Keep it safe. If you are ever concerned that someone knows your feed URL, you can change it by pressing the ‘Generate’ button under where the URL appears. If you generate a new URL, you will have to update any applications you configured with the previously used URL. The assignment of a secure URL with encrypted token for access to your calendar is similar to the methods in practice with other online calendars such as Google Calendar.
 
 **Acessing Learning Materials via Calendar Feed:** The ability to access specific learning materials via the calendar feed uses a similar system. A unique and encrypted token or "pseudo-key" is created for each available item within your calendar feed, which allows you to directly access that file. This is a similar mechanism to that used by tools such as Google Drive, Dropbox, Box, and other cloud storage systems. The encrypted pseudo-key for a learning material or file may only be accessed via the secure calendar feed, which in turn may only be generated from within the secure access login of Ilios. Like any such token, and like the feed URL itself, this link to the learning materials is again like a password and should not be shared indiscriminately. The providing of file access to the calendar feed follows the same business rules as Ilios in general. But as with any materials provided to users, once downloaded or shared, it is up to the user to protect that material from misuse.
 
@@ -209,9 +207,9 @@ The option is available to provide visual change alerts for calendar events. If 
 
 ***Multi-School Environment***
 
-For institutions with multiple schools or unique curricula deployed within Ilios, it is possible to access the curriculum of another school by using the schools selection tool, which appears for users who have had multi-school permissions assigned to them. Any user in the system may be assigned access to one or more available schools in addition to their default home school. Assignment is managed in the Permissions Administration page. Please note that the overall role and permissions set for a user in their default home school will be carried over to any other school to which they have been provided access. This applies to both students and non-students. 
+For institutions with multiple schools or unique curricula deployed within Ilios, it is possible to access the curriculum of another school by using the schools selection tool, which appears for users who have had multi-school permissions assigned to them. Any user in the system may be assigned access to one or more available schools in addition to their default home school. Assignment is managed in the Permissions Administration page. Please note that the overall role and permissions set for a user in their default home school will be carried over to any other school to which they have been provided access. This applies to both students and non-students.
 
-##Managing Programs 
+##Managing Programs
 
 The Ilios Programs module allows for the creation and management of any number of unique programs of study for your institution. A program may be defined as a course of study which has 1 or more academic years of involvement, and in which learners matriculate and graduate as an identifiable group (a “cohort” of learners).
 An institution may have any number of programs.
@@ -221,7 +219,7 @@ This model allows for the greatest flexibility among institutions to manage prog
 To create a program, a user must have full edit privileges. Simply click on the “Add New” button, provide a Title for the Program to add. Clicking the Save button will save your work immediately as a new Program in a state of Not Published.  To publish and add details to the Program, select it from the list of Programs.
 
 Once a program is created, other attributes may be added to that program by creating individual Academic Years. The Academic Year is a container for all curricular material for that particular year of the program. All additional program attributes are unique to each academic year of that program; attributes given to a program’s academic year and saved will be automatically copied to the next academic year, so it is best to create a single academic year, add its attributes, and then add further years as needed.
-  
+
 **Program Attributes:**
 
 - ***Name:*** Up to 200 characters in length.
@@ -239,54 +237,54 @@ Once a program is created, other attributes may be added to that program by crea
 
 To search for a previously created Program, enter a part of the name of the program into the “Filter by Program title” field, then click on the adjacent search icon or hit the return button on your keyboard or merely keep typing until the results are found (v 3.0). A list of all matches will populate your search panel; highlighting and selecting the desired program will load it to your screen.
 
-##Courses And Sessions 
+##Courses And Sessions
 
 ####Courses
 
-![Courses Screen (Ilios 3.0)](images/courses.jpg)
+![Courses Screen (Ilios 3.0)](https://github.com/ilios-user-guide/tree/master/Images/courses.jpg)
 
-#####My Courses 
+#####My Courses
 
 By default, in Ilios 3.0, all courses for the selected school are displayed.  There is a toggle switch at the top left of the screen which will change into My Courses when clicked as shown below.
 
 ***Original appearance:***
 
-![All Courses](images/allcourses.jpg)
+![All Courses](Images/allcourses.jpg)
 
 ***After clicking / toggling:***
 
-![My Courses](images/mycourses.jpg)
+![My Courses](Images/mycourses.jpg)
 
 The screen is then refreshed to display only the courses with which the logged in user is associated. In this example, the logged-in user is not associated in any way with the Anesthesia 110 course so it is no longer displayed.
 
-![My Courses Listed](images/mycoursesscreen.jpg)
+![My Courses Listed](Images/mycoursesscreen.jpg)
 
 #####Add New Course
 
-Courses are unique to the academic year in which they are taught. To create a new course, click the ***Add New*** button, and provide a course name and select the appropriate year of instruction.  
+Courses are unique to the academic year in which they are taught. To create a new course, click the ***Add New*** button, and provide a course name and select the appropriate year of instruction.
 
-![Add New Course Title](images/newcoursetitle.jpg)
+![Add New Course Title](Images/newcoursetitle.jpg)
 
-After clicking ***Done*** in the example shown above, the remaining details of the new Course can now be added.  Click ***Back to Courses*** to return to the Course  list to complete these details at a later time.  The Course is initially saved with a state of ***Not Published*** since it has no Sessions or Offerings at this point.  
+After clicking ***Done*** in the example shown above, the remaining details of the new Course can now be added.  Click ***Back to Courses*** to return to the Course  list to complete these details at a later time.  The Course is initially saved with a state of ***Not Published*** since it has no Sessions or Offerings at this point.
 
-![New Course After Save](images/newcourseaftersave.jpg)
+![New Course After Save](Images/newcourseaftersave.jpg)
 
 After clicking ***Back to Courses***, the screen appears as follows with the New Course being appropriately titled ***Drugs And Side Effects 101***.  The Courses are sorted by default in alphabetical ascending order.
 
-![Return to Courses List](images/allcourseslist.jpg)
+![Return to Courses List](Images/allcourseslist.jpg)
 
 #####Maintain Existing Course
-To manage an existing course, enter part of the course’s title into the ***"Filter by course title”*** text field located above the ***“Add New”*** button.  The result will automatically return a course list which applies the critieria entered.  A list of all matches will populate your search panel; highlighting and selecting the desired program will load it to your screen. 
+To manage an existing course, enter part of the course’s title into the ***"Filter by course title”*** text field located above the ***“Add New”*** button.  The result will automatically return a course list which applies the critieria entered.  A list of all matches will populate your search panel; highlighting and selecting the desired program will load it to your screen.
 
 ***Courses Pre-filter***
 
-![Courses Pre-filter](images/coursesprefilter.jpg)
+![Courses Pre-filter](Images/coursesprefilter.jpg)
 
-***Courses Post-Filter*** 
+***Courses Post-Filter***
 
 In this second screen shot, a search string of “chro” has been entered and as a result, only one course gets returned.
 
-![After Filter Applied](images/coursespostfilter.jpg)
+![After Filter Applied](Images/coursespostfilter.jpg)
 
 For courses which are given more than once in an academic year, the course name or Course ID should identify this: for example Intersession 1 (2011-12), Intersession 2 (2011-12), Intersession 3 (2011-12), IDS 33A, IDS 33B, etc. Creating multiple instances of a course within an academic year is handled using the Course Rollover feature. For courses that are given more than once in an academic year, the listings are in chronological order according to start date.
 
@@ -294,11 +292,11 @@ In order to populate courses with learner groups, the course must first be assoc
 
 ***Selection Screen (Program Cohort)***
 
-![Select The Cohort](images/cohortselection.jpg)
+![Select The Cohort](Images/cohortselection.jpg)
 
 ***Courses and Sessions (after Cohort Selected***)
 
-![](images/cohortpostselect.jpg)
+![](Images/cohortpostselect.jpg)
 
 ***Course attributes:***
 
@@ -322,25 +320,25 @@ In order to populate courses with learner groups, the course must first be assoc
 The screen shot below shows the Courses and Sessions screen with the list of associated Sessions for a course.  These sessions do not have associated offerings or else First Offering would be populated with the date of the first session offering.
 
 ***Session List***
-![List Of Sessions](images/sessionlist.jpg)
+![List Of Sessions](Images/sessionlist.jpg)
 
 ***Session Detail***
 
 The session detail screen is very lengthy so in this situation, the top part is shown in the screen shot below.
 
-![Session Detail](images/sessiondetailtop.jpg)
+![Session Detail](Images/sessiondetailtop.jpg)
 
 Once a course has been saved, Sessions may be added to the course. A Session is a discrete instructional unit of curricular material or activity within a course. To add a new session, click “Add New”. This will create an empty Session, ready to be populated  with the Session's attributes.  Follow the steps shown below.
 
 **Add New Session**
 
-![New Session](images/newsessionadd.jpg)
+![New Session](Images/newsessionadd.jpg)
 
-Once a session is saved by clicking the Done button shown above, offerings for that session can be added. Offerings may be created individually on the calendar and populated with group, instructor and location information using the calendar tools. Offerings also may be generated using specific learner groups as the seeding mechanism, by selecting the “Open Offering Small Group Generator” link. This link allows you to select one or more eligible learner groups, a time slot on the calendar, and automatically generated offerings via one of two strategies: 
+Once a session is saved by clicking the Done button shown above, offerings for that session can be added. Offerings may be created individually on the calendar and populated with group, instructor and location information using the calendar tools. Offerings also may be generated using specific learner groups as the seeding mechanism, by selecting the “Open Offering Small Group Generator” link. This link allows you to select one or more eligible learner groups, a time slot on the calendar, and automatically generated offerings via one of two strategies:
 
-1) a single offering in that time slot for each selected group, regardless of the number of subgroups or divisions in the selected group (“add an offering per parent group”); or 
+1) a single offering in that time slot for each selected group, regardless of the number of subgroups or divisions in the selected group (“add an offering per parent group”); or
 
-2) an offering for each subgroup within a selected group (“add an offering per subgroup”). For example, using the first strategy, selecting the student group “anatomy labs” which has 38 subgroups would create a single offering for all the learners in the group anatomy labs and its subgroups --- in other words, all the small groups would be lumped together for a single event Offering date and time. 
+2) an offering for each subgroup within a selected group (“add an offering per subgroup”). For example, using the first strategy, selecting the student group “anatomy labs” which has 38 subgroups would create a single offering for all the learners in the group anatomy labs and its subgroups --- in other words, all the small groups would be lumped together for a single event Offering date and time.
 
 Using the second strategy, selecting the group “anatomy labs” would create 38 unique offerings, and associate each of the subgroups and its learners with one of those offerings. The default selection is strategy #2. The Default Instructors and locations for each group will be displayed as the Instructors and Locations for the offerings created; these may be edited via the calendar any time after creation.
 
@@ -350,13 +348,13 @@ Sessions may also be saved as independent learning units, providing an estimated
 
 **Session attributes (all session types):**
 
-- Groups: (Currently displays only in aggregate at the course level.) Display only. Shows a list by name of the Learner Groups currently associated with the Session. 
-- Session Type: Selected from a predefined list of instructional and assessment methods, loaded into the system at implementation. 
+- Groups: (Currently displays only in aggregate at the course level.) Display only. Shows a list by name of the Learner Groups currently associated with the Session.
+- Session Type: Selected from a predefined list of instructional and assessment methods, loaded into the system at implementation.
 - Description: Free-text entry allowing for detailed information, instruction, and description of the Session curriculum and activities.
 - Core/Supplemental: Allows for the flagging of elective vs. required curriculum units.
 - Special Attire Required: flags the content as noted. Special instructions or details should be entered in the Session Description field.
 - Special Equipment Required: flags the content as noted. Special instructions or details should be entered in the Session Description field.
-- Topics: Selected from a school-specific, pre-defined list. 
+- Topics: Selected from a school-specific, pre-defined list.
 - MeSH Terms: Selected by searching the MeSH database.
 - Learning Materials: Session-level learning materials are available only to the specific Session to which they belong.
 - Objectives: Free-text entry field. Each Objective entered at the Session level may be associated with any number of the parent course’s Course-level Objectives. Session Objectives may also be assigned their own MeSH terms.
@@ -364,28 +362,28 @@ Sessions may also be saved as independent learning units, providing an estimated
 **Independent Learning Session Attributes (additional for ILM):**
 
 - Expected instructional hours: Numeric entry of the total time in hours allotted for the activities associated with the session.
-- Due Date: Date by which time the activities are expected to be completed. Default is the final day of the course. 
+- Due Date: Date by which time the activities are expected to be completed. Default is the final day of the course.
 - Assigned Learner Groups: Since there are no calendared offerings for ILM, groups are associated directly to the session.
 - Assigned Instructors: Since there are no calendared offerings for ILM, the responsible instructors of record are associated directly to the session.
- 
+
 ## Calendar and Offerings
 
-The scheduling and review of offerings occurs using the Offerings section of the Session Details screen. 
+The scheduling and review of offerings occurs using the Offerings section of the Session Details screen.
 
 The scheduling of offerings for a session may happen in two different ways. Multiple offerings may be generated for the same scheduled time on the calendar, but for different unique learner groups. This is facilitated with the “Create a Set of Offerings by Group” link. Individual offerings may be created by clicking "Add New" from the "Add" menu. For both these options, the session must be saved with a valid name prior to the scheduling of offerings.
 
 Selecting the link to create multiple offerings will bring up the tool to select the desired learner groups, a time and date for the offerings, and the option of making the offerings recurrent. For each group selected, an offering will be generated for display on the calendar. The default instructors and locations for each learner group will be displayed for their offering; these may be modified afterward from the calendar interface.
 
-For single offerings, the link provided will make the necessary fields active and visible.  
+For single offerings, the link provided will make the necessary fields active and visible.
 
 The Ilios Calendar Display provides a typical web calendar interface for viewing. The calendar will display a Week, Month, Day and Agenda view, selected from the tabs at the top right of the display. Each event on the calendar shows a header that displays the event start–end times, and the blocks are color-coded to distinguish different session types. The Agenda view or list of events provides a static list of events for the selected week. The Session Name, associated Learner Groups, and scheduled location are all shown in plain text in the calendar blocks. For events with multiple occurrences at the same time, but for different groups/locations, the block will display the word “multiple” in the week/month views. Detail data will display in the day view.
- 
+
 For ease of use, an inspection panel showing the details for the session being managed will display on the right side of the screen whenever a specific calendar offering for that session has been selected (clicked on). A sortable spreadsheet-format table of the offerings associated with the current session is displayed beneath the calendar. Clicking on the links in this table will take you to the display dates of the linked offering.
 
 **Calendar View Filters**
 
 There are filters that can be applied to the calendar view; they are located above the calendar itself. The filters currently available are:
- 
+
 - Show All Offerings for the Entire Course / Show Offerings for Current Session Only;
 - Show Busy Times for All Learner Groups Associated with this Session;
 - Show Busy Times for All Instructors Associated with this Session.
@@ -396,7 +394,7 @@ Only offerings for the session currently being worked are editable in the calend
 
 **Offering attributes:**
 
-- Instructors - Selected from the list of available instructors in the system. 
+- Instructors - Selected from the list of available instructors in the system.
 - Learner Groups - Selected from list of eligible associated groups attached to the course.
 - Location - text entry.
 - Date - Calendar selection.
@@ -406,9 +404,9 @@ Only offerings for the session currently being worked are editable in the calend
 
 **Course Summary**
 
-The Course Summary provides a complete view of a given course: all detail for all sessions. It is available via the “Print Summary” link in the details panel for any course displayed in Courses and Sessions. The course summary loads a view of the entire course in a web page. 
+The Course Summary provides a complete view of a given course: all detail for all sessions. It is available via the “Print Summary” link in the details panel for any course displayed in Courses and Sessions. The course summary loads a view of the entire course in a web page.
 
-![Print Summary Button](images/printsummary.jpg)
+![Print Summary Button](Images/printsummary.jpg)
 
 ##Group Management
 
@@ -416,13 +414,11 @@ The Course Summary provides a complete view of a given course: all detail for al
 
 To manage Instructor Groups in Ilios, from  Ilios Menu, select ***Instructor Groups***.
 
-![Manage Instructor Groups](images/instructorgroups.jpg)
- 
+![Manage Instructor Groups](Images/instructorgroups.jpg)
+
 The Instructor Groups module in Ilios allows for the creation of reusable and trackable sets of instructors that can be associated to course/session activity. The groups are populated from the existing directory of instructors, and can be modified and added to as needed. An instructor may be associated with any number of instructor groups, or none at all. Instructors and instructor groups are associated with course content at the offering level for each session (session offerings).
- 
 
 Instructors who are not already in the directory provided should typically be added via the administrative user tools (See p.?). However, they may be added manually here, either individually or via csv-formatted spreadsheet using the “add new members” link in any existing group.
-
 
 ***Please note:*** Instructor select lists in Ilios will provide up to 500 unique listings for review, as well as an auto-complete filter search at the top of the list panel. For names which are beyond the 500 item limit, while they will not display on initial load, they have been added to the database and may be found and accessed using the auto-complete search.
 
@@ -431,12 +427,12 @@ Instructors who are not already in the directory provided should typically be ad
 
 To manage Learner Groups in Ilios, from Ilios menu, select ***Learner Groups.***
 
-![Manage Learner Groups](images/learnergroups.jpg)
+![Manage Learner Groups](Images/learnergroups.jpg)
 
 Group Management is a method of tagging, grouping and managing the learners who are attached to curricular activity in Ilios. This module allows for the association of sets of learners to specific content, and the makes possible reporting on those associations. The demographic details of individual learners are not tracked within Ilios.
 
 The groups in Ilios are persistent data containers, which exist outside the context of a course or session. Each Group belongs to a specific program cohort; the members of that cohort may be added or removed from any of its groups. A Cohort is created each time a new Program Year is added to a Program; essentially, this means that for any year in which a Program is active and a Program Year has been added in Ilios, there is automatically created a Learner Cohort for “The Class of 20XX”. A group may be attached any number of times to any number of sessions in any number of courses. Groups may also be subdivided into any number of smaller groups. Groups are associated to courses and sessions via calendared offerings of sessions and independent learning units; the groups of any learner cohort will be available for association to a session once that cohort is attached to the course in question.
- 
+
 For learners to be associated with curricular material in Ilios, they must be associated with a learner group.
 
 ***Learner Groups are Hierarchical***
@@ -444,13 +440,13 @@ For learners to be associated with curricular material in Ilios, they must be as
 A key to the Group Management system is to understand the hierarchical nature of the groups, and the way it relates to Programs of study.
 
 For each entering class of learners, a unique container is created in the system. This is the learner (All Class) “Cohort”. It is populated via the user management console with data from the campus systems to identify individual learners. Typically, learners should not be added manually to the Ilios system; all registered students should be available from the feed provided in the administrative tools. However, if learners need to be manually entered into Ilios, the process is similar to that for Instructor Groups. Learners who are not already listed as part of a cohort in the directory provided may be added manually, either individually or via csv-formatted spreadsheet using the “Add New Members to Cohort” link. Students by default are assigned into a primary cohort for tracking, but may (as may any Ilios user) be assigned into any number of “Secondary Cohorts”, to allow for multi-year and program assignment, transfer from one cohort to another, and other various needs. Initial primary and secondary assignment is handled via the administrative User Management console.
- 
+
 From a particular cohort, any number of “top level” groups can be created. Each top level group may be created either with the entire population of the cohort, or as an empty group which may be manually populated. You may create any number of top level groups. Individual members of any group may be removed (“unassigned”) at any time. In this way, top level groups may be modified to contain specific subsets of the total cohort population, and lower level sub-groups may be managed as necessary. Each student in a Class cohort may belong to multiple top level groups.
 
 Once a top level group is created, it may be partitioned into any number of smaller groups (sub-groups or designations), which will then be seen as members of the top level group. Those smaller groups may also be divided into smaller partitions. A group may have as members both individuals and groups --- all remain members of the same “top level” group.
 
 A learner may only appear once within the tree of a single top level group.
- 
+
 Note that when selecting learners for addition to a group, disabled user names are displayed in grey, to allow for historical tracking and management. They still may be added or removed from groups, but the users will not have access unless their accounts are re-enabled.
 
 Only one group may be edited at a time. To open a different group for editing, either a parallel group in the same level of the hierarchy, or a group in a higher level of the hierarchy, click on the “open this group” link; this will close the group currently available for edit, and open the selected group for editing and management.
@@ -479,8 +475,8 @@ Once Learning Materials are loaded to the system, their associated metadata attr
 In order to save a learning material in connection with a session or course, that session or course must first be saved to the database. Attempting to load learning materials to an unsaved session will generate an error alert.
 
 **The current default size limit for learning material upload in Ilios is 100 MB.**
- 
-For lectures and other similar media, where the likely method of delivery is streaming/viewing from the server, rather than downloading, materials should be stored elsewhere, and the links to them should be the resources saved in Ilios. 
+
+For lectures and other similar media, where the likely method of delivery is streaming/viewing from the server, rather than downloading, materials should be stored elsewhere, and the links to them should be the resources saved in Ilios.
 
 **Learning Materials Attributes:**
 
@@ -508,22 +504,22 @@ ________________
 
 **1. Select the Course**
 
-![Add MeSH to Course Objective Part 1](images/addMeSH1.jpg)
+![Add MeSH to Course Objective Part 1](Images/addMeSH1.jpg)
 ________________
 
 **2. Expand to see the Course Details**
 
-![Expand the Course Details](images/addMeSH2.jpg)
+![Expand the Course Details](Images/addMeSH2.jpg)
 ________________
 
 **3. Select the Objective**
 
-![Select the Objective](images/addMeSH3.jpg)
+![Select the Objective](Images/addMeSH3.jpg)
 ________________
 
 **4. Select the MeSH Term**
 
-![Select the MeSH Term](images/addMeSH4.jpg)
+![Select the MeSH Term](Images/addMeSH4.jpg)
 ________________
 
 MeSH terms may be associated with Courses, Sessions, Learning Materials, and Learning Objectives (at any level - Program, Course, or Session).
@@ -532,7 +528,7 @@ To select a MeSH term from the thesaurus, type in the word or phrase you wish to
 
 The current version of Ilios has the 2014 MeSH thesaurus loaded. Administrative tools are available to update the MeSH thesaurus in Ilios when desired via the Ilios MeSH parser (https://github.com/ilios/mesh-parser).
 
-To learn more about MeSH, visit the [MeSH](http://www.nlm.nih.gov/mesh/) website. 
+To learn more about MeSH, visit the [MeSH](http://www.nlm.nih.gov/mesh/) website.
 
 ##Competencies and Objectives
 
@@ -540,7 +536,7 @@ Ilios has a robust ability to track and manage educational competency domains as
 
 To learn more about the framework of the Ilios competency hierarchy, please click [here](http://slidesha.re/wUI5no).
 
-The competency structure for Ilios follows current usage for the UCSF School of Medicine, and conforms to the MedBiquitous specifications for Health Education Competency Frameworks. 
+The competency structure for Ilios follows current usage for the UCSF School of Medicine, and conforms to the MedBiquitous specifications for Health Education Competency Frameworks.
 
 To learn more about these specifications, visit the [MedBiquitous](http://www.medbiq.org/working_groups/competencies/) website.
 
@@ -552,7 +548,7 @@ The hierarchy in Ilios contains 5 levels available for competency-objective asso
 - Course Objective
 - Session Objective
 
-Competency domains and their sub-domains are pre-loaded into the Ilios system. They are selected at the Program level, and are selected discretely for each Program Year. The domains selected create the pool of eligible parent domains for all courses associated to that given program. 
+Competency domains and their sub-domains are pre-loaded into the Ilios system. They are selected at the Program level, and are selected discretely for each Program Year. The domains selected create the pool of eligible parent domains for all courses associated to that given program.
 
 Program Objectives (graduation requirements) are created at the Program Year; each Program Objective may be associated with a specific Competency domain.
 
@@ -563,23 +559,10 @@ _______________________
 
 **1. Add New Objective**
 
-![Add New](images/addObj1.jpg)
+![Add New](Images/addObj1.jpg)
 _______________________
 
 **2. Enter Details**
-
-![Enter Details](images/addObj2.jpg)
-_______________________
-
-**3. View the New Objective**
-
-![See the Added Objective](images/addObj3.jpg)
-_______________________
-
-The Parent Program Objective or Competency (only 1 allowed per Course Objective) can now be added by using the Add New button under Parent Objectives.  A long list will appear on the page allowing for one item to be selected as shown (partial screen shot below).  After clicking Add New ...
-
-![Add Parent Objective](images\addParentObj.jpg)
-_______________________
 
 Course Objectives are created at the top level of each course, and may be associated with any of the available Program Objectives from the Program(s) associated to that course.
 
@@ -587,7 +570,7 @@ Currently, Course Objectives may only be associated with a single Program Object
 
 When used, the competency and Objective tracking system allows for a complete structured tree to be traced back from any specific unit of instruction to include (session)-specific learning Objectives, general course Objectives, the program Objectives toward which they are best directed, and the overarching domains of competency in which all these fall.
 
-While all course level Objective information is directly associated with the course, in order to create a direct relationship between a course and a set of associated Competencies (and to have those competencies appear in the course information displayed to Ilios users), you must select a parent association from the available competency domains for one or more of your course Objectives. 
+While all course level Objective information is directly associated with the course, in order to create a direct relationship between a course and a set of associated Competencies (and to have those competencies appear in the course information displayed to Ilios users), you must select a parent association from the available competency domains for one or more of your course Objectives.
 
 ##Alerts
 
@@ -602,16 +585,16 @@ If there is a change to curricular materials after their publication to the cale
 - Modification of Course Directors
 
 Any number of email addresses for each school may be entered into the file for the receipt of change notices. If a school does not wish to send alerts for changes, the configuration may be turned off for that school by leaving the recipient email blank in the configuration file.
- 
+
 Please note: the title header of the email is auto-generated from the date of the change and the external ID for the course in question. It is therefore extremely important if you are using this feature to make certain that the external course ID is entered for all courses in your school. The development of an effective work practice around the assignment of, and consistent entry of the external course ID will be a tremendous aid to effective use of the alerts system.
 
-For instructors and students, a visual alert icon on the calendar will appear when an item on the above list for a scheduled and published session has changed. The icon will remain visible for a set number of days (the number of days may be set in the configurations file, and the default is 7). 
+For instructors and students, a visual alert icon on the calendar will appear when an item on the above list for a scheduled and published session has changed. The icon will remain visible for a set number of days (the number of days may be set in the configurations file, and the default is 7).
 
 ####Custom Reminder Alerts
 
 Ilios allows for the insertion of custom email templates on a per-school basis for the 7-day teaching reminders. The generic, global template (located in `/application/system/alert_templates` ) is still used by any school which has not provided a custom template.
 
-Custom templates should be placed in the `/application/system/alert_templates/custom/` directory on the Ilios server, and must have the school prefix prepended to the file name, followed by an underscore. The school prefix is found in the SCHOOL table, as the attribute school.template_prefix (VARCHAR 8), for example: 
+Custom templates should be placed in the `/application/system/alert_templates/custom/` directory on the Ilios server, and must have the school prefix prepended to the file name, followed by an underscore. The school prefix is found in the SCHOOL table, as the attribute school.template_prefix (VARCHAR 8), for example:
 
 
 **Standard global template filename:** `system/alert_templates/upcoming_teaching_session_template.txt`
@@ -644,7 +627,7 @@ Ilios has a built in publishing workflow for curricular material. The publishing
 
 In the example below, all of the required fields have been entered and the Sessions have been entered and are ready to be published as well.
 
-![Publish Course](images\publishcourse1.jpg)
+![Publish Course](Images/publishcourse1.jpg)
 
 **To Publish a Course (with one or more Missing Items) ...**
 
@@ -655,13 +638,13 @@ In the ***Course Level Only*** workflow, the top-level (“course-level”) attr
 - Start Date (required)
 - End Date (required)
 - Associated Cohort (required)
-- Topics 
+- Topics
 - Objectives
-- Mesh 
+- Mesh
 
 The required fields for publishing a Course are indicated above. The others are desired fields. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Items” value on the Publish drop-down menu. If you choose to review the missing items, the Publish option will be available on the review screen.  You are required to review the items before publishing the Course or select Publish As Is.
 
-![Review Missing Items](images\publishcourse2.jpg)
+![Review Missing Items](Images/publishcourse2.jpg)
 
 In the ***Single Session Only*** workflow, a single session is checked to verify data. Session level attributes checked are:
 
@@ -675,17 +658,17 @@ The fields required to create a Session are indicated above. The others are desi
 
 ***To Publish a Session (with one or more Missing Items)***
 
-![Session With Missing Items](images\publishsession1.jpg)
+![Session With Missing Items](Images/publishsession1.jpg)
 
 **Session Detail** appears.
 
-![Session Detail](images\publishsession2.jpg)
+![Session Detail](Images/publishsession2.jpg)
 
 ***Review Missing Items***
 
 Upon clicking Option #2 (***Review 2 Missing Items*** - see above), the screen will display what data from among the desired fields is missing.
 
-![Review Missing Items](images\publishsession3.jpg)
+![Review Missing Items](Images/publishsession3.jpg)
 
 In the ***Publish Full Course with All Sessions*** workflow, a display of the course level info and every associated session is made available. The course level info and each session function independently as above, allowing override individually. If an associated session was previously in published state, it will still be displayed in the list and allow for republishing following the rules above. Any changes to a previously published session will overwrite its previous status. A course may be in Not Published state, yet have sessions which are Published or Scheduled. The Published/Scheduled sessions will not display on the public calendar until the parent course is in published or Scheduled state. Not Published sessions never display on the public calendar.
 
@@ -694,13 +677,13 @@ When a course is in Scheduled state and has sessions in Published and/or Schedul
 ##Administration
 ###Course Cloning & Rollover
 Ilios provides administrative users with the ability to clone, or “roll over” any published course for which they have edit permissions. Course rollover takes a complete course and replicates it for a new time period any time after the final date of the original course.
- 
+
 In order to rollover a course, the user chooses a target academic year for the new course (the default is the academic year following that of the original course), and a new start date. The target year may be any available academic year, including the current year. In order to maintain integrity of recurring and regular activities, a course start date must be the same day-of-week in the new course as it was in the parent. This can always be modified, along with any other information in the course, after the rollover is complete. The weekday on which the parent course begins is noted in the upper right corner of the rollover panel.
 
 A user also has the option of replicating all the scheduled offerings from the original course, and placing them on the calendar for the new course. This is the default option; you may also choose to create the new course without scheduled offerings, retaining only the course and session curricular data.
 
 At this point, the user is presented with the opportunity to review the new course prior to generation. A summary of course level information is provided in the modal panel. Please note that if a course is rolled over into a new academic year (one other than that of the original course), programs, their associated competencies, and cohort relationships will not be maintained. Learner group relationships are never rolled over with course information from one academic year to another.
- 
+
 For courses cloned into the same academic year as the original course, programs, their associated competencies, and cohort relationships will be maintained and presented in the summary for review. A numeric count of total sessions is also displayed for reference.
 
 Once generated, a new course is immediately available for management (in draft mode) and re-association to appropriate cohorts, competencies, and all scheduling needs.
@@ -713,19 +696,19 @@ Ilios provides the ability for two-level archiving of material: locking of cours
 
 ***Locking***
 
-Locking a course or Program Year sets all information within that course or program year to read-only. The material is still available for view and review within the system, but may no longer be modified by users. 
+Locking a course or Program Year sets all information within that course or program year to read-only. The material is still available for view and review within the system, but may no longer be modified by users.
 
 ***Filing***
 
 A Course or Program Year may also be filed once it is locked; filing removes the material from the system interface and lists. It does not remove it from reporting activities or search audits, but only from the visible interface of the Ilios application UI.
 
-###User Account and Role Management 
- 
+###User Account and Role Management
+
 Currently, there are two tools available in the Management Console: ***User Account Management***, and ***Permissions***. The default page is User Account Management, which provides alerts on accounts requiring administrative attention, as well as the default user search link.
 
 ***A Note on User Roles***
 
-Ilios provides for four distinct user roles which determine mode of access for a given user, in two broad categories of NON-STUDENTS (those who are not registered as students with the campus registrar) and STUDENTS (those who are). Any user may be assigned any combination of the roles. 
+Ilios provides for four distinct user roles which determine mode of access for a given user, in two broad categories of NON-STUDENTS (those who are not registered as students with the campus registrar) and STUDENTS (those who are). Any user may be assigned any combination of the roles.
 
 **Non-Students**
 
@@ -749,14 +732,14 @@ The ***User Account Management*** console feature allows for:
 - The management of existing accounts and their role assignments
 - The creation of new non-student accounts
 
-Ilios provides a basic LDAP interface to provide for the ingest and update of users into the system. This can be extended and customized as necessary by your institution. If used, this provides the data of record for all user accounts. For more information, please see the installation notes as well as the Ilios GitHub wiki. Users are defined in two broad groups: student records and non-student records. 
+Ilios provides a basic LDAP interface to provide for the ingest and update of users into the system. This can be extended and customized as necessary by your institution. If used, this provides the data of record for all user accounts. For more information, please see the installation notes as well as the Ilios GitHub wiki. Users are defined in two broad groups: student records and non-student records.
 
 Student records are those which are identified in the ingested records as currently enrolled individuals, whether active or not. These records are automatically loaded into Ilios if they are not already present. However, since many external directory systems do not always provide consistent program registration information which conforms to the needs of Ilios, once a student record is ingested it must be manually assigned to its correct program cohort.
 
 This assignment is managed from the alert panel shown. Student records may be assigned individually or in bulk; there is no time constraint on assigning them, but until they are assigned and cleared from the alert panel, the students in question will not have access to their information in Ilios, and will not be tracked as part of the educational hours and activities within the curriculum.
 
 Non-student records are those which are valid active records, (i.e. have a valid ID and email), but are not currently noted as enrolled. These records are not automatically ingested, but are reconciled against accounts which have been entered into Ilios already.
- 
+
 When there is a conflict between an Ilios account record and its parent record in the campus directory, this will appear on the Management Console. Each record may either be updated --- replacing the conflicting information with the data found in the external directory --- disabled, or ignored until the next ingest cycle. Any record that is found to be in conflict will remain in the alert panel until action is taken.
 
 To manage existing accounts and their roles, go to the ***Management Console*** and open the ***Manage User Accounts*** link. An alert icon will display on the dashboard when there are accounts awaiting attention.  Accounts requiring reconciliation will appear in the top alert panel on the Management console landing page, and students requiring cohort assignment in the bottom alert panel. If there are no items requiring attention, the default page will show the user search panel.
@@ -773,7 +756,7 @@ Selecting to ***Disable*** the account will freeze the account until further act
 
 For institutions running scheduled updates from an LDAP source, when new student records are found, they are immediately ingested into Ilios. The records must be assigned to their program cohorts manually.
 
-A user will only see those student records for their own primary school affiliation in this list; records for other schools will be ingested, but are only currently manageable by admin users for that specific school. Only student records which have not been entered into Ilios and are unassigned to a specific cohort will appear on this list; if students have been manually entered via the Learner Groups page, the external record will be matched with it. 
+A user will only see those student records for their own primary school affiliation in this list; records for other schools will be ingested, but are only currently manageable by admin users for that specific school. Only student records which have not been entered into Ilios and are unassigned to a specific cohort will appear on this list; if students have been manually entered via the Learner Groups page, the external record will be matched with it.
 
 This assigns students to a “primary” cohort, which will be their parent cohort in the system. Both students and non-students may be assigned into any number of “secondary” cohorts.
 
@@ -819,7 +802,7 @@ If synchronizing with an external directory, user accounts will be checked again
 
 Both students and non-students may be assigned into any number of “secondary” cohorts. Students may be assigned to secondary cohorts whether or not they have been assigned to a primary cohort. Secondary cohorts may be selected from any active program in any active school. Once assigned to a secondary cohort, a user may be managed in that cohort’s groups as would any learner.
 
-To assign a user a secondary cohort, click the “edit” button beneath the user cohort information listing on their account information page. Select any available program cohort from the list provided in the picker, and save. The assignment will now be shown on the user’s page. 
+To assign a user a secondary cohort, click the “edit” button beneath the user cohort information listing on their account information page. Select any available program cohort from the list provided in the picker, and save. The assignment will now be shown on the user’s page.
 
 ###Access Control and Permissions
 
@@ -829,7 +812,7 @@ By default, any existing non-student user will automatically have edit privilege
 
 Clicking on the ***Manage Permissions*** link will bring up a select box of all Ilios users, regardless of school association. You may select one or more users for permissions management.
 
-Selecting one user will return a display of that user’s current access permissions to Schools, Programs and Courses. 
+Selecting one user will return a display of that user’s current access permissions to Schools, Programs and Courses.
 
 **Current Schools:** This provides access to the curricula for multiple schools in an institutional deployment of Ilios. Roles and access levels are carried over from school to school for any given user.
 
@@ -840,14 +823,14 @@ Selecting one user will return a display of that user’s current access permiss
 Selecting the appropriate link will allow for the addition/removal of items from their access list. Assignment is immediate upon display of the course or program in the access lists. You may only modify one category of permissions at a time. To modify additional permissions, save your selection(s) and return to the permissions selection screen.
 
 Only Programs and Courses for the current School being accessed by the admin user will be available for assignment.
- 
+
 Selecting more than one user will allow for the bulk assignment of permissions. When setting permissions for multiple users, please note:
- 
+
 - Only access permission may be granted. In order to remove access permission, you must access an individual user.
 - If any permissions exist for any of the selected users in association with the selected Course or Program, they will be overwritten by the new assignment.
 
 Assignment is immediate upon display of the course or program in the access lists.
- 
+
 Clicking the **“Finish”** button returns the user to the main **Management Console** Menu display.
 
 ##Curriculum Inventory Manager
@@ -865,9 +848,9 @@ Reports may be created, edited and/or deleted up until they are “finalized”.
 Only one report for each year of each program may be in place at any time; this includes finalized reports.
 
 The export created by the report is compliant with the Medbiquitous standards and the AAMC inventory business rules. Once generated it may be delivered directly to the AAMC for input into the CI and MedAPS system.
- 
+
 When building the report, each “block” of the curriculum, regardless of whether it is a track, a set of courses, or a single course, is created as a “sequence block”. Sequence blocks may be nested at any level, so you can put blocks within blocks (within blocks), and so on, as shown below.
- 
+
 Any number of levels may be nested; it is important to note that the highest level block must be created first, as this iteration does not allow for the moving or shifting of blocks from one container to another or one level to another.
 
 It is strongly recommended that the structure of your report is well defined prior to creating it in Ilios; this will facilitate the process of modeling your high level tracks, blocks, and nested sequences.
@@ -879,7 +862,7 @@ Note that in the current iteration, it is necessary to create the highest level 
 When you create a course-based sequence block in your report, the block will list every session given for that course, and the total instructional time for each. Along with each session listing, a checkbox is available; checking this checkbox (which is by default in the “unchecked” state) marks the session as a single event, regardless of the number of times it is offered. In other words, for small groups sessions, small lab sessions, and similar, all the group time or labs will be counted only as one event when checked. If a one-hour lab is given for 24 groups, then when checked it will be listed as a one-hour event.
 
 Unchecking the box (or leaving it by default in the unchecked state) will allow the system to add the sum of all offerings for a session; so in the above example, a one-hour lab given for 24 groups would be counted as 24 instructional hours.
- 
+
 You may modify this setting for each session at any time until finalization of your report.
 
 **NOTE:** If a session contains multiple offerings of different time lengths, then when the checkbox is checked Ilios will identify the longest available offering for that session and use that as the basis for its calculation; so if there are three offerings for a lab, with durations of 1 hour, 1.25 hours, and 1.75 hours respectively, with the checkbox checked the report will list the session as 1.75 hours of instructional time. Unchecked it will list it as 4 hours of instructional time.
@@ -891,13 +874,4 @@ Once a report is created in draft form, it becomes available in the “select re
 In many cases, it will be desirable to have access to Ilios calendar and learning material information within an external system, such as an LMS. To facilitate this, we provide a controller which may be called from an external authenticated source location, and will present a calendar view within an iframe in that environment.
 
 The Ilios code is contained in the `Calendar_Controller.php` file, and we have also released a moodle code block to allow for this feature to be used at institutions using moodle 1.9.x. thru moodle 2.4.
-
-
-
-
-
-
-
-
-
 

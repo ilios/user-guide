@@ -5,7 +5,7 @@
 
 # Contents
   - [General Information](#general-information)
-	  - [When working with Ilios...](#when-working-with-Ilios)
+	  - [When working with Ilios...](#when-working-with-Ilios...)
 	  - [Ilios Workflow](#ilios-workflow)
 	  - [Glossary](#glossary)
   - [Logging In](#logging-in)

@@ -1,17 +1,17 @@
 ![](images/ilios_banner.jpg)
 
 # The Ilios User Guide
-####v 3.0 Release
+#### v 3.0 Release
 
 # Contents
   - [General Information](#general-information)
-	  - [When working with Ilios...](#when-working-with-Ilios...)
+	  - [Working with Ilios](#working-with-Ilios)
 	  - [Ilios Workflow](#ilios-workflow)
 	  - [Glossary](#glossary)
   - [Logging In](#logging-in)
   - [Dashboard](#dashboard)
 	  - [Calendar View](#calendar-view)
-	  - [Multi-School Environment](#multi-school-environment)
+	  - [Multi-School Environment](#multischool-environment)
   - [Managing Programs](#managing-programs)
   - [Courses And Sessions](#courses-and-sessions)
 	  - [Courses](#courses)
@@ -44,7 +44,7 @@
 
 ## General Information
 
-####When working with Ilios…
+####Working with Ilios
 
 One important thing to remember:
 

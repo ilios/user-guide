@@ -162,11 +162,7 @@ The center of the display is a view of the Ilios calendar, defaulting to a displ
 
 Clicking on any event in the calendar will bring up the detail viewing panel for that specific offering of the session. Clicking on any linked event listed in the sortable box below the calendar will jump the calendar display to the date of that event.
 
-***iCal Download:*** This functionality is available to users accessing Ilios directly. It provides a direct download of the user’s calendar in the current displayed mode (if viewing the student calendar, then that will be downloaded; if viewing the instructor role calendar, then that will be the download received.) The download is in .ics standard format, to allow easy import into Outlook, iCal, Google Calendar, and other standard calendar and scheduling systems.
-
-The time frame covered by the iCal Download calendar starts 90 days prior to the current day and extends 90 days into the future.
-
-***Generating a feed URL:*** Ilios also provides users with synchronized calendar access, via URL. This allows real time embedding and synchronization of a user’s Ilios calendar with mobile appliance calendars, Google calendar, and any other web-enabled calendar system which allows external calendars to be added via URL.
+***Generating a feed URL:*** Ilios provides users with synchronized calendar access, via URL. This allows real time embedding and synchronization of a user’s Ilios calendar with mobile appliance calendars, Google calendar, and any other web-enabled calendar system which allows external calendars to be added via URL.
 
 To connect a calendar application with Ilios, you will need a unique URL that you can copy and paste into the other calendar application. To get one, log into Ilios and click the calendar feed button to obtain a URL that looks something like `"https://your-ilios-server/ilios.php/calendar_exporter/api/..."`. Copy that URL into your calendar application of choice. For more information, please click [here](https://wiki.library.ucsf.edu/display/DevUCSF/Ilios+Calendar+Feed+API) for more information.
 

@@ -1,0 +1,87 @@
+# Edit Course
+
+### Find Course By Filter
+
+To manage an existing course, enter part of the course’s title into the **"Filter by course title”** text field located above the **“Add New”** button. The result will automatically return a course list which applies the critieria entered. A list of all matches will populate your search panel; highlighting and selecting the desired program will load it to your screen. You can also just scroll through the list and find the Course without filtering at all.
+
+**Courses Pre-filter**
+
+![](../../.gitbook/assets/cs_rw_5%20%281%29.png)
+
+**Courses Post-Filter**
+
+In this second screen shot, a search string of “brai” has been entered and as a result, only one course gets returned.
+
+![](../../.gitbook/assets/cs_rw_6.png)
+
+## Course Summary Details
+
+Once the Course has been selected as shown above, the following Course-level attributes are available for modification. The screen is shown below. Universal Locator is a helpful tracking field used for support issues that is not customizable; but the rest of the fields that can be modified are shown with arrows.
+
+**NOTE: Course Summary Details refers to the higher level details above the "Show Details" button. Refer to** _**Course Details**_ **for the lower level details that do require the click of "Show Details" to be shown.**
+
+![](../../.gitbook/assets/cs_rw_7%20%281%29.png)
+
+### Links and Functionality By The Numbers ...
+
+1. **Back to Courses List**: takes the user back to the list of Courses 
+2. **Edit Course Title**: The title can be edited by clicking as shown.
+3. **Published Status**: The Course's publication status can be changed here.
+4. **Learning Materials Summary**: opens up Learning Materials summary
+5. **Print Summary**: opens up the all-inclusive Print Summary
+6. **Rollover Course**: starts the process of rolling this Course over
+7. **Course Visualizations**: opens up Visualizations \(Graphs\) for this Course
+8. **Course ID**: The Course ID field can be edited by clicking as shown.
+9. **Clerkship Type**: edited here  
+10. **Start Date**: edited here 
+11. **End Date**: edited as shown
+12. **Level**: edited here
+13. **Show Details**: opens up the rest of the Course Details.
+
+## [Course Details](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#screen-elements)
+
+These are the lower level details of a Course that are displayed and can be modified once the "Show Details" tab button has been clicked. These are those items ...
+
+* Course Leadership - set Course Directors and Course Administrators
+* Course Objectives \(and associated Parent Objectives and MeSH Terms\)
+* Course Learning Materials
+* Compentencies
+* Terms \(which can include various Vocabularies\)
+* Course MeSH Terms
+* Program Cohorts
+
+
+
+### Course Objectives
+
+Follow the links below for more specific information related to Course Objective activities. Adding MeSH Term\(s\) to Course Objectives is covered in the "Edit Course Objective" page linked below.
+
+* [Add Course Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/course_objective.html)
+* [Edit Course Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/edit_course_objective.html)
+* [Add Parent Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/add_parent_objective_to_course_objective.html)
+* [Edit Parent Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/edit_parent_objective_for_course_objective.html)
+
+### Program Cohorts
+
+For courses which are given more than once in an academic year, the course name or Course ID should identify this: for example Intersession 1 \(2011-12\), Intersession 2 \(2011-12\), Intersession 3 \(2011-12\), IDS 33A, IDS 33B, etc. Creating multiple instances of a course within an academic year is handled using the Course Rollover feature. For courses that are given more than once in an academic year, the listings are in chronological order according to start date.
+
+In order to populate courses with learner groups, the course must first be associated with the desired Program\(s\), as well as the desired learner cohorts within that program. Cohorts are listed by graduation year. If you select the program Doctor of Medicine, and its cohort Class of 2015, then the course will now be eligible for population with any learner or learner group from that program / cohort. A course may be associated with any number of programs and cohorts, allowing for interdisciplinary courses as well as mixed level courses. Only cohorts, to which the user is provided access, either by explicit permission granted for school or program, or by joint stewardship of a program, will be available for selection. Cohorts previously selected for which a user has no permissions will not be changeable by the user. In the example shown on the following page, Doctor of Medicine &gt;&gt; Class of 2017 has been chosen. When you are finished, click the green check to return to the Courses and Sessions screen.
+
+**Selection Screen \(Program Cohort\)**
+
+To add or remove Cohorts from a Course, click the Manage Cohorts button as shown below. This appears at the bottom of the **Course Details** section.
+
+![](../../.gitbook/assets/manage_cohorts_1.jpg)
+
+In this case, we want to add the Dentistry DDS Class of 2018 to this Course. Click on its label as shown below.
+
+![Select The Cohort](../../.gitbook/assets/cohort_selection.jpg)
+
+**Courses and Sessions \(after Cohort Selected\)**
+
+![](../../.gitbook/assets/cohort_selection_2.jpg)
+
+Now that the action detailed above has taken place, the Class of 2018 has been successfully added to the Course as it is evident that both Cohorts are listed.
+
+![](../../.gitbook/assets/cohort_selection_3.jpg)
+

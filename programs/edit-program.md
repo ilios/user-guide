@@ -56,3 +56,7 @@ Since this is a newly created program, there has been no short title entered yet
 
 ![](../.gitbook/assets/editprogrw9.png)
 
+#### Change Program Duration \(Years\)
+
+Coming soon ...
+

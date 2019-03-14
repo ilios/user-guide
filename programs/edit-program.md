@@ -1,6 +1,6 @@
 # Edit Program
 
-As far as the Program itself is concerned, the fields that can be modified are listed below. Editing any of these fields will have long reaching effects.
+ As far as the Program itself is concerned, the fields that can be modified are listed below. Editing any of these fields will have long reaching effects.
 
 * [Program Title](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#edit-program-title)
 * [Publication Status](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#update-publication-status)

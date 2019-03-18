@@ -70,9 +70,13 @@ Modifying the duration of a program is easily accomplished in Ilios. Following t
 
 #### Program Leadership
 
-Please refer to the Permissions Matrix to review what rights within the Ilios system will be granted when users are added as Program Directors.
+Please refer to the [Permissions Matrix](https://docs.google.com/spreadsheets/d/1FbR53C2clvNoWZHMElQRfuJ4jHbZtr5pFl11et0zszY/edit?ts=5ad90141#gid=0) to review what rights within the Ilios system will be granted when users are added as Program Directors.
 
-![](../.gitbook/assets/editprogrw14.png)
+![Expand to review](../.gitbook/assets/editprogrw15.png)
+
+![Click &quot;Manage Leadership&quot;](../.gitbook/assets/editprogrw14.png)
+
+
 
 
 

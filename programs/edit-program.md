@@ -5,7 +5,7 @@
 * [Program Title](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#edit-program-title)
 * [Publication Status](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#update-publication-status)
 * [Program Title \(short\)](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#add-edit-short-title)
-* Duration \(in years\)
+* [Duration \(in years\)](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#change-program-duration-years)
 * Program Leadership - \(add/remove Program Directors\)
 
 **NOTE:** The newly created Program "Doctor of Spine Therapy" cannot be published yet. The Program must have some Program Years created before publishing \(making it visible and usable within Ilios\) can take place.

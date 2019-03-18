@@ -68,6 +68,14 @@ Modifying the duration of a program is easily accomplished in Ilios. Following t
 
 ![New Program duration saved](../.gitbook/assets/editprogrw13.png)
 
+#### Program Leadership
+
+Please refer to the Permissions Matrix to review what rights within the Ilios system will be granted when users are added as Program Directors.
+
+![](../.gitbook/assets/editprogrw14.png)
+
+
+
 
 
 

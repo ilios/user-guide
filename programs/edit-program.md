@@ -58,5 +58,17 @@ Since this is a newly created program, there has been no short title entered yet
 
 #### Change Program Duration \(Years\)
 
-Coming soon ...
+Modifying the duration of a program is easily accomplished in Ilios. Following the steps below will complete this task.
+
+![](../.gitbook/assets/editprogrw10.png)
+
+![Select a new Program Duration](../.gitbook/assets/editprogrw11.png)
+
+![Confirm new duration](../.gitbook/assets/editprogrw12.png)
+
+![New Program duration saved](../.gitbook/assets/editprogrw13.png)
+
+
+
+
 

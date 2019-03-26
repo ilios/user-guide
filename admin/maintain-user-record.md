@@ -42,31 +42,19 @@ _**NOTE:**_ Teaching notifications will be sent to a the preferred email address
 
 In a similar manner to editing account properties, the editing of user roles and the inclusion \(or exclusion\) from the nightly synchronization process is easily accomplished here and detailed below.
 
-![](../.gitbook/assets/edit_user_roles.jpg)
+![](../.gitbook/assets/adminrw5.png)
 
- The permissions/fields that can be selected or un-selected \(meaning yes or no\) are ...
+ The permissions/fields that can be selected or un-selected \(meaning yes or no\) are ... 
 
-### Course Director \(Non-Student User Role\):
+#### Former Student \(Student Role\):
 
-This user becomes selectable as a Course Director. These users will also have access to all areas of Ilios with the exception of the Admin Console and Curriculum Inventory.
+This gets flagged when a Student has graduated if a user directory is set up to sync with Ilios. It can be set manually if desired.
 
-### Instructor \(Non-Student User Role\):
-
-This user can be assigned as an Instructor at the Session Offering level. These users will also have access to all areas of Ilios with the exception of the Admin Console and Curriculum Inventory.
-
-### Developer \(Non-Student User Role\):
-
-This is the most powerful user role in Ilios. These users have full control of the system and access to the Admin Console.
-
-### Former Student \(Student Role\):
-
-This gets flagged when a Student has graduated. It can be set manually if desired.
-
-### Account Enabled \(Any User\):
+#### Account Enabled \(Any User\):
 
 If this is not selected, the user will not be able to log in.
 
-### Exclude From Sync \(Any User\):
+#### Exclude From Sync \(Any User\):
 
 If you would prefer to keep the user account settings as they are \(alternate email address etc.\) and do not want to receive updates from the Campus Directory, this should be selected.
 

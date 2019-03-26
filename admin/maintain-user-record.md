@@ -10,15 +10,33 @@ You can perform a search and select an existing Ilios user record to modify as s
 
  Now that the user has been selected there are many useful utilities provided by the interface.
 
-As indicated by the arrows in the screen shot below, there are three editing panels along with the calendar feed Web Link area. Each of the four areas are controlled or activated using the buttons indicated.
+As indicated by the arrows in the screen shot below, there are three editing panels along with the calendar feed Web Link area. Each of these four areas are controlled or activated using the buttons indicated.
 
 ![](../.gitbook/assets/adminrw2.png)
 
-## Edit User Account Properties
+## Edit User Account Settings
 
-Now the that user account has been selected for modification, many of the text fields can be modified. At UCSF, the Middle Name, Other ID, and Phone fields can be modified manually. The other field values are brought in from the Campus Directory after clicking the Sync button.
+Now the that user account has been selected for modification, many of the text fields can be modified. At UCSF, the Middle Name, Other ID, Phone, and Preferred Email fields can be modified manually. The other field values are brought in from the Campus Directory after clicking the Sync button.
 
-![](../.gitbook/assets/edit_user_acct.jpg)
+![After clicking to Edit / View Account Settings](../.gitbook/assets/adminrw3%20%281%29.png)
+
+#### Fields and Functionality Described
+
+**First Name, Last Name, Campus ID, Username:** These values are either brought in from your campus directory \(LDAP or other\) or can be edited manually.
+
+**Middle Name, Other ID, Preferred Email, Phone:** These values can be edited here. 
+
+_**NOTE:**_ Teaching notifications will be sent to a the preferred email address entered here if one exists in the system.
+
+**Password:** Only systems that are not set up to sync with a directory will have this link. This is used to reset a user's password. A utility to ensure password strength is included.
+
+![](../.gitbook/assets/adminrw4.png)
+
+\*\*\*\*
+
+
+
+
 
 ## Edit User Role and Sync Options
 

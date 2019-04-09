@@ -4,11 +4,11 @@ A recent new feature of Ilios is the Learning Materials Summary, which for the C
 
 To go to the Learning Materials Summary, pull up a Course and click the correct icon as shown below.
 
-![](../../.gitbook/assets/lm_summary_1.jpg)
+![](../../.gitbook/assets/lmsumrw1.png)
 
 The available sorting and filtering options are shown below.
 
-![](../../.gitbook/assets/lm_summary_2.jpg)
+![](../../.gitbook/assets/lmsumrw2.png)
 
 \*\*Filters and Sorting Demonstrated:
 

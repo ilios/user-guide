@@ -10,9 +10,15 @@ The available sorting and filtering options are shown below.
 
 ![](../../.gitbook/assets/lmsumrw2.png)
 
-\*\*Filters and Sorting Demonstrated:
+**Filters and Sorting Demonstrated:**
 
-In the example shown below, a search was performed for "histology" \(case-insensitive\) and sorting was performed on the Learning Material Title in ascending alphabetic order.
+A **Course** level search is performed below with the matches circled. 
+
+![Course Level Search](../../.gitbook/assets/lmsumrw3.png)
+
+A **Session** level search is shown below.
+
+In the example shown below, a Session level search was performed for "histology" \(case-insensitive\) and sorting was performed on the Learning Material Title in ascending alphabetic order.
 
 The search results for "histology" are outlined in orange oval outlining.
 

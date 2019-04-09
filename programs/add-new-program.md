@@ -1,6 +1,6 @@
 # Add New Program
 
-Once on the Program screen, click on the “+” button, and provide a Title for the Program to add. Clicking the Done button will save your work immediately as a new Program in a state of Not Published.
+Once on the Program screen, click on the “+” button, and provide a Title for the Program to add. Clicking the Done button will save your work immediately as a new Program ready for use.
 
 ![Start the Process](../.gitbook/assets/add_new_program.png)
 

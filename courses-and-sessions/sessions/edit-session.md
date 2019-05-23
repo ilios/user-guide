@@ -1,6 +1,6 @@
 # Edit Session
 
-Any and all attributes of a session can be modified if you have sufficient permission to do so. Students who only have the student role will not have access to modify sessions. Instructors, Course Directors, and Developers will be able to perform these actions. There will be more granular permissions in future versions of Ilios; but currently, if you have permission to modify sessions, you can modify any session and its attributes.
+Any and all attributes of a session can be modified if you have sufficient permission to do so. Students who only have the student role will not have access to modify sessions. Instructors, Course Directors, and School Administrators \(among others\) are able to perform these actions.  Refer to the [Permission Matrix](https://docs.google.com/spreadsheets/d/1FbR53C2clvNoWZHMElQRfuJ4jHbZtr5pFl11et0zszY/edit?ts=5ad90141#gid=0) to verify who can \(or cannot\) edit sessions.
 
 It is assumed that first you will search for and select the Course to be modified.
 

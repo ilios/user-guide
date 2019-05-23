@@ -8,7 +8,7 @@ Once that has been done, it is necessary to find the session to modify as shown 
 
 **Quick Links**
 
-* [Add MeSH](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/sessions/modify_session.html#add-mesh) 
+* [Add MeSH](https://app.gitbook.com/@iliosproject/s/ilios-user-guide/courses-and-sessions/sessions/edit-session#add-mesh) 
 * [Manage Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#manage-terms)
 
 ## Find Session

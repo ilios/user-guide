@@ -5,6 +5,7 @@
 * **Associated Groups**: \(Currently displays only in aggregate at the course level.\) Display only. Shows a list by name of the Learner Groups currently associated with the Session.
 * **Session Type**: Selected from a predefined list of instructional and assessment methods, loaded into the system at implementation.  Click [here](https://www.aamc.org/download/273966/data/cistandardizedvocablist.pdf) for more information on Session Types.
 * **Description**: Free-text entry allowing for detailed information, instruction, and description of the Session curriculum and activities.
+* **Instructional Notes**: These are internal notes specifically used by Course Coordinators to share information about the session. They are not visible to Students.
 * **Terms**: Selected from a school-specific, pre-defined list of one or more Vocabularies.
 * **MeSH Terms**: Selected by searching the MeSH database.
 * **Learning Materials**: Session-level learning materials are available only to the specific Session to which they belong.

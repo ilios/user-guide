@@ -41,5 +41,6 @@ Also available in the upper right corner underneath the logged in user's name ar
 
 * [**My Profile**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-profile)
 * [**My Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-materials)
+* [**Language Selector**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector)\*\*\*\*
 * **Logout** -- exits the application 
 

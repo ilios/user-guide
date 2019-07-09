@@ -64,9 +64,9 @@ Modifying the duration of a program is easily accomplished in Ilios. Following t
 
 ![Select a new Program Duration](../.gitbook/assets/editprogrw11.png)
 
-![Confirm new duration](../.gitbook/assets/editprogrw12.png)
+![Confirm new duration](../.gitbook/assets/editprogrw12%20%281%29.png)
 
-![New Program duration saved](../.gitbook/assets/editprogrw13.png)
+![New Program duration saved](../.gitbook/assets/editprogrw13%20%281%29.png)
 
 #### Program Leadership
 
@@ -83,4 +83,22 @@ Please refer to the [Permissions Matrix](https://docs.google.com/spreadsheets/d/
 
 
 
+
+#### Change Program Duration
+
+To change a Program's duration \(the default is set to 4 years\) ...
+
+![Edit Program Duration](../.gitbook/assets/editprogrw10%20%281%29.png)
+
+* Select a new Program Duration as shown below. 
+
+![](../.gitbook/assets/editprogrw11%20%281%29.png)
+
+* Save the updated Program Duration
+
+![](../.gitbook/assets/editprogrw12.png)
+
+* View the results of this action
+
+![Program Duration updated](../.gitbook/assets/editprogrw13.png)
 

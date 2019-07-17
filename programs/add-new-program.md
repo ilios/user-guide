@@ -2,9 +2,9 @@
 
 Once on the Program screen, click on the “+” button, and provide a Title for the Program to add. Clicking the Done button will save your work immediately as a new Program ready for use.
 
-![Start the Process](../.gitbook/assets/add_new_program.png)
+![](../.gitbook/assets/addprog1.png)
 
-![Enter the Title](../.gitbook/assets/add_new_program_2.jpg)
+![](../.gitbook/assets/addprog2.png)
 
 To publish and add details to the Program, you can use the hyperlink provided once the save event has been completed. See below.
 

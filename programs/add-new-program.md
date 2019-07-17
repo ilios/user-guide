@@ -6,9 +6,9 @@ Once on the Program screen, click on the “+” button, and provide a Title for
 
 ![](../.gitbook/assets/addprog2.png)
 
-To publish and add details to the Program, you can use the hyperlink provided once the save event has been completed. See below.
+To add details to the Program, you can use the hyperlink provided once the save event has been completed. See below.
 
-![New Program Saved](../.gitbook/assets/new_program_save.jpg)
+![](../.gitbook/assets/addprog3.png)
 
 Once a program is created, other attributes may be added to that program by creating individual Academic Years. The Academic Year is a container for all curricular material for that particular year of the program. All additional program attributes are unique to each academic year of that program; attributes given to a program’s academic year and saved will be automatically copied to the next academic year, so it is best to create a single academic year, add its attributes, and then add further years as needed.
 

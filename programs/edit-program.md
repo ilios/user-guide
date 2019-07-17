@@ -3,14 +3,11 @@
  As far as the Program itself is concerned, the fields that can be modified are listed below. Editing any of these fields will have long reaching effects.
 
 * [Program Title](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#edit-program-title)
-* [Publication Status](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#update-publication-status)
 * [Program Title \(short\)](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#add-edit-short-title)
 * [Duration \(in years\)](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#change-program-duration-years)
 * [Program Leadership](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#program-leadership) - \(add/remove Program Directors\)
 
-**NOTE:** The newly created Program "Doctor of Spine Therapy" cannot be published yet. The Program must have some Program Years created before publishing \(making it visible and usable within Ilios\) can take place.
-
-![](../.gitbook/assets/editprogrw1.png)
+![](../.gitbook/assets/editprog1.png)
 
 #### Edit Program Title
 
@@ -29,18 +26,6 @@ The text will be changed to "Spine Doctor" and confirmed.
 * Confirm the change and review the results.
 
 ![Updated Program Name](../.gitbook/assets/editprogrw4.png)
-
-#### Update Publication Status
-
-To publish \(or un-publlish\) a Program is quite easy to do following the simple steps laid out below.
-
-* Search for and retrieve the Program record to modify
-
-![](../.gitbook/assets/editprogrw5.png)
-
-* Change the selected value in the Status Drop-Down menu. In this case, the Program "Spine Doctor" has not actually been used yet and has no associated program years so it cannot be published completely anyway since there is nothing to show to students. Reviewing the missing items will help determine and confirm why this is the case. "Mark as Scheduled" is as far along in the publication process as we can proceed until program years are added to the Program.
-
-![](../.gitbook/assets/editprogrw6.png)
 
 #### Add / Edit Short Title
 
@@ -75,14 +60,6 @@ Please refer to the [Permissions Matrix](https://docs.google.com/spreadsheets/d/
 ![Expand to review](../.gitbook/assets/editprogrw15.png)
 
 ![Click &quot;Manage Leadership&quot;](../.gitbook/assets/editprogrw14.png)
-
-
-
-
-
-
-
-
 
 #### Change Program Duration
 

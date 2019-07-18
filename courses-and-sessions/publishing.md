@@ -65,11 +65,7 @@ In the _**Publish Full Course with All Sessions**_ workflow, a display of the co
 
 When a course is in Scheduled state and has sessions in Published and/or Scheduled state, those Published and Scheduled sessions will display as TBD until the course is published. A published course will display any Scheduled or Published sessions as their state indicates accordingly.
 
-## To Publish a Program ...
-
-This will only happen when first setting up Ilios with a new Program. The Program will need to be "Published" in order to be used for actual student calendars.
-
-This is done on the Programs screen.
+## 
 
 
 

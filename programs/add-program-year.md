@@ -2,15 +2,17 @@
 
 **Step 1:** Click the \(+\) to begin the process of adding the Program Year.
 
-![Add Program Year](../.gitbook/assets/add_program_year.jpg)
+![](../.gitbook/assets/addprogyr1.png)
 
 **Step 2:** Select the Academic Year.
 
-![Choose Academic Year](../.gitbook/assets/new_prog_year.jpg)
+![](../.gitbook/assets/addprogyr2.png)
 
-Save when done by clicking the Done button.
+Save when done by clicking the Done button as shown below.
 
-![Program Year Saved](../.gitbook/assets/program_year_saved.jpg)
+![](../.gitbook/assets/addprogyr3.png)
+
+![New Program Year Saved](../.gitbook/assets/addprogyr4.png)
 
 Indicators are provided when Program Year information is missing. Click on the provided link to further modify and / or publish the Program Year. The following Program Year Attributes can be edited.
 

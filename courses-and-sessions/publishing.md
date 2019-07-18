@@ -2,11 +2,10 @@
 
 Ilios has a built in publishing workflow for curricular material. The publishing workflow serves the purpose of allowing the review of data prior to release, and to provide for the option of release in both interim \(“TBD” or “Scheduled”\) and final \(“Publish”\) modes. This is made possible by providing a summary checklist to the user for review. The checklist takes one of three different forms, depending on the workflow chosen: _**Course Level Only**_, _**Single Session Only**_, or _**Full Course with All Sessions**_.
 
-There are three places in Ilios where the concept of **"Publishing"** applies ...
+There are two places in Ilios where the concept of **"Publishing"** applies ...
 
 *  **Courses** 
 *  **Sessions**
-*  **Programs**
 
 ## To Publish a Course ...
 

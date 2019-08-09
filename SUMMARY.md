@@ -78,6 +78,7 @@
   * [Session Types](schools/session-types.md)
   * [Session Attributes](schools/session-attributes.md)
   * [Multi-School Environment](schools/multi-school-environment.md)
+* [Curriculum Inventory Institution Information](curriculum-inventory-institution-information.md)
 * [Programs](programs/README.md)
   * [Add New Program](programs/add-new-program.md)
   * [Edit Program](programs/edit-program.md)

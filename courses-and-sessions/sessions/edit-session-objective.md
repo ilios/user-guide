@@ -1,6 +1,6 @@
 # Edit Objective
 
-The complete set of steps to edit a Session Objective are listed below.
+Editing an Objective is easily accomplished following the the steps listed below.
 
 * Select a Course
 

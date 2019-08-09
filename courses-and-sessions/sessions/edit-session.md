@@ -10,6 +10,7 @@ Once that has been done, it is necessary to find the session to modify as shown 
 
 * [Add MeSH](https://app.gitbook.com/@iliosproject/s/ilios-user-guide/courses-and-sessions/sessions/edit-session#add-mesh) 
 * [Manage Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#manage-terms)
+* Manage Session Attributes
 
 ## Find Session
 
@@ -90,4 +91,16 @@ After clicking as shown above ...
 After confirming the addition of the Term "Renal System" to the Session, it appears in saved mode as . shown below.
 
 ![](../../.gitbook/assets/mngterms_rw_4.png)
+
+#### Special Session Attributes 
+
+It is possible to select additional session attributes to advise students about certain aspects of the upcoming \(or past\) learning activities.
+
+There are three options, none of which have been selected yet. There is also another attribute this particular school has decided not to use. This is "Attendance Required". These session attributes are configurable at the [School](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-attributes) level.
+
+![](../../.gitbook/assets/specsessattrib1.png)
+
+For this example, all three will be selected for this session. An image that shows the screen once this action has been taken is shown below for reference. Simply slide the toggle to the right to put it into use.
+
+![](../../.gitbook/assets/specsessattrib2.png)
 

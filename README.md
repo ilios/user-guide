@@ -6,7 +6,7 @@
 
 #### Quick Tip:
 
-To perform a quick search to find any Ilios topic you may be hoping to find, there is a search box available in the upper left portion of the screen. Before entering criteria, it looks like what is shown below.
+To perform a quick search to find any Ilios topic you may be hoping to find, there is a search box available in the upper left portion of the screen. Before entering criteria, it looks like as  shown below.
 
 ![](.gitbook/assets/user_guide_search_1.jpg)
 

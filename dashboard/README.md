@@ -36,6 +36,7 @@ Other functional areas available in all Dashboard views ...
 
 * [**My Reports**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-reports)
 * [**My Courses**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-courses)
+* \*\*\*\*[**Search**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search)\*\*\*\*
 
 Also available in the upper right corner underneath the logged in user's name are the following ...
 

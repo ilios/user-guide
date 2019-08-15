@@ -14,7 +14,7 @@ Another great feature of Ilios is that you can review any week's activity, wheth
 
 ![](../.gitbook/assets/rw_waag2.png)
 
-After clicking "Last Week / Next Week / All Weeks", the screen and feature links are displayed as shown below.
+After clicking "Last Week / Next Week / All Weeks" \(since renamed to "All Weeks"\), the screen and feature links are displayed as shown below.
 
 ![All Weeks View](../.gitbook/assets/rw_waag3.png)
 

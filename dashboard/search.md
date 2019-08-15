@@ -6,7 +6,7 @@ description: Search functionality is available right from the Dashboard.
 
 ![](../.gitbook/assets/srch1.png)
 
-The search box is initially located at the location specified above. If fewer than three characters is entered, the search will not be performed.
+The search box is initially located at the location specified above. If fewer than three characters are entered, the search will not be performed. The search box will move down to a more central location once a search has been successfully performed. Refer to [Search Results](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search#search-results).
 
 The search provides content search to users with heightened privileges \(non-students\) across the curricula at your institution. Access beyond read-only for search returns is determined by individual permissions for each user account.  
   

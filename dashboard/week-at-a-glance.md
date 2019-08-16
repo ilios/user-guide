@@ -10,9 +10,9 @@ In situations where linked ILM's are assigned, the user can navigate to either t
 
 ## All Weeks
 
-Another great feature of Ilios is that you can review any week's activity, whether it is in the future or the past. This also allows the user to refer to Learning activities that occurred or will occur in any week of any year that the user chooses to select. To open this functionality, click as shown in the screen shot below. The link's caption \(not yet reflected in the screen shot\) has been changed to simply "All Weeks".
+Another great feature of Ilios is that you can review any week's activity, whether it is in the future or the past. This also allows the user to refer to Learning activities that occurred or will occur in any week of any year that the user chooses to select. To open this functionality, click as shown in the screen shot below. The link's caption has been changed to simply "All Weeks".
 
-![](../.gitbook/assets/rw_waag2.png)
+![](../.gitbook/assets/allwks1.png)
 
 After clicking "Last Week / Next Week / All Weeks" \(since renamed to "All Weeks"\), the screen and feature links are displayed as shown below.
 

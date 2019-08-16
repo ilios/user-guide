@@ -6,7 +6,7 @@ Week At A Glance has proven to be a very useful feature in to Ilios. It is the d
 
 In situations where linked ILM's are assigned, the user can navigate to either the ILM that needs to be completed before the scheduled Offering or to the Event Detail screen of the Offering itself. Standard ILM's which have a Due Date will show up on the Week At A Glance displaying the associated Due Date. This type of ILM is **NOT** provided its own area. The ILM's are ordered with the rest of the student's Offerings in ascending chronological date and time order.
 
-![](../.gitbook/assets/rw_waag1.png)
+![](../.gitbook/assets/allwks2.png)
 
 ## All Weeks
 

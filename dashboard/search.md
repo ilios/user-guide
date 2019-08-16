@@ -42,7 +42,9 @@ To perform the full search \(which we will do in this example\), press the "Ente
 
 ![Search Results](../.gitbook/assets/srch3.png)
 
-Search Results are grouped by Course and then by Session. In the case above, the top three sessions that match \(in order of match accuracy\) are displayed. The "Show More" link will open up and show the rest of the sessions within that course that match. For example, after the first "Show More" link located under the session link for "Defining the Mind", the screen now displays the rest of the sessions in the course called "Brain, Mind, and Behavior".
+#### Show More
+
+Search Results are grouped by Course and then by Session. In the case above, the top three sessions that match \(in order of match accuracy\) are displayed. Clicking the "**Show More**" link will open up and show the rest of the sessions within that course that match. For example, after the first "**Show More**" link located under the session link for "Defining the Mind", the screen now displays the rest of the sessions in the course called "Brain, Mind, and Behavior".
 
 ![Search Results Explained](../.gitbook/assets/srch4.png)
 

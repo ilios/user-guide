@@ -1,10 +1,12 @@
 ---
-description: Search functionality is available right from the Dashboard.
+description: >-
+  Search functionality is available from any of the main screen in Ilios. An
+  example showing its location on the Dashboard is shown below.
 ---
 
 # Search
 
-![](../.gitbook/assets/srch1.png)
+![Global Search on the Dashboard](../.gitbook/assets/srch1.png)
 
 The search box is initially located at the location specified above. If fewer than three characters are entered, the search will not be performed. The search box will move down to a more central location once a search has been successfully performed. Refer to [Search Results](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search#search-results).
 

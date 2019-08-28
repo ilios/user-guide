@@ -2,6 +2,14 @@
 
 It is possible to easily enough download the Competency Mapping for any specified Program Year within your school.  To do this, simply click as shown below. This is available from the Programs tab.
 
+#### Expand Program Year Objectives
+
+It is necessary to expand the Objectives as shown below in order to download the Competency Map.
+
+![](../.gitbook/assets/expandpyobj1.png)
+
+#### Download Competency Map
+
 ![](../.gitbook/assets/comp_map_1.png)
 
 #### Competency Map

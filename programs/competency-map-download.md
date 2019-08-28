@@ -10,13 +10,9 @@ It is necessary to expand the Objectives as shown below in order to download the
 
 #### Download Competency Map
 
-![](../.gitbook/assets/comp_map_1.png)
+![](../.gitbook/assets/expandpyobj2.png)
 
-#### Competency Map
-
-What happens after clicking as shown ...
-
-At the lower left hand corner of your browser window, you will see a file such as the following appear.
+After clicking as shown above, at the lower left hand corner of your browser window, you will see a file such as the following appear.
 
 When opening it in Excel on a Mac, it initially appears as shown below \(Before ...\). There are many techniques that can be used to make it more presentable. You can also save it as an .xlsx or other Excel file format once the adjustments have been made.
 

@@ -14,3 +14,13 @@ After clicking as shown above, the visualization can be reviewed. This is curren
 
 ![Highest Level Mouse Over](../.gitbook/assets/pyvis3.png)
 
+Clicking further down at each level will reveal the appropriate detail. 
+
+![Competency Domain Level \(Medical Knowledge\)](../.gitbook/assets/pyvis4.png)
+
+![Program Year Objective Level \(MK1\)](../.gitbook/assets/pyvis5.png)
+
+It is also possible to go down to the Course Objective level, which is the lowest level of this visualization. 
+
+![](../.gitbook/assets/pyvis6.png)
+

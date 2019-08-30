@@ -36,6 +36,16 @@ The Calendar display presents Session Offerings with different background colors
 
 [Session Types](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types) can be customized. 
 
+### Non-Learner Calendar View
+
+It is important to note that non-students Ilios users _**WILL**_ see offerings for their courses / sessions that have not been published yet. Students will _**never**_ see these unless they happen to perform a non-student function such as being an Instructor, Course Administrator / Director, Session Administrator, or School Administrators / Director. These users will see the "Not Published" session offerings. Below is an example showing this view. 
+
+Icon indicating "Not Published" status: 
+
+![Not Published](../.gitbook/assets/unpubicon.png)
+
+![](../.gitbook/assets/nonscalview1.png)
+
 ### CSS Override
 
 With the advent of Ilios 3.x, the application is served up from the front end. This means that overriding the CSS and performing CSS customizations is not currently supported but may be at a later date.

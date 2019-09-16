@@ -22,15 +22,23 @@ Enter search criteria and click "Search directory for new users". In the example
 
 **Icons Explained**
 
-- Ready and able to add to Ilios 
+*  Ready and able to add to Ilios 
+
+![](../.gitbook/assets/ready.png)
+
+
+
+* Something is wrong or missing. User cannot be added to Ilios at this time.
 
 ![](../.gitbook/assets/not_ready_icon.jpg)
 
- - Something is wrong or missing. User cannot be added to Ilios at this time.
+
+
+* Already in Ilios. User can only be added once.
 
 ![](../.gitbook/assets/already_in_ilios.jpg)
 
- - Already in Ilios. User can only be added once.
+ 
 
 ## Add New User From Directory Search
 

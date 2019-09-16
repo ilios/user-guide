@@ -42,11 +42,11 @@ A Search was performed for "Loomis".
 
 After clicking the \(+\) button as shown below, it is not necessary to select whether this new user is to be added as a Non-Student \(Instructor\) or Student. Roles can be added and updated later but it is helpful and powerful to make this initial distinction at this time. In both cases, Primary School should be selected now.
 
-* Add Non-Student \(Instructor\)
+* **Add Non-Student \(Instructor\)**
 
 ![](../.gitbook/assets/add_non_student.jpg)
 
-* Add Student
+* **Add Student**
 
 When a Student is added, the Primary Cohort should be selected at this time \(as shown below\).
 

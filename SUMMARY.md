@@ -97,6 +97,7 @@
   * [Calendar Preview](admin/calendar-preview.md)
 * [Curriculum Inventory](curriculum-inventory/README.md)
   * [CI Report Rollover](curriculum-inventory/ci-report-rollover.md)
+  * [Verification Preview Tables](curriculum-inventory/verification-preview-tables.md)
 * [Permissions](permissions.md)
 * [Glossary](glossary.md)
 * [Additional Information](additional-information/README.md)

@@ -4,9 +4,23 @@ Ilios now includes a major improvement to the Curriculum Inventory toolset. Now 
 
 To access this functionality, click as shown below. 
 
-![](../.gitbook/assets/ci_ver0.png)
+![](../../.gitbook/assets/ci_ver0.png)
 
-The following screen shot briefly shows the table of contents which is displayed after clicking to access the CI Verification Preview Tables. The 8 tables are listed below. 
+The following screen shot briefly shows the table of contents which is displayed after clicking to access the CI Verification Preview Tables. The 8 tables are shown in the screen shot of the Table of Contents in the application. 
 
-![](../.gitbook/assets/ci_ver_toc.png)
+![Table of Contents in Ilios](../../.gitbook/assets/ci_ver_toc.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

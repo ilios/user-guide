@@ -10,17 +10,16 @@ The following screen shot briefly shows the table of contents which is displayed
 
 ![Table of Contents in Ilios](../../.gitbook/assets/ci_ver_toc.png)
 
+#### User Guide Links to the Table Descriptions
 
-
-
-
-
-
-
-
-
-
-
+* Table 1: [Program Expectations Mapped to PCRS ](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/verification-preview-tables/program-expectations-mapped-to-pcrs)
+* Table 2: [Primary Instructional Method by Non-Clerkship Sequence Block](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/verification-preview-tables/primary-instructional-method) 
+* Table 3: [Instructional Time ](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/verification-preview-tables/instructional-time)\(A. Non-Clerkship Sequence Block\) \(B. Clerkship Sequence Block\)
+* Table 4: [Instructional Method Counts](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/verification-preview-tables/instructional-method-counts)
+* Table 5: [Non-Clerkship Sequence Block Instructional Time](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/verification-preview-tables/non-clerkship-sequence-block-assessment-methods) 
+* Table 6: [Clerkship Sequence Block Assessment Methods](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/verification-preview-tables/clerkship-sequence-block-assessment-methods) 
+* Table 7: [All Events with Assessments Tagged as Formative or Summative](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/verification-preview-tables/all-events-with-assessments-tagged-as-formative-or-summative) 
+* Table 8: [All Resource Types ](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/verification-preview-tables/all-resource-types)
 
 
 

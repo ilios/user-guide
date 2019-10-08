@@ -12,6 +12,8 @@ The following screen shot briefly shows the table of contents which is displayed
 
 #### User Guide Links to the Table Descriptions
 
+These tables may be subject to change by the AAMC. The detailed linked pages may be removed from the user guide in the future. As of late 2019, they are as follows. 
+
 * Table 1: [Program Expectations Mapped to PCRS ](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/verification-preview-tables/program-expectations-mapped-to-pcrs)
 * Table 2: [Primary Instructional Method by Non-Clerkship Sequence Block](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/verification-preview-tables/primary-instructional-method) 
 * Table 3: [Instructional Time ](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/verification-preview-tables/instructional-time)\(A. Non-Clerkship Sequence Block\) \(B. Clerkship Sequence Block\)

@@ -14,7 +14,7 @@ Reports may be created, edited and/or deleted up until they are “finalized”.
 
 Only one report for each year of each program may be in place at any time; this includes finalized reports.
 
-The export created by the report is compliant with the Medbiquitous standards and the AAMC inventory business rules. Once generated it may be delivered directly to the AAMC for input into the CI and MedAPS system.
+The export created by the report is compliant with the Medbiquitous standards and the AAMC inventory business rules. Once generated it may be delivered directly to the AAMC for input into the CI and MedAPS system. This was designed with the School of Medicine in mind. However, the provided tools can be used by any school \(Pharmacy, Dentistry etc.\). 
 
 ## Accessing Curriculum Inventory
 

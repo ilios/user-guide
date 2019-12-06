@@ -25,7 +25,9 @@ To create an ILM ...
 
 In the case below, the ILM was set with a Due Date of 3/26/2019. Once the Session is published, the ILM will appear on the Learner's calendar in a 15 minute time-slot at 5:00PM on the Due Date \(3/26/2019\).
 
-![Top Part of Screen](../../.gitbook/assets/rw_ilm5.png)
+![](../../.gitbook/assets/rw_ilm5.png)
+
+It is important to note that one or more Learner Groups must be added to ILM's so students will see the offerings on their calendars. The ILM \(like any other type of session\) must also be published.
 
 ### ILM Linked to Session
 

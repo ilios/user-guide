@@ -63,7 +63,9 @@ The lower part of the screen is shown below. Any \(or all\) of the following Ses
 
 ## Manage Learner Groups
 
-After clicking the "Manage Learner Groups" button as shown in the upper screen shot above, follow the steps outlined below. Keep in mind that if this Session has attached Offerings with Learner Groups attached, this is a separate process. It is necessary to attach Learner Groups and Instructors specifically to this ILM being created or no one will know it exists.
+![](../../.gitbook/assets/rw_ilm5.png)
+
+After clicking the "Manage Learner Groups" button as shown in the screen shot above, follow the steps outlined below. Keep in mind that if this Session has attached Offerings with Learner Groups attached, this is a separate process. It is necessary to attach Learner Groups and Instructors specifically to this ILM being created or no one will know it exists.
 
 ![](../../.gitbook/assets/rw_ilm7.png)
 

@@ -31,25 +31,27 @@ It is important to note that one or more Learner Groups must be added to ILM's s
 
 ### ILM Linked to Session
 
-It is also possible to link and ILM to an upcoming Session. This way the student will know to complete the activities required by the ILM before the Offering of the Session to which the Learner is assigned.
+It is also possible to link an ILM to an upcoming Session. This way the student will know to complete the activities required by the ILM before attending the learning activity to which the Learner is assigned.
 
-![Start the Process of Linking this ILM to a Session](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/ilm_linked_1.png)
 
 After clicking as shown above, select the Session \(in the same Course\) to which this ILM should be linked.
 
-![Select the Session](../../.gitbook/assets/image%20%283%29.png)
+A handy scrollable and searchable grid appears for the selection process to take place. All sessions in the current course are displayed and available for selection. The location of the mouse is an example of where the session can be clicked. Anywhere in the row or on the "+" button is fine.
 
-After the "Cholesterol Transport and Metabolism 02/13/2019 3:10 PM" Session gets selected, it can be attached to the ILM. 
+![](../../.gitbook/assets/ilm_linked_2.png)
+
+After the "Cholesterol Transport and Metabolism 02/05/2020 2:40 PM" Session gets selected, it can be attached to the ILM. 
 
 **NOTE**: The first offering date is appended to the end of the Session Title to make it easier to select the correct Session.
 
-![After Session has been selected](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/ilm_linked_3.png)
 
-After clicking the green Save button to confirm ...
+After clicking the green Done button to confirm ...
 
-![Session selected - Record saved](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/ilm_linked_4.png)
 
-As mentioned elsewhere, these linked ILM's appear in the top portion of the Week At A Glance.
+As mentioned elsewhere, these linked ILM's appear in the top portion of the Week At A Glance. If you are viewing the Calendar, the linked ILM's will appear below the actual calendar. 
 
 The lower part of the screen is shown below. Any \(or all\) of the following Session-level attributes may be added here ...
 

@@ -22,7 +22,13 @@ To get to the Week View, click the "Week" Calendar View Switcher link. The scree
 
 To get to the Month View, click the "Month" Calendar View Switcher link. The screen will appear as shown below with all of the details for the entire selected month displayed.
 
-![Month View](../.gitbook/assets/month_view.jpg)
+![Month View \(Calendar\)](../.gitbook/assets/monthvw1.png)
+
+### Pre-Work 
+
+Pre-work \(linked ILM's\) are displayed below the calendar similar to what is shown below. Since we are in Month View, there are quite a few Pre-work ILM's to display.
+
+![Month View \(Pre-Work\)](../.gitbook/assets/monthvw2.png)
 
 ### NOTE ABOUT THE DISPLAY OF MULTIPLE OFFERINGS:
 

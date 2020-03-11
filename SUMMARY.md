@@ -61,7 +61,7 @@
   * [Publishing](courses-and-sessions/publishing.md)
 * [Learner Groups](learner-groups/README.md)
   * [New Learner Group](learner-groups/new-learner-group.md)
-  * [Edit Group](learner-groups/edit-group-properties.md)
+  * [Edit Learner Group](learner-groups/edit-group-properties.md)
   * [Sub Groups](learner-groups/sub-groups.md)
   * [Edit Membership](learner-groups/edit-group-membership.md)
   * [Delete Learner Group](learner-groups/remove-learner-group.md)

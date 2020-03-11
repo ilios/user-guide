@@ -1,4 +1,4 @@
-# Edit Group
+# Edit Learner Group
 
 The first step in the editing and review process is to select a School, Program, and a Cohort. The drop-down boxes on the top of the screen are used to do this as shown below.
 

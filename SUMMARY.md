@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Dashboard](dashboard/README.md)
+  * [Home](dashboard/home.md)
   * [Search](dashboard/search.md)
   * [Week At A Glance](dashboard/week-at-a-glance.md)
   * [Activities View](dashboard/activities-view.md)

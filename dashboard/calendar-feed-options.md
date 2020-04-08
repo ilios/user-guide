@@ -5,7 +5,7 @@ There are two methods of accessing your Ilios Calendar on a mobile device ...
 1. Use the Ilios application directly on your phone or other mobile device. 
 2. Generate a URL Feed and add it to a calendar application of your choosing on your phone or other mobile device.
 
-A mobile friendly version of the Ilios application is has been developed and is available now.
+A mobile friendly version of the Ilios application has been developed and is available now.
 
 That having been said, there are two ways to obtain all of your Ilios curricular information onto your phone. Those methods are covered in the next two sections.
 
@@ -16,6 +16,7 @@ That having been said, there are two ways to obtain all of your Ilios curricular
   * [Add Calendar to Google Calendar](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options#add-calendar-to-google-calendar)
   * [Feed Date Range](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options#feed-date-range)
 * [LTI Integration](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options#lti-integration)
+* [Mobile Device View](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/mobile-devices)
 
 ## Generate a URL Feed
 

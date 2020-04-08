@@ -1,10 +1,10 @@
 ---
 description: >-
-  Global search functionality is available from any of the main screens in
-  Ilios. An example showing its location on the Dashboard is shown below.
+  Search functionality is available from any of the main screen in Ilios. An
+  example showing its location on the Dashboard is shown below.
 ---
 
-# Global Search
+# Search
 
 ![Global Search on the Dashboard](../.gitbook/assets/srch1.png)
 
@@ -49,8 +49,6 @@ To perform the full search \(which we will do in this example\), press the "Ente
 Search Results are grouped by Course and then by Session. In the case above, the top three sessions that match \(in order of match accuracy\) are displayed. Clicking the "**Show More**" link will open up and show the rest of the sessions within that course that match. For example, after the first "**Show More**" link located under the session link for "Defining the Mind", the screen now displays the rest of the sessions in the course called "Brain, Mind, and Behavior".
 
 ![Search Results Explained](../.gitbook/assets/srch4.png)
-
-**NOTE:** This functionality is not available for students at this time.
 
 
 

@@ -12,3 +12,5 @@ Once the Copy button has been pressed \(as shown above\), you can either create 
 
 The newly created group will initially be named the same as the predecessor + \(Copy\). If you copy "Learner Group A", the new group will be called "Learner Group A \(Copy\)". After the new group is created, it may be useful to change the group's name to something else completely.
 
+For reference ... [**Edit Learner Group**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/edit-group-properties#edit-group-attributes)\*\*\*\*
+

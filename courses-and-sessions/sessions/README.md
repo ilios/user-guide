@@ -32,7 +32,7 @@ This had to be split into upper and lower portions to allow space to display the
 
 #### Upper Portion
 
-![](../../.gitbook/assets/session_top.jpg)
+![](../../.gitbook/assets/session_upper.png)
 
 #### Lower Portion
 

@@ -14,7 +14,8 @@
 ## Session Attributes \(additional for ILM\)
 
 * **Expected instructional hours**: Numeric entry of the total time in hours allotted for the activities associated with the session.
-* **Due Date**: Date by which time the activities are expected to be completed. Default is the final day of the course.
+* **Due Date**: Date by which time the activities are expected to be completed. If "Due Prior To" is not used, a Due Date can be used.
+* **Due Prior To**: Offering to which this ILM is linked. The learner should accomplish the activities outlined in this independent learning activity before attending the session offering. If this is NOT used, a Due Date for the ILM should be specified.
 * **Assigned Learner Groups**: Since there are no calendared offerings for ILM, groups are associated directly to the session.
 * **Assigned Instructors**: Since there are no calendared offerings for ILM, the responsible instructors of record are associated directly to the session.
 

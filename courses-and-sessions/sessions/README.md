@@ -36,7 +36,7 @@ This had to be split into upper and lower portions to allow space to display the
 
 #### Lower Portion
 
-![](../../.gitbook/assets/session_bottom.jpg)
+![](../../.gitbook/assets/session_lower.png)
 
 ## Overview
 

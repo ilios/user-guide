@@ -10,6 +10,7 @@
 * **MeSH Terms**: Selected by searching the MeSH database.
 * **Learning Materials**: Session-level learning materials are available only to the specific Session to which they belong.
 * **Objectives**: Free-text entry field. Each Objective entered at the Session level may be associated with any number of the parent course’s Course-level Objectives. Session Objectives may also be assigned their own MeSH terms.
+* **Pre-Work**: If a Session has pre-work attached to it, there is an icon displayed on the Session list. This is shown in a screen shot [below](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions#session-list).
 
 ## Session Attributes \(additional for ILM\)
 

@@ -29,8 +29,8 @@ These Dashboard View Options are ...
 
 * [**Week At A Glance** ](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance)\(default view\)
 * [**Activities**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/activities-view)
-* \*\*\*\*[**My Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-materials)\*\*\*\*
-* \*\*\*\*[**Calendar View**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view)\*\*\*\*
+* \*\*\*\*[**Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-materials)\*\*\*\*
+* \*\*\*\*[**Calendar**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view)\*\*\*\*
 
 Other functional areas available in all Dashboard views ...
 
@@ -41,7 +41,7 @@ Other functional areas available in all Dashboard views ...
 Also available in the upper right corner underneath the logged in user's name are the following ...
 
 * [**My Profile**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-profile)
-* [**My Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-materials)
+* [**My Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-materials) **-** also available from the Dashboard
 * [**Language Selector**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector)\*\*\*\*
 * **Logout** -- exits the application 
 

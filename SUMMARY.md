@@ -8,7 +8,7 @@
   * [Activities View](dashboard/activities-view.md)
   * [Materials View](dashboard/materials-view.md)
   * [Calendar View](dashboard/calendar-view.md)
-  * [Event Detail View](dashboard/event-detail-view.md)
+  * [Event Detail](dashboard/event-detail-view.md)
   * [Calendar Feed Options](dashboard/calendar-feed-options.md)
   * [Calendar Search & Filter Options](dashboard/calendar-search-and-filter-options.md)
   * [Calendar View Options](dashboard/calendar-view-options.md)

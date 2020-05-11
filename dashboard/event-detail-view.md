@@ -1,4 +1,4 @@
-# Event Detail View
+# Event Detail
 
 The Event Detail view is reached when a user clicks on a link in their Calendar, Calendar feed, Week At A Glance, or any part of Ilios that reaches user Events \(scheduled Offerings\).
 

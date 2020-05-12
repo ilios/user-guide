@@ -53,6 +53,7 @@
     * [Attach Learning Materials](courses-and-sessions/sessions/attach-learning-materials.md)
     * [Sort Learning Materials](courses-and-sessions/sessions/sort-learning-materials.md)
   * [Offerings](courses-and-sessions/offerings/README.md)
+    * [Add Individual Learners](courses-and-sessions/offerings/add-individual-learners.md)
     * [Single Offering](courses-and-sessions/offerings/create-single-offering.md)
     * [Small Group Offerings](courses-and-sessions/offerings/create-small-group-offerings.md)
     * [Recurring Event](courses-and-sessions/offerings/recurring-event.md)

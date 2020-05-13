@@ -1,8 +1,6 @@
 # Course Rollover
 
-The process of rolling over a course \(essentially copying as many attributes as possible\) into a newly created course is greatly simplified with the advent of Ilios 3.x.
-
-Courses can be "rolled over" into a different \(future\) academic year or they can be rolled over into the current academic year. This could be if a Course is offered in the Fall and then again in the Spring for example. Courses can never be rolled over into a past year.
+Courses can be "rolled over" into a different \(future\) academic year or they can be rolled over into the current academic year. This could be if a Course is offered in the Fall and then again in the Spring for example. They can also be rolled over into the previous academic year \(one year back only\).
 
 A Course that can be rolled over in Ilios will have the Course Rollover icon displayed. There is no need to activate or configure anything to perform Course rollovers. If you have proper permissions, and a Course is eligible for rollover \(basically, it has sessions and offerings\), the rollover button will be enabled and available for your use.
 
@@ -68,4 +66,8 @@ To do this ...
 You will be routed automatically to the new Course.
 
 ![](../../.gitbook/assets/same_year_rollover_6.jpg)
+
+## Roll Course Over Into Previous Year
+
+It is possible to roll a course "over" back into the previous academic year. The process is the same as depicted in the above sections. The name must be unique to the year. You will notice the previous year is also available in the year selector drop-down.
 

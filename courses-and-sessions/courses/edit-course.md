@@ -45,7 +45,7 @@ These are the lower level details of a Course that are displayed and can be modi
 * [Course Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership) - set Course Directors and Course Administrators
 * Course Objectives \(and associated Parent Objectives, Vocabulary Terms, and MeSH Terms\) 
 * Course Learning Materials
-* Competencies
+* [Competencies](https://iliosproject.gitbook.io/ilios-user-guide/schools/competencies) - set at School level
 * Terms \(which can include various Vocabularies\)
 * Course MeSH Terms
 * Program Cohorts

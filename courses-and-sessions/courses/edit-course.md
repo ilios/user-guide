@@ -45,7 +45,7 @@ These are the lower level details of a Course that are displayed and can be modi
 * Course Leadership - set Course Directors and Course Administrators
 * Course Objectives \(and associated Parent Objectives and MeSH Terms\)
 * Course Learning Materials
-* Compentencies
+* Competencies
 * Terms \(which can include various Vocabularies\)
 * Course MeSH Terms
 * Program Cohorts

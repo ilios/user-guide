@@ -8,7 +8,7 @@ After clicking **Done** as shown in the example shown above, the remaining detai
 
 ![](../../.gitbook/assets/cs_rw_2.png)
 
-After clicking the link as shown above, the screen appears as follows with the New Course being appropriately titled **Drugs And Side Effects 101**. The Course is initially saved with a state of **Not Published** since it has no Sessions or Offerings at this point. Since the act of publishing is essentially the equivalent of populating student calendars with their corresponding offerings, there is nothing to publish at this time.
+After clicking the link as shown above, the screen appears as follows with the New Course being appropriately titled **Drugs And Side Effects 101**. The Course is initially saved with a state of **Not Published** since it has no Sessions or Offerings at this point. There is nothing to publish.
 
 ![](../../.gitbook/assets/cs_rw_3%20%281%29.png)
 

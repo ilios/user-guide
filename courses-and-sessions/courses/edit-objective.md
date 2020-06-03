@@ -16,17 +16,15 @@ The complete set of steps to edit a Session Objective are listed below.
 
 * To edit a Course Objective's Description, click on the Description and you can edit it from there.
 
-![Select Course Objective](../../.gitbook/assets/edit_course_obj_description.jpg)
+![Select Objective to Edit](../../.gitbook/assets/crs_obj_edit1.png)
 
 ## Edit Description
 
-This is done in an inline editing style so you don't have to leave the page or lose the continuity of your work. This type of functionality is used in Ilios 3.x as much as possible for a more seamless interface experience.
+This is done in an inline editing style so you don't have to leave the page or lose the continuity of your work. This type of functionality is used in Ilios as much as possible for a more seamless interface experience.
 
-![Select Course Objective](../../.gitbook/assets/edit_course_obj_description_2.jpg)
+![](../../.gitbook/assets/crs_obj_edit2.png)
 
 * To maintain MeSH Term\(s\) associated with the Course Objective, follow the actions outlined in the screen shot series and steps detailed below.
-
-  ![](../../.gitbook/assets/edit_mesh_course_obj.jpg)
 
 ## Add MeSH Term\(s\)
 

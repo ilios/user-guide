@@ -1,6 +1,6 @@
 # Week At A Glance
 
-Week At A Glance has proven to be a very useful feature in to Ilios. It is the default when a user logs in. As shown below, there are links available for [Event Details](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) and Learning Materials. A scroll bar will be displayed if the information does not all fit on the screen.
+Week At A Glance has proven to be a very useful feature in Ilios. It is the default when a user logs in. As shown below, there are links available for [Event Details](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) and Learning Materials. A scroll bar will be displayed if the information does not all fit on the screen.
 
 **NOTE**: Week At A Glance \(WaaG\) is not designed as a complete and full calendar. It contains confirmed learning activities the learner will be facing that week. Events that are set to a status of "Scheduled", which don't contain course and session specific information are NOT displayed on Week At A Glance. They are available on "Activities" and "Calendar" view. 
 

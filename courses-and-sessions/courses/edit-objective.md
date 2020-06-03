@@ -12,7 +12,7 @@ The complete set of steps to edit a Session Objective are listed below.
 
 * Expand the Objective List
 
-![Expand Objectives](../../.gitbook/assets/edit_course_obj_parent.jpg)
+![](../../.gitbook/assets/crs_obj_expnd.png)
 
 * To edit a Course Objective's Description, click on the Description and you can edit it from there.
 

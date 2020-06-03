@@ -4,11 +4,11 @@ The complete set of steps to edit a Session Objective are listed below.
 
 * Select a Course
 
-![Click on the Course Title to open the details](../../.gitbook/assets/find_course.jpg)
+![](../../.gitbook/assets/crse_srch.png)
 
 * Expand the Course Details
 
-![Expand the Details of the Course](../../.gitbook/assets/expand_course_details.jpg)
+![Expand the Details of this Course](../../.gitbook/assets/crs_details_show.png)
 
 * Expand the Objective List
 

@@ -28,7 +28,7 @@ This is done in an inline editing style so you don't have to leave the page or l
 
 ## Add MeSH Term\(s\)
 
-Once the Objectives link has been opened, the full list of Objectives associated with this Course is displayed. CLick "Add New" to add one or more MeSH Terms to the Course Objective listed in the Description field.
+Once the Objectives link has been opened, the full list of Objectives associated with this Course is displayed. Click "Add New" to add one or more MeSH Terms to the Course Objective listed in the Description field.
 
 ![](../../.gitbook/assets/add_mesh_course_obj.jpg)
 

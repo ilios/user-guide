@@ -30,17 +30,21 @@ This is done in an inline editing style so you don't have to leave the page or l
 
 Once the Objectives link has been opened, the full list of Objectives associated with this Course is displayed. Click "Add New" to add one or more MeSH Terms to the Course Objective listed in the Description field.
 
-![](../../.gitbook/assets/add_mesh_course_obj.jpg)
+![Add MeSH](../../.gitbook/assets/add_mesh1.png)
 
  After "Add New" has been clicked \(as shown above\), enter search criteria for MeSH and choose from the result set.
 
-![](../../.gitbook/assets/add_mesh_course_obj_2.jpg)
+![](../../.gitbook/assets/add_mesh2.png)
 
  Now that "Head Protective Devices" has been chosen, the screen appears as follows with the selected item being moved above the results grid in a badge-type display. Clicking the green Save button will complete the process.
 
-![](../../.gitbook/assets/add_mesh_course_obj_3.jpg)
+![](../../.gitbook/assets/add_mesh3.png)
 
 Once the Save action is completed, the screen refreshes to show the MeSH Term now associated with the Course Objective.
 
-![](../../.gitbook/assets/add_mesh_course_obj_4.jpg)
+![MeSH now attached to Course Objective](../../.gitbook/assets/add_mesh4.png)
+
+## Add Vocabulary Terms 
+
+This process is similar to the one detailed above attaching MeSH Terms to Course Objectives. Screen shots and details will be coming soon.
 

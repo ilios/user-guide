@@ -46,5 +46,7 @@ Once the Save action is completed, the screen refreshes to show the MeSH Term no
 
 ## Add Vocabulary Terms 
 
-This process is similar to the one detailed above attaching MeSH Terms to Course Objectives. Screen shots and details will be coming soon.
+This process is similar to the one detailed above attaching MeSH Terms to Course Objectives. Using the same Course Objective as in the previous section, this process is started as shown below.
+
+![](../../.gitbook/assets/addvocab1.png)
 

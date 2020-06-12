@@ -52,3 +52,9 @@ This process is similar to the one detailed above attaching MeSH Terms to Course
 
 ![](../../.gitbook/assets/addvocab2.png)
 
+#### Select Vocabulary
+
+For this example, we would like to choose from the Vocabulary set "Topics". 
+
+![](../../.gitbook/assets/addvocab3.png)
+

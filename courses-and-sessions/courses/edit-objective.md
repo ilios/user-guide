@@ -48,5 +48,7 @@ Once the Save action is completed, the screen refreshes to show the MeSH Term no
 
 This process is similar to the one detailed above attaching MeSH Terms to Course Objectives. Using the same Course Objective as in the previous section, this process is started as shown below.
 
-![](../../.gitbook/assets/addvocab1.png)
+![Click &quot;Add New&quot; to start the process](../../.gitbook/assets/addvocab1.png)
+
+![](../../.gitbook/assets/addvocab2.png)
 

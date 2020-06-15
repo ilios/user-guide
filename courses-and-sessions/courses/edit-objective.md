@@ -58,3 +58,23 @@ For this example, we would like to choose from the Vocabulary set "Topics".
 
 ![](../../.gitbook/assets/addvocab3.png)
 
+The screen now refreshes with the Terms in the Vocabulary set "Topics" displayed and ready for selection and review.
+
+![](../../.gitbook/assets/addvocab4.png)
+
+The list of Terms available for selection can be filtered by entering a text value as shown below. Entering the search / filter criteria of "health c" yields the results shown below.
+
+![](../../.gitbook/assets/addvocab5%20%281%29.png)
+
+Select "Health Care Quality Improvement" by clicking on the "+" icon button as shown below.
+
+![](../../.gitbook/assets/addvocab5.png)
+
+The screen adjusts to reflect this recent action. The newly added Term can be removed by clicking on the red "X" button on the label. The changes can be confirmed or rejected using the standard Save or Cancel buttons
+
+![](../../.gitbook/assets/addvocab6.png)
+
+After confirming the addition of the Term selected, both the MeSH Term added in the previous section and the Vocabulary Term recently added appear as shown below.
+
+![](../../.gitbook/assets/addvocab7.png)
+

@@ -13,13 +13,13 @@ Also, it is important to note that the background color on the Calendar will ref
 
 To create an ILM ...
 
-![Select Course](../../.gitbook/assets/rw_ilm1.png)
+![](../../.gitbook/assets/fndcrs1.png)
 
-![Add New Session](../../.gitbook/assets/rw_ilm2.png)
+![](../../.gitbook/assets/fndcrs2.png)
 
-![](../../.gitbook/assets/rw_ilm3.png)
+![](../../.gitbook/assets/fndcrs3.png)
 
-![](../../.gitbook/assets/rw_ilm4.png)
+![](../../.gitbook/assets/fndcrs4.png)
 
 ### ILM with Due Date
 

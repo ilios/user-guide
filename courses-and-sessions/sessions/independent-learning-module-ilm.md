@@ -65,9 +65,9 @@ The lower part of the screen is shown below. Any \(or all\) of the following Ses
 
 ## Manage Learner Groups
 
-![](../../.gitbook/assets/rw_ilm5.png)
+![](../../.gitbook/assets/ilm_indiv1.png)
 
-After clicking the "Manage Learner Groups" button as shown in the screen shot above, follow the steps outlined below. Keep in mind that if this Session has attached Offerings with Learner Groups attached, this is a separate process. It is necessary to attach Learner Groups and Instructors specifically to this ILM being created or no one will know it exists.
+After clicking the "Manage Learners" button as shown in the screen shot above, follow the steps outlined below. Keep in mind that if this Session has attached Offerings with Learner Groups attached, this is a separate process. It is necessary to attach Learner Groups and Instructors specifically to this ILM being created or no one will know it exists.
 
 ![](../../.gitbook/assets/rw_ilm7.png)
 
@@ -98,6 +98,8 @@ Instructors also need to be attached specifically to this newly created ILM. To 
 ![Manage Instructors](../../.gitbook/assets/rw_ilm12.png)
 
 ![Search for and Select Instructor](../../.gitbook/assets/rw_ilm13.png)
+
+
 
 
 

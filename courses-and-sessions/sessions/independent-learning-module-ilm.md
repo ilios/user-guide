@@ -91,6 +91,10 @@ After saving \(clicking the green check box button\), the Learner Groups counter
 
 ![](../../.gitbook/assets/rw_ilm11.png)
 
+## Manage Individual Learners
+
+Adding individual learners to ILM's can be done by clicking "Manage Learners". Individual learners can now be added in addition \(or as an option\) to the more traditionally assigned Learner Groups - detailed above. 
+
 ## Manage Instructors
 
 Instructors also need to be attached specifically to this newly created ILM. To do this, follow the steps outlined below.

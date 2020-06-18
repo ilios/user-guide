@@ -22,7 +22,7 @@ MeSH terms may be associated with Courses, Sessions, Learning Materials, and Lea
 
 To select a MeSH term from the thesaurus, type in the word or phrase you wish to find, and hit ‘enter’ using your keyboard. The results will display all related concepts, terms and topics, along with their associated descriptor and tree node codes; at the top will display a list of those which have previously been returned and used for similar searches. Clicking a term will add it to the MeSH vocabulary for your selected item. Click the green confirmation button once all terms have been added.
 
-The current version of Ilios has the 2014 MeSH thesaurus loaded. Administrative tools are available to update the MeSH thesaurus in Ilios when desired via the Ilios MeSH parser \([https://github.com/ilios/mesh-parser](https://github.com/ilios/mesh-parser)\).
+The current version of Ilios always has the latest version of the MeSH thesaurus loaded. Administrative tools are available to update the MeSH thesaurus in Ilios when desired via the Ilios MeSH parser \([https://github.com/ilios/mesh-parser](https://github.com/ilios/mesh-parser)\).
 
 To learn more about MeSH, visit the [MeSH](http://www.nlm.nih.gov/mesh/) website.
 

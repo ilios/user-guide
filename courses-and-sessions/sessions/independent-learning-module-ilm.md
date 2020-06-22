@@ -27,7 +27,7 @@ In the case below, the ILM was set with a Due Date of 7/28/2020. Once the Sessio
 
 ![](../../.gitbook/assets/fndcrs5.png)
 
-It is important to note that one or more Learner Groups must be added to ILM's so students will see the offerings on their calendars. The ILM \(like any other type of session\) must also be published.
+It is important to note that one or more Learner Groups or Individual Learners must be added to ILM's so students will see the offerings on their calendars. The ILM \(like any other type of session\) must also be published.
 
 ### ILM Linked to Session
 

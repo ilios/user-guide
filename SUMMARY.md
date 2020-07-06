@@ -62,7 +62,7 @@
     * [Add Individual Learners](courses-and-sessions/offerings/add-individual-learners.md)
   * [Publishing](courses-and-sessions/publishing.md)
 * [Learner Groups](learner-groups/README.md)
-  * [Calendar](learner-groups/calendar.md)
+  * [Learner Group Calendar](learner-groups/calendar.md)
   * [Group Assignment Tool](learner-groups/group-assignment-tool.md)
   * [New Learner Group](learner-groups/new-learner-group.md)
   * [Edit Learner Group](learner-groups/edit-group-properties.md)

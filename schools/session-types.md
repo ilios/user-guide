@@ -20,11 +20,5 @@ Choose a color to display on the Calendar for all Session Types.
 
 De-activate a Session Type if it is no longer in use. This does not change the legacy data but will result in the Session Type no longer being available for use in Ilios.
 
-## Add New Session Type
 
-## Edit Session Type
-
-## Select Session Type Color
-
-## De-Activate Session Type
 

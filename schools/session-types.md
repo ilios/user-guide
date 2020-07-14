@@ -8,6 +8,12 @@ The maintenance of Session Types can easily be accomplished using the Ilios inte
 
 Add a new Session Type. This newly created session type can be used for existing or for future Sessions being created in Ilios.
 
+![Reveal School-level Session Type Details](../.gitbook/assets/new_sess_type1.png)
+
+![Add New Session Type \(Step 1\)](../.gitbook/assets/new_sess_type2.png)
+
+![Add New Session Type \(Step 2\)](../.gitbook/assets/new_sess_type3.png)
+
 ## Edit Session Type
 
 Edit a Session Type's description if it has not been attached to any Sessions.

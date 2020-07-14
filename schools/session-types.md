@@ -18,6 +18,12 @@ Add a new Session Type. This newly created session type can be used for existing
 
 Edit a Session Type's description if it has not been attached to any Sessions.
 
+To do this ...
+
+* Select the Session Type to be modified
+* Click the "edit" button
+* Edit the Session Type's title using the provided "Title" field.
+
 ## Select Session Type Color
 
 Choose a color to display on the Calendar for all Session Types.

@@ -28,6 +28,14 @@ To do this ...
 
 Choose a color to display on the Calendar for all Session Types.
 
+To do this ...
+
+* Select the Session Type to be modified
+* Click the "edit" button
+* Select the new color using the color guide tool or enter a hex value for the new color.
+
+![Selecting A New Color for Session Type](../.gitbook/assets/edit_sess_type_color1.png)
+
 ## De-Activate Session Type
 
 De-activate a Session Type if it is no longer in use. This does not change the legacy data but will result in the Session Type no longer being available for use in Ilios.

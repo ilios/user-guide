@@ -11,7 +11,6 @@ The attributes of an Offering are listed and described here. For more informatio
 * **Duration**: The length of the Offering entered using a combination of Hours and Minutes.
 * **End**: This gets calculated after the above information has been entered.
 * **Location**: This is entered manually, or the default is applied.
-* **URL:** Paste in a URL for a virtual offering location.
 * **Instructors**: Search to find Instructors and / or Instructor Groups to indicate who will be teaching the Offering.
 * **Learner Groups**: This is how Students are assigned into Offerings. If a Student is a member of a Learner Group that is attached to an Offering, the Offering will appear on their calendar.
   * **Selected Learner Groups**: This frame will be populated with any and all Learner Groups associated with the Offering.

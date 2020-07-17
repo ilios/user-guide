@@ -1,6 +1,6 @@
 # Recurring Event
 
-Creating recurring session events in Ilios 3 is extremely easy. To do this, select a Session to attach to the recurring event being added.
+Creating recurring session events is extremely easy. To do this, select a Session to attach to the recurring event being added.
 
 Recurring events are session offerings \(events\) that occur at the same time and place and with the same instructors and learner groups attached for a specified number of weeks. Once the recurring events have been created, these attributes can be modified.
 

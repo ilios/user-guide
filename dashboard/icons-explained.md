@@ -16,13 +16,15 @@ This section of the guide is designed for Learners \(students\) to help explain 
 
 ![More Information - click to see](../.gitbook/assets/more_info.png)
 
-![Learning Material - file indicator](../.gitbook/assets/lm_file.png)
+![Learning Material - file](../.gitbook/assets/lm_file%20%281%29.png)
 
-![Learning Material - link](../.gitbook/assets/lm_link.png)
+![Learning Material - link](../.gitbook/assets/lm_link%20%281%29.png)
 
-![Learning Material - citation](../.gitbook/assets/lm_citation.png)
+![Learning Material - citation](../.gitbook/assets/lm_citation%20%281%29.png)
 
 ![Learning Event - recently updated](../.gitbook/assets/recently_updated.png)
+
+![Instructional Notes - for students to see](../.gitbook/assets/inst_notes.png)
 
 
 

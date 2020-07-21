@@ -1,6 +1,13 @@
+---
+description: >-
+  This section of the guide is designed for Learners (students) to help explain
+  icons you will see within the Ilios application as you use it. This list may
+  not be complete yet as of July 20, 2020. You
+---
+
 # Icons Explained
 
-This section of the guide is designed for Learners \(students\) to help explain icons you will see within the Ilios application as you use it. This list may not be complete yet as of July 20, 2020. You can expect more updates coming soon.
+
 
 ![Special Attire Required](../.gitbook/assets/att_req_icon.png)
 

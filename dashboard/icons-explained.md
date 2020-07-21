@@ -1,8 +1,8 @@
 ---
 description: >-
   This section of the guide is designed for Learners (students) to help explain
-  icons you will see within the Ilios application as you use it. This list may
-  not be complete yet as of July 20, 2020.
+  icons you will see within the Ilios application as you use it. This may not
+  include all icons yet but will soon.
 ---
 
 # Icons Explained

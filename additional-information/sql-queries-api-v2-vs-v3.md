@@ -4,6 +4,8 @@ This page is here to highlight SQL query syntax differences illustrating the cha
 
 The database schema you know and love will be available until the end of the year. We have made some changes to make retrieving data from Ilios easier, especially regarding Course, Session, and Program Year Objectives. There are other small changes, but the primary changes were made in the realm of Objectives.
 
+The table `objective_x_objective` will be completely removed at the end of 2020. The parental Objective relationships contained therein will be available elsewhere and documented here.
+
 ## Course Objectives
 
 #### Sample SQL Query

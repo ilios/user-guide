@@ -6,6 +6,8 @@ The database schema you know and love will be available until the end of the yea
 
 ## Course Objectives
 
+#### Sample SQL Query
+
 ```text
 /** This is for new and old syntaxes for retrieving Objective records 
 from Ilios -- going to use a place holder for course_id [course_id]
@@ -26,11 +28,11 @@ WHERE cxo.course_id = [course_id];
 
 In the Course Objective query outlined above, it is important to note the changes that are taking place with the design of the `course_x_objective` table in particular.
 
-**v2 Schema** - `course_x_objective`
+**v2 Schema** \(old\) - `course_x_objective`
 
 ![](../.gitbook/assets/crs_x_obj_old.png)
 
-**v3 Schema** - `course_x_objective`
+**v3 Schema** \(new\) - `course_x_objective`
 
 ![](../.gitbook/assets/crs_x_obj_new.png)
 

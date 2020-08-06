@@ -4,6 +4,8 @@ This page is here to highlight SQL query syntax differences illustrating the cha
 
 The database schema you know and love will be available until the end of the year. We have made some changes to make retrieving data from Ilios easier, especially regarding Course, Session, and Program Year Objectives. There are other small changes, but the primary changes were made in the realm of Objectives.
 
+## Course Objectives
+
 ```text
 /** This is for new and old syntaxes for retrieving Objective records 
 from Ilios -- going to use a place holder for course_id [course_id]

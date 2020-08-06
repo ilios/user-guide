@@ -113,6 +113,7 @@
 * [Permissions](permissions.md)
 * [Glossary](glossary.md)
 * [Additional Information](additional-information/README.md)
+  * [SQL Queries \(API v2 vs v3\)](additional-information/sql-queries-api-v2-vs-v3.md)
   * [MeSH](additional-information/mesh/README.md)
     * [Add MeSH to Course Objective](additional-information/mesh/add-mesh-to-course-objective.md)
   * [Alert and Email Templates](additional-information/alert-and-email-templates.md)

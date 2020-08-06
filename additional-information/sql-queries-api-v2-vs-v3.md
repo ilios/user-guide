@@ -38,10 +38,39 @@ In the Course Objective query outlined above, it is important to note the change
 
 ![](../.gitbook/assets/crs_x_obj_new.png)
 
-Additional fields that are available in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title** is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Course Objectives.  
+Additional fields that are available in `course_x_objective`in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title** is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Course Objectives.
 
+## Session Objectives
 
+#### Sample SQL Query
 
+```text
+/** new method - session objectives **/
+/** still need to join to session table which contains course ID **/
+SELECT sxo.objective_id, sxo.title FROM session_x_objective sxo
+JOIN session s on s.session_id = sxo.session_id 
+WHERE s.course_id = [course_id];
 
+/** old method - session objectves **/
+SELECT o.objective_id, o.title FROM objective o 
+JOIN session_x_objective sxo ON sxo.objective_id = o.objective_id
+JOIN session s ON s.session_id = sxo.session_id
+where s.course_id = [course_id];
+```
 
+### Tables Affected - Session Objective Query
+
+In the Session Objective query outlined above, it is important to note the changes that are taking place with the design of the `session_x_objective` table in particular. The only reason a join to the `session` table was performed is that we were running our query passed upon the  `course_id` field as a parameter and that field is contained in the `session` table.
+
+**v2 Schema** \(old\) - `session_x_objective`
+
+![](../.gitbook/assets/sess_x_obj_old.png)
+
+**v3 Schema** \(new\) - `session_x_objective`
+
+![](../.gitbook/assets/sess_x_obj_new.png)
+
+Additional fields that are available in `session_x_objective` in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title** is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Session Objectives.
+
+This also makes it easier to deal with Parent Objectives as we will soon see. 
 

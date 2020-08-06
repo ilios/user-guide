@@ -20,7 +20,22 @@ JOIN course_x_objective cxo ON cxo.objective_id = o.objective_id
 WHERE cxo.course_id = [course_id];
 ```
 
-#### Tables Affected - Course Objective Query
+### Tables Affected - Course Objective Query
+
+In the Course Objective query outlined above, it is important to note the changes that are taking place with the design of the `course_x_objective` table in particular.
+
+**v2 Schema** - `course_x_objective`
+
+![](../.gitbook/assets/crs_x_obj_old.png)
+
+**v3 Schema** - `course_x_objective`
+
+![](../.gitbook/assets/crs_x_obj_new.png)
+
+Additional fields that are available in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title** is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Course Objectives.  
+
+
+
 
 
 

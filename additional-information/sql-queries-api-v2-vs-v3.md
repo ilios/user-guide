@@ -15,14 +15,17 @@ The table `objective_x_objective` will be completely removed at the end of 2020.
 from Ilios -- going to use a place holder for course_id [course_id]
 any valid course ID can be used **/
 
-/** new method - retrieve course objectives **/
+/** new method - API v3 - retrieve course objectives **/
 /** only need to query one table `course_x_objective` **/
-SELECT course_objective_id, 
-title FROM course_x_objective WHERE course_id = [course_id];
+SELECT course_objective_id, title 
+  FROM course_x_objective 
+WHERE course_id = [course_id];
 
-/** old method - course objectives **/
-SELECT o.objective_id, o.title FROM objective o 
-JOIN course_x_objective cxo ON cxo.objective_id = o.objective_id
+/** old method - API v2 - course objectives **/
+SELECT o.objective_id, o.title 
+  FROM objective o 
+  JOIN course_x_objective cxo 
+    ON cxo.objective_id = o.objective_id
 WHERE cxo.course_id = [course_id];
 ```
 
@@ -45,17 +48,19 @@ Additional fields that are available in `course_x_objective`in the new version o
 #### Sample SQL Query
 
 ```text
-/** new method - session objectives **/
+/** new method - API v3 - session objectives **/
 /** still need to join to session table which contains course ID **/
-SELECT sxo.objective_id, sxo.title FROM session_x_objective sxo
-JOIN session s on s.session_id = sxo.session_id 
+SELECT sxo.objective_id, sxo.title 
+  FROM session_x_objective sxo
+  JOIN session s on s.session_id = sxo.session_id 
 WHERE s.course_id = [course_id];
 
-/** old method - session objectves **/
-SELECT o.objective_id, o.title FROM objective o 
-JOIN session_x_objective sxo ON sxo.objective_id = o.objective_id
-JOIN session s ON s.session_id = sxo.session_id
-where s.course_id = [course_id];
+/** old method - API v2 - session objectves **/
+SELECT o.objective_id, o.title 
+  FROM objective o 
+  JOIN session_x_objective sxo ON sxo.objective_id = o.objective_id
+  JOIN session s ON s.session_id = sxo.session_id
+WHERE s.course_id = [course_id];
 ```
 
 ### Tables Affected - Session Objective Query
@@ -73,4 +78,30 @@ In the Session Objective query outlined above, it is important to note the chang
 Additional fields that are available in `session_x_objective` in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title** is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Session Objectives.
 
 This also makes it easier to deal with Parent Objectives as we will soon see. 
+
+## Program Year Objectives
+
+#### Sample SQL Query
+
+```text
+/** new method - API v3 - program year objectives **/
+/** only one table needed in query - no joins required **/
+SELECT objective_id, title, competency_id 
+  FROM program_year_x_objective 
+  WHERE program_year_id = [program_year_id];
+/** need to provide program_year_id - [program_year_id] **/
+
+/** old method - API v2 - program year objectives **/
+/** two tables needed - one join **/
+/** need to get the objective text from the `objective` table
+    rather than get it directly from `program_year_x_objective` **/
+SELECT o.objective_id, o.title, o.competency_id 
+  FROM objective o 
+  JOIN program_year_x_objective pyxo 
+    ON pyxo.objective_id = o.objective_id
+  JOIN program_year py on py.program_year_id = pyxo.program_year_id
+WHERE py.program_year_id = [program_year_id];
+/** need to provide program_year_id - [program_year_id] **/
+
+```
 

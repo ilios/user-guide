@@ -4,7 +4,7 @@ This page is here to highlight SQL query syntax differences illustrating the cha
 
 The database schema you know and love will be available until the end of the year. We have made some changes to make retrieving data from Ilios easier, especially regarding Course, Session, and Program Year Objectives. There are other small changes, but the primary changes were made in the realm of Objectives.
 
-The table `objective_x_objective` will be completely removed at the end of 2020. The parental Objective relationships contained therein will be available elsewhere and documented here.
+The table `objective_x_objective` AND `objective` itself will be completely removed at the end of 2020. The parental Objective relationships contained therein will be available elsewhere and documented here.
 
 ## Course Objectives
 
@@ -102,6 +102,31 @@ SELECT o.objective_id, o.title, o.competency_id
   JOIN program_year py on py.program_year_id = pyxo.program_year_id
 WHERE py.program_year_id = [program_year_id];
 /** need to provide program_year_id - [program_year_id] **/
+```
 
+## Session Objectives with Course Objectives
+
+This next one will return all Session Objectives with their parent \(Course\) Objectives as well, whether this parentage has been established or not. In this case, the queries will be separated into their own code blocks with comments.
+
+#### Sample SQL Query \(v2 - Old Schema\)
+
+In the example below, we had to join to the `objective` table twice - once to return the Session Objectives and again to return the Course Objectives. The parent relationship between these two Objective levels is defined using the `objective_x_objective` table. The field `parent_objective_id` returns the ID values used to join to `objective` to retrieve the Objective details.
+
+```text
+/** Old method - all session objectives with course objectives 
+    - parents or not **/
+SELECT s.session_id AS 'Session ID', 
+  s.title AS 'Session',
+  o.title AS 'Session Objective', 
+  oxo.parent_objective_id AS 'Course Objective ID',
+  o2.title AS 'Course Objective'
+FROM session s
+  JOIN session_x_objective sxo ON sxo.session_id = s.session_id
+  JOIN objective o ON o.objective_id = sxo.objective_id
+  LEFT OUTER JOIN objective_x_objective oxo 
+    ON oxo.objective_id = o.objective_id
+  LEFT OUTER JOIN objective o2 
+    ON o2.objective_id = oxo.parent_objective_id
+WHERE s.course_id = [course_id];
 ```
 

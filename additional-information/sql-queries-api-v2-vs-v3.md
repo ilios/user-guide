@@ -130,3 +130,26 @@ FROM session s
 WHERE s.course_id = [course_id];
 ```
 
+#### Sample Query \(v3 - New Schema\)
+
+In the example below, there is no need to join to either `objective` or `objective_x_objective`, both of which will be removed at the end of the year. Left outer joins are performed similarly in both versions of this query in order to return Session Objectives that are NOT linked to Course Objectives.
+
+```text
+/** New method - all session objectives wth course objectives
+  - parents (or not) **/
+SELECT s.session_id AS 'Session ID', 
+  s.title AS 'Session', 
+  sxo.title AS 'Session Objective',
+  soxco.course_objective_id AS 'Course Objective ID',
+  cxo.title AS 'Course Objective'
+FROM session s 
+  JOIN session_x_objective sxo ON sxo.session_id = s.session_id
+  LEFT OUTER JOIN session_objective_x_course_objective soxco 
+    ON soxco.session_objective_id = sxo.session_objective_id
+  LEFT OUTER JOIN course_x_objective cxo 
+    ON cxo.course_objective_id = soxco.course_objective_id
+WHERE s.course_id = [course_id];
+```
+
+
+

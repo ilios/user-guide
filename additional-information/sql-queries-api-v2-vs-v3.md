@@ -79,31 +79,6 @@ Additional fields that are available in `session_x_objective` in the new version
 
 This also makes it easier to deal with Parent Objectives as we will soon see. 
 
-## Program Year Objectives
-
-#### Sample SQL Query
-
-```text
-/** new method - API v3 - program year objectives **/
-/** only one table needed in query - no joins required **/
-SELECT objective_id, title, competency_id 
-  FROM program_year_x_objective 
-  WHERE program_year_id = [program_year_id];
-/** need to provide program_year_id - [program_year_id] **/
-
-/** old method - API v2 - program year objectives **/
-/** two tables needed - one join **/
-/** need to get the objective text from the `objective` table
-    rather than get it directly from `program_year_x_objective` **/
-SELECT o.objective_id, o.title, o.competency_id 
-  FROM objective o 
-  JOIN program_year_x_objective pyxo 
-    ON pyxo.objective_id = o.objective_id
-  JOIN program_year py on py.program_year_id = pyxo.program_year_id
-WHERE py.program_year_id = [program_year_id];
-/** need to provide program_year_id - [program_year_id] **/
-```
-
 ## Session Objectives with Course Objectives
 
 This next one will return all Session Objectives with their parent \(Course\) Objectives as well, whether this parentage has been established or not. In this case, the queries will be separated into their own code blocks with comments.
@@ -149,6 +124,31 @@ FROM session s
   LEFT OUTER JOIN course_x_objective cxo 
     ON cxo.course_objective_id = soxco.course_objective_id
 WHERE s.course_id = [course_id];
+```
+
+## Program Year Objectives
+
+#### Sample SQL Query
+
+```text
+/** new method - API v3 - program year objectives **/
+/** only one table needed in query - no joins required **/
+SELECT objective_id, title, competency_id 
+  FROM program_year_x_objective 
+WHERE program_year_id = [program_year_id];
+/** need to provide program_year_id - [program_year_id] **/
+
+/** old method - API v2 - program year objectives **/
+/** two tables needed - one join **/
+/** need to get the objective text from the `objective` table
+    rather than get it directly from `program_year_x_objective` **/
+SELECT o.objective_id, o.title, o.competency_id 
+  FROM objective o 
+  JOIN program_year_x_objective pyxo 
+    ON pyxo.objective_id = o.objective_id
+  JOIN program_year py on py.program_year_id = pyxo.program_year_id
+WHERE py.program_year_id = [program_year_id];
+/** need to provide program_year_id - [program_year_id] **/
 ```
 
 

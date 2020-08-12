@@ -15,29 +15,29 @@ Refer to [Calendar Views and Filtering Options](https://iliosproject.gitbook.io/
 
 To use this functionality, pull up a Session. The screen initially appears similar to what is shown below. 
 
-![](../../.gitbook/assets/session_detail_top.png)
+![](../../.gitbook/assets/sess_ldrship1.png)
 
 Click to expand the list as shown above and then click "Manage Leadership" to add and / or remove Session Administrators.
 
-![](../../.gitbook/assets/session_detail_top_exp.png)
+![](../../.gitbook/assets/sess_ldrship2.png)
 
-For the sake of example, we want to remove "Nicholas C. Bradley" and include instead "Nicholas Gutierrez" as Course Administrator. To do this ...
+For the sake of example, we want to add "Nicholas Gutierrez" as Course Administrator. To do this ...
 
 After clicking "Manage Leadership", follow the steps shown below to add the correct "Nicholas" to list of Session Administrators.
 
-![](../../.gitbook/assets/session_leadership_select.png)
+![](../../.gitbook/assets/sess_ldrship3.png)
 
-Below you can see "Nicholas Gutierrez" has been added correctly to the list. We still need to remove "Nicholas Bradley". That can be done as shown.
+Below you can see "Nicholas Gutierrez" has been added correctly to the list. 
 
-![](../../.gitbook/assets/session_leadership_remove.png)
+![](../../.gitbook/assets/sess_ldrship4.png)
 
-Once both changes have been correctly made, the screen appears as shown below.
+Once the change has been correctly made and saved, the screen appears as shown below.
 
-![](../../.gitbook/assets/session_leadership_new_list.png)
+![](../../.gitbook/assets/sess_ldrship5.png)
 
-After processing the Save event, the correct three Ilios users are now confirmed to be Session Administrators, who can modify any aspect of this Session and any Offerings attached.
+After processing the Save event, the correct Ilios user is now confirmed to be a Session Administrator, who can modify any aspect of this Session and any Offerings attached.
 
-![](../../.gitbook/assets/session_leadership_confirmed.png)
+**NOTE**: The process for adding Student Advisors is identical, except for the search is performed in using the Student Advisors area instead of Administrators.
 
 Refer to the [Permissions Matrix](https://docs.google.com/spreadsheets/d/1FbR53C2clvNoWZHMElQRfuJ4jHbZtr5pFl11et0zszY/edit?ts=5ad90141#gid=0) for more information on permissions granted when a user is granted Session Administrator rights. Session Administrators will see the offerings for the sessions they administer on their calendars by default.
 

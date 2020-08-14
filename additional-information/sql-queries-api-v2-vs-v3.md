@@ -151,5 +151,61 @@ WHERE py.program_year_id = [program_year_id];
 /** need to provide program_year_id - [program_year_id] **/
 ```
 
+## Session Objectives with Course Objectives and Program Year \(Parent\) Objectives
 
+#### Sample SQL Queries with Comments
+
+```text
+
+/** New method - all session objectives wth course objective parents 
+    (or not) and program year objectives **/
+SELECT s.session_id AS 'Session ID', 
+  s.title AS 'Session', 
+  sxo.title AS 'Session Objective' ,
+  soxco.course_objective_id AS 'Course Objective ID',
+  cxo.title AS 'Course Objective', 
+  coxpyo.program_year_objective_id AS 'Program Year Obj ID',
+  pyxo.title AS 'Program Year Objective Text'
+FROM session s 
+  JOIN session_x_objective sxo 
+    ON sxo.session_id = s.session_id
+  LEFT OUTER JOIN session_objective_x_course_objective soxco 
+    ON soxco.session_objective_id = sxo.session_objective_id
+  LEFT OUTER JOIN course_x_objective cxo 
+    ON cxo.course_objective_id = soxco.course_objective_id
+  LEFT OUTER JOIN course_objective_x_program_year_objective coxpyo 
+    ON coxpyo.course_objective_id = cxo.course_objective_id
+  LEFT OUTER JOIN program_year_x_objective pyxo 
+    ON pyxo.program_year_objective_id = coxpyo.program_year_objective_id
+WHERE s.course_id = [coures_id];
+
+/** Old method - all session objectives with course objectives 
+    - parents or not and program year objectives **/
+/** Using this technique, it is required to join 
+    3 times to the Objective table - 
+      once each for Session, Course, and Program Year **/
+SELECT s.session_id AS 'Session ID', 
+  s.title AS 'Session',
+  o.title AS 'Session Objective', 
+  o2.objective_id AS 'Course Objective ID',
+  o2.title AS 'Course Objective', 
+  o3.objective_id AS 'Prog Year Obj ID',
+  o3.title AS 'PY Obj'
+FROM session s
+  JOIN session_x_objective sxo 
+    ON sxo.session_id = s.session_id
+  JOIN objective o 
+    ON o.objective_id = sxo.objective_id
+  LEFT OUTER JOIN objective_x_objective oxo 
+    ON oxo.objective_id = o.objective_id
+  LEFT OUTER JOIN objective o2 
+    ON o2.objective_id = oxo.parent_objective_id
+  LEFT OUTER JOIN objective_x_objective oxo2 
+    ON oxo2.objective_id = o2.objective_id
+  LEFT OUTER JOIN objective o3 
+    ON o3.objective_id = oxo2.parent_objective_id
+WHERE s.course_id = [course_id];
+```
+
+ 
 

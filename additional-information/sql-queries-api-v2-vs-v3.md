@@ -10,7 +10,7 @@ The table `objective_x_objective` AND `objective` itself will be completely remo
 
 #### Sample SQL Query
 
-```text
+```sql
 /** This is for new and old syntaxes for retrieving Objective records 
 from Ilios -- going to use a place holder for course_id [course_id]
 any valid course ID can be used **/
@@ -47,7 +47,7 @@ Additional fields that are available in `course_x_objective`in the new version o
 
 #### Sample SQL Query
 
-```text
+```sql
 /** new method - API v3 - session objectives **/
 /** still need to join to session table which contains course ID **/
 SELECT sxo.objective_id, sxo.title 
@@ -87,7 +87,7 @@ This next one will return all Session Objectives with their parent \(Course\) Ob
 
 In the example below, we had to join to the `objective` table twice - once to return the Session Objectives and again to return the Course Objectives. The parent relationship between these two Objective levels is defined using the `objective_x_objective` table. The field `parent_objective_id` returns the ID values used to join to `objective` to retrieve the Objective details.
 
-```text
+```sql
 /** Old method - all session objectives with course objectives 
     - parents or not **/
 SELECT s.session_id AS 'Session ID', 
@@ -109,7 +109,7 @@ WHERE s.course_id = [course_id];
 
 In the example below, there is no need to join to either `objective` or `objective_x_objective`, both of which will be removed at the end of the year. Left outer joins are performed similarly in both versions of this query in order to return Session Objectives that are NOT linked to Course Objectives.
 
-```text
+```sql
 /** New method - all session objectives wth course objectives
   - parents (or not) **/
 SELECT s.session_id AS 'Session ID', 
@@ -130,7 +130,7 @@ WHERE s.course_id = [course_id];
 
 #### Sample SQL Query
 
-```text
+```sql
 /** new method - API v3 - program year objectives **/
 /** only one table needed in query - no joins required **/
 SELECT objective_id, title, competency_id 
@@ -153,32 +153,9 @@ WHERE py.program_year_id = [program_year_id];
 
 ## Session Objectives with Course Objectives and Program Year \(Parent\) Objectives
 
-#### Sample SQL Queries with Comments
+#### Sample SQL Query \(v2 - Old Schema\)
 
-```text
-
-/** New method - all session objectives wth course objective parents 
-    (or not) and program year objectives **/
-SELECT s.session_id AS 'Session ID', 
-  s.title AS 'Session', 
-  sxo.title AS 'Session Objective' ,
-  soxco.course_objective_id AS 'Course Objective ID',
-  cxo.title AS 'Course Objective', 
-  coxpyo.program_year_objective_id AS 'Program Year Obj ID',
-  pyxo.title AS 'Program Year Objective Text'
-FROM session s 
-  JOIN session_x_objective sxo 
-    ON sxo.session_id = s.session_id
-  LEFT OUTER JOIN session_objective_x_course_objective soxco 
-    ON soxco.session_objective_id = sxo.session_objective_id
-  LEFT OUTER JOIN course_x_objective cxo 
-    ON cxo.course_objective_id = soxco.course_objective_id
-  LEFT OUTER JOIN course_objective_x_program_year_objective coxpyo 
-    ON coxpyo.course_objective_id = cxo.course_objective_id
-  LEFT OUTER JOIN program_year_x_objective pyxo 
-    ON pyxo.program_year_objective_id = coxpyo.program_year_objective_id
-WHERE s.course_id = [coures_id];
-
+```sql
 /** Old method - all session objectives with course objectives 
     - parents or not and program year objectives **/
 /** Using this technique, it is required to join 
@@ -207,5 +184,31 @@ FROM session s
 WHERE s.course_id = [course_id];
 ```
 
- 
+#### Sample SQL Query \(v3 - New Schema\)
+
+```sql
+/** New method - all session objectives wth course objective parents 
+    (or not) and program year objectives **/
+SELECT s.session_id AS 'Session ID', 
+  s.title AS 'Session', 
+  sxo.title AS 'Session Objective' ,
+  soxco.course_objective_id AS 'Course Objective ID',
+  cxo.title AS 'Course Objective', 
+  coxpyo.program_year_objective_id AS 'Program Year Obj ID',
+  pyxo.title AS 'Program Year Objective Text'
+FROM session s 
+  JOIN session_x_objective sxo 
+    ON sxo.session_id = s.session_id
+  LEFT OUTER JOIN session_objective_x_course_objective soxco 
+    ON soxco.session_objective_id = sxo.session_objective_id
+  LEFT OUTER JOIN course_x_objective cxo 
+    ON cxo.course_objective_id = soxco.course_objective_id
+  LEFT OUTER JOIN course_objective_x_program_year_objective coxpyo 
+    ON coxpyo.course_objective_id = cxo.course_objective_id
+  LEFT OUTER JOIN program_year_x_objective pyxo 
+    ON pyxo.program_year_objective_id = coxpyo.program_year_objective_id
+WHERE s.course_id = [coures_id];
+```
+
+
 

@@ -155,6 +155,8 @@ WHERE py.program_year_id = [program_year_id];
 
 #### Sample SQL Query \(v2 - Old Schema\)
 
+**NOTE**: These v2 Queries will no longer run after the end of 2020.
+
 ```sql
 /** Old method - all session objectives with course objectives 
     - parents or not and program year objectives **/

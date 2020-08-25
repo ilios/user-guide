@@ -2,7 +2,7 @@
 
 ### Course Leadership
 
-Course Leadership is part of the new permissions model. Course Directors, Course Administrators, and Student Advisors are added here. Course Directors and Administrators  have the same rights - to maintain any and all aspects of this Course. It is a matter of specifying whether the user is an administrative user using Ilios to maintain the Course or if the user is actually a Director. 
+Course Leadership is part of the new permissions model. Course Directors, Course Administrators, and Student Advisors are added here. Course **Directors** and **Administrators**  have similar rights - to maintain any and all aspects of this Course. It is a matter of specifying whether the user is an administrative user using Ilios to maintain the Course or if the user is actually a Director. 
 
 **Student Advisors** are able to download any and all Learning Materials from a Course to which they have been given this role. They will need to navigate the Calendar in order to access these resources. In other words, their Week at a Glance, Activities, and calendar feed will NOT contain all of the learning events of their assigned Courses; but the Learning Materials will be available for them to review to assist other students.
 

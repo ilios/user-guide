@@ -10,9 +10,9 @@ Refer to the [permissions matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilio
 
 ![](../../.gitbook/assets/crs_ldrshp1.png)
 
-Clicking on Course Leadership opens up the details for this Course and allows modification of this leadership. As shown below, click **Manage Leadership** to add or remove Course Leadership - Directors and/or Administrators.
+Clicking on Course Leadership opens up the details for this Course and allows modification of this leadership. As shown below, click **Manage Leadership** to add or remove Course Leadership - Directors, Administrators, and / or Student Advisors.
 
-![](../../.gitbook/assets/course_leadership_expanded.png)
+![](../../.gitbook/assets/crs_ldrshp2.png)
 
 ![](../../.gitbook/assets/course_leadership_detail.png)
 

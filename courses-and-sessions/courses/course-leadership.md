@@ -8,7 +8,7 @@ Course Leadership is part of the new permissions model. Course Directors, Course
 
 Refer to the [permissions matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) for more information on these updated permissions. After exposing the Course Details, Course Leadership is the next functional area below the Course Summary Details section.
 
-![](../../.gitbook/assets/course_leadership_collapsed.png)
+![](../../.gitbook/assets/crs_ldrshp1.png)
 
 Clicking on Course Leadership opens up the details for this Course and allows modification of this leadership. As shown below, click **Manage Leadership** to add or remove Course Leadership - Directors and/or Administrators.
 

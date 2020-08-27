@@ -1,6 +1,6 @@
 # Calendar Preview
 
-This is an exciting new and very useful feature which presents a view of the weekly calendar of any user who can be retrieved in the Admin Console.
+This feature presents a view of the weekly calendar of any user who can be retrieved in the Admin Console.
 
 Only the weekly view is available; but you can scroll forward or backwards in time to any date to view the Learning and / or Teaching activities assigned to that Ilios user.
 

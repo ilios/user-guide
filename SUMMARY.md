@@ -93,7 +93,6 @@
 * [Admin](admin/README.md)
   * [View All](admin/view-all.md)
   * [Create New User](admin/create-new-user.md)
-  * [School Permissions](admin/school-permissions.md)
   * [Maintain User Record](admin/maintain-user-record.md)
   * [Add Learners to Cohort](admin/add-learners-to-cohort.md)
   * [Fix User Account Discrepancies](admin/fix-user-account-discrepancies.md)

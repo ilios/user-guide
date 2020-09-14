@@ -10,7 +10,7 @@ To perform a quick search to find any Ilios topic you may be hoping to find, the
 
 ![](.gitbook/assets/user_guide_search_1.jpg)
 
-In this example, the search term entered is only "Add". You can see that 38 results were returned from that generic search. "Add New Session" is the first of the 38 results returned. The others can located by scrolling down the page.
+In this example, the search term entered is only "Add". You can see that 38 results were returned from that generic search. "Add New Session" is the first of the 38 results returned. The others can located by scrolling down the page. The highest likelihood \(best match\) appears towards the top of the screen decreasing further down the page.
 
 ![](.gitbook/assets/user_guide_search_2.jpg)
 

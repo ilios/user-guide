@@ -14,31 +14,47 @@ Clicking on Course Leadership opens up the details for this Course and allows mo
 
 ![](../../.gitbook/assets/crs_ldrshp2.png)
 
-![](../../.gitbook/assets/course_leadership_detail.png)
+To remove Course Directors, Administrators, or Student Advisors, simply click the red "X" to remove the users from the list and then save using the green Save button in the upper right corner \(or Cancel\).
 
-For the sake of demonstration, I will remove "Juan B. Bowman" and put him in his correct categorization as a Course Administrator and not as a Course Director. He will have the same rights as a Director but for reporting and analytical purposes, his role is more administrative in nature so this designation is more accurate.
+![](../../.gitbook/assets/crs_ldrshp3.png)
+
+For the sake of demonstration, I will remove "Carl Gloria Sanders" and put that user in their correct categorization as a Course Administrator and not as a Course Director. He will have the same rights as a Director but for reporting and analytical purposes, his role is more administrative in nature so this designation is more accurate.
 
 **Steps taken** **...**
 
-* Removed "Juan B. Bowman" by clicking as shown above.
-* Performed a search on the right side text box for "Juan".
+* Removed "Carl Gloria Sanders" from the "Directors" area.
+
+Before Saving ...
+
+![](../../.gitbook/assets/crs_ldrshp4.png)
+
+After Saving ...
+
+![](../../.gitbook/assets/crs_ldrshp5.png)
+
+* Click "Manage Leadership" to perform the action required.
+* Perform a search on the right side text box for "Carl Gloria".
 * Select the correct user.
 
-The pre-save screen appears as shown below.
+![](../../.gitbook/assets/crs_ldrshp6.png)
 
-![](../../.gitbook/assets/course_leadership_changing.png)
+The pre-save screen appears as shown below. The user "Carl Gloria Sanders" has been placed into the correct user role \(Course Administrator\).
 
-After processing the Save event as shown above, the changes are correctly reflected in the Course Leadership counts and detail.
+![](../../.gitbook/assets/crs_ldrshp7.png)
+
+After processing the Save event as shown above, the changes are correctly reflected in the Course Leadership detail. The Course Leadership details are still expanded.
 
 **Expanded \(after save\)**
 
-![](../../.gitbook/assets/course_leadership_post_1.png)
+![](../../.gitbook/assets/crs_ldrshp8.png)
+
+![](../../.gitbook/assets/crs_ldrshp9.png)
 
 **After hiding the list ...**
 
 This displays the contracted Course Leadership area in the context of the larger Course Details reflecting the updated counts but hiding the details.
 
-![](../../.gitbook/assets/course_leadership_post_2.png)
+![](../../.gitbook/assets/crs_ldrshp10.png)
 
 ## 
 

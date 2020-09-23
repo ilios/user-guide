@@ -24,11 +24,11 @@ For the sake of demonstration, I will remove "Carl Gloria Sanders" and put that 
 
 * Removed "Carl Gloria Sanders" from the "Directors" area.
 
-Before Saving ...
+**Before Saving ...**
 
 ![](../../.gitbook/assets/crs_ldrshp4.png)
 
-After Saving ...
+**After Saving ...**
 
 ![](../../.gitbook/assets/crs_ldrshp5.png)
 

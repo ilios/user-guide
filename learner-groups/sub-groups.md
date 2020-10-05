@@ -4,6 +4,10 @@ To add one or more Sub Groups, click as shown below to start this process.
 
 ![](../.gitbook/assets/demo_sub1.jpg)
 
+**NOTE**: Although this may not occur frequently, it is worth noting that the maximum length of a Learner Group or Sub Group name is 60 characters. High level group names and sub group names cannot exceed 60 characters. If an auto-generated sub group name ends up exceeding 60 characters, the characters before the numerical characters at the end of the sub group name will be truncated. This is shown below. The sub group's full name would have been "One Two Three A Big Ole Group For Me to Use to Test and Show 01". That would have required more than 60 characters. The following characters got removed in order to allow for the sub group's numerical value to appear ... "how ".
+
+![](../.gitbook/assets/lg_name_trun1.png)
+
 ## Add Single Sub Group
 
 Adding a single sub group is the default \(as shown below\).

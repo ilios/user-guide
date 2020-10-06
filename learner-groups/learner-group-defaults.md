@@ -1,8 +1,7 @@
 ---
 description: >-
-  This section explains how to set default location, default instructors, and /
-  or default virtual learning link for Learner Groups (for small group
-  sessions).
+  This section explains how to set default location and / or default instructors
+  for Learner Groups (for small group sessions).
 ---
 
 # Learner Group Defaults
@@ -56,16 +55,4 @@ After performing the action shown above, additional Instructors or Instructor Gr
 After confirming by clicking the check box button ...
 
 ![](../.gitbook/assets/lgdefault8.png)
-
-## Default Virtual Learning Link
-
-This is used to set a default virtual learning link for this small group. Remote learning has made this important in recent years. The value can be pasted or entered as shown in an updated screen shots shown below.
-
-![](../.gitbook/assets/dvll1.png)
-
-![](../.gitbook/assets/dvll2.png)
-
-![](../.gitbook/assets/dvll3.png)
-
-To finish the process, click the green confirmation button or press enter on the keyboard. Members of "Anatomy Lab Groups 01" will see the default virtual learning link in the offering detail. Every small group offering for this group will obtain these very useful default values.
 

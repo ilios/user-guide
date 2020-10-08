@@ -59,5 +59,17 @@ This is a long screen so it will be described in the guide in separate screen sh
 
 **Default Instructor:** Same as with location. 
 
+**Default Virtual Learning Link**: Same as with location.
+
+**Needs Accommodation**: This is set to affirmative by sliding the toggle as shown below. This is for virtual learning. The learner group has at least one member who requires accommodation like closed captions or something else in a virtual learning setting.
+
+         Before ...
+
+![](../.gitbook/assets/accomm_pre%20%281%29.png)
+
+         After ...
+
+![](../.gitbook/assets/accomm_post.png)
+
 **Associated Courses:** Read-only list of Courses that have this Learner Group attached to one or more Session Offerings.
 

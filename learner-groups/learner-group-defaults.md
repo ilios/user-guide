@@ -85,5 +85,7 @@ You can review and verify which learner groups have had this value set. Refer to
 
 ![](../.gitbook/assets/needs_accom3.png)
 
+These groups are subgroups. From the parent group \(one level up\), this is how these designations appear.
 
+![](../.gitbook/assets/needs_accom4.png)
 

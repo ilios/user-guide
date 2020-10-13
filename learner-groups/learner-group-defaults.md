@@ -69,3 +69,21 @@ This is used to set a default virtual learning link for this small group. Remote
 
 To finish the process, click the green confirmation button or press enter on the keyboard. Members of "Anatomy Lab Groups 01" will see the default virtual learning link in the offering detail. Every small group offering for this group will obtain these very useful default values.
 
+## Needs Accommodation
+
+This is used when one or more learners in a learner group require accommodations to successfully participate in remote learning activities.
+
+Initially \(before being set\), the toggle appears as shown below. The default for any learner group is "No"
+
+![](../.gitbook/assets/needs_accom1.png)
+
+Slide the toggle over to the right by clicking it.
+
+![](../.gitbook/assets/needs_accom2.png)
+
+You can review and verify which learner groups have had this value set. Refer to the arrows in the screen shot below.
+
+![](../.gitbook/assets/needs_accom3.png)
+
+
+

@@ -7,8 +7,6 @@ description: >-
 
 # Learner Group Defaults
 
-## 
-
 ## Default Location
 
 To specify a default location for a small group offering to take place, the following steps can be taken.

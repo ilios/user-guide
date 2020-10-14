@@ -87,3 +87,5 @@ These groups are subgroups. From the parent group \(one level up\), this is how 
 
 ![](../.gitbook/assets/needs_accom4.png)
 
+Learners in these groups will NOT see this anywhere in the offering view on calendar or Week at a Glance. This is only for administrative purposes.
+

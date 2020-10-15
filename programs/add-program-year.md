@@ -45,7 +45,11 @@ To start with, navigate to Programs and select a Program. In this case, "Doctor 
 
 For this example, and in order to show more detail in upcoming steps, Matriculation Year "2016-2017" with the Cohort of "Class of 2020" has been selected. At the time of this edit, those students will have recently graduated. This is useful in detailing Competency use throughout the student's educational trajectory. They will have already learned the Topics and Competencies on offer in the Program. Reporting out will provide more robust results.
 
+![Select Program Year](../.gitbook/assets/programs2.png)
 
+Here is the resulting display after selecting "Class of 2020" as the Program Year.
+
+![Program Year Detail](../.gitbook/assets/py2.png)
 
 
 

@@ -46,9 +46,36 @@ For this example, and in order to show more detail in upcoming steps, Matriculat
 
 ![Select Program Year](../.gitbook/assets/programs2.png)
 
-Here is the resulting display after selecting "Class of 2020" as the Program Year.
+Here is the resulting display after selecting "Class of 2020" as the Program Year. Editing a Program Year means utilizing the navigation shown below. 
 
 ![Program Year Detail](../.gitbook/assets/py2.png)
+
+When reviewing Program Year Objectives, you can not only download the Competency Map, you can review how these Program Year Objectives are mapped in Courses Objectives as parents.
+
+#### View Objective Mapping
+
+Below is a sample screen shot illustrating this. The Program Year Objective "MK2 \(graduation\) ..." has been expanded by clicking the arrow to the left of the Objective. Viewable are the Courses in which this was taught along with the text values of the associated Course Objectives.
+
+![](../.gitbook/assets/pyobj1.png)
+
+![Program Year Objectives](../.gitbook/assets/py3.png)
+
+Below is a list of Program Year Objective attributes that can be edited or changes that be made here.
+
+* **Sort Objectives**: Use this to set the order in which these objectives will appear - drag and drop
+* \*\*\*\*[**Download Competency Map**](https://iliosproject.gitbook.io/ilios-user-guide/programs/competency-map-download)\*\*\*\*
+* **Edit Description**: Clicking on the description of a Program Year Objectives will bring up an editing control.
+* **Competency**: The school level Competency / Domain Knowledge can be set here.
+* **Vocabulary Terms**: Terms can be attached to Program Year Objectives in the same manner as they are to Courses, Sessions etc.
+* **MeSH Terms**: Same as with Vocabulary Terms but using MeSH instead
+* **Active**: The light bulb icon indicates if an Objective is currently active and can be selected at the Course level. Clicking on the light bulb will de-activate the Objective, not destroying any legacy data but making sure it can not be selected going forward. Historical data will appear read-only.
+* **Trash**: The trash can will appear active if the Program Year in question has not been used as a Parent Objective for any Course Objective.
+
+
+
+
+
+
 
 
 

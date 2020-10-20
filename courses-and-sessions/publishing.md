@@ -4,8 +4,8 @@ Ilios has a built in publishing workflow for curricular material. The publishing
 
 There are two places in Ilios where the concept of **"Publishing"** applies ...
 
-*  **Courses** 
-*  **Sessions**
+*  ****[**Courses** ](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses)
+*  ****[**Sessions**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions)\*\*\*\*
 
 ## To Publish a Course ...
 

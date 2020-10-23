@@ -39,3 +39,9 @@ description: >-
 
 ![Learning Material - required \(won&apos;t appear if optional\)](../.gitbook/assets/lm_reqd.png)
 
+![Campus Name of Record - if different from Ilios user name, this icon appears.](../.gitbook/assets/campus_name.png)
+
+**NOTE**: Mousing over the informational icon as it pertains to user name will provide the campus name of record. An example is shown below \(from the Admin Console\) after pulling up the user record. The user's name was originally "Nicholas Ann Gutierrez" rather than what it currently is in Ilios "Dabney Gutierrez".
+
+![](../.gitbook/assets/campus_name_2.png)
+

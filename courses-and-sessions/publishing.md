@@ -64,6 +64,10 @@ In the _**Publish Full Course with All Sessions**_ workflow, a display of the co
 
 When a course is in Scheduled state and has sessions in Published and/or Scheduled state, those Published and Scheduled sessions will display as TBD until the course is published. A published course will display any Scheduled or Published sessions as their state indicates accordingly.
 
+![](../.gitbook/assets/publish_all1.png)
+
+In the example above, the Course contains a total of 160 sessions. Many of these may have already been published. After clicking as shown, there will be an opportunity to review all of the sessions before taking action on publication.
+
 ## 
 
 

@@ -4,5 +4,5 @@ Sessions \(like Courses\) can be deleted if you have sufficient permissions to d
 
 The trash can icon that is used to perform session deletion is located as shown below.
 
-![](../../.gitbook/assets/delete_session_1.jpg)
+![](../../.gitbook/assets/del_session_1.png)
 

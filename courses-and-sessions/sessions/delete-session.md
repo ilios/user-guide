@@ -10,3 +10,5 @@ An example of this is shown below. Any of these sessions can be deleted except f
 
 ![](../../.gitbook/assets/del_session_2.png)
 
+![Zoomed In](../../.gitbook/assets/pre_work_indicator.png)
+

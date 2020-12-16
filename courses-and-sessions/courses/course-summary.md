@@ -8,3 +8,5 @@ The top-most portion of the Print Summary is displayed below. All Sessions and a
 
 ![Print Summary Screen - top](../../.gitbook/assets/course_print_summary_top.jpg)
 
+After generating the course summary for any course, it can be saved as .html using "Save As". Alternatively, you can choose "Print" and point it to save and download as .pdf. These controls may be in different places but in Chrome, these instructions apply. The documents can be searched outside of Ilios itself and only containing the information that pertains to the course selected.
+

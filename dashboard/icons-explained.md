@@ -7,7 +7,7 @@ description: >-
 
 # Icons Explained
 
-
+### Student Facing Icons
 
 ![Special Attire Required](../.gitbook/assets/att_req_icon.png)
 
@@ -38,6 +38,8 @@ description: >-
 ![Attendance Required](../.gitbook/assets/att_req.png)
 
 ![Learning Material - required \(won&apos;t appear if optional\)](../.gitbook/assets/lm_reqd.png)
+
+### Non-learner Facing Icons
 
 ![Campus Name of Record - if different from Ilios user name, this icon appears.](../.gitbook/assets/campus_name.png)
 

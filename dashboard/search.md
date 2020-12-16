@@ -66,3 +66,5 @@ Once a search has been performed using the Global Search functionality, the resu
 
 ![Detail View of Year Selector](../.gitbook/assets/gs_res_2.png)
 
+Use of one or both of the filters shown above will change the result set to only include the values which meet the selected specifications. 
+

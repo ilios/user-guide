@@ -45,3 +45,5 @@ description: >-
 
 ![](../.gitbook/assets/campus_name_2.png)
 
+![Pre-work attached \(Session can&apos;t be deleted when this is the case\)](../.gitbook/assets/pre-work_icon.png)
+

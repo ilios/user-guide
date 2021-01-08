@@ -20,7 +20,7 @@ Web links can be followed with a click of the mouse. Citations can be viewed rig
 
 ## 2. Download File \(available for any file\)
 
-This has always been the default behavior for all files. Now .pdf files have been configured so they can be viewed in an "inline" manner without requiring the file to be downloaded. Any file can be downloaded as shown above by the orange arrow.
+In the past, this was the default behavior for all files. Now .pdf files have been configured so they can be viewed in an "inline" manner without requiring the file to be downloaded. Any file can be downloaded as shown above by the orange arrow.
 
 ## 3. Copy Link \(available for any Learning Material\)
 

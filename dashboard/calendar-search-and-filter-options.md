@@ -12,15 +12,15 @@ _**My Schedule**_ will display only those results which are available within the
 
 **Important Note:** Course Directors will see all of the Offerings for the Courses they assigned to as Course Directors; however Course Administrators and Student Advisors will **NOT** see all of the Offerings initially. They are encouraged to use the filters and / or Courses and Sessions screen to review the Offerings in the Course\(s\) for which they have been assigned the Course Administrator or Student Advisor role.
 
-![Click to select My Schedule](../.gitbook/assets/new_buttons.jpg)
+![](../.gitbook/assets/dashbd1.png)
 
 To switch to "All Events", click as shown below.
 
-![Click to swtich to All Events](../.gitbook/assets/all_events.jpg)
+![](../.gitbook/assets/dashbd2.png)
 
 As seen below, "All Events" is now selected.
 
-![All Events is now the selected view.](../.gitbook/assets/all_events_selected.jpg)
+![](../.gitbook/assets/dashbd3.png)
 
 _**Note about Buttons:**_ The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a Toggle will switch the toggle to another setting. The slider could be on either side.
 

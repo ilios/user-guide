@@ -20,7 +20,7 @@ To switch to "All Events", click as shown below.
 
 As seen below, "All Events" is now selected.
 
-![Click to swtich to All Events](../.gitbook/assets/all_events_selected.jpg)
+![All Events is now the selected view.](../.gitbook/assets/all_events_selected.jpg)
 
 _**Note about Buttons:**_ The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a Toggle will switch the toggle to another setting. The slider could be on either side.
 

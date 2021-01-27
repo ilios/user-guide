@@ -35,7 +35,7 @@ It may be helpful to also toggle to view "All Events" \(as shown above\) rather 
 
 To activate the Filters ...
 
-![Click the Toggle](../.gitbook/assets/show_filters.jpg)
+![](../.gitbook/assets/filters1.png)
 
 The toggles now appear as shown below with the filters activated and visible.
 

@@ -39,7 +39,7 @@ To activate the Filters ...
 
 The toggles now appear as shown below with the filters activated and visible.
 
-![Click the Toggle](../.gitbook/assets/show_filters_2.jpg)
+![](../.gitbook/assets/filters2.png)
 
 #### Search By Course/Type
 

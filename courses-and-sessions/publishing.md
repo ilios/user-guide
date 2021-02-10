@@ -15,7 +15,7 @@ Both **Course** and **Session** must be published in order to have the attached 
 
 **IMPORTANT** **TO** **NOTE:** This is not the case with **Instructors**. They will see all of their Offerings, even if the Course or Session has **NOT** been published; whereas **Students** will not.
 
-![Publish Course](../.gitbook/assets/publish_course_1.jpg)
+![](../.gitbook/assets/crs_pub1.png)
 
 **To Publish a Course \(with one or more Missing Items\) ...**
 

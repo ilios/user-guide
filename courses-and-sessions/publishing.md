@@ -17,6 +17,10 @@ Both **Course** and **Session** must be published in order to have the attached 
 
 ![](../.gitbook/assets/crs_pub1.png)
 
+After performing the step indicated above, the publication status drop-down now reflects the updated Course status as "Published".
+
+![](../.gitbook/assets/crs_published1.png)
+
 **To Publish a Course \(with one or more Missing Items\) ...**
 
 There are 2 different types of data attributes available for checking in the workflow: _**required**_ fields, which must be present for publishing, and if unavailable will make the publish button in the checklist inactive; and _**desired**_ fields, which may be overridden after review, or left as-is without override. If overridden, the course object publishes normally. If left as-is, the course object is published as “TBD”, or “Scheduled” – which reserves space on the calendar for users to see, but does not provide details of the session. Re-publishing a course or session at any time will update the information contained in it to its most recent state. Courses and sessions are independent of one another in the workflow, and can be published individually. A course, as the umbrellas container of its sessions, may also be published together with all of its associated sessions.

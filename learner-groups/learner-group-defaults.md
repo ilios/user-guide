@@ -15,17 +15,17 @@ To specify a default location for a small group offering to take place, the foll
 
 * Select the Learner Group to modify and click "Click to edit" or if there already is a default location, it will be hyperlinked. Clicking on the text value of the default location will open the editing pane.
 
-![Click to Edit](../.gitbook/assets/lgdefault1.png)
+![](../.gitbook/assets/lgdefloc1.png)
 
 * After following the step indicated above, the "Click to edit" Default Location field changes into a text box allowing the default location to be entered manually. This is shown below. The default location has been entered for this Learner Group "HSW 322".
 
-![](../.gitbook/assets/lgdefault2.png)
+![](../.gitbook/assets/lgdefloc2.png)
 
 * Click the green check box or press Enter on the keyboard to save this specification.
 
-Now that it has been saved, "HSW 322" appears as a clickable hyperlink in case changes need to be made.
+Now that it has been saved, "HSW 322" appears as a clickable hyperlink in case changes need to be made. Small Group offerings that get created going forward will obtain this value as the Offering's location. This will not affect or update previous small group offerings associated with this learner group.
 
-![](../.gitbook/assets/lgdefault3.png)
+![](../.gitbook/assets/lgdefloc3.png)
 
 ## Default Instructor\(s\)
 

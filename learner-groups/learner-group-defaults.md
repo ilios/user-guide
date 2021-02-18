@@ -29,33 +29,31 @@ Now that it has been saved, "HSW 322" appears as a clickable hyperlink in case c
 
 ## Default Instructor\(s\)
 
-The process for adding default instructor\(s\) is similar with the exception being you can add more than one Instructor or Instructor Group as the default. Screen shots are coming soon to show this.
+The process for adding default instructor\(s\) is similar with the exception being you can add more than one Instructor or Instructor Group as the default. 
 
 #### Add Default Instructor\(s\)
 
 **Step One**
 
-![](../.gitbook/assets/lgdefault4.png)
+![](../.gitbook/assets/lgdefinst1.png)
 
 **Step Two**
 
 After clicking as shown above, the screen adjusts to allow for the search for one or more instructors to be performed.
 
-![](../.gitbook/assets/lgdefault5.png)
+![](../.gitbook/assets/lgdefinst2.png)
 
 **Step Three**
 
-Search for and select an an Instructor.
+Search for and select several Instructors and an Instructor Group. The instructors who are in the group are listed as shown below.
 
-![](../.gitbook/assets/lgdefault6.png)
+![](../.gitbook/assets/lgdefinst4.png)
 
-After performing the action shown above, additional Instructors or Instructor Groups can be added to be the default for this Learner Group.
-
-![](../.gitbook/assets/lgdefault7.png)
+After performing the action shown above, all 7 members of the "BMB Anatomy Lab Faculty" Instructor group along with the 2 individual Instructors have been assigned to be default instructors for any newly created offerings associated with this Learner Group.
 
 After confirming by clicking the check box button ...
 
-![](../.gitbook/assets/lgdefault8.png)
+![All Default Instructors are listed.](../.gitbook/assets/lgdefinst5.png)
 
 ## Default Virtual Learning Link
 

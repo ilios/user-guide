@@ -24,7 +24,7 @@ This is done in an inline editing style so you don't have to leave the page or l
 
 ![](../../.gitbook/assets/crs_obj_edit2.png)
 
-* To maintain MeSH Term\(s\) associated with the Course Objective, follow the actions outlined in the screen shot series and steps detailed below.
+* To maintain MeSH Term\(s\) and / or Vocabulary Terms associated with the Course Objective, follow the actions outlined in the screen shot series and steps detailed in the two upcoming sections below.
 
 ## Add MeSH Term\(s\)
 

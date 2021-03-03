@@ -14,7 +14,7 @@ To create or edit a program, a user must have full edit privileges. First, acces
 * _**Short Title:**_ \(abbreviation\) - Up to 10 characters in length. Click on the "Click to edit" label or existing short name hyperlink to edit this.
 * _**Duration:**_ May be between 1 and 10 years.  Click on the number \(in this example 4\) to edit this value.
 
-A newly-entered Program will need to have Program Year\(s\) set up in order associate Learner Groups \(Students\) to the Program and its offerings.
+A newly-entered Program will need to have Program Year\(s\) set up in order to associate Learner Groups \(Students\) to the Program and its offerings.
 
 #### Quick Links...
 

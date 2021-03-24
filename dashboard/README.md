@@ -42,6 +42,9 @@ Also available in the upper right corner underneath the logged in user's name ar
 
 * [**My Profile**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-profile)
 * [**My Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-materials) **-** also available from the Dashboard
-* [**Language Selector**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector)\*\*\*\*
 * **Logout** -- exits the application 
+
+To the left of the drop-down explained above is the Language Selector drop-down menu.
+
+* [**Language Selector**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector)\*\*\*\*
 

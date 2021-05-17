@@ -13,6 +13,7 @@ That having been said, there are two ways to obtain all of your Ilios curricular
 
 * Generate a URL Feed \(below\)
   * [Add Calendar to MS Outlook](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options#add-calendar-to-ms-outlook)
+  * Add Calendar to Office 365 Outlook
   * [Add Calendar to Google Calendar](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options#add-calendar-to-google-calendar)
   * [Feed Date Range](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options#feed-date-range)
 * [LTI Integration](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options#lti-integration)
@@ -73,6 +74,31 @@ Simply ...
 * The results of doing this are shown below.  In this example, it was renamed "UCSF Classes".
 
   ![](../.gitbook/assets/calendar_renamed.jpg)
+
+### Add Calendar to Office 365 Outlook
+
+This will be demonstrated showing the web version of Outlook from the Microsoft Office 365 Suite. After generating the URL calendar feed as described in the "Generate URL Feed" section at the top of this chapter, the steps are pretty straightforward.
+
+* Log in to the Office 365 Outlook web client
+* Click as shown below to start this process
+
+![](../.gitbook/assets/add_cal1.png)
+
+* Click to subscribe to the calendar from the web 
+
+![](../.gitbook/assets/add_cal2.png)
+
+* This next step assumes that you already have the .ics feed copied up to your clipboard. Do this if you have not done so already.
+* Paste the .ics feed into the provided field as shown below.
+* Change the name of calendar to something memorable.
+* Choose the location to place this newly created calendar.
+* Other options include selecting a color scheme or "charm", which didn't seem to have much of an effect during my testing or documentation so accepting the defaults might serve your needs. See screen shot below for details.
+
+![](../.gitbook/assets/add_cal3.png)
+
+* Once "Import" has been clicked and the process has been completed, close the modal window and your screen will appear something like the following ...
+
+![Dave&apos;s SOM Schedule - now available](../.gitbook/assets/add_cal4.png)
 
 ### Add Calendar To Google Calendar
 

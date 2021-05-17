@@ -13,7 +13,7 @@ That having been said, there are two ways to obtain all of your Ilios curricular
 
 * Generate a URL Feed \(below\)
   * [Add Calendar to MS Outlook](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options#add-calendar-to-ms-outlook)
-  * Add Calendar to Office 365 Outlook
+  * [Add Calendar to Office 365 Outlook](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options#add-calendar-to-office-365-outlook)
   * [Add Calendar to Google Calendar](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options#add-calendar-to-google-calendar)
   * [Feed Date Range](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options#feed-date-range)
 * [LTI Integration](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options#lti-integration)

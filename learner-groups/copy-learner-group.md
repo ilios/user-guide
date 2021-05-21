@@ -1,6 +1,6 @@
 # Copy Learner Group
 
-Ilios allows Learner Groups to be copied either with or without the learners. It is a very handy addition to Ilios.
+Ilios allows Learner Groups to be copied either with or without the learners. 
 
 To copy a Learner Group, the "Copy" icon \(the same icon is also used in Copy Session\) is used to start the process. The arrow in the screen shot below shows this icon within Learner Groups.
 

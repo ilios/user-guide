@@ -1,11 +1,13 @@
 ---
 description: >-
-  This section explains how to set default location, default instructors, and /
-  or default virtual learning link for Learner Groups (for small group
+  This section explains how to set default location, instructor(s), virtual
+  learning link, and needs accommodation for Learner Groups (for small group
   sessions).
 ---
 
 # Learner Group Defaults
+
+\*\*\*\*
 
 **NOTE**: Default values for small group offerings are applied when the offerings are first created. Offerings that were saved previously will **NOT** get updated if / when the defaults are changed. The offerings retain the original values that were in place for the Learner Group default values when they were created.
 

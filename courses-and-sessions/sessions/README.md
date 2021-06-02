@@ -71,7 +71,7 @@ Any single \(or multiple\) session can be expanded if you choose to keep the rem
 
 The session detail screen is very lengthy so in this situation, the top part is shown in the screen shot below.
 
-![](../../.gitbook/assets/session_detail_top.jpg)
+![](../../.gitbook/assets/sess_update_1.png)
 
 Once a course has been saved, Sessions may be added to the course. A Session is a discrete instructional unit of curricular material or activity within a course. To add a new session, click “Add New”. This will create an empty Session, ready to be populated with the Session's attributes, listed [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions#session-attributes-all-session-types).
 

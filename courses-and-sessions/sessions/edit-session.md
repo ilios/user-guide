@@ -44,6 +44,12 @@ Only one sort can be applied at any time.
 
 **Important Note:** The sorts **DO** retain their state when the user is returned to the list after reviewing a Session.
 
+### Session Description
+
+Adding or editing a session's description is accomplished easily as shown below. Initially, a session will have "Click to Edit" link if nothing has been entered yet. After a session description exists, the text itself is clickable and the description can then be edited.
+
+![](../../.gitbook/assets/sess_update_2.png)
+
 ### Add MeSH
 
 To add a MeSH Term to a Session, follow the steps below. The steps for adding MeSH are the same wherever MeSH \(Medical Subject Headers\) can be attached - Sessions, Courses, Learning Materials, and Objectives.

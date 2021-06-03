@@ -8,6 +8,8 @@ Once that has been done, it is necessary to find the session to modify as shown 
 
 **Quick Links**
 
+* [Session Description](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#session-description)
+* [Instructional Notes](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#instructional-notes)
 * [Add MeSH](https://app.gitbook.com/@iliosproject/s/ilios-user-guide/courses-and-sessions/sessions/edit-session#add-mesh) 
 * [Manage Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#manage-terms)
 * [Manage Session Attributes](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#special-session-attributes)
@@ -61,6 +63,10 @@ After saving in the scenario above, the screen changes to something similar to t
 ![](../../.gitbook/assets/sess_update_4.png)
 
 The Description will get truncated in this view. Clicking on the ellipses or the information symbol will change the screen to display the rest of the session description if it is truncated due to being too lengthy. This will look the same as it looked earlier when editing the description.
+
+### Instructional Notes
+
+The process for editing and entering Instructional Notes is basically identical to the process detailed above for session description. One difference is that Instructional Notes do not get truncated in the interface if lengthy.
 
 ### Add MeSH
 

@@ -50,6 +50,18 @@ Adding or editing a session's description is accomplished easily as shown below.
 
 ![](../../.gitbook/assets/sess_update_2.png)
 
+After clicking as shown above, a text value of any length can be entered as shown below.
+
+![After entering some text](../../.gitbook/assets/sess_update_3.png)
+
+**NOTE**: Clicking the "undo" button will get rid of some of the more recently entered text. Once "undo" has been used, the "redo" button \(to the right of "undo"\) will become enabled to put back the text that was recently removed.
+
+After saving in the scenario above, the screen changes to something similar to the following. To edit the session description, simply click on it.
+
+![](../../.gitbook/assets/sess_update_4.png)
+
+The Description will get truncated in this view. Clicking on the ellipses or the information symbol will change the screen to display the rest of the session description if it is truncated due to being too lengthy. This will look the same as it looked earlier when editing the description.
+
 ### Add MeSH
 
 To add a MeSH Term to a Session, follow the steps below. The steps for adding MeSH are the same wherever MeSH \(Medical Subject Headers\) can be attached - Sessions, Courses, Learning Materials, and Objectives.

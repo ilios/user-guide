@@ -4,7 +4,7 @@ Once on the Program screen, click on the “+” button, and provide a Title for
 
 ![](../.gitbook/assets/add_prog1.png)
 
-![](../.gitbook/assets/addprog2.png)
+![](../.gitbook/assets/add_prog2.png)
 
 To add details to the Program, you can use the hyperlink provided once the save event has been completed. See below.
 

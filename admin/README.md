@@ -4,7 +4,7 @@ The Admin screen can be accessed from the main Ilios flyout menu &gt;&gt; Admin.
 
 This is what the screen looks like at a school that is hooked up to a Campus Directory \(such as LDAP\). The color-coded arrows point to access points for the various maintenance tasks that can be accomplished using the Admin Console.
 
-![](../.gitbook/assets/admin_console_1.jpg)
+![](../.gitbook/assets/admin_ldap1.png)
 
 Each of the above functional links are detailed in upcoming sections.
 

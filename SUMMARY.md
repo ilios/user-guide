@@ -89,7 +89,7 @@
   * [Edit Program](programs/edit-program.md)
   * [Program Years](programs/add-program-year.md)
   * [Competency Map Download](programs/competency-map-download.md)
-  * [Program Year Objective Map Visualization](programs/program-year-objective-map-visualization.md)
+  * [Program Year Objective Visualization](programs/program-year-objective-map-visualization.md)
 * [Admin](admin/README.md)
   * [View All](admin/view-all.md)
   * [Create New User](admin/create-new-user.md)

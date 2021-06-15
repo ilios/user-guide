@@ -1,4 +1,4 @@
-# Program Year Objective Map Visualization
+# Program Year Objective Visualization
 
 ![](../.gitbook/assets/pyvis1.png)
 

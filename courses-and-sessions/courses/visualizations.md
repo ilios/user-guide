@@ -18,5 +18,5 @@ Mousing over any of the Objectives will display the full text of the Objective a
 
 ![](../../.gitbook/assets/obj_vis1.png)
 
-
+The additional three visualizations will be covered in their own sections in detail soon.
 

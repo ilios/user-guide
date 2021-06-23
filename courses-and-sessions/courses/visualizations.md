@@ -20,10 +20,10 @@ Each visualization currently available is displayed at this level in a donut or 
 
 Course Visualizations available ...
 
-* **Objectives**
-* **Session Types**
-* **Vocabularies**
-* **Instructors**
+* \*\*\*\*[**Objectives**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#objectives)\*\*\*\*
+* \*\*\*\*[**Session Types**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#session-types)\*\*\*\*
+* \*\*\*\*[**Vocabularies**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#vocabularies)\*\*\*\*
+* \*\*\*\*[**Instructors**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#instructors)\*\*\*\*
 
 ![](../../.gitbook/assets/crs_visualizations1.png)
 

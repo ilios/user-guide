@@ -1,5 +1,7 @@
 ---
-description: This section describes the visualizations that are available at the
+description: >-
+  This section describes the visualizations that are available at the Course
+  level in Ilios.
 ---
 
 # Visualizations

@@ -16,6 +16,15 @@ After clicking on the graph icon as shown above, you will see a screen similar t
 
 #### Course Visualizations
 
+Each visualization currently available is displayed at this level in a donut or pie shaped graph. Clicking on any of the four will result in seeing the data in greater detail.
+
+Course Visualizations available ...
+
+* **Objectives**
+* **Session Types**
+* **Vocabularies**
+* **Instructors**
+
 ![](../../.gitbook/assets/crs_visualizations1.png)
 
 #### Objectives
@@ -45,6 +54,12 @@ After clicking on "UCSF 49", which is one of UCSF SOM school-specific Vocabulari
 ![Vocabulary Visualization \(lower level\)](../../.gitbook/assets/vocab_viz2.png)
 
 In the example presented above, the mouse is hovering over one of the UCSF 49 Vocabulary terms \(Bleeding Disorders\). Displayed is the percentage of the total instructional time of the sessions that were tagged with UCSF 49 Vocabulary terms that were tagged with "Bleeding Disorders", along with the duration of these offerings and the listing of the associated Sessions.
+
+#### Instructors
+
+More details will be coming regarding the Instructors visualization. It functions in a similar manner to Vocabularies. You do get a bit more information at the higher level though - a percentage of the total. After clicking on the Instructor's name, it takes you down into a view showing the Vocabulary Terms tagged on this Instructor's sessions along with another graph showing Session Types for this instructor's offerings.
+
+
 
 
 

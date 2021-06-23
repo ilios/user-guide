@@ -1,6 +1,6 @@
 # Visualizations
 
-Visualization are graphs and charted information to help make informed decisions about how Ilios is being used and how this use could be improved.
+Visualization are graphs and charted information intended to help make informed decisions about how Ilios is being used and how this use could be improved.
 
 One of the available charts displays the usage of Objectives and how frequently they are utilized in a Course ... or more importantly let you know when they are not being used.
 

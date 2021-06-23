@@ -76,19 +76,17 @@ This display can be sorted by the following fields in addition to being filtered
 
 ## My Courses
 
-By default, all courses for the selected school are displayed. There is a pair of buttons acting as a switch at the top left of the screen which will change into My Courses when clicked as shown below.
+By default, all courses for the selected school are displayed. There is a toggle switch at the top left of the screen which will change into My Courses when clicked as shown below.
 
 **Original appearance:**
 
-![All Courses](../../.gitbook/assets/all_crs_btn1.png)
+![All Courses](../../.gitbook/assets/all_courses.jpg)
 
 **After clicking / toggling:**
 
-![My Courses](../../.gitbook/assets/my_crs_btn1.png)
+![My Courses](../../.gitbook/assets/my_courses.jpg)
 
 The screen is then refreshed to display only the courses with which the logged in user is associated. In this example, the logged-in user is not associated in any way with the Anesthesia 110 course so it is no longer displayed.
 
-![My Courses \(list of courses\)](../../.gitbook/assets/my_crs_listed1.png)
-
-
+![My Courses Listed](../../.gitbook/assets/my_courses_screen.jpg)
 

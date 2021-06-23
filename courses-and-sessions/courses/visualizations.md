@@ -39,11 +39,15 @@ Mousing over any of the Objectives will display the full text of the Objective a
 
 The Session Types visualization is laid out horizontally rather than in a pie chart like the Objectives visualization in the section above. In the example below, I am hovering over a specific Session Type to review the usage specific of that session type in this particular course. 
 
-![](../../.gitbook/assets/sess_type_viz1.png)
+![Session Types \(higher level\)](../../.gitbook/assets/sess_type_viz1.png)
+
+Clicking the "Discussion, Small Group \(&lt;=12\)" link on the horizontal bar chart will guide you into additional details regarding those sessions. You can review Vocabulary Terms associated with the specified Session Type.
+
+![Session Types \(lower level\)](../../.gitbook/assets/voc_term_viz2.png)
 
 #### Vocabularies
 
-The Vocabularies visualization shows how the Vocabularies set up for your school have been using in tagging sessions with this selected Course. This is a two level process. 
+The Vocabularies visualization shows how the Vocabularies set up for your school have been using in tagging sessions with this selected Course.
 
 Initially the visualization displays all of the used Vocabulary libraries for this course. To get to the details, it is necessary to click on the Vocabulary to be reviewed.
 

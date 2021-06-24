@@ -61,7 +61,21 @@ In the example presented above, the mouse is hovering over one of the UCSF 49 Vo
 
 #### Instructors
 
-More details will be coming regarding the Instructors visualization. It functions in a similar manner to Vocabularies. You do get a bit more information at the higher level though - a percentage of the total. After clicking on the Instructor's name, it takes you down into a view showing the Vocabulary Terms tagged on this Instructor's sessions along with another graph showing Session Types for this instructor's offerings.
+More details will be coming regarding the Instructors visualization. It functions in a similar manner to Vocabularies. You do get a bit more information at the higher level though - a percentage of the total. After clicking on the Instructor's name, it takes you down into a view showing the Vocabulary Terms tagged on this Instructor's sessions along with another graph showing Session Types for this instructor's offerings. Another thing it offers, because it needs to in a complicated course, is the option to filter on the lower level \(horizontal bar chart\).
+
+Here is the top level view of the Instructors Visualization in a course that has completed. You can see how many instructors are going to be included in the horizontal bar chart.
+
+![Instructors Visualization \(top level\)](../../.gitbook/assets/instr_top_lvl.png)
+
+After clicking the donut chart above, the bar chart appears as shown below. In this example, the user is hovering over the data for "Julie Christina Lewis", however the bar representing the data pertaining to her teaching activity would be very hard to find given how many instructors performed instructional duties in this course.
+
+![Instructors Visualization \(lower level\)](../../.gitbook/assets/instr_low_lvl.png)
+
+**Use the Filter**
+
+Using the example presented above, we will filter to focus in on the results of the instructor whose teaching details we wish to view.
+
+
 
 
 

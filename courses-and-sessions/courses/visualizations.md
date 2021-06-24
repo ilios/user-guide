@@ -75,7 +75,11 @@ After clicking the donut chart above, the bar chart appears as shown below. In t
 
 Using the example presented above, we will filter to focus in on the results of the instructor whose teaching details we wish to view.
 
+![Instructors Visualization \(post-filter\)](../../.gitbook/assets/instr_low_lvl3.png)
 
+Following the steps outlined above, we now see the details of the teaching activities for the selected instructor. We can also review the type of sessions as well as the Vocabulary Terms associated with those sessions for which Julie Christina Lewis was the instructor. Also there is a breakdown of Total Instructional Time along with the total for asynchronous learning \(ILM instruction\).
+
+![](../../.gitbook/assets/instr_low_lvl4.png)
 
 
 

@@ -19,5 +19,5 @@ To access this functionality, click on the Instructor Groups menu item from the 
 
 This is the screen that appears \(see comments\).
 
-![](../.gitbook/assets/instructor_groups_2.jpg)
+![](../.gitbook/assets/inst_grp_1.png)
 

@@ -6,7 +6,7 @@ With the advent of Ilios 3.0, more user record information modification and main
 
 You can perform a search and select an existing Ilios user record to modify as shown below.
 
-![](../.gitbook/assets/adminrw1.png)
+![](../.gitbook/assets/admin_1.png)
 
  Now that the user has been selected there are many useful utilities provided by the interface.
 

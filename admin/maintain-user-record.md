@@ -44,7 +44,7 @@ In a similar manner to editing account properties, the editing of user roles and
 
 ![](../.gitbook/assets/adminrw5.png)
 
- The permissions/fields that can be selected or un-selected \(meaning yes or no\) are ... 
+The permissions/fields that can be selected or un-selected \(meaning yes or no\) are ... 
 
 #### Former Student \(Student Role\):
 

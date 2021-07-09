@@ -10,13 +10,13 @@ You can perform a search and select an existing Ilios user record to modify as s
 
  Now that the user has been selected there are many useful utilities provided by the interface. Given the complexity of this screen, we will take it in portions. The top part of the screen is shown below once our user has been selected.
 
-![](../.gitbook/assets/admin_3.png)
+![User Admin - top portion](../.gitbook/assets/admin_3.png)
 
 ## Edit User Account Settings
 
 Now the that user account has been selected for modification, many of the text fields can be modified. At UCSF, the Middle Name, Other ID, Phone, and Preferred Email fields can be modified manually. The other field values are brought in from the Campus Directory.
 
-The example below shows the scenario when there is no Campus Directory. Any field can be modified. Save and Cancel buttons are provided in both panes.
+The example below shows the scenario when there is no Campus Directory. Any field can be modified. Save and Cancel buttons are provided in both panes. The panes have been activated as shown in the "User Admin - top portion" image above.
 
 ![](../.gitbook/assets/admin_4.png)
 
@@ -60,11 +60,13 @@ If you would prefer to keep the user account settings as they are \(alternate em
 
 ### Edit Primary and / or Secondary Cohort Assignments
 
-After clicking as shown below, the Cohort Assignment tool becomes available for use.
+Continuing down the page, we get to the Cohort Assignment tool as well as the .ics feed maintenance area. After clicking as shown below, the Cohort Assignment tool becomes available for use. Initially, it appears as shown below.
 
-![](../.gitbook/assets/edit_cohort.jpg)
+![Admin Console - part 2](../.gitbook/assets/admin_5.png)
 
-![](../.gitbook/assets/cohort_assignment_tool.jpg)
+As depicted above in "Admin Console - part 2", the "Click to update Cohort assignment" button has been clicked. The maintenance screen is shown below with Save / Cancel buttons provided like always.
+
+![Cohort selector](../.gitbook/assets/admin_6.png)
 
 **Icons Explained**
 
@@ -74,9 +76,11 @@ After clicking as shown below, the Cohort Assignment tool becomes available for 
 
 ### Primary Cohort Options ...
 
-![](../.gitbook/assets/icons_1.jpg)
+![](../.gitbook/assets/admin_7.png)
 
 ### Secondary Cohort Options ...
 
-![](../.gitbook/assets/icons2.jpg)
+![](../.gitbook/assets/admin_8.png)
+
+**NOTE**: In the example shown above, the learner is going to have a School of Pharmacy cohort as their primary cohort. Previously this learner had a School of Medicine cohorts as their primary cohort. Doing this will NOT switch the learner's primary school.
 

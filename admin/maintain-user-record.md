@@ -8,17 +8,17 @@ You can perform a search and select an existing Ilios user record to modify as s
 
 ![](../.gitbook/assets/admin_1.png)
 
- Now that the user has been selected there are many useful utilities provided by the interface.
-
-Given the complexity of this screen, we will take it in portions. The top part of the screen is shown below once our user has been selected.
+ Now that the user has been selected there are many useful utilities provided by the interface. Given the complexity of this screen, we will take it in portions. The top part of the screen is shown below once our user has been selected.
 
 ![](../.gitbook/assets/admin_3.png)
 
 ## Edit User Account Settings
 
-Now the that user account has been selected for modification, many of the text fields can be modified. At UCSF, the Middle Name, Other ID, Phone, and Preferred Email fields can be modified manually. The other field values are brought in from the Campus Directory after clicking the Sync button.
+Now the that user account has been selected for modification, many of the text fields can be modified. At UCSF, the Middle Name, Other ID, Phone, and Preferred Email fields can be modified manually. The other field values are brought in from the Campus Directory.
 
-![After clicking to Edit / View Account Settings](../.gitbook/assets/adminrw3%20%281%29.png)
+The example below shows the scenario when there is no Campus Directory. Any field can be modified. Save and Cancel buttons are provided in both panes.
+
+![](../.gitbook/assets/admin_4.png)
 
 #### Fields and Functionality Described
 

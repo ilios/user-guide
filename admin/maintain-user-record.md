@@ -10,9 +10,9 @@ You can perform a search and select an existing Ilios user record to modify as s
 
  Now that the user has been selected there are many useful utilities provided by the interface.
 
-As indicated by the arrows in the screen shot below, there are three editing panels along with the calendar feed Web Link area. Each of these four areas are controlled or activated using the buttons indicated.
+Given the complexity of this screen, we will take it in portions. The top part of the screen is shown below once our user has been selected.
 
-![](../.gitbook/assets/adminrw2.png)
+![](../.gitbook/assets/admin_3.png)
 
 ## Edit User Account Settings
 

@@ -5,7 +5,7 @@ For any Session, leadership can be assigned here within the Session. There are t
 #### Session Leadership Categories
 
 * **Session Administrators** - can make edits to any Session to which they have assigned this role.
-* **Student Advisors** - can only download Learner Materials for this Session from the Calendar. "All Event" must be selected on the Calendar. Filters can and should be applied to make the events easier to discern.
+* **Student Advisors** - can only download Learning Materials for this Session from the Calendar. "All Events" must be selected on the Calendar. Filters can and should be applied to make the events easier to find.
 
 Session Administrators can make changes to this Session if they are added to this role. Anyone with a higher permission level can edit this and any other Sessions within the Course. These include Course Administrators and Course Directors along with any user who have had permissions set for them at the Program or School level.
 

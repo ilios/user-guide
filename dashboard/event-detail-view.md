@@ -25,5 +25,15 @@ The lower part of Event Detail is shown below. Included are links to all of the 
 
 ![Event Detail - Lower](../.gitbook/assets/image%20%288%29.png)
 
+#### Access All Materials for this Course
+
+There is a button not included in the screen shots above that has been made available in Event Detail. This will take the user to what is essentially a filtered view of [My Materials](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-materials) - showing all learning materials for this course. In the example shown below, there are no learning materials for this specific session. Clicking as shown will take the user to see the rest of the learning materials for this course, with options explained below.
+
+![](../.gitbook/assets/crs_mat1.png)
+
+Clicking as shown above brings up the following screen. The drop-down menu is shown in activated state to show you can switch to another course or all courses if you prefer.
+
+![](../.gitbook/assets/crs_mat2.png)
+
 
 

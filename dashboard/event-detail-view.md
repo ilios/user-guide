@@ -1,6 +1,6 @@
 # Event Detail
 
-The Event Detail view is reached when a user clicks on a link in their Calendar, Calendar feed, Week At A Glance, or any part of Ilios that reaches user Events \(scheduled Offerings\).
+The Event Detail view is reached when a user clicks on a link in their Calendar, Calendar feed, Week At A Glance, or any part of Ilios that reaches user Events \(published Offerings\).
 
 The screen shot below starts the process for a student to access the Event Detail View. In this case, the Session to be viewed in Event Detail View has a Pre-work ILM attached to it. Since these appear at the top of the Week At A Glance, click as shown below to go to correct area of Week At A Glance that corresponds to that Session. This is helpful because the list can be quite lengthy.
 

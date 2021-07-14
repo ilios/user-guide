@@ -6,7 +6,7 @@ The screen shot below starts the process for a student to access the Event Detai
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-After clicking as shown above, the user is routed to the correct location in Week At A Glance for the Session "Gluclose Metabolism and Blood Glucose Homeostasis", which is the follow-up \(post-requisite\) to the ILM entitled "Diabetes Management \(Online Lesson\)". The link we will follow for this demonstration is pointed out below. 
+After clicking as shown above, the user is routed to the correct location in Week at a Glance for the Session "Gluclose Metabolism and Blood Glucose Homeostasis", which is the follow-up \(post-requisite\) to the ILM entitled "Diabetes Management \(Online Lesson\)". The link we will follow for this demonstration is pointed out below. 
 
 The following links also point towards the Event Detail appropriate to that event.
 

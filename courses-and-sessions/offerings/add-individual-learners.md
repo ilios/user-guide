@@ -1,6 +1,6 @@
 # Add Individual Learners
 
-It is possible to add individual learners to offerings in Ilios. This infrastructure has been in place for a while now. Some of the functional areas of review are missing; but still if you need to add an individual student to an offering, it is possible. As mentioned, the review options are currently limited at best but will be enhanced in the future.
+Individual learners can be attached to offerings in Ilios. One thing to remember is that anyone who is an Ilios user can be added to offerings using this technique. They do not need to be in any Cohort associated with this course.
 
 ![](../../.gitbook/assets/offering1.png)
 

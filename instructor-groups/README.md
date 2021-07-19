@@ -13,7 +13,7 @@ The Instructor Groups module in Ilios allows for the creation of reusable and tr
 
 To access this functionality, click on the Instructor Groups menu item from the flyout menu as shown below.
 
-![](../.gitbook/assets/instructor_groups_1.jpg)
+![Instructor Groups \(selected\)](../.gitbook/assets/inst_grp1.png)
 
 This is the screen that appears \(see comments\).
 

@@ -4,7 +4,7 @@
 
 The same process as the creation of Small Group Offerings can be performed in reverse where a number of sub-groups can all be invited to the same event. To demonstrate, we will use the same group as in the "Small Groups" example and create one event for them all to attend. This process is shown below.
 
-As indicated below, the Offerings Editor Calendar is initially hidden. To display it and to review the scheduling of this offering as well as all other offerings involving the same learner groups, Click Show Calendar.
+As indicated below, the Offerings Editor Calendar is initially hidden. To display it and to review the scheduling of this offering as well as all other offerings involving the same learner groups, click Show Calendar.
 
 ![](../../.gitbook/assets/offering_1.jpg)
 

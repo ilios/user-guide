@@ -10,7 +10,6 @@ The attributes of an Offering are listed and described here. For more informatio
 * **Start Time**: Selected using a combination of three drop-down boxes \(Hour, Minutes, AM/PM\)                          
 * **Duration**: The length of the Offering entered using a combination of Hours and Minutes.
 * **End**: This gets calculated after the above information has been entered.
-* **Timezone**: This was created for schools that may have campuses in different timezones or if an Ilios user happens to be using a computer that is set to an incorrect zone. The timezone for the offering \(regardless of the computer's settings\) can be set here. The resulting saved offer will still be displayed using the computer's timezone settings.
 * **Location**: This is entered manually, or the default is applied.
 * **URL:** Paste in a URL for a virtual offering location.
 * **Instructors**: Search to find Instructors and / or Instructor Groups to indicate who will be teaching the Offering.

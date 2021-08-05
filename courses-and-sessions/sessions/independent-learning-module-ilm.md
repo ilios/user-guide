@@ -4,7 +4,7 @@ ILM's are a specific type of Session which does not necessarily meet in any part
 
 These are displayed in one of two places ...
 
-1. \*\*\*\*[**ILM with Due Date**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-with-due-date)**:** An ILM will appear on the Calendar at 5pm on the Due Date that was assigned. It shows up in a half hour block on the Calendar regardless of the actual duration of the expected activity.
+1. \*\*\*\*[**ILM with Due Date**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-with-due-date) **/ Time:** An ILM will appear on the Calendar at 5pm on the Due Date that was assigned. It shows up in a half hour block on the Calendar regardless of the actual duration of the expected activity.
 2. \*\*\*\*[**ILM linked to an upcoming Session**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-linked-to-session): An ILM that is linked to an upcoming Session will be displayed in its own area on the [Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance) - right at the top for easy reference for students. In the Calendar View, it will be displayed below. Screen shots of all of these views will be here soon.
 
 **NOTE:** Any Session Type can be assigned to an ILM. It is possible to have an available Session Type of "Independent Learning" which is not the same or linked in any way to what is being described here.
@@ -21,7 +21,7 @@ To create an ILM ...
 
 ![](../../.gitbook/assets/fndcrs4.png)
 
-### ILM with Due Date
+### ILM with Due Date / Time
 
 In the case below, the ILM was set with a Due Date of 7/28/2020. Once the Session is published, the ILM will appear on the Learner's calendar in a 15 minute time-slot at 5:00PM on the Due Date \(7/28/2020\).
 

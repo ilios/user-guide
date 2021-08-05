@@ -4,7 +4,7 @@ ILM's are a specific type of Session which does not necessarily meet in any part
 
 These are displayed in one of two places ...
 
-1. \*\*\*\*[**ILM with Due Date**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-with-due-date) **/ Time:** An ILM will appear on the Calendar at 5pm on the Due Date that was assigned. It shows up in a half hour block on the Calendar regardless of the actual duration of the expected activity.
+1. \*\*\*\*[**ILM with Due Date / Time**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-with-due-date-time)**:** An ILM will appear on the Calendar at the specified time on the Due Date that was assigned. It shows up in a fifteen minute block on the Calendar regardless of the actual duration of the expected activity. If a time is not specified, the default is 5pm.
 2. \*\*\*\*[**ILM linked to an upcoming Session**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-linked-to-session): An ILM that is linked to an upcoming Session will be displayed in its own area on the [Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance) - right at the top for easy reference for students. In the Calendar View, it will be displayed below. Screen shots of all of these views will be here soon.
 
 **NOTE:** Any Session Type can be assigned to an ILM. It is possible to have an available Session Type of "Independent Learning" which is not the same or linked in any way to what is being described here.

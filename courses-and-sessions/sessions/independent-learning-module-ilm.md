@@ -29,9 +29,15 @@ In the case below, the ILM was set with a Due Date of 7/28/2020. Once the Sessio
 
 It is important to note that one or more Learner Groups or Individual Learners must be added to ILM's so students will see the offerings on their calendars. The ILM \(like any other type of session\) must also be published.
 
+#### Change Due Date / Time
+
+Following the instructions shown above for changing the due date and / or time of an ILM, the following controls appear to handle this task. Either or both can be modified as shown below. In this situation, the date field has been clicked, calling up the date picker control. Due time is controlled by changing the values in the drop-down menus.
+
+![](../../.gitbook/assets/due_dt_time.png)
+
 ### ILM Linked to Session
 
-It is also possible to link an ILM to an upcoming Session. This way the student will know to complete the activities required by the ILM before attending the learning activity to which the Learner is assigned.
+It is also possible to link an ILM to an upcoming Session offering. This way the student will know to complete the activities required by the ILM before attending the learning activity to which the Learner is assigned.
 
 ![](../../.gitbook/assets/ilm_screen1.png)
 

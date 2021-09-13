@@ -12,7 +12,7 @@ Click the Rollover Button from within a Curriculum Inventory report to create a 
 
 After clicking as shown above, the default Academic Year to be used is the following year. We are rolling the structure of the report and nothing else over to 2018-2019 from 2017-2018. Click "Done" to process this action.
 
-![Set Options for new CI Report](../.gitbook/assets/ci_rw_36.png)
+![](../.gitbook/assets/screen-shot-2021-09-13-at-4.47.56-pm.png)
 
 Now that the values have been set \(and after clicking Done\), the new CI Report gets created. 
 

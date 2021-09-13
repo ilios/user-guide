@@ -2,10 +2,10 @@
 
 ## Rolling Over a CI Report
 
-Rolling over a CI Report into a future Academic Year in either the same program or into a different program in the same school is a fairly straight forward process:
+Rolling over a CI Report into a future Academic Year in the same program \(or into a different program\) in the same school is a fairly straight forward process:
 
 {% hint style="info" %}
-Click the Rollover Button from within a Curriculum Inventory report to create a version of this same report in a different Academic Year.
+Click the Rollover Button from within a Curriculum Inventory report to create a version of this same report in a different Academic Year or Program. 
 {% endhint %}
 
 ![](../.gitbook/assets/ci_rw_33.png)

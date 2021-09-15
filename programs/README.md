@@ -6,7 +6,7 @@ This model allows for the greatest flexibility among institutions to manage prog
 
 To create or edit a program, a user must have full edit privileges. First, access the Programs screen by selecting Programs from the Ilios menu.
 
-![From the Ilios Menu](../.gitbook/assets/program.png)
+![Click &quot;Programs&quot; from the Ilios menu](../.gitbook/assets/screen-shot-2021-09-15-at-3.55.54-pm.png)
 
 ## Program Attributes
 

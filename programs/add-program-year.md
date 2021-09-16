@@ -14,7 +14,7 @@ Save when done by clicking the "Done" button as shown below.
 
 ![](../.gitbook/assets/screen-shot-2021-09-15-at-5.15.16-pm.png)
 
-![New Program Year Saved](../.gitbook/assets/addprogyr4.png)
+![New Program Year added](../.gitbook/assets/screen-shot-2021-09-15-at-5.42.17-pm.png)
 
 Indicators are provided when Program Year information is missing. Click on the provided link to further modify the Program Year. The following Program Year Attributes can be edited.
 

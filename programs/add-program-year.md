@@ -12,7 +12,7 @@
 
 Save when done by clicking the "Done" button as shown below.
 
-![](../.gitbook/assets/screen-shot-2021-09-15-at-5.15.16-pm.png)
+![Add New Program Year](../.gitbook/assets/screen-shot-2021-09-15-at-5.15.16-pm.png)
 
 ![New Program Year added](../.gitbook/assets/screen-shot-2021-09-15-at-5.42.17-pm.png)
 

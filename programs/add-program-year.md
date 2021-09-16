@@ -10,9 +10,9 @@
 
 ![](../.gitbook/assets/screen-shot-2021-09-15-at-5.25.38-pm.png)
 
-Save when done by clicking the Done button as shown below.
+Save when done by clicking the "Done" button as shown below.
 
-![](../.gitbook/assets/addprogyr3.png)
+![](../.gitbook/assets/screen-shot-2021-09-15-at-5.15.16-pm.png)
 
 ![New Program Year Saved](../.gitbook/assets/addprogyr4.png)
 

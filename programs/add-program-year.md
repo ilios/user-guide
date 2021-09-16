@@ -4,11 +4,11 @@
 
 **Step 1:** Click the \(+\) to begin the process of adding the Program Year.
 
-![](../.gitbook/assets/addprogyr1.png)
+![](../.gitbook/assets/screen-shot-2021-09-15-at-5.19.07-pm.png)
 
 **Step 2:** Select the Academic Year.
 
-![](../.gitbook/assets/addprogyr2.png)
+![](../.gitbook/assets/screen-shot-2021-09-15-at-5.25.38-pm.png)
 
 Save when done by clicking the Done button as shown below.
 

@@ -1,8 +1,8 @@
 # Competencies
 
-Competency Domains can managed within the Ilios application. To access this functional area of Ilios, from the flyout menu select "Schools" as shown below.
+Competency Domains can managed within the Ilios application. To access this functional area of Ilios, from the flyout menu select "**Schools**" as shown below.
 
-![New Flyout](../.gitbook/assets/updated_flyout.jpg)
+![](../.gitbook/assets/screen-shot-2021-09-17-at-3.29.34-pm.png)
 
 ![Select School to edit](../.gitbook/assets/schools.jpg)
 

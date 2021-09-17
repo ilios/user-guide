@@ -62,3 +62,13 @@ Editing a Domain is performed in exactly the same way as editing a Competency is
 
 **NOTE:** Be sure to include any and all competencies you may wish to use at this level in order to be able to select them at the Program level.
 
+**Configure PCRS \(Physician Competency Reference Set\) terms for Competencies**
+
+Ilios offers the functionality to attach PCRS terms to competencies either at the domain level or competency level \(under domain\). The starting point for the association is shown below.
+
+![Ready to edit PCRS Association](../.gitbook/assets/screen-shot-2021-09-17-at-3.11.24-pm.png)
+
+After clicking as shown above, the full set of Physician Competency Reference Set values are population for selection to be associated with the School's Competencies at any level.
+
+
+

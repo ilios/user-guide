@@ -72,7 +72,9 @@ After clicking as shown above, the full set of Physician Competency Reference Se
 
 ![](../.gitbook/assets/screen-shot-2021-09-17-at-3.23.54-pm.png)
 
+After saving the data in the scenario shown above, the PCRS values are now associated with the Competency. 
 
+![](../.gitbook/assets/screen-shot-2021-09-17-at-3.26.34-pm.png)
 
 
 

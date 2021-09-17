@@ -68,7 +68,11 @@ Ilios offers the functionality to attach PCRS terms to competencies either at th
 
 ![Ready to edit PCRS Association](../.gitbook/assets/screen-shot-2021-09-17-at-3.11.24-pm.png)
 
-After clicking as shown above, the full set of Physician Competency Reference Set values are population for selection to be associated with the School's Competencies at any level.
+After clicking as shown above, the full set of Physician Competency Reference Set values are population for selection to be associated with the School's Competencies at any level. One or more of these can be selected as shown below.
+
+![](../.gitbook/assets/screen-shot-2021-09-17-at-3.23.54-pm.png)
+
+
 
 
 

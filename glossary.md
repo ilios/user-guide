@@ -62,7 +62,7 @@ Digital assets \(such as files\) and information \(such as citations and web lin
 
 ## Learning Objective
 
-Free-text entry fields of the desired learning outcomes for Programs, Courses, and Sessions. They can be mapped to School-level Competencies and Competency Domains. Because of this mapping, Objectives should cover one learning outcome at a time. Creation of separate objectives for each expected or hopeful learning outcome is recommended.
+Free-text entry fields of the desired learning outcomes for Programs, Courses, and Sessions.
 
 ## MeSH
 

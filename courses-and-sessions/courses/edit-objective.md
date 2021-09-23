@@ -26,7 +26,7 @@ This is done in an inline editing style so you don't have to leave the page or l
 
 * To maintain MeSH Term\(s\) and / or Vocabulary Terms associated with the Course Objective, follow the actions outlined in the screen shot series and steps detailed in the two upcoming sections below.
 
-## Attach MeSH Term\(s\)
+## Add MeSH Term\(s\)
 
 Once the Objectives link has been opened, the full list of Objectives associated with this Course is displayed. Click "Add New" to add one or more MeSH Terms to the Course Objective listed in the Description field.
 

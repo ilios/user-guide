@@ -1,4 +1,4 @@
-# Edit Parent Objective
+# Update Parent Objective
 
 * Select an Objective to change its association to its Parent Objective
 

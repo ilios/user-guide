@@ -27,7 +27,7 @@
     * [Add Objective](courses-and-sessions/courses/add-objective.md)
     * [Edit Objective](courses-and-sessions/courses/edit-objective.md)
     * [Attach Parent Objective](courses-and-sessions/courses/add-parent-objective.md)
-    * [Edit Parent Objective](courses-and-sessions/courses/edit-parent-objective.md)
+    * [Update Parent Objective](courses-and-sessions/courses/edit-parent-objective.md)
     * [Sort Objectives](courses-and-sessions/courses/sort-objectives.md)
     * [Visualizations](courses-and-sessions/courses/visualizations.md)
     * [Course Rollover](courses-and-sessions/courses/course-rollover.md)

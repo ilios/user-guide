@@ -29,7 +29,7 @@ Editing an Objective is easily accomplished following the the steps listed below
 
 #### Add MeSH Terms / Vocabulary Terms
 
-Since the process to add these at a Session level is identical to how it accomplished at the Course level, please refer to the following links for reference.
+Since the process of adding these at a Session level is identical to how it is accomplished at the Course level, please refer to the following links for reference.
 
 [Add MeSH Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-objective#add-mesh-term-s)
 

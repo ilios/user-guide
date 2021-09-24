@@ -8,8 +8,6 @@ Competency Domains can managed within the Ilios application. To access this func
 
 Now that the School of Medicine has been selected, Competencies can be maintained using the following interface and commands.
 
-![Expand to see more about Competencies](../.gitbook/assets/manage_competencies.jpg)
-
 The highest level Domains are shown initially with the count of associated Competencies displayed underneath the Summary column header. Click the Competencies\(x\) link to open up the detail screen, shown below. This breaks out into a visual representation to show the details of the competencies counted up under the Summary header. This gives a more detailed viewpoint as shown below.
 
 ![](../.gitbook/assets/screen-shot-2021-09-24-at-4.21.51-pm.png)

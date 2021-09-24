@@ -12,9 +12,11 @@ Now that the School of Medicine has been selected, Competencies can be maintaine
 
 The highest level Domains are shown initially with the count of associated Competencies displayed underneath the Summary column header. Click the Competencies\(x\) link to open up the detail screen, shown below. This breaks out into a visual representation to show the details of the competencies counted up under the Summary header. This gives a more detailed viewpoint as shown below.
 
-![Competencies Expanded](../.gitbook/assets/competencies_expanded.jpg)
+![](../.gitbook/assets/screen-shot-2021-09-24-at-4.21.51-pm.png)
 
 Now that "Manage Competencies" has been clicked as shown above, the screen changes to the functional area as shown below, allowing the competencies to be managed. Only the top domain "Interpersonal & Communication skills" is displayed to save space and for clarity. "Email and Database Etiquette" was recently added and is not attached to any courses or sessions and can be deleted. The existence of the trash can icon instead of the count of times it has been attached confirms this.
+
+![](../.gitbook/assets/screen-shot-2021-09-24-at-4.27.05-pm.png)
 
 ## Add New Competency
 

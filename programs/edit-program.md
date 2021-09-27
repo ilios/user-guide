@@ -13,9 +13,9 @@
 
 To edit a program's Title, all that is needed to do is to click on the Title itself, edit it if desired, and then confirm the changes. The process is shown below.
 
-After click on "Doctor Of Spine Therapy", the field becomes editable and appears as shown below. 
+After clicking on "Doctor Of Spine Therapy", the field becomes editable and appears as shown below. 
 
-![In &quot;Edit&quot; Mode](../.gitbook/assets/editprogrw2.png)
+![](../.gitbook/assets/screen-shot-2021-09-27-at-3.28.26-pm.png)
 
 The text will be changed to "Spine Doctor" and confirmed.
 

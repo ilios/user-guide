@@ -22,7 +22,7 @@ Indicators are provided when Program Year information is missing. Click on the p
 
 ## Program Year Attributes
 
-* _**Academic Year:**_ This is selected from the drop-down.
+* _**Academic Year:**_ This is selected from the drop-down. This can be configured at the school level in either an entire year format \(2019\) or a split year format \(2019-2020\).
 * _**Competencies:**_ selected from a school-specific, pre-defined list of competency domains and sub-domains.
 * _**Objectives:**_ Free text entry. Program Objectives, once entered, may be associated with any one of the available Competencies. Program Year Objectives can be sorted in the same way that Session Objectives and Course Objectives can be sorted. Refer to sorting [Course Objectives](../courses-and-sessions/courses/sort-objectives.md) or [Session Objectives](../courses-and-sessions/sessions/sort-objectives.md) for reference. Program Year Objectives can be thought of as graduation requirements since they are specific educational outcomes expected of this group of students \(Cohort\) upon their graduation. Program Year Objectives \(like Course or Session Objectives can be tagged using Vocabulary Terms and / or MeSH Terms.
 * _**Terms:**_ selected from a school-specific, pre-defined list of one or more Vocabularies.

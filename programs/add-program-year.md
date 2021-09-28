@@ -26,7 +26,7 @@ Indicators are provided when Program Year information is missing. Click on the p
 * _**Competencies:**_ selected from a school-specific, pre-defined list of competency domains and sub-domains.
 * _**Objectives:**_ Free text entry. Program Objectives, once entered, may be associated with any one of the available Competencies. Program Year Objectives can be sorted in the same way that Session Objectives and Course Objectives can be sorted. Refer to sorting [Course Objectives](../courses-and-sessions/courses/sort-objectives.md) or [Session Objectives](../courses-and-sessions/sessions/sort-objectives.md) for reference. Program Year Objectives can be thought of as graduation requirements since they are specific educational outcomes expected of this group of students \(Cohort\) upon their graduation. Program Year Objectives \(like Course or Session Objectives can be tagged using Vocabulary Terms and / or MeSH Terms.
 * _**Terms:**_ selected from a school-specific, pre-defined list of one or more Vocabularies.
-* _**Directors:**_ Selected from list of available names. The list is populated with users identified and tagged as “Director” level in the user access system.
+* _**Directors:**_ Selected from list of available names. The list is populated with all Ilios users with permissions in the current school. 
 
 To search for a previously created Program, enter a part of the name of the program into the “Filter by Program title” field, then click on the adjacent search icon or hit the return button on your keyboard or merely keep typing until the results are found. A list of all matches will populate your search panel; highlighting and selecting the desired program will load it to your screen.
 

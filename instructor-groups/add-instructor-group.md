@@ -14,9 +14,9 @@ The new Instructor Group gets added as shown above. A confirmation link is provi
 
 After clicking the link as shown above ...
 
-![](../.gitbook/assets/new_ins_grp_3.jpg)
+![](../.gitbook/assets/screen-shot-2021-09-28-at-3.35.40-pm.png)
 
 Instructors who have already been added to the Group appear as badges. They can be removed easily by simply clicking anywhere on the corresponding badge.
 
-![](../.gitbook/assets/new_ins_grp_4.jpg)
+![](../.gitbook/assets/screen-shot-2021-09-28-at-3.39.37-pm.png)
 

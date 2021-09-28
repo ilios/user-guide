@@ -8,9 +8,9 @@ Once the Instructor Group has been selected, the screen appears as shown below. 
 
 **NOTE**: The trash can icon is enabled because this Instructor Group has not been associated with any teaching activities. The "Associated Courses" field provides this information. If that number is greater than zero, the trash can delete button will be disabled.
 
-![](../.gitbook/assets/edit_instructor_group_2.jpg)
+![](../.gitbook/assets/screen-shot-2021-09-28-at-3.54.18-pm.png)
 
 After performing the steps outlined above, the changes made take effect immediately. The screen is updated to reflect these changes in real-time.
 
-![](../.gitbook/assets/edit_instructor_group_3.jpg)
+![](../.gitbook/assets/screen-shot-2021-09-28-at-3.59.18-pm.png)
 

@@ -2,17 +2,17 @@
 
 Click the \(+\) icon as shown below to start the process of adding an Instructor Group.
 
-![](../.gitbook/assets/instructor_groups_3.jpg)
+![](../.gitbook/assets/screen-shot-2021-09-28-at-3.23.34-pm.png)
 
 After clicking the Add button as shown above, enter the name of the new Instructor Group and Save \(or Cancel\) as shown below.
 
-![](../.gitbook/assets/new_ins_grp_1.jpg)
+![](../.gitbook/assets/screen-shot-2021-09-28-at-3.26.07-pm.png)
 
-The new Instructor Group gets added as shown above. A confirmation link is provided. This can be used to load up the new Instructor Group with Instructors or to change its name.
+The new Instructor Group gets added as shown above. A confirmation link is provided. This can be used to load up the new Instructor Group with Instructors or to change its name. The Instructor Group is also available by performing a search for its title. It appears with all of the other Instructor Groups for the School as soon as the Save event is processed.
 
-![](../.gitbook/assets/new_ins_grp_2.jpg)
+![](../.gitbook/assets/screen-shot-2021-09-28-at-3.29.00-pm.png)
 
-After clicking the link ...
+After clicking the link as shown above ...
 
 ![](../.gitbook/assets/new_ins_grp_3.jpg)
 

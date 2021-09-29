@@ -56,6 +56,7 @@
   * [Offerings](courses-and-sessions/offerings/README.md)
     * [Single Offering](courses-and-sessions/offerings/create-single-offering.md)
     * [Small Group Offerings](courses-and-sessions/offerings/create-small-group-offerings.md)
+    * [Teaching Reminders](courses-and-sessions/offerings/teaching-reminders.md)
     * [Recurring Event](courses-and-sessions/offerings/recurring-event.md)
     * [Edit Offering](courses-and-sessions/offerings/edit-offering.md)
     * [Offerings Editor Calendar](courses-and-sessions/offerings/offerings-editor-calendar.md)

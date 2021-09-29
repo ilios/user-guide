@@ -56,7 +56,15 @@ A learner group's parent relationship can be determined by hovering over with th
 
 ![Offering - after save](../../.gitbook/assets/lg6.png)
 
-### Permissions Note: 
+### Permissions Note
 
 Adding an Instructor to an Offering automatically adds a "Session Instructor" permission for this Instructor's relationship with this Session. The Instructor can modify this session but **NOT** any other sessions unless they are given higher permissions elsewhere - at the Course, Program, or School level or are attached as an Instructor to other Sessions Offerings.
+
+### Teaching Reminders
+
+These are email messages sent out \(as configured at UCSF\) so that all instructors receive the reminder 7 days prior to the teaching event.
+
+The [email template](https://iliosproject.gitbook.io/ilios-user-guide/additional-information/alert-and-email-templates) can be modified to meet your school's needs.
+
+
 

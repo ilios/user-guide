@@ -27,7 +27,7 @@ Once the Course has been selected as shown above, the following Course-level att
 1. **Back to Courses List**: takes the user back to the list of Courses 
 2. **Edit Course Title**: The title can be edited by clicking as shown.
 3. **Published Status**: The Course's publication status can be changed here.
-4. **Learning Materials Summary**: opens up Learning Materials summary
+4. **Learning Materials Summary**: opens up [Learning Materials Summary](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/learning-materials-summary)
 5. **Print Summary**: opens up the all-inclusive Print Summary
 6. **Rollover Course**: starts the process of rolling this Course over
 7. **Course Visualizations**: opens up Visualizations \(Graphs\) for this Course

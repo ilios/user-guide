@@ -14,11 +14,11 @@ Once that has been done, it is necessary to find the session to modify as shown 
 * [Manage Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#manage-terms)
 * [Manage Session Attributes](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#special-session-attributes)
 
-## Find Session
+### Find Session
 
 There are two easy and effective ways to find a session -- either by filtering or by sorting or a combination of both.
 
-### Filtering
+#### Filtering
 
 The screen shot below shows the screen before any search criteria has been entered. The following three fields can be searched:
 
@@ -32,7 +32,7 @@ It is even possible to use a combination search if you prefer.  This is shown be
 
 ![](../../.gitbook/assets/cs_rw_9.png)
 
-### Sorting
+#### Sorting
 
 The Session output grid can be sorted by any of the column headers that have arrow or A-Z indicators. These include ...
 

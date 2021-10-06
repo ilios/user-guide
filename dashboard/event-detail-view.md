@@ -17,7 +17,7 @@ The following links also point towards the Event Detail appropriate to that even
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-After clicking as shown above, Event Detail is reached. The user can review the Location and timing of the Offering they should be attending. Links are shown by the arrows. 
+After clicking as shown above, Event Detail is reached. The user can review the Location and timing of the Offering they are scheduled to be attending. Links are shown by the arrows. 
 
 ![Event Detail - Upper](../.gitbook/assets/image%20%286%29.png)
 

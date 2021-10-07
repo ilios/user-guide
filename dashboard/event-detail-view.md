@@ -2,7 +2,7 @@
 
 The Event Detail view is reached when a user clicks on a link in their Calendar, Calendar feed, Week at a Glance \(WaaG\), or any part of Ilios that reaches user Events \(published Offerings\).
 
-The screen shot below starts the process for a student to access the Event Detail View. In this case, the Session to be viewed in Event Detail View has a Pre-work ILM attached to it. Since these appear at the top of the Week at a Glance, click as shown below to go to correct area of Week at a Glance that corresponds to that Session. This is helpful because the list can be quite lengthy.
+The screen shot below starts the process for a student to access the Event Detail View. In this case, the Session to be viewed in Event Detail View has a Pre-work ILM attached to it. Since these appear at the top of the [Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance), click as shown below to go to correct area of Week at a Glance that corresponds to that Session. This is helpful because the list can be quite lengthy.
 
 ![](../.gitbook/assets/image%20%289%29.png)
 

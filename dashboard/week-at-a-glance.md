@@ -4,7 +4,7 @@ Week at a Glance has proven to be a very useful feature in Ilios. It is the defa
 
 **NOTE**: Week At A Glance \(WaaG\) is not designed as a complete and full calendar. It contains confirmed learning activities the learner will be facing that week. To access other weeks in a similarly formatted view, [All Weeks](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance#all-weeks) can be accessed. Events that are set to a status of "Scheduled", which don't contain course and session specific information are **NOT** displayed on Week at a Glance. They are available on "Activities" and "Calendar" view. 
 
-### **Pre-work**
+## **Pre-work**
 
 This section appears at the top of the Week at a Glance screen. If a student has Independent Learning Modules assigned to them that have been linked to upcoming Session Offerings that pertain to their schedule, these are listed at the top of the screen. They are ordered by the date / time of the upcoming Offerings. This is designed to make it easier for students to plan their approach towards tackling these pre-requisites before arriving in class.
 

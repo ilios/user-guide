@@ -10,14 +10,14 @@ After clicking as shown above, the user is routed to the correct location in Wee
 
 The following links also point towards the Event Detail appropriate to that event.
 
-* Diabetes Management \(Online Lesson\) - An ILM linked to our Session "Glucose Metabolism and Blood Glucose Homeostasis"
+* Diabetes Management \(Online Lesson\) - Pre-work \(ILM\) due prior to "Glucose Metabolism and Blood Glucose Homeostasis"
 * Overview of Lipids and Lipid Transport \(Online Lesson\) - \(same as above\)
 * Glucose Cases - This is another Session this Learner is scheduled to attend at 9:10am
-* Insulin Pharmacology \(Online Lesson\) - An ILM linked to "Glucose Cases".
+* Insulin Pharmacology \(Online Lesson\) - Pre-work \(ILM\) due prior to "Glucose Cases".
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-After clicking as shown above, Event Detail is reached. The user can review the Location and timing of the Offering they should be attending. Links are shown by the arrows. 
+After clicking as shown above, Event Detail is reached. The user can review the Location and timing of the Offering they are scheduled to be attending. Links are shown by the arrows. 
 
 ![Event Detail - Upper](../.gitbook/assets/image%20%286%29.png)
 

@@ -1,10 +1,12 @@
 # Week At A Glance
 
-Week At A Glance has proven to be a very useful feature in Ilios. It is the default when a user logs in. As shown below, there are links available for [Event Details](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) and Learning Materials. A scroll bar will be displayed if the information does not all fit on the screen.
+Week at a Glance has proven to be a very useful feature in Ilios. It is the default when a user logs in. As shown below, there are links available for [Event Details](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) and Learning Materials. A scroll bar will be displayed if the information does not all fit on the screen.
 
-**NOTE**: Week At A Glance \(WaaG\) is not designed as a complete and full calendar. It contains confirmed learning activities the learner will be facing that week. Events that are set to a status of "Scheduled", which don't contain course and session specific information are NOT displayed on Week At A Glance. They are available on "Activities" and "Calendar" view. 
+**NOTE**: Week At A Glance \(WaaG\) is not designed as a complete and full calendar. It contains confirmed learning activities the learner will be facing that week. Events that are set to a status of "Scheduled", which don't contain course and session specific information are NOT displayed on Week at a Glance. They are available on "Activities" and "Calendar" view. 
 
-**Pre-work**: This section appears at the top of the Week At A Glance screen. If a student has Independent Learning Modules assigned to them that have been linked to upcoming Session Offerings that pertain to their schedule, these are listed at the top of the screen. They are ordered by the date / time of the upcoming Offerings. This is designed to make it easier for students to plan their approach towards tackling these pre-requisites before arriving in class.
+### **Pre-work**
+
+This section appears at the top of the Week At A Glance screen. If a student has Independent Learning Modules assigned to them that have been linked to upcoming Session Offerings that pertain to their schedule, these are listed at the top of the screen. They are ordered by the date / time of the upcoming Offerings. This is designed to make it easier for students to plan their approach towards tackling these pre-requisites before arriving in class.
 
 In situations where linked ILM's are assigned, the user can navigate to either the ILM that needs to be completed before the scheduled Offering or to the Event Detail screen of the Offering itself. Standard ILM's which have a Due Date will show up on the Week At A Glance displaying the associated Due Date. This type of ILM is **NOT** provided its own area. The ILM's are ordered with the rest of the student's Offerings in ascending chronological date and time order.
 

@@ -128,3 +128,9 @@ For this example, all three will be selected for this session. An image that sho
 
 ![](../../.gitbook/assets/specsessattrib2.png)
 
+### Inline Editing 
+
+This refers to the ability to be able to edit sessions directly from the Session List. It is detailed below.
+
+![](../../.gitbook/assets/screen-shot-2021-10-08-at-4.14.21-pm.png)
+

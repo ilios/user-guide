@@ -1,6 +1,6 @@
-# SQL Queries \(API v2 vs v3\)
+# SQL Queries (API v2 vs v3)
 
-This page is here to highlight SQL query syntax differences illustrating the changes made to the Ilios database schema. This happens along with our switching of the API from the old version \(v2\) to the new version \(v3\).
+This page is here to highlight SQL query syntax differences illustrating the changes made to the Ilios database schema. This happens along with our switching of the API from the old version (v2) to the new version (v3).
 
 The database schema you know and love will be available until the end of the year. We have made some changes to make retrieving data from Ilios easier, especially regarding Course, Session, and Program Year Objectives. There are other small changes, but the primary changes were made in the realm of Objectives.
 
@@ -33,15 +33,15 @@ WHERE cxo.course_id = [course_id];
 
 In the Course Objective query outlined above, it is important to note the changes that are taking place with the design of the `course_x_objective` table in particular.
 
-**v2 Schema** \(old\) - `course_x_objective`
+**v2 Schema** (old) - `course_x_objective`
 
 ![](../.gitbook/assets/crs_x_obj_old.png)
 
-**v3 Schema** \(new\) - `course_x_objective`
+**v3 Schema** (new) - `course_x_objective`
 
 ![](../.gitbook/assets/crs_x_obj_new.png)
 
-Additional fields that are available in `course_x_objective`in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title** is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Course Objectives.
+Additional fields that are available in `course_x_objective`in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title **is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Course Objectives.
 
 ## Session Objectives
 
@@ -67,23 +67,23 @@ WHERE s.course_id = [course_id];
 
 In the Session Objective query outlined above, it is important to note the changes that are taking place with the design of the `session_x_objective` table in particular. The only reason a join to the `session` table was performed is that we were running our query passed upon the  `course_id` field as a parameter and that field is contained in the `session` table.
 
-**v2 Schema** \(old\) - `session_x_objective`
+**v2 Schema** (old) - `session_x_objective`
 
 ![](../.gitbook/assets/sess_x_obj_old.png)
 
-**v3 Schema** \(new\) - `session_x_objective`
+**v3 Schema** (new) - `session_x_objective`
 
 ![](../.gitbook/assets/sess_x_obj_new.png)
 
-Additional fields that are available in `session_x_objective` in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title** is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Session Objectives.
+Additional fields that are available in `session_x_objective` in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title **is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Session Objectives.
 
 This also makes it easier to deal with Parent Objectives as we will soon see. 
 
 ## Session Objectives with Course Objectives
 
-This next one will return all Session Objectives with their parent \(Course\) Objectives as well, whether this parentage has been established or not. In this case, the queries will be separated into their own code blocks with comments.
+This next one will return all Session Objectives with their parent (Course) Objectives as well, whether this parentage has been established or not. In this case, the queries will be separated into their own code blocks with comments.
 
-#### Sample SQL Query \(v2 - Old Schema\)
+#### Sample SQL Query (v2 - Old Schema)
 
 In the example below, we had to join to the `objective` table twice - once to return the Session Objectives and again to return the Course Objectives. The parent relationship between these two Objective levels is defined using the `objective_x_objective` table. The field `parent_objective_id` returns the ID values used to join to `objective` to retrieve the Objective details.
 
@@ -105,7 +105,7 @@ FROM session s
 WHERE s.course_id = [course_id];
 ```
 
-#### Sample Query \(v3 - New Schema\)
+#### Sample Query (v3 - New Schema)
 
 In the example below, there is no need to join to either `objective` or `objective_x_objective`, both of which will be removed at the end of the year. Left outer joins are performed similarly in both versions of this query in order to return Session Objectives that are NOT linked to Course Objectives.
 
@@ -151,9 +151,9 @@ WHERE py.program_year_id = [program_year_id];
 /** need to provide program_year_id - [program_year_id] **/
 ```
 
-## Session Objectives with Course Objectives and Program Year \(Parent\) Objectives
+## Session Objectives with Course Objectives and Program Year (Parent) Objectives
 
-#### Sample SQL Query \(v2 - Old Schema\)
+#### Sample SQL Query (v2 - Old Schema)
 
 **NOTE**: These v2 Queries will no longer run after the end of 2020.
 
@@ -186,7 +186,7 @@ FROM session s
 WHERE s.course_id = [course_id];
 ```
 
-#### Sample SQL Query \(v3 - New Schema\)
+#### Sample SQL Query (v3 - New Schema)
 
 ```sql
 /** New method - all session objectives wth course objective parents 
@@ -211,6 +211,4 @@ FROM session s
     ON pyxo.program_year_objective_id = coxpyo.program_year_objective_id
 WHERE s.course_id = [coures_id];
 ```
-
-
 

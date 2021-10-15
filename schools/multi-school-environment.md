@@ -6,7 +6,6 @@ The school switcher appears on the Course and Sessions tab as shown below. It is
 
 ![](../.gitbook/assets/school_switcher.jpg)
 
-**IMPORTANT NOTE:** On the Calendar, if you are in more than one School, all curricular events for you in any and all of your schools will appear on the Calendar automatically. The school switcher also appears on the Dashboard but only when All Events is selected and the Calendar is selected.
+**IMPORTANT NOTE: **On the Calendar, if you are in more than one School, all curricular events for you in any and all of your schools will appear on the Calendar automatically. The school switcher also appears on the Dashboard but only when All Events is selected and the Calendar is selected.
 
 ![](../.gitbook/assets/school_switcher_calendar.jpg)
-

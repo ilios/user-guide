@@ -8,7 +8,7 @@ Competency Domains can managed within the Ilios application. To access this func
 
 Now that the School of Medicine has been selected, Competencies can be maintained using the following interface and commands.
 
-The highest level Domains are shown initially with the count of associated Competencies displayed underneath the Summary column header. Click the Competencies\(x\) link to open up the detail screen, shown below. This breaks out into a visual representation to show the details of the competencies counted up under the Summary header. This gives a more detailed viewpoint as shown below.
+The highest level Domains are shown initially with the count of associated Competencies displayed underneath the Summary column header. Click the Competencies(x) link to open up the detail screen, shown below. This breaks out into a visual representation to show the details of the competencies counted up under the Summary header. This gives a more detailed viewpoint as shown below.
 
 In the screen shot below, the "7" refers to the count of Competency domains, whereas the "23" refers to the count of Competencies within these domains.
 
@@ -20,7 +20,7 @@ Now that "Manage Competencies" has been clicked as shown above, the screen chang
 
 ## Add New Competency
 
-To add a new Competency under \(in this case\) the "Interpersonal & Communication skills" domain, simply enter the text of the Competency and click "Add". "Another New One" has been started as a new Competency but not entered yet. This is shown below.
+To add a new Competency under (in this case) the "Interpersonal & Communication skills" domain, simply enter the text of the Competency and click "Add". "Another New One" has been started as a new Competency but not entered yet. This is shown below.
 
 ![Add Competency](../.gitbook/assets/competency_add.jpg)
 
@@ -30,17 +30,17 @@ To edit an existing Competency, simply click on the Name to edit it as shown bel
 
 ### Step One -- select the Competency to edit
 
-![Select the Competency to Edit](../.gitbook/assets/update_comp_1.jpg)
+![Select the Competency to Edit](../.gitbook/assets/update_comp\_1.jpg)
 
 ### Step Two -- make the changes in the provided inline edit box
 
-![Make the Changes](../.gitbook/assets/update_comp_2.jpg)
+![Make the Changes](../.gitbook/assets/update_comp\_2.jpg)
 
-### Step Three -- commit the changes \(or click the red \(x\) to cancel the event\)
+### Step Three -- commit the changes (or click the red (x) to cancel the event)
 
 The changes are now reflected in the list.
 
-![](../.gitbook/assets/update_comp_3.jpg)
+![](../.gitbook/assets/update_comp\_3.jpg)
 
 ## Add New Competency Domain
 
@@ -50,7 +50,7 @@ Adding a new high level Competency Domain can be easily accomplished in this lat
 
  The new domain then appear in the list as shown. Only a portion of the screen is shown to save space. 
 
-![New Domain Added](../.gitbook/assets/new_domain_2.jpg)
+![New Domain Added](../.gitbook/assets/new_domain\_2.jpg)
 
 At this point, you can ...
 
@@ -64,9 +64,9 @@ Editing a Domain is performed in exactly the same way as editing a Competency is
 
 **NOTE:** Be sure to include any and all competencies you may wish to use at this level in order to be able to select them at the Program level.
 
-**Configure** [**PCRS**](https://www.aamc.org/what-we-do/mission-areas/medical-education/curriculum-inventory/establish-your-ci/physician-competency-reference-set) **\(Physician Competency Reference Set\) terms for Competencies**
+**Configure **[**PCRS**](https://www.aamc.org/what-we-do/mission-areas/medical-education/curriculum-inventory/establish-your-ci/physician-competency-reference-set)** (Physician Competency Reference Set) terms for Competencies**
 
-Ilios offers the functionality to attach PCRS terms to competencies either at the domain level or competency level \(under domain\). The starting point for the association is shown below.
+Ilios offers the functionality to attach PCRS terms to competencies either at the domain level or competency level (under domain). The starting point for the association is shown below.
 
 ![Ready to edit PCRS Association](../.gitbook/assets/screen-shot-2021-09-17-at-3.11.24-pm.png)
 
@@ -77,6 +77,4 @@ After clicking as shown above, the full set of Physician Competency Reference Se
 After saving the data in the scenario shown above, the PCRS values are now associated with the Competency. 
 
 ![](../.gitbook/assets/screen-shot-2021-09-17-at-3.26.34-pm.png)
-
-
 

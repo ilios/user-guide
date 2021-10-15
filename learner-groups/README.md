@@ -5,15 +5,15 @@
 _**Learner Group Attributes:**_
 
 * **Title** - The name of the Learner Group - Text field description of the Learner Group.
-* \*\*\*\*[**Default Instructor\(s\)**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-instructor-s) - Selected from the existing population that has been entered into Ilios by campus systems and manual entry. Shown in display as the instructor of record for activities to which a group is associated when no other instructors are identified. This only applies to Small Group Offerings. Individual Offerings do **NOT** get the default instructor from the Learner Group.
-* \*\*\*\*[**Default Location**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-location) - Shown in display as the location of record for activities to which a group is associated when no other location is identified. Just as with Default Instructor, this only applies to Small Group Offerings.
-* \*\*\*\*[**Default Virtual Learning Link**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-virtual-learning-link) - Entered manually or pasted in from an external source such as Zoom. This default virtual learning link behaves in the same manner as Default Instructor\(s\) and Default Location. It will only apply to Small Group Offerings.
-* **Needs Accommodation** - Toggled when one or more learners in any given group \(or sub group\) need accommodation or additional resources in order to participate successfully in virtual learning events. 
+* ****[**Default Instructor(s)**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-instructor-s) - Selected from the existing population that has been entered into Ilios by campus systems and manual entry. Shown in display as the instructor of record for activities to which a group is associated when no other instructors are identified. This only applies to Small Group Offerings. Individual Offerings do **NOT **get the default instructor from the Learner Group.
+* ****[**Default Location**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-location) - Shown in display as the location of record for activities to which a group is associated when no other location is identified. Just as with Default Instructor, this only applies to Small Group Offerings.
+* ****[**Default Virtual Learning Link**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-virtual-learning-link) - Entered manually or pasted in from an external source such as Zoom. This default virtual learning link behaves in the same manner as Default Instructor(s) and Default Location. It will only apply to Small Group Offerings.
+* **Needs Accommodation** - Toggled when one or more learners in any given group (or sub group) need accommodation or additional resources in order to participate successfully in virtual learning events. 
 * **Associated Courses** - Read-only listing of all Courses that have used this Learner Group in Session Offerings or ILM's.
 
 _**Other Options:**_
 
-* **Hide Calendar / Show Calendar -** These buttons are used to switch on or off the Learner Group Calendar, which displays all learning activities to which this Learner Group has been attached. This Calendar is displayed using the weekly view. It can scrolled forward or backwards in time.
+* **Hide Calendar / Show Calendar - **These buttons are used to switch on or off the Learner Group Calendar, which displays all learning activities to which this Learner Group has been attached. This Calendar is displayed using the weekly view. It can scrolled forward or backwards in time.
 * **Show events for all subgroups -** This toggles on or off whether the Learner Group Calendar displays events for any and all subgroups of this Learner Group.
 
 Learner Group Management is a method of tagging, grouping and managing the learners who are attached to curricular activity in Ilios. This module allows for the association of sets of learners to specific content, and the makes possible reporting on those associations. The demographic details of individual learners are not tracked within Ilios.
@@ -26,11 +26,11 @@ _**Learner Groups are Hierarchical**_
 
 A key to the Group Management system is to understand the hierarchical nature of the groups, and the way it relates to Programs of study.
 
-For each entering class of learners, a unique container is created in the system. This is the learner \(All Class\) “Cohort”. It is populated via the user management console with data from the campus systems to identify individual learners. Typically, learners should not be added manually to the Ilios system; all registered students should be available from the feed provided in the administrative tools. However, if learners need to be manually entered into Ilios, the process is similar to that for Instructor Groups. Learners who are not already listed as part of a cohort in the directory provided may be added manually, either individually or via csv-formatted spreadsheet using the “Add New Members to Cohort” link. Students by default are assigned into a primary cohort for tracking, but may \(as may any Ilios user\) be assigned into any number of “Secondary Cohorts”, to allow for multi-year and program assignment, transfer from one cohort to another, and other various needs. Initial primary and secondary assignment is handled via the administrative User Management console.
+For each entering class of learners, a unique container is created in the system. This is the learner (All Class) “Cohort”. It is populated via the user management console with data from the campus systems to identify individual learners. Typically, learners should not be added manually to the Ilios system; all registered students should be available from the feed provided in the administrative tools. However, if learners need to be manually entered into Ilios, the process is similar to that for Instructor Groups. Learners who are not already listed as part of a cohort in the directory provided may be added manually, either individually or via csv-formatted spreadsheet using the “Add New Members to Cohort” link. Students by default are assigned into a primary cohort for tracking, but may (as may any Ilios user) be assigned into any number of “Secondary Cohorts”, to allow for multi-year and program assignment, transfer from one cohort to another, and other various needs. Initial primary and secondary assignment is handled via the administrative User Management console.
 
-From a particular cohort, any number of “top level” groups can be created. Each top level group may be created either with the entire population of the cohort, or as an empty group which may be manually populated. You may create any number of top level groups. Individual members of any group may be removed \(“unassigned”\) at any time. In this way, top level groups may be modified to contain specific subsets of the total cohort population, and lower level sub-groups may be managed as necessary. Each student in a Class cohort may belong to multiple top level groups.
+From a particular cohort, any number of “top level” groups can be created. Each top level group may be created either with the entire population of the cohort, or as an empty group which may be manually populated. You may create any number of top level groups. Individual members of any group may be removed (“unassigned”) at any time. In this way, top level groups may be modified to contain specific subsets of the total cohort population, and lower level sub-groups may be managed as necessary. Each student in a Class cohort may belong to multiple top level groups.
 
-Once a top level group is created, it may be partitioned into any number of smaller groups \(sub-groups or designations\), which will then be seen as members of the top level group. Those smaller groups may also be divided into smaller partitions. A group may have as members both individuals and groups --- all remain members of the same “top level” group.
+Once a top level group is created, it may be partitioned into any number of smaller groups (sub-groups or designations), which will then be seen as members of the top level group. Those smaller groups may also be divided into smaller partitions. A group may have as members both individuals and groups --- all remain members of the same “top level” group.
 
 A learner may only appear once within the tree of a single top level group.
 
@@ -44,7 +44,7 @@ Clicking on the flyout menu item "Learner Groups" brings up the Learner Group Ma
 
 #### Group Centric
 
-It is important to note that Learner Group Management is now very much about the group itself. This is a recent change and we hope it results in a simplification. The key is to navigate to whichever group \(or sub group\) needs modification \(Learners added or removed mainly\). Once you navigate to the correct group or sub group \(the breadcrumbs are helpful with this\), you can then search and find any Learner\(s\) in the Cohort who can be easily added to the group to which you have navigated. Please refer to the Tasks section below for links to specific actions that can be taken.
+It is important to note that Learner Group Management is now very much about the group itself. This is a recent change and we hope it results in a simplification. The key is to navigate to whichever group (or sub group) needs modification (Learners added or removed mainly). Once you navigate to the correct group or sub group (the breadcrumbs are helpful with this), you can then search and find any Learner(s) in the Cohort who can be easily added to the group to which you have navigated. Please refer to the Tasks section below for links to specific actions that can be taken.
 
 ### Tasks
 
@@ -63,21 +63,21 @@ It is important to note that Learner Group Management is now very much about the
 
 There is a way in Ilios to easily review Learner Group, specifically, Sub Group Membership. To do this, open up Learner Group Management by clicking the "Learner Groups" menu item from the Ilios flyout menu. Then, choose a Group which has Sub Groups the membership of which you would like to verify. For the sake of this example, we have chosen "Anesthesia Simulator Group", which has 19 Subgroups and a total of 155 Members.
 
-![](../.gitbook/assets/lg_rw_1.png)
+![](../.gitbook/assets/lg_rw\_1.png)
 
 Once the Learner Group has been selected by clicking on the Learner Group link, the screen appears as shown below. We are at the higher level of "Anesthesia Simulator Group". To review the members of any of the sub groups, the sub group should be selected. If you are already in one of the sub groups, clicking Manage at that level will allow members to be viewed and moved around between the sub groups.
 
-![](../.gitbook/assets/lg_rw_2.png)
+![](../.gitbook/assets/lg_rw\_2.png)
 
-The Learner Group called "Anesthesia Simulator Group 03" has been selected as shown by the purple arrowed instructions above. The 9 members of the groups are listed in read-only mode. To maintain "Anesthesia Simulator Groups 03" and allowing the removal or addition of Learners from this \(and the other\) sub-groups underneath "Anesthesia Simulator Group", click "Manage".
+The Learner Group called "Anesthesia Simulator Group 03" has been selected as shown by the purple arrowed instructions above. The 9 members of the groups are listed in read-only mode. To maintain "Anesthesia Simulator Groups 03" and allowing the removal or addition of Learners from this (and the other) sub-groups underneath "Anesthesia Simulator Group", click "Manage".
 
-![](../.gitbook/assets/lg_rw_3.png)
+![](../.gitbook/assets/lg_rw\_3.png)
 
 To ensure learners have been properly assigned to the correct Subgroups, scroll down and review the membership.
 
-**NOTE**: The default sort order is by First Name &gt;&gt; Ascending. Once in "Manage" mode, you may want to switch the sort order to Group Name &gt;&gt; Ascending to help with maintenance and review.
+**NOTE**: The default sort order is by First Name >> Ascending. Once in "Manage" mode, you may want to switch the sort order to Group Name >> Ascending to help with maintenance and review.
 
-![](../.gitbook/assets/lg_rw_4.png)
+![](../.gitbook/assets/lg_rw\_4.png)
 
 Scroll down further and you can see the Learners who are in other "Anesthesia Simulator Group" sub-groups. What can be done here?
 
@@ -88,5 +88,4 @@ After scrolling down past the 9 members of "Anesthesia Simulator Group 03", the 
 
 As highlighted below, the Learner "Tammy Howard" can be moved into "Anesthesia Simulator Group 03" by either clicking the green "+" or by clicking the check box to the left of her first name "Tammy" and then later by confirming the move.
 
-![](../.gitbook/assets/lg_rw_5.png)
-
+![](../.gitbook/assets/lg_rw\_5.png)

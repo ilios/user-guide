@@ -2,26 +2,26 @@
 
 As mentioned before, it is configurable to allow Course Objectives to have either allow for the addition of one Parent Objective, or to allow for multiple parents to be attached. 
 
-To associate one or more Parent Objectives \(Program Year level\) to a Course Objective ...
+To associate one or more Parent Objectives (Program Year level) to a Course Objective ...
 
 * Find and a Course from Courses and Sessions
 
 ![](../../.gitbook/assets/search_for_course.jpg)
 
-* Click **Show Details \(+\)** to expand the Course and see the details
+* Click **Show Details (+)** to expand the Course and see the details
 * Review the Course Details and expand the screen to display the full list of Course Objectives as shown below.
 
 **1. Show Details**
 
 ![](../../.gitbook/assets/add_course_parent_obj.jpg)
 
-**2. Expand Objectives** 
+**2. Expand Objectives **
 
 ![](../../.gitbook/assets/add_course_parent_obj2.jpg)
 
 **3. Objective Review**
 
-After clicking as shown above, it is evident there is one Course Objective that is missing its Parent \(Program Year\) Objective.
+After clicking as shown above, it is evident there is one Course Objective that is missing its Parent (Program Year) Objective.
 
 ![](../../.gitbook/assets/add_course_parent_obj3.jpg)
 
@@ -48,4 +48,3 @@ After performing steps 4 and 5, a Program Year Objective with a Competency of `I
 Here are the Course Competencies after performing the steps above.
 
 ![](../../.gitbook/assets/course_competencies_post.jpg)
-

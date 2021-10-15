@@ -12,8 +12,8 @@ description: >-
 
 The search box is initially located at the location specified above. If fewer than three characters are entered, the search will not be performed. The search box will move down to a more central location once a search has been successfully performed. Refer to [Search Results](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search#search-results).
 
-The search provides content search to users with heightened privileges \(non-students\) across the curricula at your institution. Access beyond read-only for search returns is determined by individual permissions for each user account.  
-  
+The search provides content search to users with heightened privileges (non-students) across the curricula at your institution. Access beyond read-only for search returns is determined by individual permissions for each user account.\
+\
 An entered search term will query across a broad array of areas within Ilios. These currently include:
 
 * Course Title
@@ -30,17 +30,17 @@ An entered search term will query across a broad array of areas within Ilios. Th
 * Session Vocabulary Terms
 * Session MeSH Terms
 
-Results are labeled according to the location of the match and listed with internal weighting to provide the most relevant results first.  
-  
+Results are labeled according to the location of the match and listed with internal weighting to provide the most relevant results first.\
+\
 After performing a search, all of the areas listed above are scanned for matches. Suggestions are also provided. 
 
 ### Performing a Search 
 
-To search for anything related to "brain", enter that into the search field provided. A list of suggested refinements \("Suggested Values"\) appear below the search box. Any of those can be utilized by clicking directly onto it.
+To search for anything related to "brain", enter that into the search field provided. A list of suggested refinements ("Suggested Values") appear below the search box. Any of those can be utilized by clicking directly onto it.
 
 ![](../.gitbook/assets/srch2.png)
 
-To perform the full search \(which we will do in this example\), press the "Enter" key on the keyboard to perform the search.
+To perform the full search (which we will do in this example), press the "Enter" key on the keyboard to perform the search.
 
 ### Search Results
 
@@ -48,23 +48,22 @@ To perform the full search \(which we will do in this example\), press the "Ente
 
 ### Show More
 
-Search Results are grouped by Course and then by Session. In the case above, the top three sessions that match \(in order of match accuracy\) are displayed. Clicking the "**Show More**" link will open up and show the rest of the sessions within that course that match. For example, after the first "**Show More**" link located under the session link for "Defining the Mind", the screen now displays the rest of the sessions in the course called "Brain, Mind, and Behavior".
+Search Results are grouped by Course and then by Session. In the case above, the top three sessions that match (in order of match accuracy) are displayed. Clicking the "**Show More**" link will open up and show the rest of the sessions within that course that match. For example, after the first "**Show More**" link located under the session link for "Defining the Mind", the screen now displays the rest of the sessions in the course called "Brain, Mind, and Behavior".
 
 ![Search Results Explained](../.gitbook/assets/srch4.png)
 
-**NOTE:** This functionality is not available for students at this time.
+**NOTE: **This functionality is not available for students at this time.
 
 ### Filter Results
 
-Once a search has been performed using the Global Search functionality, the results can be further refined \(filtered\). The following shows two types of filtering that can be done here.
+Once a search has been performed using the Global Search functionality, the results can be further refined (filtered). The following shows two types of filtering that can be done here.
 
 #### Filter By School
 
-![](../.gitbook/assets/gs_res_1.png)
+![](../.gitbook/assets/gs_res\_1.png)
 
 #### Filter By Year 
 
-![Detail View of Year Selector](../.gitbook/assets/gs_res_2.png)
+![Detail View of Year Selector](../.gitbook/assets/gs_res\_2.png)
 
 Use of one or both of the filters shown above will change the result set to only include the values which meet the selected specifications. 
-

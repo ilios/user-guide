@@ -16,7 +16,7 @@ The scheduling and review of offerings can be accomplished by selecting "Courses
 
 ### Pre-work / Multiday Events
 
-ILM's that are linked to Sessions \(Pre-work\) are displayed below the Calendar in their own area. Multiday Events \(those that start and end on a different day\) are as well. See below for an example of this. 
+ILM's that are linked to Sessions (Pre-work) are displayed below the Calendar in their own area. Multiday Events (those that start and end on a different day) are as well. See below for an example of this. 
 
 ![](../.gitbook/assets/rw_ilm19.png)
 
@@ -28,7 +28,7 @@ After performing the click event shown above, the [event detail](https://iliospr
 
 You can also hover over an event with your mouse to retrieve and display more details pertaining to that event without having to leave the Calendar.
 
-![Hover Over for Details](../.gitbook/assets/hover_1.jpg)
+![Hover Over for Details](../.gitbook/assets/hover\_1.jpg)
 
 ### Color Coding
 
@@ -38,7 +38,7 @@ The Calendar display presents Session Offerings with different background colors
 
 ### Non-Learner Calendar View
 
-It is important to note that non-students Ilios users _**WILL**_ see offerings for their courses / sessions that have not been published yet. Students will _**never**_ see these unless they happen to perform a non-student function such as being an Instructor, Course Administrator / Director, Session Administrator, or School Administrators / Director. These users will see the "Not Published" session offerings. Below is an example showing this view. 
+It is important to note that non-students Ilios users _**WILL **_see offerings for their courses / sessions that have not been published yet. Students will _**never**_ see these unless they happen to perform a non-student function such as being an Instructor, Course Administrator / Director, Session Administrator, or School Administrators / Director. These users will see the "Not Published" session offerings. Below is an example showing this view. 
 
 Icon indicating "Not Published" status: 
 
@@ -56,11 +56,10 @@ The ability to access specific learning materials via the calendar feed uses a s
 
 See [Feed Options](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options) for more details on setting this up.
 
-## Protected information \(eg. PII, ePHI etc.\)
+## Protected information (eg. PII, ePHI etc.)
 
 This type of confidential and personal information should not be stored in Ilios.
 
 In the initial iteration of this feature, there is no interface for removing, regenerating, or reviewing the pseudo-key for learning materials.
 
 This key is stored in the `learning_material` table, as the value `token`. Removing this value from a record in the database will make it inaccessible for download from the feed. Currently, this may be done by request to the Ilios technical support team. Unless it is certain that materials should **NOT** be accessible to students, this is not recommended.
-

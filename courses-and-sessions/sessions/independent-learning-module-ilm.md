@@ -1,11 +1,11 @@
-# Independent Learning Module \(ILM\)
+# Independent Learning Module (ILM)
 
 ILM's are a specific type of Session which does not necessarily meet in any particular location at an appointed time. It refers to a curricular activity of a specified required length of time that should be completed by a particular date or before a particular Session offerings is to take place. They are specifically meant to track learning which occurs independently and “asynchronously” outside the classroom, which may or may not be associated with synchronous / didactic learning. 
 
 These are displayed in one of two places ...
 
-1. \*\*\*\*[**ILM with Due Date / Time**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-with-due-date-time)**:** An ILM will appear on the Calendar at the specified time on the Due Date that was assigned. It shows up in a fifteen minute block on the Calendar regardless of the actual duration of the expected activity. If a time is not specified, the default is 5pm.
-2. \*\*\*\*[**ILM linked to an Upcoming Session Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-linked-to-session): An ILM that is linked to an upcoming Session will be displayed in its own area on the [Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance) - right at the top for easy reference for students. In the Calendar View, it will be displayed below. Screen shots of all of these views will be here soon.
+1. ****[**ILM with Due Date / Time**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-with-due-date-time)**:** An ILM will appear on the Calendar at the specified time on the Due Date that was assigned. It shows up in a fifteen minute block on the Calendar regardless of the actual duration of the expected activity. If a time is not specified, the default is 5pm.
+2. ****[**ILM linked to an Upcoming Session Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-linked-to-session): An ILM that is linked to an upcoming Session will be displayed in its own area on the [Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance) - right at the top for easy reference for students. In the Calendar View, it will be displayed below. Screen shots of all of these views will be here soon.
 
 **NOTE:** Any Session Type can be assigned to an ILM. It is possible to have an available Session Type of "Independent Learning" which is not the same or linked in any way to what is being described here.
 
@@ -23,11 +23,11 @@ To create an ILM ...
 
 ### ILM with Due Date / Time
 
-In the case below, the ILM was set with a Due Date of 7/28/2020. Once the Session is published, the ILM will appear on the Learner's calendar in a 15 minute time-slot at the specified time of day on the Due Date \(7/28/2020\).
+In the case below, the ILM was set with a Due Date of 7/28/2020. Once the Session is published, the ILM will appear on the Learner's calendar in a 15 minute time-slot at the specified time of day on the Due Date (7/28/2020).
 
 ![](../../.gitbook/assets/ilm1.png)
 
-It is important to note that one or more Learner Groups or Individual Learners must be added to ILM's so students will see the offerings on their calendars. The ILM \(like any other type of session\) must also be published.
+It is important to note that one or more Learner Groups or Individual Learners must be added to ILM's so students will see the offerings on their calendars. The ILM (like any other type of session) must also be published.
 
 #### Change Due Date / Time
 
@@ -41,7 +41,7 @@ It is also possible to link an ILM to an upcoming Session offering. This way the
 
 ![](../../.gitbook/assets/ilm_screen1.png)
 
-After clicking as shown above, select the Session \(in the same Course\) to which this ILM should be linked.
+After clicking as shown above, select the Session (in the same Course) to which this ILM should be linked.
 
 A handy scrollable and searchable grid appears for the selection process to take place. All sessions in the current course are displayed and available for selection. The location of the mouse is an example of where the session can be clicked. Anywhere in the row or on the "+" button is fine.
 
@@ -63,19 +63,19 @@ Here is a filtered view from Courses and Sessions showing how this looks from th
 
 ![](../../.gitbook/assets/ilm_screen5.png)
 
-The lower part of the screen is shown below. Any \(or all\) of the following Session-level attributes may be added here ...
+The lower part of the screen is shown below. Any (or all) of the following Session-level attributes may be added here ...
 
 * **Session Administration:** Add Session Administrators
 * **Learners and Learner Groups:** Attach Learner Groups and / or Learners to the ILM
-* **Instructors and Instructor Groups:** Attach Instructors \(or Instructor Groups\) to the ILM
-* **Session Objectives:** Add Objectives to this Session. Once added, Session Objectives can have the following associated items added ...
-  * **Parent Objectives** \(Course level Objectives\)
+* **Instructors and Instructor Groups: **Attach Instructors (or Instructor Groups) to the ILM
+* **Session Objectives: **Add Objectives to this Session. Once added, Session Objectives can have the following associated items added ...
+  * **Parent Objectives** (Course level Objectives)
   * **Vocabulary Terms** 
   * **MeSH Terms**
 * **Learning Materials**
-* **Terms:** Associate Vocabulary Terms to the Session
+* **Terms: **Associate Vocabulary Terms to the Session
 * **MeSH**: Associate MeSH Terms to the Session
-* **Offerings** \(ILM's can have associated Offerings but frequently do not since this is normally asynchronous learning that is performed by students outside of the classroom setting\).
+* **Offerings **(ILM's can have associated Offerings but frequently do not since this is normally asynchronous learning that is performed by students outside of the classroom setting).
 
 ![](../../.gitbook/assets/ilm_screen6.png)
 
@@ -87,7 +87,7 @@ After clicking the "Manage Learners" button as shown in the screen shot above, f
 
 ![](../../.gitbook/assets/rw_ilm7.png)
 
-Now that \(in this example\) H&I Exam Groups has been selected, the display has been updated to reflect this selection. Now that the higher level group H&I Exam and all 6 of its Sub Groups have been attached to this ILM Session, the Sub Groups can be removed individually or they can be removed all at the same time. These options are illustrated below.
+Now that (in this example) H\&I Exam Groups has been selected, the display has been updated to reflect this selection. Now that the higher level group H\&I Exam and all 6 of its Sub Groups have been attached to this ILM Session, the Sub Groups can be removed individually or they can be removed all at the same time. These options are illustrated below.
 
 ![](../../.gitbook/assets/rw_ilm8.png)
 
@@ -95,7 +95,7 @@ For the sake of documentation and to demonstrate, choosing Option 2 leads to the
 
 ![](../../.gitbook/assets/rw_ilm9.png)
 
-Clicking "Remove All" \(Option 1\) would have removed all of the Sub Groups and the higher level group back to "Available Learner Groups", thus removing all of these groups from the ILM Session.
+Clicking "Remove All" (Option 1) would have removed all of the Sub Groups and the higher level group back to "Available Learner Groups", thus removing all of these groups from the ILM Session.
 
 **NOTE:** Each higher level group with its associated Sub Groups now comes with its own container, allowing for the "Remove All" of just that higher level Group and its Sub Groups. Other Groups / Sub Groups will remain in their own container for individual Group maintenance.
 
@@ -103,13 +103,13 @@ Below is a screen shot featuring several containers for reference.
 
 ![](../../.gitbook/assets/rw_ilm10.png)
 
-After saving \(clicking the green check box button\), the Learner Groups counter updates as shown below to reflect the total count of attached Learner Groups.
+After saving (clicking the green check box button), the Learner Groups counter updates as shown below to reflect the total count of attached Learner Groups.
 
 ![](../../.gitbook/assets/rw_ilm11.png)
 
 ## Manage Individual Learners
 
-Adding individual learners to ILM's can be done by clicking "Manage Learners". Individual learners can now be added in addition \(or as an option\) to the more traditionally assigned Learner Groups - detailed above. The process of searching for and selecting individual learners starts as shown below. 
+Adding individual learners to ILM's can be done by clicking "Manage Learners". Individual learners can now be added in addition (or as an option) to the more traditionally assigned Learner Groups - detailed above. The process of searching for and selecting individual learners starts as shown below. 
 
 ![](../../.gitbook/assets/sel_lrnrs1.png)
 
@@ -120,8 +120,6 @@ Instructors also need to be attached specifically to this newly created ILM. To 
 ![Manage Instructors](../../.gitbook/assets/rw_ilm12.png)
 
 ![Search for and Select Instructor](../../.gitbook/assets/rw_ilm13.png)
-
-
 
 
 

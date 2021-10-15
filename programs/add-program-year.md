@@ -2,7 +2,7 @@
 
 ## **Add Program Year**
 
-**Step 1:** Click the \(+\) to begin the process of adding the Program Year.
+**Step 1:** Click the (+) to begin the process of adding the Program Year.
 
 ![](../.gitbook/assets/screen-shot-2021-09-15-at-5.19.07-pm.png)
 
@@ -18,13 +18,13 @@ Save when done by clicking the "Done" button as shown below.
 
 Indicators are provided when Program Year information is missing. Click on the provided link to further modify the Program Year. The following Program Year Attributes can be edited.
 
-**NOTE**: A new Cohort is automatically created with the creation of a new Program Year. The Matriculation Year matches the Academic Year chosen during the creation of the Program Year. The Cohort is named by its expected year of Graduation, which is determined by the length \(in Years\) of the Program.
+**NOTE**: A new Cohort is automatically created with the creation of a new Program Year. The Matriculation Year matches the Academic Year chosen during the creation of the Program Year. The Cohort is named by its expected year of Graduation, which is determined by the length (in Years) of the Program.
 
 ## Program Year Attributes
 
-* _**Academic Year:**_ This is selected from the drop-down. This can be configured at the school level in either an entire year format \(2019\) or a split year format \(2019-2020\).
+* _**Academic Year:**_ This is selected from the drop-down. This can be configured at the school level in either an entire year format (2019) or a split year format (2019-2020).
 * _**Competencies:**_ selected from a school-specific, pre-defined list of competency domains and sub-domains.
-* _**Objectives:**_ Free text entry. Program Objectives, once entered, may be associated with any one of the available Competencies. Program Year Objectives can be sorted in the same way that Session Objectives and Course Objectives can be sorted. Refer to sorting [Course Objectives](../courses-and-sessions/courses/sort-objectives.md) or [Session Objectives](../courses-and-sessions/sessions/sort-objectives.md) for reference. Program Year Objectives can be thought of as graduation requirements since they are specific educational outcomes expected of this group of students \(Cohort\) upon their graduation. Program Year Objectives \(like Course or Session Objectives can be tagged using Vocabulary Terms and / or MeSH Terms.
+* _**Objectives:**_ Free text entry. Program Objectives, once entered, may be associated with any one of the available Competencies. Program Year Objectives can be sorted in the same way that Session Objectives and Course Objectives can be sorted. Refer to sorting [Course Objectives](../courses-and-sessions/courses/sort-objectives.md) or [Session Objectives](../courses-and-sessions/sessions/sort-objectives.md) for reference. Program Year Objectives can be thought of as graduation requirements since they are specific educational outcomes expected of this group of students (Cohort) upon their graduation. Program Year Objectives (like Course or Session Objectives can be tagged using Vocabulary Terms and / or MeSH Terms.
 * _**Terms:**_ selected from a school-specific, pre-defined list of one or more Vocabularies.
 * _**Directors:**_ Selected from list of available names. The list is populated with all Ilios users with permissions in the current school. 
 
@@ -54,7 +54,7 @@ When reviewing Program Year Objectives, you can not only download the Competency
 
 #### View Objective Mapping
 
-Below is a sample screen shot illustrating this. The Program Year Objective "MK2 \(graduation\) ..." has been expanded by clicking the arrow to the left of the Objective. Viewable are the Courses in which this was taught along with the text values of the associated Course Objectives.
+Below is a sample screen shot illustrating this. The Program Year Objective "MK2 (graduation) ..." has been expanded by clicking the arrow to the left of the Objective. Viewable are the Courses in which this was taught along with the text values of the associated Course Objectives.
 
 ![](../.gitbook/assets/pyobj1.png)
 
@@ -63,15 +63,13 @@ Below is a sample screen shot illustrating this. The Program Year Objective "MK2
 Below is a list of Program Year Objective attributes that can be edited or changes that be made here.
 
 * **Sort Objectives**: Use this to set the order in which these objectives will appear - drag and drop. Refer to sorting [Course Objectives](../courses-and-sessions/courses/sort-objectives.md) or [Session Objectives](../courses-and-sessions/sessions/sort-objectives.md) for reference. 
-* \*\*\*\*[**Download Competency Map**](https://iliosproject.gitbook.io/ilios-user-guide/programs/competency-map-download)\*\*\*\*
+* ****[**Download Competency Map**](https://iliosproject.gitbook.io/ilios-user-guide/programs/competency-map-download)****
 * **Edit Description**: Clicking on the description of a Program Year Objectives will bring up an editing control.
 * **Competency**: The school level Competency / Domain Knowledge can be set here.
 * **Vocabulary Terms**: Terms can be attached to Program Year Objectives in the same manner as they are to Courses, Sessions etc.
 * **MeSH Terms**: Same as with Vocabulary Terms but using MeSH instead
 * **Active**: The light bulb icon indicates if an Objective is currently active and can be selected at the Course level. Clicking on the light bulb will de-activate the Objective, not destroying any legacy data but making sure it can not be selected going forward. Historical data will appear read-only.
 * **Trash**: The trash can will appear active if the Program Year in question has not been used as a Parent Objective for any Course Objective.
-
-
 
 
 

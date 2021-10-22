@@ -6,9 +6,9 @@ The screen shot below starts the process for a student to access the Event Detai
 
 ![](<../.gitbook/assets/Screen Shot 2021-10-21 at 3.33.41 PM.png>)
 
-After clicking as shown above, the user is routed to the correct location in Week at a Glance for the Session with the title of "Hypertension Cases", which is the follow-up (post-requisite) to the ILM entitled "CV Pharm Module: Hypertension". The link we will follow for this demonstration is pointed out below.&#x20;
+After clicking as shown above, the user is routed to the correct location in Week at a Glance for the Session with the title of "Hypertension Cases", which is the follow-up (post-requisite) to the ILM entitled "CV Pharm Module: Hypertension".&#x20;
 
-The following links also point towards the Event Detail which corresponds to that event.
+The links shown in the screen shot above are explained below
 
 * **CV Pharm Module: Hypertension** - [Pre-work](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance#pre-work) (ILM) due prior to "Glucose Metabolism and Blood Glucose Homeostasis"
 * **Weekly Checkpoint 4 - Due** - Link to that Session's Event Detail page

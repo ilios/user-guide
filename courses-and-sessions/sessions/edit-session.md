@@ -139,5 +139,12 @@ Referencing the screen shot above, after clicking on the Location as shown, here
 
 ![Editing the Location field](<../../.gitbook/assets/Screen Shot 2021-10-29 at 3.18.46 PM.png>)
 
+The following screens are also still technically "inline" since you will not need to navigate anywhere to edit all of these attributes of this Offering. This is all on one screen in the application but for documentation purposed, it was necessary to divide it up into two sections.
 
+**Upper Part**&#x20;
 
+![](<../../.gitbook/assets/Screen Shot 2021-10-29 at 3.30.09 PM.png>)
+
+**Lower Part**&#x20;
+
+![](<../../.gitbook/assets/Screen Shot 2021-10-29 at 3.27.14 PM.png>)

@@ -69,6 +69,8 @@ The Description will get truncated in this view. Clicking on the ellipses or the
 
 The process for editing and entering Instructional Notes is basically identical to the process detailed above for session description. One difference is that Instructional Notes do not get truncated in the interface if lengthy.
 
+**NOTE**: Session-level instructional notes do **not** appear on Event Detail. They are used internally and are accessible only through Courses and Sessions.&#x20;
+
 ### Add MeSH
 
 To add a MeSH Term to a Session, follow the steps below. The steps for adding MeSH are the same wherever MeSH (Medical Subject Headers) can be attached - Sessions, Courses, Learning Materials, and Objectives.

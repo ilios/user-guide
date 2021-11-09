@@ -69,7 +69,7 @@ The Description will get truncated in this view. Clicking on the ellipses or the
 
 The process for editing and entering Instructional Notes is basically identical to the process detailed above for session description. One difference is that Instructional Notes do not get truncated in the interface if lengthy.
 
-**NOTE**: Session-level instructional notes do **not** appear on Event Detail. They are used internally and are accessible only through Courses and Sessions.&#x20;
+**NOTE**: Session-level instructional notes do **not** appear on Event Detail or anywhere in the Calendar or feed. They are used internally and are accessible only through Courses and Sessions. These are notes that can be left by Course Administrators for instructors or other Administrative users to review.
 
 ### Add MeSH
 

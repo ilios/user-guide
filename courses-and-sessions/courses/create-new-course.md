@@ -4,7 +4,7 @@ Courses are unique to the academic year in which they are taught. To create a ne
 
 ![](../../.gitbook/assets/cs\_rw\_1.png)
 
-After clicking **Done** as shown in the example shown above, the remaining details of the new Course can now be added. Remember to verify the year in the "Academic Year" selector is correct. It is required to choose this at the time of creating a Course in Ilios.
+After clicking **Done** as shown in the example shown above, the remaining details of the new Course can now be added. Remember to verify the year in the "Academic Year" selector is correct. It defaults to the current year but can be changed to any future academic year or recently passed year in the system.
 
 ![](../../.gitbook/assets/cs\_rw\_2.png)
 

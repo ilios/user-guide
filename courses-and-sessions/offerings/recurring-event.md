@@ -47,3 +47,7 @@ Once "Save" has been clicked, the events now appear as follows and can be modifi
 In the Session List, when this session is expanded, all six offerings can be seen here. The entire editing pane shown in previous steps in this chapter becomes enabled and viewable. Editing can be easily done from here.
 
 ![](<../../.gitbook/assets/Screen Shot 2021-12-14 at 1.54.18 PM.png>)
+
+#### Calendar View
+
+![](<../../.gitbook/assets/Screen Shot 2021-12-14 at 2.03.48 PM.png>)

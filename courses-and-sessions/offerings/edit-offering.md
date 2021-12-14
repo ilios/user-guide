@@ -16,11 +16,11 @@ After clicking the Edit button under the Action menu as shown above, a screen si
 
 ![](../../.gitbook/assets/rweditoffering2.png)
 
-**IMPORTANT NOTE: **Any valid Ilios user can now be added as an Instructor. This includes students and non-students. Selecting an Ilios user as "Instructor" effectively adds the Instructor (as well as setting the "Perform Non-Learners" value to "Yes") role to this user's profile.
+**IMPORTANT NOTE:** Any valid Ilios user can now be added as an Instructor. This includes students and non-students. Selecting an Ilios user as "Instructor" effectively adds the Instructor (as well as setting the "Perform Non-Learners" value to "Yes") role to this user's profile.
 
 ### Add URL - Virtual Session Link
 
-To add a URL (Virtual Session Link), the URL can be generated using an application such as Zoom and pasted into llios. 
+To add a URL (Virtual Session Link), the URL can be generated using an application such as Zoom and pasted into llios.&#x20;
 
 The URL field is available on the Offerings Editor form directly below Offering Start / End Time. Initially the field appears as shown below.
 
@@ -40,6 +40,6 @@ All that is left to do now is update the offering with this newly added informat
 
 ![Save to Update the Offering](../../.gitbook/assets/urlsave.png)
 
-Now that this has been added, the link that was pasted into the URL fields gets converted (for display and usability purposes) to "Virtual Session Link". There is also a "Copy" link if it is desired to have the full URL available for pasting or re-posting elsewhere. 
+Now that this has been added, the link that was pasted into the URL fields gets converted (for display and usability purposes) to "Virtual Session Link". There is also a "Copy" link if it is desired to have the full URL available for pasting or re-posting elsewhere.&#x20;
 
 ![After Save](../../.gitbook/assets/url4.png)

@@ -19,9 +19,9 @@
 
 ### Screen Elements
 
-This shows the Course detail screen (once a Course has been selected and Details have been expanded). 
+This shows the Course detail screen (once a Course has been selected and Details have been expanded).&#x20;
 
-![](<../../.gitbook/assets/course_top (1).png>)
+![](<../../.gitbook/assets/course\_top (1).png>)
 
 #### Functionality and Links by the Numbers (upper)
 
@@ -31,8 +31,8 @@ This shows the Course detail screen (once a Course has been selected and Details
 4. **Edit Course Title**: The title can be edited by clicking as shown.
 5. **Published Status**: The Course's publication status can be changed here.
 6. **Course ID**: The Course ID field can be edited by clicking as shown.
-7. **Clerkship Type**: edited here  
-8. **Start Date**: edited here 
+7. **Clerkship Type**: edited here &#x20;
+8. **Start Date**: edited here&#x20;
 9. **Learning Materials Summary**: opens up Learning Materials summary
 10. **Print Summary**: opens up the all-inclusive Print Summary
 11. **Rollover Course**: starts the process of rolling this Course over
@@ -41,13 +41,13 @@ This shows the Course detail screen (once a Course has been selected and Details
 14. **Level**: edited here
 15. **Course Leadership**: expands to assign Course Directors and / or Administrators
 16. **Course Objectives**: expands and opens up the Objective editor
-17. **Search For Learning Material**: to find existing Learning Material  
-18. **Add Learning Material**: If Learning Material is not found, new ones can be uploaded 
+17. **Search For Learning Material**: to find existing Learning Material &#x20;
+18. **Add Learning Material**: If Learning Material is not found, new ones can be uploaded&#x20;
 19. **Sort Materials**: to change the order in which Learning Materials are displayed to students
 20. **Edit Learning Material**: allows for the changing of Learning Material attributes
 21. **Delete Learning Material**: if available, allows for the deletion of Learning Material objects
 
-![Course Detail Lower ](../../.gitbook/assets/course_lower.png)
+![Course Detail Lower ](../../.gitbook/assets/course\_lower.png)
 
 #### Functionality and Links by the Numbers (lower)
 
@@ -66,13 +66,13 @@ This display can be sorted by the following fields in addition to being filtered
 ### Sort Options ...
 
 * **Level**
-* **Start Date** 
-* **End Date** 
-* **Status** 
+* **Start Date**&#x20;
+* **End Date**&#x20;
+* **Status**&#x20;
 
-**TIP: ** It can be helpful to sort by **"Status"** when you want to find out which Courses may not have been published yet. The Courses with the Status of "Not Published" will appear first in the list.
+**TIP:** It can be helpful to sort by **"Status"** when you want to find out which Courses may not have been published yet. The Courses with the Status of "Not Published" will appear first in the list.
 
-![Courses Screen (Ilios 3.0)](<../../.gitbook/assets/all_courses (1).jpg>)
+![Courses Screen (Ilios 3.0)](<../../.gitbook/assets/all\_courses (1).jpg>)
 
 ## My Courses
 
@@ -80,13 +80,13 @@ By default, all courses for the selected school are displayed. There is a pair o
 
 **Original appearance:**
 
-![All Courses](../../.gitbook/assets/all_crs_btn1.png)
+![All Courses](../../.gitbook/assets/all\_crs\_btn1.png)
 
 **After clicking / toggling:**
 
-![My Courses](../../.gitbook/assets/my_crs_btn1.png)
+![My Courses](../../.gitbook/assets/my\_crs\_btn1.png)
 
 The screen is then refreshed to display only the courses with which the logged in user is associated. In this example, the logged-in user is not associated in any way with the Anesthesia 110 course so it is no longer displayed.
 
-![My Courses (list of courses)](../../.gitbook/assets/my_crs_listed1.png)
+![My Courses (list of courses)](../../.gitbook/assets/my\_crs\_listed1.png)
 

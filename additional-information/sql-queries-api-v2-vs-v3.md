@@ -35,13 +35,13 @@ In the Course Objective query outlined above, it is important to note the change
 
 **v2 Schema** (old) - `course_x_objective`
 
-![](../.gitbook/assets/crs_x_obj_old.png)
+![](../.gitbook/assets/crs\_x\_obj\_old.png)
 
 **v3 Schema** (new) - `course_x_objective`
 
-![](../.gitbook/assets/crs_x_obj_new.png)
+![](../.gitbook/assets/crs\_x\_obj\_new.png)
 
-Additional fields that are available in `course_x_objective`in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title **is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Course Objectives.
+Additional fields that are available in `course_x_objective`in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title** is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Course Objectives.
 
 ## Session Objectives
 
@@ -69,15 +69,15 @@ In the Session Objective query outlined above, it is important to note the chang
 
 **v2 Schema** (old) - `session_x_objective`
 
-![](../.gitbook/assets/sess_x_obj_old.png)
+![](../.gitbook/assets/sess\_x\_obj\_old.png)
 
 **v3 Schema** (new) - `session_x_objective`
 
-![](../.gitbook/assets/sess_x_obj_new.png)
+![](../.gitbook/assets/sess\_x\_obj\_new.png)
 
-Additional fields that are available in `session_x_objective` in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title **is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Session Objectives.
+Additional fields that are available in `session_x_objective` in the new version of the database schema without having to join to other tables: `ancestor_id`, `title`, and `active`. **Title** is the big win here. Objectives are no longer stored in one location `objectives` and there is now no need to join to that table in order to retrieve Session Objectives.
 
-This also makes it easier to deal with Parent Objectives as we will soon see. 
+This also makes it easier to deal with Parent Objectives as we will soon see.&#x20;
 
 ## Session Objectives with Course Objectives
 

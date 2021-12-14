@@ -8,7 +8,7 @@ You can perform a search and select an existing Ilios user record to modify as s
 
 ![](../.gitbook/assets/admin\_1.png)
 
- Now that the user has been selected there are many useful utilities provided by the interface. Given the complexity of this screen, we will take it in portions. The top part of the screen is shown below once our user has been selected.
+&#x20;Now that the user has been selected there are many useful utilities provided by the interface. Given the complexity of this screen, we will take it in portions. The top part of the screen is shown below once our user has been selected.
 
 ![User Admin - top portion](../.gitbook/assets/admin\_3.png)
 
@@ -22,13 +22,13 @@ The example below shows the scenario when there is no Campus Directory. Any fiel
 
 #### Fields and Functionality Described
 
-**First Name, Last Name, Campus ID, Username: **These values are either brought in from your campus directory (LDAP or other) or can be edited manually.
+**First Name, Last Name, Campus ID, Username:** These values are either brought in from your campus directory (LDAP or other) or can be edited manually.
 
-**Middle Name, Other ID, Preferred Email, Phone: **These values can be edited here. 
+**Middle Name, Other ID, Preferred Email, Phone:** These values can be edited here.&#x20;
 
 _**NOTE:**_ Teaching notifications will be sent to a the preferred email address entered here if one exists in the system.
 
-**Password: **Only systems that are not set up to sync with a directory will have this link. This is used to reset a user's password. A utility to ensure password strength is included.
+**Password:** Only systems that are not set up to sync with a directory will have this link. This is used to reset a user's password. A utility to ensure password strength is included.
 
 ![](../.gitbook/assets/adminrw4.png)
 
@@ -44,7 +44,7 @@ In a similar manner to editing account properties, the editing of user roles and
 
 ![](../.gitbook/assets/adminrw5.png)
 
-The permissions/fields that can be selected or un-selected (meaning yes or no) are ... 
+The permissions/fields that can be selected or un-selected (meaning yes or no) are ...&#x20;
 
 #### Former Student (Student Role):
 
@@ -70,9 +70,9 @@ As depicted above in "Admin Console - part 2", the "Click to update Cohort assig
 
 **Icons Explained**
 
-![](../.gitbook/assets/ready_icon.jpg)
+![](../.gitbook/assets/ready\_icon.jpg)
 
- \- Adds the selected Cohort as a Secondary Cohort for this User. All Cohort additions are initially added as a Secondary Cohort.
+&#x20;\- Adds the selected Cohort as a Secondary Cohort for this User. All Cohort additions are initially added as a Secondary Cohort.
 
 ### Primary Cohort Options ...
 

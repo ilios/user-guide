@@ -1,6 +1,6 @@
 # Introduction
 
-![](.gitbook/assets/ilios_banner.jpg)
+![](.gitbook/assets/ilios\_banner.jpg)
 
 ## The Official Ilios User Guide
 
@@ -8,15 +8,15 @@
 
 To perform a quick search to find any Ilios topic you may be hoping to find, there is a search box available in the upper left portion of the screen. Before entering criteria, it appears as shown below.
 
-![](.gitbook/assets/user_guide_search\_1.jpg)
+![](.gitbook/assets/user\_guide\_search\_1.jpg)
 
 In this example, the search term entered is only "Add". You can see that 38 results were returned from that generic search. "Add New Session" is the first of the 38 results returned. The others can located by scrolling down the page. The highest likelihood (best match) appears towards the top of the screen decreasing further down the page.
 
-![](.gitbook/assets/user_guide_search\_2.jpg)
+![](.gitbook/assets/user\_guide\_search\_2.jpg)
 
 As the search criteria is further refined, the results returned will be fewer. The more specific the search criteria is, the fewer results you will have to scroll through to find what you want. They are sorted by best match. Click on any of the blue links to pull up the exact topic in detail.
 
-![](.gitbook/assets/user_guide_search\_3.jpg)
+![](.gitbook/assets/user\_guide\_search\_3.jpg)
 
 Please feel free to bookmark this page. This living document will be continually updated and is the most current Ilios User Guide available. Content will be refined and added on an ongoing basis.
 
@@ -26,7 +26,7 @@ The user guide is configured to have high level chapters based on the flyout men
 
 ## Working with Ilios
 
-One important thing to remember:** Ilios is a web application.**
+One important thing to remember: **Ilios is a web application.**
 
 This application is web-based, meaning it must be accessed through web-browsing interfaces. While it may be used on any current web browser including Internet Explorer 10 and above, Ilios is optimized for use with Mozilla’s Firefox web browser 32 and above, as well as all webkit-based web browsers such as Google Chrome (ver. 30.x and above) Safari (for Mac), or Opera (ver. 10.x and above).
 
@@ -50,7 +50,7 @@ Ilios is built explicitly on the concept of user-centric information, rather tha
 
 The Ilios workflow is based on a curriculum structure which incorporates several interconnected levels (displayed below starting with the highest level -- program):
 
-![Interconnected](.gitbook/assets/inter_connected.jpg)
+![Interconnected](.gitbook/assets/inter\_connected.jpg)
 
 * A deployment of Ilios may include multiple related schools or institutions.
 * Every school or institution creates and owns specific programs of study.

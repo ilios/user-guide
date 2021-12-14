@@ -14,25 +14,25 @@ Reports may be created, edited and/or deleted up until they are “finalized”.
 
 Only one report for each year of each program may be in place at any time; this includes finalized reports.
 
-The export created by the report is compliant with the Medbiquitous standards and the AAMC inventory business rules. Once generated it may be delivered directly to the AAMC for input into the CI and MedAPS system. This was designed with the School of Medicine in mind. However, the provided tools can be used by any school (Pharmacy, Dentistry etc.). 
+The export created by the report is compliant with the Medbiquitous standards and the AAMC inventory business rules. Once generated it may be delivered directly to the AAMC for input into the CI and MedAPS system. This was designed with the School of Medicine in mind. However, the provided tools can be used by any school (Pharmacy, Dentistry etc.).&#x20;
 
 ## Accessing Curriculum Inventory
 
 The Curriculum Inventory functionality can be accessed (if you have the rights) by clicking on the Ilios Flyout Menu as shown below.
 
-![](../.gitbook/assets/ci_rw\_1.png)
+![](../.gitbook/assets/ci\_rw\_1.png)
 
 ### Main Screen
 
 After clicking the Curriculum Inventory link from the Ilios flyout menu as shown above, the screen will appear similar to what is shown below.
 
-![](../.gitbook/assets/ci_rw\_5.png)
+![](../.gitbook/assets/ci\_rw\_5.png)
 
- The existing Curriculum Inventory (CI) Reports can be sorted by ...
+&#x20;The existing Curriculum Inventory (CI) Reports can be sorted by ...
 
 `Report Name`
 
- or ...
+&#x20;or ...
 
 `Academic Year`
 
@@ -44,23 +44,23 @@ You can see (A - Z) next to Report Name above, which indicates that is the curre
 
 Click the (+) button as shown below to start the process of creating a new CI Report.
 
-![](../.gitbook/assets/ci_rw\_6.png)
+![](../.gitbook/assets/ci\_rw\_6.png)
 
 #### 2. Select School, Program, Year and enter Name and optional Description
 
 Once the (+) icon has been clicked as shown above, the screen appears as shown below. Select and / or enter the applicable data for the newly created CI Report.
 
-![](../.gitbook/assets/ci_rw\_18.png)
+![](../.gitbook/assets/ci\_rw\_18.png)
 
 After the data has been entered or selected as shown above and "Done" has been clicked, the new CI Report gets created. It gets shifted to the bottom of the list (sorted currently by "Report Name").
 
-**NOTE: **The newly created reported can be deleted - use the red trash can icon to do this. Its status is DRAFT. Any report that has not been finalized can be deleted.
+**NOTE:** The newly created reported can be deleted - use the red trash can icon to do this. Its status is DRAFT. Any report that has not been finalized can be deleted.
 
-![](../.gitbook/assets/ci_rw\_19.png)
+![](../.gitbook/assets/ci\_rw\_19.png)
 
 ### Icons Explained
 
-![](../.gitbook/assets/ci_rw\_3.png)
+![](../.gitbook/assets/ci\_rw\_3.png)
 
 The red trash can "Delete" is only available when a CI Report has not been finalized. A finalized CI Report is shown with a locked icon and cannot be deleted.
 
@@ -74,17 +74,17 @@ Note that in the current iteration, it is necessary to create the highest level 
 
 Now that the new CI Report was saved in Step 2 (above), the report can be accessed and edited by using any of the three routes indicated by the purple arrows in the screen shot below. The congratulatory message only appears until the screen is refreshed or other action is taken.
 
-![](../.gitbook/assets/ci_rw\_20.png)
+![](../.gitbook/assets/ci\_rw\_20.png)
 
 Now that the newly created report has been selected and opened for editing, to start the process of creating the top level of the nested Sequence Blocks, click the (+) button as shown below.
 
-![](../.gitbook/assets/ci_rw\_21.png)
+![](../.gitbook/assets/ci\_rw\_21.png)
 
 It is strongly recommended that the structure of your report be well defined prior to creating it in Ilios. This will facilitate the process of modeling your high level tracks, blocks, and nested sequences.
 
 The data entry points for a new Sequence Block are detailed below.
 
-![](../.gitbook/assets/ci_rw\_23.png)
+![](../.gitbook/assets/ci\_rw\_23.png)
 
 **Other Fields:**
 
@@ -94,31 +94,31 @@ The data entry points for a new Sequence Block are detailed below.
 
 After clicking the **Done** button shown above, the Sequence Block is committed to the database. The meta-information about the Sequence Block is displayed as shown below.
 
-![](../.gitbook/assets/ci_rw\_24.png)
+![](../.gitbook/assets/ci\_rw\_24.png)
 
 #### 4. Add Nested Sequence Block
 
 This is the process of assigning the Courses (and the Sessions and Offerings) that correspond to the Sequence Block saved in the previous step.
 
-Pull up the recently saved top-level Sequence Block by following one of the routes indicated in the screen shot below to begin the process of adding the Courses and Sessions to the nested Sequence Block being created. 
+Pull up the recently saved top-level Sequence Block by following one of the routes indicated in the screen shot below to begin the process of adding the Courses and Sessions to the nested Sequence Block being created.&#x20;
 
-![](../.gitbook/assets/ci_rw\_25.png)
+![](../.gitbook/assets/ci\_rw\_25.png)
 
-![](../.gitbook/assets/ci_rw\_26.png)
+![](../.gitbook/assets/ci\_rw\_26.png)
 
 Now that the process has been started as shown above the Sequence Block creation screen is displayed again only this time, the new Sequence Block will be "nested" under the higher level one.
 
 After following the steps shown above, the Nested Sequence Block can be created as shown below.
 
-![](../.gitbook/assets/ci_rw\_15.png)
+![](../.gitbook/assets/ci\_rw\_15.png)
 
 After clicking Done, the new Sequence Block gets created as shown below.
 
-![](../.gitbook/assets/ci_rw\_16.png)
+![](../.gitbook/assets/ci\_rw\_16.png)
 
 Open up the newly created nested Sequence Block by clicking in one of the locations indicated by the blue arrows above.
 
-![](../.gitbook/assets/ci_rw\_17.png)
+![](../.gitbook/assets/ci\_rw\_17.png)
 
 The changes that can be made after clicking Manage as shown above are primarily to deal with Instructional Time. In the case that is circled above there are 8 Offerings and the time is not counted as one Offering. The full duration of all 8 Offerings is added up for the total of 32 hours, even though each of the Offerings (Exams) that any one student would attend would last 4 hours. You can select "Count as one offering" to be "Yes" to fix this if that is what you choose to do. In this case, that would probably be the best thing to do since each student only has to take this exam one time.
 
@@ -138,11 +138,11 @@ Since, it is not accurate to have all of the 7 Offerings to be added together to
 
 Clicking as shown below will adjust the Sequence Block to reflect reality better. The two ILM's at the top of the Sequence Block have been selected to **NOT** be included in the CI Report output. The ABC1 Exam is now counted at its correct duration (4 hours).
 
-![](../.gitbook/assets/ci_rw\_27.png)
+![](../.gitbook/assets/ci\_rw\_27.png)
 
 Click the Green Check box to process the update(s). The screen refreshes with the updated values indicated.
 
-![](../.gitbook/assets/ci_rw\_28.png)
+![](../.gitbook/assets/ci\_rw\_28.png)
 
 Once a report is created in draft form, it becomes available in the “select report” list which appears when clicking the “select report” button at the top left of the screen. Reports may be edited at any time until they are finalized. Once finalized, they may not be modified, and changes to the existing active curriculum or Ilios data will not modify their contents.
 
@@ -150,23 +150,23 @@ It may be necessary to go one level deeper into the Block Sequence structure whe
 
 #### 6. Finalize Curriculum Inventory Report
 
-The example below shows a completed CI Report that is now ready to be finalized. Any of the fields with blue text can still be edited before the report gets finalized. The report can also be downloaded before or after it gets finalized. The same is true for performing a[ ](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/ci-report-rollover)[rollover](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/ci-report-rollover). 
+The example below shows a completed CI Report that is now ready to be finalized. Any of the fields with blue text can still be edited before the report gets finalized. The report can also be downloaded before or after it gets finalized. The same is true for performing a[ ](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/ci-report-rollover)[rollover](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/ci-report-rollover).&#x20;
 
-![](../.gitbook/assets/ci_rw\_29.png)
+![](../.gitbook/assets/ci\_rw\_29.png)
 
 After clicking the `Finalize` button as shown above, the user is presented with one final chance to either go through with the finalization of the report or cancel out and make further refinements.
 
-![](../.gitbook/assets/ci_rw\_30.png)
+![](../.gitbook/assets/ci\_rw\_30.png)
 
 Now, after clicking `Yes`, the CI Report gets finalized and as the message states no further edits will be possible.
 
 The following splash screen appears while the finalizaton process is being performed. It may take a while to complete.
 
-![](../.gitbook/assets/ci_rw\_31.png)
+![](../.gitbook/assets/ci\_rw\_31.png)
 
 Now the report can be downloaded but cannot be edited. The top part of the screen reflects this fact.
 
-![](../.gitbook/assets/ci_rw\_32.png)
+![](../.gitbook/assets/ci\_rw\_32.png)
 
 The XML output from the CI Report can be run through an XML parser such as [this one](https://www.corefiling.com/opensource/schemaValidate.html) to check for errors. Common errors include fields that require a value not receiving a value.
 

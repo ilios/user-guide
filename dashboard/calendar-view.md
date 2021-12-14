@@ -2,7 +2,7 @@
 
 ### Calendar
 
-![](../.gitbook/assets/new_dashboard_cal.jpg)
+![](../.gitbook/assets/new\_dashboard\_cal.jpg)
 
 Switching to the Calendar by clicking the Calendar button as shown above will cause the window to display as shown above. The Calendar becomes visible and enabled.
 
@@ -12,17 +12,17 @@ The scheduling and review of offerings can be accomplished by selecting "Courses
 
 ### Calendar View
 
-![Click the Event in the Calendar](../.gitbook/assets/click_one.jpg)
+![Click the Event in the Calendar](../.gitbook/assets/click\_one.jpg)
 
 ### Pre-work / Multiday Events
 
-ILM's that are linked to Sessions (Pre-work) are displayed below the Calendar in their own area. Multiday Events (those that start and end on a different day) are as well. See below for an example of this. 
+ILM's that are linked to Sessions (Pre-work) are displayed below the Calendar in their own area. Multiday Events (those that start and end on a different day) are as well. See below for an example of this.&#x20;
 
-![](../.gitbook/assets/rw_ilm19.png)
+![](../.gitbook/assets/rw\_ilm19.png)
 
 ### Event Detail View
 
-After performing the click event shown above, the [event detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) view appears. 
+After performing the click event shown above, the [event detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) view appears.&#x20;
 
 ### Additional Details
 
@@ -34,13 +34,13 @@ You can also hover over an event with your mouse to retrieve and display more de
 
 The Calendar display presents Session Offerings with different background colors. These colors indicate the type of learning activity for the Offering. These colors can be customized in Ilios. They are configurable at the school level.
 
-[Session Types](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types) can be customized. 
+[Session Types](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types) can be customized.&#x20;
 
 ### Non-Learner Calendar View
 
-It is important to note that non-students Ilios users _**WILL **_see offerings for their courses / sessions that have not been published yet. Students will _**never**_ see these unless they happen to perform a non-student function such as being an Instructor, Course Administrator / Director, Session Administrator, or School Administrators / Director. These users will see the "Not Published" session offerings. Below is an example showing this view. 
+It is important to note that non-students Ilios users _**WILL**_ see offerings for their courses / sessions that have not been published yet. Students will _**never**_ see these unless they happen to perform a non-student function such as being an Instructor, Course Administrator / Director, Session Administrator, or School Administrators / Director. These users will see the "Not Published" session offerings. Below is an example showing this view.&#x20;
 
-Icon indicating "Not Published" status: 
+Icon indicating "Not Published" status:&#x20;
 
 ![Not Published](../.gitbook/assets/unpubicon.png)
 

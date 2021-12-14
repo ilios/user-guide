@@ -16,29 +16,29 @@ After clicking as shown above, at the lower left hand corner of your browser win
 
 When opening it in Excel on a Mac, it initially appears as shown below (Before ...). There are many techniques that can be used to make it more presentable. You can also save it as an .xlsx or other Excel file format once the adjustments have been made.
 
-![](../.gitbook/assets/comp_map\_2.png)
+![](../.gitbook/assets/comp\_map\_2.png)
 
 You can view this in Finder (Apple) or Windows Explorer (WIndows) and save it to a more appropriate location of your chosing. Later, right click on it and choose to open it however you would normally open a .csv file. Excel or other text or spreadsheet applications should work.
 
 What I recommend ...
 
 * Bold and customize the field names (top row)
-* Make the "mapped_course_objective" field much wider
-* Once widened, use Align text / "word wrap" on the "mapped_course_objective" field
+* Make the "mapped\_course\_objective" field much wider
+* Once widened, use Align text / "word wrap" on the "mapped\_course\_objective" field
 * Fix the top row so the file can ben scrolled.
 
 Before ...
 
-![Before formatting the output ...](../.gitbook/assets/comp_map\_3.png)
+![Before formatting the output ...](../.gitbook/assets/comp\_map\_3.png)
 
 \
 After ...
 
-![After formatting the output ...](../.gitbook/assets/comp_map\_4.png)
+![After formatting the output ...](../.gitbook/assets/comp\_map\_4.png)
 
 You can sort the output however you would it sorted as well as move columns around and any other changes you may wish to perform once the file has been downloaded.
 
-**IMPORTANT NOTE:**_** **_These Program Years are based on Matriculation Year so if the year selected is 17-18 for example, the mappings are probably not complete yet for the later years of these students' educational experience. This is because the mappings may have not been completed yet in Ilios for Courses, Sessions, and Offerings which are scheduled to take place in the future.
+**IMPORTANT NOTE: **_****_ These Program Years are based on Matriculation Year so if the year selected is 17-18 for example, the mappings are probably not complete yet for the later years of these students' educational experience. This is because the mappings may have not been completed yet in Ilios for Courses, Sessions, and Offerings which are scheduled to take place in the future.
 
 
 

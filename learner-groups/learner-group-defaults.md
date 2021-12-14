@@ -9,7 +9,7 @@ description: >-
 
 ****
 
-**NOTE**: Default values for small group offerings are applied when the offerings are first created. Offerings that were saved previously will **NOT **get updated if / when the defaults are changed. The offerings retain the original values that were in place for the Learner Group default values when they were created.
+**NOTE**: Default values for small group offerings are applied when the offerings are first created. Offerings that were saved previously will **NOT** get updated if / when the defaults are changed. The offerings retain the original values that were in place for the Learner Group default values when they were created.
 
 ## Default Location
 
@@ -31,7 +31,7 @@ Now that it has been saved, "HSW 322" appears as a clickable hyperlink in case c
 
 ## Default Instructor(s)
 
-The process for adding default instructor(s) is similar with the exception being you can add more than one Instructor or Instructor Group as the default. 
+The process for adding default instructor(s) is similar with the exception being you can add more than one Instructor or Instructor Group as the default.&#x20;
 
 #### Add Default Instructor(s)
 
@@ -75,18 +75,18 @@ This is used when one or more learners in a learner group require accommodations
 
 Initially (before being set), the toggle appears as shown below. The default for any learner group is "No"
 
-![](../.gitbook/assets/needs_accom1.png)
+![](../.gitbook/assets/needs\_accom1.png)
 
 Slide the toggle over to the right by clicking it.
 
-![](../.gitbook/assets/needs_accom2.png)
+![](../.gitbook/assets/needs\_accom2.png)
 
 You can review and verify which learner groups have had this value set. Refer to the arrows in the screen shot below.
 
-![](../.gitbook/assets/needs_accom3.png)
+![](../.gitbook/assets/needs\_accom3.png)
 
 These groups are subgroups. From the parent group (one level up), this is how these designations appear.
 
-![](../.gitbook/assets/needs_accom4.png)
+![](../.gitbook/assets/needs\_accom4.png)
 
 Learners in these groups will NOT see this anywhere in the offering view on calendar or Week at a Glance. This is only for administrative purposes.

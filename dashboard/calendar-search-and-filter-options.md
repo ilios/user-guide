@@ -8,9 +8,9 @@ The calendar is populated based on the choice made by the user choosing between 
 
 _**All Events**_ will search and display results from the entire curriculum of the given school from any academic year.
 
-_**My Schedule**_ will display only those results which are available within the user’s current schedule. This is the default view. To get to "All Events" click the My Schedule toggle to change it to All Events as shown below. The My Schedule view will display all of the learning events to which the logged in user is associated. Learners (students) will see only the offerings that they are scheduled to attend. The view an Instructors will see is only the Offerings they are assigned as Instructor to teach. 
+_**My Schedule**_ will display only those results which are available within the user’s current schedule. This is the default view. To get to "All Events" click the My Schedule toggle to change it to All Events as shown below. The My Schedule view will display all of the learning events to which the logged in user is associated. Learners (students) will see only the offerings that they are scheduled to attend. The view an Instructors will see is only the Offerings they are assigned as Instructor to teach.&#x20;
 
-**Important Note: **Course Directors will see all of the Offerings for the Courses they assigned to as Course Directors; however Course Administrators and Student Advisors will **NOT** see all of the Offerings initially. They are encouraged to use the filters and / or Courses and Sessions screen to review the Offerings in the Course(s) for which they have been assigned the Course Administrator or Student Advisor role.
+**Important Note:** Course Directors will see all of the Offerings for the Courses they assigned to as Course Directors; however Course Administrators and Student Advisors will **NOT** see all of the Offerings initially. They are encouraged to use the filters and / or Courses and Sessions screen to review the Offerings in the Course(s) for which they have been assigned the Course Administrator or Student Advisor role.
 
 ![](../.gitbook/assets/dashbd1.png)
 
@@ -47,12 +47,12 @@ This search option allows the user to search and display all of the activities f
 
 Search is possible by each of the following, or any combination of the following categories of data:
 
-* **Courses (pertaining to a chosen Program Year)** 
+* **Courses (pertaining to a chosen Program Year)**&#x20;
 * **Session Types**
 
 In order to see all of the Sessions related to the Brain, Mind, and Behavior Course (any type of Session), the check boxes can be used as shown below.
 
-![](../.gitbook/assets/filters_course.jpg)
+![](../.gitbook/assets/filters\_course.jpg)
 
 In any of these search modes, a search is automatically performed once the corresponding check boxes have been selected. The Calendar will reload with the results.
 
@@ -62,14 +62,14 @@ Switch to a "Detail" search as shown below.
 
 This search option allows the user to search and display all activities for any course in the selected academic year and school, which have the selected search attributes. Search is possible by each of the following, or any combination of the following categories of data:
 
-* **Topics** 
+* **Topics**&#x20;
 * **Session Types**
 * **Course Levels**
 * **Program/Cohort**
 
 In order to see all of the Lectures (Session Type) for the Class of 2020 Doctor of Medicine - BRIDGES (Program/Cohort), the check boxes can be used as shown below.
 
-![](../.gitbook/assets/show_filters\_3.jpg)
+![](../.gitbook/assets/show\_filters\_3.jpg)
 
 #### Load Filters Based On Academic Year & School
 
@@ -87,7 +87,7 @@ The option is available to provide visual change alerts for calendar events. If 
 
 **QUICK NOTE:** You can apply filters and then hide the filter selectors. This will free up viewable Calendar area but still maintain the filtering criteria. An example of this is shown below. The active filter is "Lecture".
 
-![](../.gitbook/assets/day_view_multi.jpg)
+![](../.gitbook/assets/day\_view\_multi.jpg)
 
 #### Expert Tip
 

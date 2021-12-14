@@ -32,9 +32,9 @@ An entered search term will query across a broad array of areas within Ilios. Th
 
 Results are labeled according to the location of the match and listed with internal weighting to provide the most relevant results first.\
 \
-After performing a search, all of the areas listed above are scanned for matches. Suggestions are also provided. 
+After performing a search, all of the areas listed above are scanned for matches. Suggestions are also provided.&#x20;
 
-### Performing a Search 
+### Performing a Search&#x20;
 
 To search for anything related to "brain", enter that into the search field provided. A list of suggested refinements ("Suggested Values") appear below the search box. Any of those can be utilized by clicking directly onto it.
 
@@ -52,7 +52,7 @@ Search Results are grouped by Course and then by Session. In the case above, the
 
 ![Search Results Explained](../.gitbook/assets/srch4.png)
 
-**NOTE: **This functionality is not available for students at this time.
+**NOTE:** This functionality is not available for students at this time.
 
 ### Filter Results
 
@@ -60,10 +60,10 @@ Once a search has been performed using the Global Search functionality, the resu
 
 #### Filter By School
 
-![](../.gitbook/assets/gs_res\_1.png)
+![](../.gitbook/assets/gs\_res\_1.png)
 
-#### Filter By Year 
+#### Filter By Year&#x20;
 
-![Detail View of Year Selector](../.gitbook/assets/gs_res\_2.png)
+![Detail View of Year Selector](../.gitbook/assets/gs\_res\_2.png)
 
-Use of one or both of the filters shown above will change the result set to only include the values which meet the selected specifications. 
+Use of one or both of the filters shown above will change the result set to only include the values which meet the selected specifications.&#x20;

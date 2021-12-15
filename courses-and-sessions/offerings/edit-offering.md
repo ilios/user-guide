@@ -1,5 +1,7 @@
 # Edit Offering
 
+### Edit From Offering Editor
+
 To edit attributes of an existing offering, the steps shown below can be followed.
 
 * First select a Course
@@ -43,3 +45,10 @@ All that is left to do now is update the offering with this newly added informat
 Now that this has been added, the link that was pasted into the URL fields gets converted (for display and usability purposes) to "Virtual Session Link". There is also a "Copy" link if it is desired to have the full URL available for pasting or re-posting elsewhere.&#x20;
 
 ![After Save](../../.gitbook/assets/url4.png)
+
+### Inline Editing Options
+
+It is also possible and often desirable to edit one or more Offerings directly from Courses and Sessions >> Session List.
+
+An example of this will be inserted here. For now, keep in mind many edits can be made directly from the Session list in Courses and Sessions. Simply expand the session which contains the offerings that you wish to edit. Screen shots of this will be linked or added here soon.
+

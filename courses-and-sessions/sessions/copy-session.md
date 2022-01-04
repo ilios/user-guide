@@ -1,7 +1,5 @@
 # Copy Session
 
-The process and options are shown below regarding the functionality of copying a Session in Ilios.
-
 Session copying is performed from inside Session Detail so it is necessary to select a Course and then select a Session. In the example in the screen shot below, a Session has been selected. The Session Copy button / icon is indicated by the arrow for reference.
 
 **NOTE**: If you are copying a session into the same Course, keep in mind that the names of the two Sessions will be identical, which can lead to confusion.

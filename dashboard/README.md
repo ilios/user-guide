@@ -2,7 +2,7 @@
 
 Once logged in, you will be presented with the “Dashboard” or landing page, which will display (by default) the events for the current week for the logged-in user ([Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance)). Initially, the Calendar is not displayed. Clicking the "Calendar" button causes the Calendar to appear instead of Week at a Glance.&#x20;
 
-The Dashboard is designed to provide quick access to common sets of information and simple task and activity tracking. Navigation is performed by using the Ilios Menu, which appears on the upper left part of the screen and can be accessed and expanded by clicking “Ilios Menu” as shown below. It is a fly away menu that expands once it has been clicked and is available even if you have scrolled down the page. If your screen has enough viewable area, the **Ilios Menu** will appear automatically as shown below. Ilios users who do not perform non-learner activities (students) will not see the Ilios Menu shown below.
+The Dashboard is designed to provide quick access to common sets of information and simple task and activity tracking. Navigation is performed by using the Ilios Menu, which appears on the upper left part of the screen and can be accessed and expanded by clicking “Ilios Menu” as shown below. It is a fly away menu that expands once it has been clicked and is available even if you have scrolled down the page. If your screen has enough viewable area, the **Ilios Menu** will appear automatically as shown below. Ilios users who do not perform non-learner activities (i.e. students who are not also Instructors) will not see the Ilios Menu shown below.
 
 ### Ilios Menu
 

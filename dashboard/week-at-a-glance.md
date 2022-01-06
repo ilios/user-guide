@@ -6,7 +6,7 @@ Week at a Glance has proven to be a very useful feature in Ilios. It is the defa
 
 ## **Pre-work**
 
-This section appears at the top of the Week at a Glance screen. If a student has Independent Learning Modules assigned to them that have been linked to upcoming Session Offerings that pertain to their schedule, these are listed at the top of the screen. They are ordered by the date / time of the upcoming Offerings. This is designed to make it easier for students to plan their approach towards tackling these pre-requisites before arriving in class.
+This section appears at the top of Week at a Glance. If a student has Independent Learning Modules assigned to them that have been linked to upcoming Session Offerings that pertain to their schedule, these are listed at the top of the screen. They are ordered by the date / time of the upcoming Offerings. This is designed to make it easier for students to plan their approach towards tackling these pre-requisites before arriving in class.
 
 In situations where linked ILM's are assigned, the user can navigate to either the ILM that needs to be completed before the scheduled Offering or to the Event Detail screen of the Offering itself. Standard ILM's which have a Due Date will show up on the Week At A Glance displaying the associated Due Date. This type of ILM is **NOT** provided its own area. The ILM's are ordered with the rest of the student's Offerings in ascending chronological date and time order.
 

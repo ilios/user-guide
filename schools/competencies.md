@@ -22,7 +22,7 @@ Now that "Manage Competencies" has been clicked as shown above, the screen chang
 
 To add a new Competency under (in this case) the "Interpersonal & Communication skills" domain, simply enter the text of the Competency and click "Add". "Another New One" has been started as a new Competency but not entered yet. This is shown below.
 
-![Add Competency](../.gitbook/assets/competency_add.jpg)
+![Add Competency](../.gitbook/assets/competency\_add.jpg)
 
 ## Edit Existing Competency
 
@@ -30,27 +30,27 @@ To edit an existing Competency, simply click on the Name to edit it as shown bel
 
 ### Step One -- select the Competency to edit
 
-![Select the Competency to Edit](../.gitbook/assets/update_comp\_1.jpg)
+![Select the Competency to Edit](../.gitbook/assets/update\_comp\_1.jpg)
 
 ### Step Two -- make the changes in the provided inline edit box
 
-![Make the Changes](../.gitbook/assets/update_comp\_2.jpg)
+![Make the Changes](../.gitbook/assets/update\_comp\_2.jpg)
 
 ### Step Three -- commit the changes (or click the red (x) to cancel the event)
 
 The changes are now reflected in the list.
 
-![](../.gitbook/assets/update_comp\_3.jpg)
+![](../.gitbook/assets/update\_comp\_3.jpg)
 
 ## Add New Competency Domain
 
 Adding a new high level Competency Domain can be easily accomplished in this latest version of Ilios. To do so, scroll to the bottom of the screen and enter the new domain into the text box provided and the click "Add" as shown below.
 
-![Add New Competency Domain](../.gitbook/assets/new_domain.jpg)
+![Add New Competency Domain](../.gitbook/assets/new\_domain.jpg)
 
- The new domain then appear in the list as shown. Only a portion of the screen is shown to save space. 
+The new domain then appears in the list as shown. Only a portion of the screen is shown to save space.&#x20;
 
-![New Domain Added](../.gitbook/assets/new_domain\_2.jpg)
+![New Domain Added](../.gitbook/assets/new\_domain\_2.jpg)
 
 At this point, you can ...
 
@@ -60,11 +60,11 @@ At this point, you can ...
 
 Editing a Domain is performed in exactly the same way as editing a Competency is performed. The field is an inline edit field as shown below with the options described in the image.
 
-![](../.gitbook/assets/edit_domain.jpg)
+![](../.gitbook/assets/edit\_domain.jpg)
 
 **NOTE:** Be sure to include any and all competencies you may wish to use at this level in order to be able to select them at the Program level.
 
-**Configure **[**PCRS**](https://www.aamc.org/what-we-do/mission-areas/medical-education/curriculum-inventory/establish-your-ci/physician-competency-reference-set)** (Physician Competency Reference Set) terms for Competencies**
+**Configure** [**PCRS**](https://www.aamc.org/what-we-do/mission-areas/medical-education/curriculum-inventory/establish-your-ci/physician-competency-reference-set) **(Physician Competency Reference Set) terms for Competencies**
 
 Ilios offers the functionality to attach PCRS terms to competencies either at the domain level or competency level (under domain). The starting point for the association is shown below.
 
@@ -74,7 +74,7 @@ After clicking as shown above, the full set of Physician Competency Reference Se
 
 ![](../.gitbook/assets/screen-shot-2021-09-17-at-3.23.54-pm.png)
 
-After saving the data in the scenario shown above, the PCRS values are now associated with the Competency. 
+After saving the data in the scenario shown above, the PCRS values are now associated with the Competency.&#x20;
 
 ![](../.gitbook/assets/screen-shot-2021-09-17-at-3.26.34-pm.png)
 

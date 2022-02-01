@@ -30,7 +30,7 @@ The lower part of Event Detail is going to be displayed below. There may be more
 
 ![Event Detail - lower part](<../.gitbook/assets/Screen Shot 2021-10-22 at 12.02.37 PM.png>)
 
-#### Event Detail - Link to Courses and Sessions
+### Event Detail with Session Link
 
 If a logged in user has access rights to Courses and Sessions, there will be a link available right on Event Detail to route these users directly to Courses and Sessions. These users who perform non-learner functions in Ilios can download the Learning Materials after accessing this link and review (or modify if applicable) the details of the Session pertaining to the Offering displayed in Event Detail.
 

@@ -86,6 +86,8 @@ The data entry points for a new Sequence Block are detailed below.
 
 ![](../.gitbook/assets/ci\_rw\_23.png)
 
+**IMPORTANT NOTE**: By default, courses are set to be "Not A Clerkship". If a Clerkship Type is selected, **BOTH** Start and End Date **AND** Duration are required. This is pointed out because the image above indicates only one is required - not the case with Clerkships.
+
 **Other Fields:**
 
 * Is Selective?:  Enter an optional Minimum and Maximum into the provided fields.

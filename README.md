@@ -28,7 +28,9 @@ The user guide is configured to have high level chapters based on the flyout men
 
 One important thing to remember: **Ilios is a web application.**
 
-This application is web-based, meaning it must be accessed through web-browsing interfaces. While it may be used on any current web browser including Internet Explorer 10 and above, Ilios is optimized for use with Mozilla’s Firefox web browser 32 and above, as well as all webkit-based web browsers such as Google Chrome (ver. 30.x and above) Safari (for Mac), or Opera (ver. 10.x and above).
+This application is web-based, meaning it must be accessed through web-browsing interfaces. While it may be used on any current web browser including Microsoft's Edge, Ilios is optimized for use with Mozilla’s Firefox web browser 32 and above, as well as all webkit-based web browsers such as Google Chrome (ver. 30.x and above) Safari (for Mac), or Opera (ver. 10.x and above).
+
+Stick with the most recent releases in any of the browsers listed above, and Ilios will perform as expected. It can also be used on mobile phone browsers and most tablets.
 
 ### Saving Work
 

@@ -6,6 +6,14 @@ Only the weekly view is available; but you can scroll forward or backwards in ti
 
 **IMPORTANT NOTE**: If you have access to this screen, you will see "unpublished" offerings to which these users have been assigned. This is by design and can help sort out a student or teacher's schedule to see all offerings to which they are attached. This can help diagnose potential scheduling conflicts before the offerings have been published.&#x20;
 
+A close up of the "unpublished" icon is shown below.&#x20;
+
+![Unpublished Offering on Admin Console Calendar](<../.gitbook/assets/Screen Shot 2022-02-17 at 4.04.58 PM.png>)
+
+The icon looks a bit blurry at that level. Here is what it looks like in regular size on the Admin Console profile calendar ...
+
+![](<../.gitbook/assets/Screen Shot 2022-02-17 at 4.02.41 PM.png>)
+
 ## Find User
 
 The first step is to find a user whose schedule you would like to view. This process is shown briefly below and highlighted in other areas of the guide as well.

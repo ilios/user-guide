@@ -1,6 +1,6 @@
 # Materials View
 
-With the Materials view, all Learning Materials which have Offerings within the next 60 days are displayed in a similar format to how the Activities were presented in the "Activities" view. [**My Reports**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-reports)**,** [**My Courses**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-courses), and [**My Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-materials) can be accessed from here as well.
+With the Materials view, all Learning Materials which have Offerings within the next 60 days are displayed in a similar format to how the Activities were presented in the "Activities" view. [**My Reports**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-reports)**,** [**My Courses**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-courses), and [**My Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-materials) can be accessed from here as well. It is important to note that if there is no value displayed in the "Session" column, these are Course level materials and do not pertain to any specific session.
 
 **NOTE**: Since this pertains exclusively to "Learning Materials", these materials apply only to Students. Instructors and Course Directors will not see any Learning Materials here.
 

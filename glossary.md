@@ -2,7 +2,7 @@
 
 ## Cohort
 
-A group of learners identified with the same graduating year, and thus having the same set of curricular, or graduation, requirements upon matriculation. Cohorts are usually identified by school/program and graduation year: "SOM Class of 2017." Within Ilios, the Cohort is the key associating factor between individuals \(Instructors, Learners\) and Courses, as well as defining the particular “Level” or “Levels” of a Course.
+A group of learners identified with the same graduating year, and thus having the same set of curricular, or graduation, requirements upon matriculation. Cohorts are usually identified by school/program and graduation year: "SOM Class of 2017." Within Ilios, the Cohort is the key associating factor between individuals (Instructors, Learners) and Courses, as well as defining the particular “Level” or “Levels” of a Course.
 
 ## Competency
 
@@ -22,7 +22,7 @@ A Program, Course, Session, or Offering.
 
 ## Designation
 
-A subgroup within a larger Learner Group often referred to by a name \(Blue group/team\) or number \(group 1, group 2b\). These may be made up of both individual person objects and other subgroups.
+A subgroup within a larger Learner Group often referred to by a name (Blue group/team) or number (group 1, group 2b). These may be made up of both individual person objects and other subgroups.
 
 ## Enrollment
 
@@ -30,7 +30,7 @@ The entry of a Learner into a specific Program or Course.
 
 ## Group
 
-A collection of people \(Learners or Instructors\) which can be associated with Sessions.
+A collection of people (Learners or Instructors) which can be associated with Sessions.
 
 ## Group Attributes
 
@@ -58,7 +58,7 @@ The record of an individual who can be assigned to an object within the system. 
 
 ## Learning Material
 
-Digital assets \(such as files\) and information \(such as citations and web links\) which may be associated with curricular objects.
+Digital assets (such as files) and information (such as citations and web links) which may be associated with curricular objects.
 
 ## Learning Objective
 
@@ -70,15 +70,15 @@ Acronym for Medical Subject Headings. A controlled vocabulary that may be associ
 
 ## Not Published
 
-The default status of an object \(Session, Course\) which is not finalized and does not display in detail on the public calendars or to learners. Users with edit privileges may see, edit, and modify these objects. The other states available for objects are Published and Scheduled. Draft status is no longer used in Ilios 3.0.
+The default status of an object (Session, Course) which is not finalized and does not display in detail on the public calendars or to learners. Users with edit privileges may see, edit, and modify these objects. The other states available for objects are Published and Scheduled.&#x20;
 
 ## Objective
 
-The desired learning or teaching outcomes for a given curricular object. These may be general Program level Objectives \(also referred to as graduation requirements\), Course level learning Objectives, or Session level teaching Objectives. Objectives may be associated with Competencies; however, only one higher level competency can be associated with each Learning Objective at the Session level.
+The desired learning or teaching outcomes for a given curricular object. These may be general Program level Objectives (also referred to as graduation requirements), Course level learning Objectives, or Session level teaching Objectives. Objectives may be associated with Competencies; however, only one higher level competency can be associated with each Learning Objective at the Session level.
 
 ## Offering
 
-The scheduled \(time and place\) representation of a Session or teaching unit, represented on the calendar: in other words, when the curriculum for a particular session is “offered”.
+The scheduled (time and place) representation of a Session or teaching unit, represented on the calendar: in other words, when the curriculum for a particular session is “offered”.
 
 ## Program
 
@@ -98,5 +98,4 @@ A section or unit of a course with specific attributes of type and content. Sess
 
 ## Topic
 
-A controlled vocabulary of \(school-specific\) categories of learning. Topics are loaded into the system at implementation. Previously known as “Disciplines”.
-
+A controlled vocabulary of (school-specific) categories of learning. Topics are loaded into the system at implementation. Previously known as “Disciplines”.

@@ -1,8 +1,8 @@
 # MeSH
 
-Ilios has an incorporated a version of the search-able MeSH \(Medical Subject Headings\) thesaurus maintained by the U.S. National Library of Medicine, to allow the tagging of various levels of curricular data with appropriate \(shareable\) vocabulary.
+Ilios has an incorporated a version of the search-able MeSH (Medical Subject Headings) thesaurus maintained by the U.S. National Library of Medicine, to allow the tagging of various levels of curricular data with appropriate (shareable) vocabulary.
 
-MeSH Terms can be added to any of the following curricular objects within Ilios.
+[MeSH Terms](https://www.ncbi.nlm.nih.gov/mesh) can be added to any of the following curricular objects within Ilios.
 
 * Course
 * Course Objective
@@ -12,4 +12,3 @@ MeSH Terms can be added to any of the following curricular objects within Ilios.
 * Learning Material
 
 The guide currently only covers the addition of MeSH to a Course Objective; but the process is similar for any MeSH association.
-

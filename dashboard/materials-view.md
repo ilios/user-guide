@@ -11,3 +11,11 @@ Clicking as shown above on "Materials" brings up the Learning Materials the stud
 ![](<../.gitbook/assets/Screen Shot 2022-03-21 at 2.41.46 PM.png>)
 
 Clicking on the title of the Learning Material will route the user to be able to access and / or download the Learning Material file, link, or citation. If it is a link, the web site will open. Citations are displayed in completeness right there and there is nothing to click or follow. Files will be downloaded to the user's computer.
+
+#### All Materials
+
+Below is a screen shot similar to the one above but this time displaying the student's entire suite of Learning Materials for their entire education experience.
+
+"All Materials" has been selected instead of the default "Next 60 days".
+
+![](<../.gitbook/assets/Screen Shot 2022-03-21 at 2.53.05 PM.png>)

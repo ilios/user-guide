@@ -19,3 +19,25 @@ Below is a screen shot similar to the one above but this time displaying the stu
 "All Materials" has been selected instead of the default "Next 60 days".
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-21 at 2.53.05 PM.png>)
+
+## Sort Options
+
+* LM Title
+* Course Title&#x20;
+* Session Title
+* Date (Upload Date)
+
+## Filter Options
+
+* LM Title
+* Course Title
+* Session Title
+* Instructor
+
+In the example shown below, the Data has been sorted by Title (A-Z). The default Sort Order is by Offering Date (Descending). Using the Title (A-Z) as a sort order puts the Course level Learning Materials at the top of the list as shown below.&#x20;
+
+![](<../.gitbook/assets/Screen Shot 2022-03-23 at 3.27.05 PM.png>)
+
+Entering Search Criteria into the Filter search box will perform a search on ALL 4 of the fields listed above to help ensure the correct LM is found.
+
+![All Materials option - search results shown](<../.gitbook/assets/Screen Shot 2022-03-23 at 3.31.19 PM.png>)

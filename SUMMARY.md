@@ -16,7 +16,6 @@
   * [My Courses](dashboard/my-courses.md)
   * [My Profile](dashboard/my-profile.md)
   * [My Reports](dashboard/my-reports.md)
-  * [My Materials](dashboard/my-materials.md)
   * [Language Selector](dashboard/language-selector.md)
   * [Mobile Devices](dashboard/mobile-devices.md)
 * [Courses and Sessions](courses-and-sessions/README.md)

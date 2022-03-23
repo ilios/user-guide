@@ -27,7 +27,7 @@ This shows the Course detail screen (once a Course has been selected and Details
 
 1. **Back to Courses List**: takes the user back to the list of Courses
 2. **Language Switcher**: currently can be switched to French, Spanish, or English
-3. **Profile Dropdown**: available here -- My Profile, My Materials, Logout
+3. **Profile Dropdown**: available here -- My Profile, Logout
 4. **Edit Course Title**: The title can be edited by clicking as shown.
 5. **Published Status**: The Course's publication status can be changed here.
 6. **Course ID**: The Course ID field can be edited by clicking as shown.

@@ -99,3 +99,12 @@ A section or unit of a course with specific attributes of type and content. Sess
 ## Topic
 
 A controlled vocabulary of (school-specific) categories of learning. Topics are loaded into the system at implementation. Previously known as “Disciplines”.
+
+
+
+## Week at a Glance
+
+This view gives students the detailed information they will need to navigate the current week. This includes all of the offerings they should be attending along with all of the learning materials associated with these offerings. Pre-work activities and Independent Learning Modules (asynchronous learning activities) are also included.
+
+
+

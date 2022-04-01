@@ -1,9 +1,11 @@
 # Sessions
 
+**DESCRIPTION** (see [Glossary](https://iliosproject.gitbook.io/ilios-user-guide/glossary#session)): A session refers to a section or unit of a course with specific attributes of type and content. Sessions may be represented as multiple or singular time and place "Offerings," or as Independent Learning units with an estimated duration of educational time. Sessions (generally Independent Learning Modules (ILM's) can be associated with a follow-up Session. This is known as "pre-work", since the first learning activities should be completed before the follow-up takes place.
+
 ## Session Attributes (all session types)
 
 * **Associated Groups**: (Currently displays only in aggregate at the course level.) Display only. Shows a list by name of the Learner Groups currently associated with the Session.
-* **Session Type**: Selected from a predefined list of instructional and assessment methods, loaded into the system at implementation.  Click [here](https://www.aamc.org/download/273966/data/cistandardizedvocablist.pdf) for more information on Session Types.
+* **Session Type**: Selected from a predefined list of instructional and assessment methods, loaded into the system at implementation. Click [here](https://www.aamc.org/download/273966/data/cistandardizedvocablist.pdf) for more information on Session Types.
 * **Description**: Free-text entry allowing for detailed information, instruction, and description of the Session curriculum and activities.
 * **Instructional Notes**: These are internal notes specifically used by Course Coordinators to share information about the session. They are not visible to Students.
 * **Terms**: Selected from a school-specific, pre-defined list of one or more Vocabularies.

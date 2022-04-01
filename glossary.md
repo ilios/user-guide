@@ -30,7 +30,7 @@ The entry of a Learner into a specific Program or Course.
 
 ## Group
 
-A collection of people (Learners or Instructors) which can be associated with Sessions.
+This denotes a collection of people (Learners or Instructors) which can be associated with Sessions, Offerings, and Independent Learning Modules.
 
 ## Group Attributes
 

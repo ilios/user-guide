@@ -1,6 +1,6 @@
 # Vocabularies
 
-Vocabularies refers to one or more categories or collections of Terms (school-specific categories of learning) that can be selected and attached to many curricular objects within Ilios. In previous versions of Ilios, these were known as Topics and even further into the past, Disciplines.
+Vocabularies are categories or collections of Terms (school-specific categories of learning) that can be selected and attached to many curricular objects within Ilios. In previous versions of Ilios, these were known as Topics and even further into the past, Disciplines.
 
 Managing Vocabularies at the School level is performed using the Schools tab as well. Vocabulary Terms can be used in the tagging of the following curricular objects within Ilios ...
 

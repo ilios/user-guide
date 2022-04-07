@@ -115,7 +115,7 @@ After clicking as shown above ...
 
 ![](../../.gitbook/assets/mngterms\_rw\_3.png)
 
-After confirming the addition of the Term "Renal System" to the Session, it appears in saved mode as . shown below.
+After confirming the addition of the Term "Renal System" to the Session, it appears in saved mode as shown below.
 
 ![](../../.gitbook/assets/mngterms\_rw\_4.png)
 

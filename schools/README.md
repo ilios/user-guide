@@ -24,4 +24,6 @@ The attributes listed above for the selected School can be configured once the S
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-11 at 3.03.05 PM.png>)
 
-![](../.gitbook/assets/school\_selected.jpg)
+After clicking as shown above, School Detail appears. From here, the remaining configurable School attributes can be entered.
+
+![School detail](<../.gitbook/assets/Screen Shot 2022-04-11 at 3.07.19 PM.png>)

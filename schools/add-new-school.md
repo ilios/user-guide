@@ -1,16 +1,15 @@
 # Add New School
 
-To start the process of adding a new School to Ilios, click the \(+\) button as shown in the screen shot below.
+To start the process of adding a new School to Ilios, click the (+) button as shown in the screen shot below
 
-![](../.gitbook/assets/add_school.jpg)
+![](<../.gitbook/assets/Screen Shot 2022-04-11 at 2.46.26 PM.png>)
 
-Once the step above has been taken, the School can be entered as shown below. A valid email address must be entered into the School Administrator's Email field. 
+Once the step above has been taken, the School can be entered as shown below. A valid email address must be entered into the School Administrator's Email field.&#x20;
 
-![](../.gitbook/assets/add_school_2.jpg)
+![](<../.gitbook/assets/Screen Shot 2022-04-11 at 2.50.11 PM.png>)
 
-Now that "Veterinary Science" has been added, click on any of the locations indicated by the green arrows to configure the remaining School Attributes. All are covered in subsequent sections of this chapter.
+The user has now clicked "Done" (as shown above) to add "Veterinary Science" as a newly created School. Click on any of the locations indicated below to configure the remaining School Attributes.&#x20;
 
-![](../.gitbook/assets/add_school_3.jpg)
+![](<../.gitbook/assets/Screen Shot 2022-04-11 at 2.55.55 PM.png>)
 
-Since this is a new School, the screen will not contain any data. It can be added now however. Refer to upcoming sections for more details on configuring the new school for use.
-
+Since this is a new School, the screen will not initially contain any data. It can be added now. Refer to upcoming sections for more details on configuring the new school for use.

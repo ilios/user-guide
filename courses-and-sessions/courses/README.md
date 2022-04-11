@@ -1,5 +1,7 @@
 # Courses
 
+A Course is a Curricular object that defines the content and structure of a specific instance of coursework available to the school or program.
+
 ### Course Attributes
 
 * **Course Name:** Long title of the course, entered on course creation. 200 character max.

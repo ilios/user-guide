@@ -1,6 +1,6 @@
 # Add New School
 
-To start the process of adding a new School to Ilios, click the (+) button as shown in the screen shot below
+To start the process of adding a new School to Ilios, click the (+) button as shown in the screen shot below.
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-11 at 2.46.26 PM.png>)
 

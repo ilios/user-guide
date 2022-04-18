@@ -2,6 +2,8 @@
 
 ## Learner Groups
 
+This denotes a collection of Learners which can be associated with Sessions, Offerings, and Independent Learning Modules.
+
 _**Learner Group Attributes:**_
 
 * **Title** - The name of the Learner Group - Text field description of the Learner Group.

@@ -6,11 +6,10 @@
 
 This is demonstrated below.
 
-![](../.gitbook/assets/my_courses_list.jpg)
+![](<../.gitbook/assets/Screen Shot 2022-04-21 at 2.28.08 PM.png>)
 
-Clicking on the Course Title \(Life Cycle / Prepilogue\) takes the user to the Course Detail screen for the selected Course as shown below.
+Clicking on the Course Title (Renal, Endocrine, GI, Nutrition) takes the user to the Course Detail screen for the selected Course as shown below.
 
-![](../.gitbook/assets/course_details_1.jpg)
+![](<../.gitbook/assets/Screen Shot 2022-04-21 at 2.32.29 PM.png>)
 
 **NOTE:** To return to the Dashboard, the back button on the browser can be used or instead use the Back to Courses List to go the Courses page.
-

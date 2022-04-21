@@ -2,9 +2,9 @@
 
 ### **My Courses**
 
-* Displays all upcoming or current Courses associated with the logged-in user - student or non-student. If you are logged in as a user who perform non-learner functions, clicking on the Course Title link will take you to that course's Course Detail page. Students do not get activated links; just informational text displaying their courses.
+* Displays all upcoming or current Courses associated with the logged-in user - student or non-student. If you are logged in as a user who performs non-learner functions, clicking on the Course Title link will take you to that course's Course Detail page. Students do not get activated links; just informational text displaying their courses.
 
-This is demonstrated below.
+This is demonstrated below showing how it works while being logged in as an Instructor.
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-21 at 2.28.08 PM.png>)
 

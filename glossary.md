@@ -66,7 +66,7 @@ Free-text entry fields of the desired learning outcomes for Programs, Courses, a
 
 ## MeSH
 
-Acronym for Medical Subject Headings. A controlled vocabulary that may be associated with curriculum objects and learning materials.
+Acronym for Medical Subject Headings. This is a controlled vocabulary that may be associated with curriculum objects and learning materials. Click [here](https://www.ncbi.nlm.nih.gov/mesh) for more details.
 
 ## Not Published
 

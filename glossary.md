@@ -34,7 +34,7 @@ This denotes a collection of people (Learners or Instructors) which can be assoc
 
 ## Group Attributes
 
-Assigned metadata for a given Group. These labels do not create hierarchical associations or relationships with other objects or data in the system. Group Name and Default Room are examples of this.
+This refers to assigned metadata for any selected Learner Group. These labels do not create hierarchical associations or relationships with other objects or data in the system. Group Name and Default Room are examples of this along with Default Virtual Learning Link and whether or not learners within the learner Group require accommodation.&#x20;
 
 ## Group Content
 

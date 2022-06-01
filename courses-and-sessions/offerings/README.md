@@ -14,6 +14,7 @@ The attributes of an Offering are listed and described here. For more informatio
 * **Location**: This is entered manually, or the default is applied.
 * **Virtual Learning Link:** Paste in a URL for a virtual offering location.
 * **Instructors**: Search to find Instructors and / or Instructor Groups to indicate who will be teaching the Offering.
+* **Learners (Individual)**: Individual learners (who may or may not be in a Learner Group or Cohort) can be added as well. This is the exception rather than the rule and can be used as w work around.
 * **Learner Groups**: This is how Students are assigned into Offerings. If a Student is a member of a Learner Group that is attached to an Offering, the Offering will appear on their calendar.
   * **Selected Learner Groups**: This frame will be populated with any and all Learner Groups associated with the Offering.
   * **Available Learner Groups**: Learner Groups that are not associated with the Offering are available for selection here.

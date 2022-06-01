@@ -13,7 +13,7 @@ In the example below, all of the required fields have been entered and the Sessi
 
 Both **Course** and **Session** must be published in order to have the attached Offerings displayed on Student Calendars.
 
-**IMPORTANT** **TO** **NOTE:** This is not the case with **Instructors**. They will see all of their Offerings, even if the Course or Session has **NOT** been published; whereas **Students** will not.
+**IMPORTANT** **TO** **NOTE:** This is not the case with **Instructors** and other Ilios users with advanced non-learner permissions such as Course or Session Directors and Administrators. They will see all of their Offerings, even if the Course or Session has **NOT** been published; whereas **Students** will not.
 
 ![](../.gitbook/assets/crs\_pub1.png)
 

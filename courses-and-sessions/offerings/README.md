@@ -11,9 +11,9 @@ The attributes of an Offering are listed and described here. For more informatio
 * **Duration**: The length of the Offering entered using a combination of Hours and Minutes.
 * **End**: This gets calculated after the above information has been entered.
 * **Timezone**: This was created for schools that may have campuses in different timezones or if an Ilios user happens to be using a computer that is set to an alternate zone. The timezone for the offering (regardless of the computer's settings) can be set here. The resulting saved offer will still be displayed using the computer's timezone settings.
-* **Location**: This is entered manually, or the default is applied.
-* **Virtual Learning Link:** Paste in a URL for a virtual offering location.
-* **Instructors**: Search to find Instructors and / or Instructor Groups to indicate who will be teaching the Offering.
+* **Location**: This is entered manually, or the default is applied (in the case of Small Group offerings).
+* **Virtual Learning Link:** Paste in a URL for a virtual offering location. Defaults are applied in the case of Small Group offerings.
+* **Instructors**: Search to find Instructors and / or Instructor Groups to indicate who will be teaching the Offering. Small Group defaults apply here as well.
 * **Learners (Individual)**: Individual learners (who may or may not be in a Learner Group or Cohort) can be added as well. This is the exception rather than the rule and can be used as w work around.
 * **Learner Groups**: This is how Students are assigned into Offerings. If a Student is a member of a Learner Group that is attached to an Offering, the Offering will appear on their calendar.
   * **Selected Learner Groups**: This frame will be populated with any and all Learner Groups associated with the Offering.

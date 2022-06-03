@@ -50,7 +50,15 @@ Now that this has been added, the link that was pasted into the URL fields gets 
 
 It is also possible and often desirable to edit one or more Offerings directly from Courses and Sessions >> Session List.
 
-An example of this will be inserted here. For now, keep in mind many edits can be made directly from the Session list in Courses and Sessions. Simply expand the session which contains the offerings that you wish to edit.&#x20;
+**Immediate Edit - Existing Location**
+
+If you wish to edit the **Location** field for an Offering that already has an entry in this field, this can be done immediately as shown below. If there has not been an entry made yet for Location, you will need to go into the full edit mode by clicking the "pencil" icon as shown further below.
+
+![ ](<../../.gitbook/assets/inline edit 1.png>)
+
+After clicking as shown above, "Room 223" can be changed and has been changed to "Room 300". All that is required to save this change is hitting enter on your keyboard or clicking the green confirmation button.
+
+![](<../../.gitbook/assets/inline save.png>)
 
 #### Expand (All or One)
 

@@ -50,5 +50,26 @@ Now that this has been added, the link that was pasted into the URL fields gets 
 
 It is also possible and often desirable to edit one or more Offerings directly from Courses and Sessions >> Session List.
 
-An example of this will be inserted here. For now, keep in mind many edits can be made directly from the Session list in Courses and Sessions. Simply expand the session which contains the offerings that you wish to edit. Screen shots of this will be linked or added here soon.
+An example of this will be inserted here. For now, keep in mind many edits can be made directly from the Session list in Courses and Sessions. Simply expand the session which contains the offerings that you wish to edit.&#x20;
 
+#### Expand (All or One)
+
+As shown below, clicking the arrow as shown will expand all of the sessions into inline edit mode. Alternatively, any one or more sessions can be individually expanded into inline edit mode.
+
+![](<../../.gitbook/assets/Screen Shot 2022-06-03 at 11.44.41 AM.png>)
+
+To edit an offering from the now expanded Sessions list, clicking the edit icon as shown below will open up the editing options for use.
+
+**Edit Offering**
+
+![](<../../.gitbook/assets/Screen Shot 2022-06-03 at 11.52.49 AM.png>)
+
+The full capability to edit the offering becomes available without having to navigate any further.
+
+**Inline Offering Editor (top)**
+
+![](<../../.gitbook/assets/off top.png>)
+
+**Inline Offering Editor (bottom)**
+
+![](<../../.gitbook/assets/off lower.png>)

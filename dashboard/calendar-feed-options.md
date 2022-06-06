@@ -2,10 +2,10 @@
 
 There are two methods of accessing your Ilios Calendar on a mobile device ...
 
-1. Use the Ilios application directly on your phone or other mobile device. 
+1. Use the Ilios application directly on your phone or other mobile device.&#x20;
 2. Generate a URL Feed and add it to a calendar application of your choosing on your phone or other mobile device.
 
-A mobile friendly version of the Ilios application has been developed and is available now. 
+A mobile friendly version of the Ilios application has been developed and is available now.&#x20;
 
 If you are using form-based authentication, Ilios can be added (at least in Chrome) as an application to run on its own.
 
@@ -29,12 +29,13 @@ To connect a calendar application with Ilios, you will need a unique URL that yo
 
 **NOTE:** The Calendar feed includes data which spans the time frame of 4 months prior to the current date until two months after the current date. Calendar items that fall outside of that time range or that are in Draft mode will not appear in the feed.
 
-1.  Make sure to select Calendar and then click the Feed icon to generate the Calendar's URL feed.
+**Step One:** Make sure to select Calendar and then click the Feed icon to generate the Calendar's URL feed.
 
-    ![Click the Feed](../.gitbook/assets/feed_button.jpg)
-2.  Copy the Feed to your clipboard by clicking the button shown below or close and return to the Calendar Dashboard.
+![](../.gitbook/assets/cal\_ics\_1.png)
 
-    ![Copy the Feed](../.gitbook/assets/copy_feed.jpg)
+**Step Two:** Copy the Feed to your clipboard by clicking the button shown below or close and return to the Calendar Dashboard.
+
+![](../.gitbook/assets/cal\_ics\_2.png)
 
 **NOTE:** The URL generated for this is like a password. Anyone who knows it can view your calendar! Keep it safe. If you are ever concerned that someone knows your feed URL, you can change it by pressing the ‘Generate’ button under where the URL appears. If you generate a new URL, you will have to update any applications you configured with the previously used URL. The assignment of a secure URL with encrypted token for access to your calendar is similar to the methods in practice with other online calendars such as Google Calendar.
 
@@ -58,20 +59,20 @@ Simply ...
 * From there, click on "Add Calendar" and then "From Internet"
 *   When the following box appears, paste in the URL copied in the previous step.
 
-    ![](../.gitbook/assets/calendar_paste_box.jpg)
+    ![](../.gitbook/assets/calendar\_paste\_box.jpg)
 * Click "OK" to add the Calendar feed.
 *   Once pasted and added, the following box appears.
 
-    ![Static Calendar Paste](../.gitbook/assets/calendar_confirm.jpg)
+    ![Static Calendar Paste](../.gitbook/assets/calendar\_confirm.jpg)
 * Click "Yes".
 *   It appears as shown below.
 
-    ![](../.gitbook/assets/calendar_added.jpg)
+    ![](../.gitbook/assets/calendar\_added.jpg)
 * This is not a very easy name to remember so you will probably want to change it to something more useful like "Ilios" or "Classes" or whatever you feel is appropriate.
 * Just right-click on the long, ugly name and rename it.
 *   The results of doing this are shown below.  In this example, it was renamed "UCSF Classes".
 
-    ![](../.gitbook/assets/calendar_renamed.jpg)
+    ![](../.gitbook/assets/calendar\_renamed.jpg)
 
 ### Add Calendar to Office 365 Outlook
 
@@ -80,11 +81,11 @@ This will be demonstrated showing the web version of Outlook from the Microsoft 
 * Log in to the Office 365 Outlook web client
 * Click as shown below to start this process
 
-![](../.gitbook/assets/add_cal1.png)
+![](../.gitbook/assets/add\_cal1.png)
 
-* Click to subscribe to the calendar from the web 
+* Click to subscribe to the calendar from the web&#x20;
 
-![](../.gitbook/assets/add_cal2.png)
+![](../.gitbook/assets/add\_cal2.png)
 
 * This next step assumes that you already have the .ics feed copied up to your clipboard. Do this if you have not done so already.
 * Paste the .ics feed into the provided field as shown below.
@@ -92,11 +93,11 @@ This will be demonstrated showing the web version of Outlook from the Microsoft 
 * Choose the location to place this newly created calendar.
 * Other options include selecting a color scheme or "charm", which didn't seem to have much of an effect during my testing or documentation so accepting the defaults might serve your needs. See screen shot below for details.
 
-![](../.gitbook/assets/add_cal3.png)
+![](../.gitbook/assets/add\_cal3.png)
 
 * Once "Import" has been clicked and the process has been completed, close the modal window and your screen will appear something like the following ...
 
-![Dave's SOM Schedule - now available](../.gitbook/assets/add_cal4.png)
+![Dave's SOM Schedule - now available](../.gitbook/assets/add\_cal4.png)
 
 ### Add Calendar To Google Calendar
 

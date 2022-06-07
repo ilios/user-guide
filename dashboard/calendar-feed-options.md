@@ -41,7 +41,7 @@ A temporary confirmation "Copied Successfully" message will appear as shown belo
 
 ![](<../.gitbook/assets/feed copy.png>)
 
-**NOTE:** The URL generated for this is like a password. Anyone who knows it can view your calendar! Keep it safe. If you are ever concerned that someone knows your feed URL, you can change it by pressing the ‘Generate’ button under where the URL appears. If you generate a new URL, you will have to update any applications you configured with the previously used URL. The assignment of a secure URL with encrypted token for access to your calendar is similar to the methods in practice with other online calendars such as Google Calendar.
+**NOTE:** The URL generated for this is like a password. Anyone who knows it can view your calendar! Keep it safe.&#x20;
 
 It is also important to note that if you are going to use this feed on a smart phone, it is recommended to paste the URL directly into the phone rather "daisy chaining" from yet another third party application. This can introduce additional problems when more than one synched application may have to update the feed, causing out of date information to be displayed.
 

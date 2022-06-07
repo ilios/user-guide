@@ -5,7 +5,7 @@ There are two methods of accessing your Ilios Calendar on a mobile device ...
 1. Use the Ilios application directly on your phone or other mobile device.&#x20;
 2. Generate a URL Feed and add it to a calendar application of your choosing on your phone or other mobile device.
 
-A mobile friendly version of the Ilios application has been developed and is available now.&#x20;
+A [mobile friendly version](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/mobile-devices) of the Ilios application has been developed and is available now.&#x20;
 
 If you are using form-based authentication, Ilios can be added (at least in Chrome) as an application to run on its own.
 

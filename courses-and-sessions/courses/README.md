@@ -7,7 +7,7 @@ A Course is a Curricular object that defines the content and structure of a spec
 * **Course Name:** Long title of the course, entered on course creation. 200 character max.
 * **Course ID:** Field allowing any internal or external ID up to 18 characters to be entered.
 * **Course Year:** Academic year during which instruction will take place. Set at the creation of the Course object, this field cannot be modified once it is saved.
-* **Course Level:** May be set at any numeric value from 1 to 5. The Course level identifies what point in the curriculum trajectory the course is meant to be addressed by learners, but is not a constraint.
+* ****[**Course Level**](https://iliosproject.gitbook.io/ilios-user-guide/programs#program-attributes)**:** The options for this are set at the Program Level. It can be anywhere between 1 and 10. The Course level identifies what point in the curriculum trajectory the course is meant to be addressed by learners, but is not a constraint.
 * **Clerkship Type:** A course may be identified explicitly as a clerkship using this attribute. The available selections are Block clerkship, Integrated clerkship, or Longitudinal clerkship. These may be modified as necessary in the `"course_clerkship_type"` table. The default value for all courses on creation is “not a clerkship”.
 * **Programs / Cohorts:** Selected from the list of available Cohorts and Programs already entered in the system. Only authorized users from a given program’s home school may edit that program cohort’s relationships to the course.
 * **Start Date:** A calendar selection, which should be within the range of the Course’s academic year.

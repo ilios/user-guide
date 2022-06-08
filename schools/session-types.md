@@ -1,12 +1,8 @@
 # Session Types
 
-The maintenance of Session Types can easily be accomplished using the Ilios interface. Below are the tasks that can accomplished. The first step is to go to Ilios Menu >> Schools and then to select your School. Expand Session Types as shown below.
+### Add New Session Type
 
-![](../.gitbook/assets/session\_types.jpg)
-
-## Add New Session Type
-
-Add a new Session Type. This newly created session type can be used for existing or for future Sessions being created in Ilios.
+To create a new Session Type or to review existing session types, click as shown below. A newly created session type can be used for existing or for future Sessions being created in Ilios.
 
 ![Reveal School-level Session Type Details](../.gitbook/assets/new\_sess\_type1.png)
 
@@ -14,9 +10,9 @@ Add a new Session Type. This newly created session type can be used for existing
 
 ![Add New Session Type (Step 2)](../.gitbook/assets/new\_sess\_type3.png)
 
-## Edit Session Type
+### Edit Session Type
 
-Edit a Session Type's description if it has not been attached to any Sessions.
+Edit a Session Type's description if it has not been attached to any Sessions. Once set, the value for Session Type title cannot be modified.
 
 To do this ...
 
@@ -24,7 +20,7 @@ To do this ...
 * Click the "edit" button
 * Edit the Session Type's title using the provided "Title" field.
 
-## Select Session Type Color
+### Select Session Type Color
 
 Choose a color to display on the Calendar for all Session Types.
 
@@ -36,7 +32,13 @@ To do this ...
 
 ![Selecting A New Color for Session Type](../.gitbook/assets/edit\_sess\_type\_color1.png)
 
-## De-Activate Session Type
+### Colors Displayed
+
+An example of how these colors appear on a Calendar is shown below.
+
+![](../.gitbook/assets/colors.png)
+
+### De-Activate Session Type
 
 De-activate a Session Type if it is no longer in use. This does not change the legacy data but will result in the Session Type no longer being available for use in Ilios going forward. The controls for performing this action are shown below.
 

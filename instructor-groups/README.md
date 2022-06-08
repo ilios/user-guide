@@ -1,8 +1,6 @@
 # Instructor Groups
 
-It is possible to create an Instructor Group within Ilios that will assign a group of Instructors to a curricular event. Anyone who is a member of that group will be considered an Instructor for the session events assigned.
-
-The Instructor Groups module in Ilios allows for the creation of reusable and trackable sets of instructors that can be associated to course/session activity. The groups are populated from the existing directory of instructors, and can be modified and added to as needed. An instructor may be associated with any number of instructor groups, or none at all. Instructors and instructor groups are associated with course content at the offering level for each session \(session offering\(s\)\).
+The Instructor Groups module in Ilios allows for the creation of reusable and trackable sets of instructors that can be associated to course/session activity. The groups are populated from the existing directory of active Ilios users, and can be modified and added to as needed. An instructor may be associated with any number of instructor groups, or none at all. Instructors and instructor groups are associated with course content at the offering level for each session (session offering(s)).
 
 ### Quick Links
 
@@ -13,9 +11,8 @@ The Instructor Groups module in Ilios allows for the creation of reusable and tr
 
 To access this functionality, click on the Instructor Groups menu item from the flyout menu as shown below.
 
-![Instructor Groups \(selected\)](../.gitbook/assets/inst_grp1.png)
+![Instructor Groups (selected)](../.gitbook/assets/inst\_grp1.png)
 
-This is the screen that appears \(see comments\).
+This is the screen that appears (see comments).
 
-![](../.gitbook/assets/inst_grp_1.png)
-
+![](../.gitbook/assets/inst\_grp\_1.png)

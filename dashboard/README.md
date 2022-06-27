@@ -41,7 +41,6 @@ Other functional areas available in all Dashboard views ...
 Also available in the upper right corner underneath the logged in user's name are the following ...
 
 * [**My Profile**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-profile)
-* [**My Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-materials) **-** also available from the Dashboard
 * **Logout** -- exits the application&#x20;
 
 To the left of the drop-down explained above is the Language Selector drop-down menu.

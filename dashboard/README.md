@@ -16,7 +16,7 @@ Available menu items include:
 * [**Instructor Groups**](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)**:** Associate groups of Instructors with one or more Instructor groups which can be attached to offerings.
 * [**Schools**](https://iliosproject.gitbook.io/ilios-user-guide/schools)**:** Maintain school-wide Competencies, Vocabularies, optional Session Attributes, and School Leadership.
 * [**Programs**](https://iliosproject.gitbook.io/ilios-user-guide/programs)**:** Add or Modify program objects, including Program Years and their associated attributes.
-* [**Admin**](https://iliosproject.gitbook.io/ilios-user-guide/admin)**:** Maintain Accounts and User Management, which includes Primary and Secondary Cohort assignment functionality.
+* [**Admin**](https://iliosproject.gitbook.io/ilios-user-guide/admin)**:** Maintain Accounts and User Management, which includes Primary and Secondary Cohort assignment functionality. Instructors will not see this unless they have been granted administrative rights over their School or Program.
 * [**Curriculum Inventory**](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory): Create and maintain Curriculum Inventory Reports.
 
 Refer to the [Permissions Matrix](https://docs.google.com/spreadsheets/d/1FbR53C2clvNoWZHMElQRfuJ4jHbZtr5pFl11et0zszY/edit?ts=5ad90141#gid=0) to determine how to assign rights to these functional areas within Ilios.

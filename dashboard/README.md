@@ -19,7 +19,7 @@ Available menu items include:
 * [**Admin**](https://iliosproject.gitbook.io/ilios-user-guide/admin)**:** Maintain Accounts and User Management, which includes Primary and Secondary Cohort assignment functionality. Instructors will not see this unless they have been granted administrative rights over their School or Program.
 * [**Curriculum Inventory**](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory): Create and maintain Curriculum Inventory Reports.
 
-Refer to the [Permissions Matrix](https://docs.google.com/spreadsheets/d/1FbR53C2clvNoWZHMElQRfuJ4jHbZtr5pFl11et0zszY/edit?ts=5ad90141#gid=0) to determine how to assign rights to these functional areas within Ilios.
+Refer to the [Permissions Matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) to determine how to assign rights to these functional areas within Ilios.
 
 ## Dashboard View Options
 

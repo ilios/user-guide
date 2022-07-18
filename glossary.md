@@ -42,11 +42,7 @@ Data related and/or associated with a given Group that also exists independently
 
 ## Independent Learning Module (ILM)
 
-A Session for a Course without a specific location or time of occurrence. Independent Learning Units are comprised of Learning Materials, an expected number of educational hours or duration for the learner to complete the content, and a due-by date. These are also referred to as _Independent Learning Units_ or _ILM's_.
-
-## Independent Learning Unit
-
-See Independent Learning Module.
+A Session for a Course without a specific location or time of occurrence. Independent Learning Units are comprised of Learning Materials, an expected number of educational hours or duration for the learner to complete the content, and a due-by date. These are also referred to as _Independent Learning Units_ or _ILM's_. These are asynchronous learning activities performed by the Learner at their time of choosing before a Due Date or other upcoming Event.
 
 ## Learner and Educator
 

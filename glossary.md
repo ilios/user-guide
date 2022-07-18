@@ -40,11 +40,7 @@ This refers to assigned metadata for any selected Learner Group. These labels do
 
 Data related and/or associated with a given Group that also exists independently within the system. Person Objects are an example of this.
 
-## ILM
-
-Abbreviation for Independent Learning Module.
-
-## Independent Learning Module
+## Independent Learning Module (ILM)
 
 A Session for a Course without a specific location or time of occurrence. Independent Learning Units are comprised of Learning Materials, an expected number of educational hours or duration for the learner to complete the content, and a due-by date. These are also referred to as _Independent Learning Units_ or _ILM's_.
 

@@ -4,7 +4,7 @@
 
 The Curriculum Inventory Manager is designed to allow Ilios users to craft standards-compliant xml output reports for the AAMC’s new Curriculum Inventory, as well as to provide a platform for modeling new frameworks for the curricula held in Ilios.
 
-Access to the Curriculum Inventory (CI) Manager requires advanced privileges in Ilios. Please refer to the [Permissions Matrix](https://docs.google.com/spreadsheets/d/1FbR53C2clvNoWZHMElQRfuJ4jHbZtr5pFl11et0zszY/edit?ts=5ad90141#gid=0) for more information.
+Access to the Curriculum Inventory (CI) Manager requires advanced privileges in Ilios. Please refer to the[ Permissions Matrix ](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0)for more information.
 
 In this first iteration, the tools allow for the basic construction of curriculum blocks (“sequence blocks”) and their appropriate population with course and other data.
 

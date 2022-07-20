@@ -1,6 +1,6 @@
 # Multi-School Environment
 
-For institutions with multiple schools or unique curricula deployed within Ilios, it is possible to access the curriculum of another school by using the schools selection tool, which appears for users who have had multi-school permissions assigned to them. Any user in the system may be assigned access to one or more available schools in addition to their default home school. Assignment is managed in the Permissions Administration page. Please note that the overall role and permissions set for a user in their default home school will be carried over to any other school to which they have been provided access. This applies to both students and non-students.
+For institutions with multiple schools or unique curricula deployed within Ilios, it is possible to access the curriculum of another school by using the schools selection tool, which appears for users who have had multi-school permissions assigned to them. Any user in the system may be assigned access to one or more available schools in addition to their default home school. Assignment is managed at the School level using School Leadership and by clicking the "Manage Leadership" button. Any active Ilios user can be added as Administrator or Director of any School within your institution.&#x20;
 
 The school switcher appears on the Course and Sessions tab as shown below. It is not available or necessary if you are only in one school.
 

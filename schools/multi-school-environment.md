@@ -4,7 +4,7 @@ For institutions with multiple schools or unique curricula deployed within Ilios
 
 The school switcher appears on the Course and Sessions tab as shown below. It is not available or necessary if you are only in one school. This truth applies whether you are accessing "All Courses" or "My Courses".
 
-![](../.gitbook/assets/all\_crs\_w\_sch\_sw.png)
+![Courses School Switcher](../.gitbook/assets/all\_crs\_w\_sch\_sw.png)
 
 After activating the School switcher as shown above, the available Schools to which you may switch (if applicable) appear in a drop-down similar to the display below in "Calendar School Switcher".
 

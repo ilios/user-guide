@@ -7,6 +7,7 @@ Managing Vocabularies at the School level is performed using the Schools tab as 
 * ****[**Session**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions)****
 * ****[**Course**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses)****
 * **Objective** (Course, Session, Program Year)&#x20;
+* **Program Year**
 
 ![](../.gitbook/assets/manage\_vocab\_1.jpg)
 
@@ -26,7 +27,7 @@ These Vocabularies can be nested in the sense that there can be one or terms nes
 
 ### Sub Terms
 
-* Click on "Autism and Related Issues". The term being added here will be nested below "Autism and Related Issues". For this reason, it is considered to be a "Sub Term" of "Autism and Related Issues".
+To add a Sub Term, click on "Autism and Related Issues". The term being added here will be nested below "Autism and Related Issues". For this reason, it is considered to be a "Sub Term" of "Autism and Related Issues".
 
 ![](../.gitbook/assets/manage\_vocab\_5.jpg)
 
@@ -71,7 +72,7 @@ The inactive Term "Soundscape" **CAN** be removed but **CANNOT** be added to any
 
 ### Add Term Description
 
-It may prove to be very helpful to add descriptive text values to these Vocabulary Terms. These will appear during and after the selection/attachment of Terms to curricular objects where Terms can be attached (Courses, Sessions, and Program Years).
+It may prove to be very helpful to add descriptive text values to these Vocabulary Terms. These will appear during and after the selection/attachment of Terms to curricular objects where Terms can be attached (Courses, Sessions, Program Years, and Objectives (Session, Course, Program Year)).
 
 **Step One**
 

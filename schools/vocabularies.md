@@ -24,9 +24,7 @@ Now that "Add" has been clicked, the new Vocabulary has been added as shown belo
 
 These Vocabularies can be nested in the sense that there can be one or terms nested one or more levels lower than "Autism and Related Issues".
 
-To show this ...
-
-## Sub Terms
+### Sub Terms
 
 * Click on "Autism and Related Issues". The term being added here will be nested below "Autism and Related Issues". For this reason, it is considered to be a "Sub Term" of "Autism and Related Issues".
 
@@ -36,7 +34,7 @@ To show this ...
 
 ![](../.gitbook/assets/manage\_vocab\_6.jpg)
 
-## Activate / Deactivate Vocabulary Terms
+### Activate / Deactivate Vocabulary Terms
 
 It is now possible in Ilios to deactivate any Vocabulary Term that may no longer be in use.
 
@@ -70,3 +68,34 @@ To reveal the Active status of the Terms, click "Manage Terms" to reveal details
 ![](../.gitbook/assets/vocabs7.png)
 
 The inactive Term "Soundscape" **CAN** be removed but **CANNOT** be added to any Course or Session in the future unless its status is reset to "active".
+
+### Add Term Description
+
+It may prove to be very helpful to add descriptive text values to these Vocabulary Terms. These will appear during and after the selection/attachment of Terms to curricular objects where Terms can be attached (Courses, Sessions, and Program Years).
+
+**Step One**
+
+![](<../.gitbook/assets/open vocab1.png>)
+
+**Step Two**
+
+For this example, we would like to add descriptive content to a DEI Term "Cultural Competency".
+
+![Go to details of "DEI"](<../.gitbook/assets/open vocab2.png>)
+
+**Step Three**
+
+![Select the Term](<../.gitbook/assets/modify term1.png>)
+
+**Step Four**
+
+![Enter the description for the selected Term](../.gitbook/assets/add\_term\_desc1.png)
+
+Now that this has been entered, the descriptive text will appear as shown below.
+
+![Term description displayed during selection](../.gitbook/assets/selection\_mouse\_over.png)
+
+The example above shows the selection process for attaching a Term to a Session. The mouse-over will also display the description after the Term has been attached to a curricular object.
+
+![Term description displayed after selection](../.gitbook/assets/selected\_mouse\_over1.png)
+

@@ -22,13 +22,13 @@ Now that "Add" has been clicked, the new Vocabulary has been added as shown belo
 
 ![](../.gitbook/assets/manage\_vocab\_4.jpg)
 
-These Vocabularies can be nested in the sense that there can be a sub-term one or more levels lower than "Autism and Related Issues".
+These Vocabularies can be nested in the sense that there can be one or terms nested one or more levels lower than "Autism and Related Issues".
 
 To show this ...
 
 ## Sub Terms
 
-* Click on "Autism and Related Issues".
+* Click on "Autism and Related Issues". The term being added here will be nested below "Autism and Related Issues". For this reason, it is considered to be a "Sub Term" of "Autism and Related Issues".
 
 ![](../.gitbook/assets/manage\_vocab\_5.jpg)
 

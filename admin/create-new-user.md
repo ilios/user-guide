@@ -12,7 +12,7 @@ The screen appears as what is shown below (with real data redacted). This is the
 
 ![](../.gitbook/assets/create\_new\_user.jpg)
 
-## Create New User:
+### Create New User
 
 Click this to either add a new user from the Campus Directory or to add a new user manually if a directory is not used. This depends on how your school is configured to handle user authentication.
 
@@ -38,15 +38,11 @@ Enter search criteria and click "Search directory for new users". In the example
 
 ![](../.gitbook/assets/not\_ready\_icon.jpg)
 
-
-
 * Already in Ilios. User can only be added once.
 
 ![](../.gitbook/assets/already\_in\_ilios.jpg)
 
-&#x20;
-
-## Add New User From Directory Search
+### Add New User From Directory Search
 
 A Search was performed for "Loomis".
 

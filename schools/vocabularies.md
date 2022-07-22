@@ -7,7 +7,7 @@ Managing Vocabularies at the School level is performed using the Schools tab as 
 * ****[**Session**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions)****
 * ****[**Course**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses)****
 * **Objective** (Course, Session, Program Year)&#x20;
-* **Program Year**
+* ****[**Program Year**](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year#program-year-attributes)****
 
 ![](../.gitbook/assets/manage\_vocab\_1.jpg)
 

@@ -6,7 +6,7 @@ A group of learners identified with the same graduating year, and thus having th
 
 ## Competency
 
-A controlled vocabulary of school-specific educational domains of knowledge. Competencies may be divided into sub-domains, and may be mapped to Objectives within a curriculum. Competencies can be maintained at the School level.
+A controlled vocabulary of school-specific educational domains of knowledge. Competencies may be divided into sub-domains, and may be mapped to Objectives within a curriculum. Competencies are maintained at the School level.
 
 ## Course
 

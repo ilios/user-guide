@@ -52,9 +52,7 @@ The record of an individual who can be assigned to an object within the system. 
 
 Digital assets (such as files) and information (such as citations and web links) which may be associated with curricular objects.
 
-## Learning Objective
 
-Free-text entry fields of the desired learning outcomes for Programs, Courses, and Sessions. They can be mapped to School-level Competencies and Competency Domains. Because of this mapping, Objectives should cover one learning outcome at a time. Creation of separate objectives for each expected or hopeful learning outcome is recommended.
 
 ## MeSH
 
@@ -66,7 +64,7 @@ The default status of an object (Session, Course) which is not finalized and doe
 
 ## Objective
 
-The desired learning or teaching outcomes for a given curricular object. These may be general Program level Objectives (also referred to as graduation requirements), Course level learning Objectives, or Session level teaching Objectives. Objectives may be associated with Competencies; however, only one higher level competency can be associated with each Learning Objective at the Session level.
+These are free-text entry fields for desired learning or teaching outcomes for a given curricular object. These may be general Program level Objectives (also referred to as graduation requirements), Course level learning Objectives, or Session level teaching Objectives. They can be mapped to School-level Competencies and Competency Domains. Because of this mapping, Objectives should cover one learning outcome at a time. Creation of separate objectives for each expected or hopeful learning outcome is recommended. These are hierarchical in nature - Session objectives can be mapped to Course objectives which can then be be mapped to Program Year objectives which can be mapped to Competencies and/or Competency Domains.
 
 ## Offering
 

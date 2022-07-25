@@ -4,13 +4,13 @@ Currently, there are two tools available in the Management Console: _**User Acco
 
 ## User Roles
 
-Ilios provides for four distinct user roles which determine mode of access for a given user, in two broad categories of NON-STUDENTS \(those who are not registered as students with the campus registrar\) and STUDENTS \(those who are\). Any user may be assigned any combination of the roles.
+Ilios provides for four distinct user roles which determine mode of access for a given user, in two broad categories of NON-STUDENTS (those who are not registered as students with the campus registrar) and STUDENTS (those who are). Any user may be assigned any combination of the roles.
 
 ### Non-Students
 
 * _**Course Director:**_ The Course Director role provides for full editorial access to the system for the primary school of the user. It adds the user as an entity in the Course Director and Instructor lists for association. In the `user_role` table of the database, this role is identified with a value of 1.
 * _**Instructor:**_ The Instructor role provides for full editorial access to the system for the primary school of the user. It adds the user as an entity in the Instructor list for association. In the `user_role` table of the database, this role is identified with a value of 3.
-* _**Developer \(aka Administrator\):**_ This role provides for full editorial access to the system for the primary school of the user. It does not add the user to any associative lists. Allows for access to the “Admin Console” as well as "Curriculum Inventory" from the Ilios flyout menu. In the `user_role` table of the database, this role is identified with a value of 2.
+* _**Developer (aka Administrator):**_ This role provides for full editorial access to the system for the primary school of the user. It does not add the user to any associative lists. Allows for access to the “Admin Console” as well as "Curriculum Inventory" from the Ilios flyout menu. In the `user_role` table of the database, this role is identified with a value of 2.
 
 ### Students
 
@@ -18,7 +18,7 @@ Ilios provides for four distinct user roles which determine mode of access for a
 
 ### Former Students
 
-* **Former Student:** The former student role allows for the additional attribute of “former student” to a given user, to identify those users who are graduates, or who were previously \(but no longer\) enrolled as learners. They remain in the database as students, along with all other assigned roles, but can now be tracked as graduates. In the `user_role` table of the database, this role is identified with a value of 9.
+* **Former Student:** The former student role allows for the additional attribute of “former student” to a given user, to identify those users who are graduates, or who were previously (but no longer) enrolled as learners. They remain in the database as students, along with all other assigned roles, but can now be tracked as graduates. In the `user_role` table of the database, this role is identified with a value of 9.
 
 ## User Account Management
 
@@ -36,7 +36,7 @@ Student records are those which are identified in the ingested records as curren
 
 This assignment is managed from the alert panel shown. Student records may be assigned individually or in bulk; there is no time constraint on assigning them, but until they are assigned and cleared from the alert panel, the students in question will not have access to their information in Ilios, and will not be tracked as part of the educational hours and activities within the curriculum.
 
-Non-student records are those which are valid active records, \(i.e. have a valid ID and email\), but are not currently noted as enrolled. These records are not automatically ingested, but are reconciled against accounts which have been entered into Ilios already.
+Non-student records are those which are valid active records, (i.e. have a valid ID and email), but are not currently noted as enrolled. These records are not automatically ingested, but are reconciled against accounts which have been entered into Ilios already.
 
 When there is a conflict between an Ilios account record and its parent record in the campus directory, this will appear on the Management Console. Each record may either be updated --- replacing the conflicting information with the data found in the external directory --- disabled, or ignored until the next ingest cycle. Any record that is found to be in conflict will remain in the alert panel until action is taken.
 
@@ -80,7 +80,7 @@ Once uploaded, the users listed will be added to the instructor group or learner
 
 The other, preferred method of creating users in Ilios is to use the _**Management Console**_ search tool. When a search for a user is run, if no results are found in Ilios, the user is presented with the opportunity to create a new Ilios account.
 
-Selecting _**“Create Account”**_ will bring up the template for entering a new account: The required fields are name, UCID, and email. These must match the official records in the directory for accuracy. Note that if internal authentication is not active, the username and password fields are disabled or not visible at all in more recent versions; these are only for use in situations where Ilios native authentication, rather than shibboleth, is in use. Passwords must adhere to a high security standard.
+Selecting _**“Create Account”**_ will bring up the template for entering a new account: The required fields are name, Campus ID, and email. These must match the official records in the directory for accuracy. Note that if internal authentication is not active, the username and password fields are disabled or not visible at all in more recent versions; these are only for use in situations where Ilios native authentication, rather than shibboleth, is in use. Passwords must adhere to a high security standard.
 
 Please note that only non-student accounts may be created here. The account may later be associated with a learner record via external directory reconciliation as described above, but in general student accounts should only be entered into Ilios via external directory feed or via the Learner Groups page. Minimum and maximum lengths of the UC Id field may be set in the configuration file `config/ilios.php` as variable attributes. The default min and max values are each initially set to “9”, but can be modified in the file `web/application/config/[default.]ilios.php`.
 
@@ -106,7 +106,7 @@ To assign a user a secondary cohort, click the “edit” button beneath the use
 
 Ilios provides a management interface to allow for the simple control of edit – level permissions for existing users and their access to curricular data. Combined with the option of joint program stewardship, these permissions provide an extremely powerful mechanism for creating and deploying interdisciplinary curricula.
 
-By default, any existing non-student user will automatically have edit privileges to the curriculum for their assigned school. To assign school privileges, or to assign direct course privileges to users, the Management Console should be opened. It is accessed by clicking on the “Open Management Console” link in the Administration section of the Dashboard. Only users assigned admin control for the system \(directors, developers\) may access the console.
+By default, any existing non-student user will automatically have edit privileges to the curriculum for their assigned school. To assign school privileges, or to assign direct course privileges to users, the Management Console should be opened. It is accessed by clicking on the “Open Management Console” link in the Administration section of the Dashboard. Only users assigned admin control for the system (directors, developers) may access the console.
 
 Clicking on the _**Manage Permissions**_ link will bring up a select box of all Ilios users, regardless of school association. You may select one or more users for permissions management.
 
@@ -118,7 +118,7 @@ Selecting one user will return a display of that user’s current access permiss
 
 **Current Courses:** Provides explicit admin access to the Courses listed, regardless of role or access level.
 
-Selecting the appropriate link will allow for the addition/removal of items from their access list. Assignment is immediate upon display of the course or program in the access lists. You may only modify one category of permissions at a time. To modify additional permissions, save your selection\(s\) and return to the permissions selection screen.
+Selecting the appropriate link will allow for the addition/removal of items from their access list. Assignment is immediate upon display of the course or program in the access lists. You may only modify one category of permissions at a time. To modify additional permissions, save your selection(s) and return to the permissions selection screen.
 
 Only Programs and Courses for the current School being accessed by the admin user will be available for assignment.
 
@@ -130,4 +130,3 @@ Selecting more than one user will allow for the bulk assignment of permissions. 
 Assignment is immediate upon display of the course or program in the access lists.
 
 Clicking the **“Finish”** button returns the user to the main **Management Console** Menu display.
-

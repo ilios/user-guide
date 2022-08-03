@@ -36,9 +36,7 @@ This denotes a collection of people (Learners or Instructors) which can be assoc
 
 This refers to assigned metadata for any selected Learner Group. These labels do not create hierarchical associations or relationships with other objects or data in the system. Group Name, Default Instructor(s), and Default Location are examples of this along with Default Virtual Learning Link and whether or not learners within the learner Group require accommodation. Defaults are only applied in the case of Offering(s) created using "Small Groups" option upon Offering creation.&#x20;
 
-## Group Content
 
-Data related and/or associated with a given Group that also exists independently within the system. Person Objects are an example of this.
 
 ## Independent Learning Module (ILM)
 

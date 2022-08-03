@@ -14,7 +14,7 @@ You can perform a search and select an existing Ilios user record to modify as s
 
 ## Edit User Account Settings
 
-Now the that user account has been selected for modification, many of the text fields can be modified. At UCSF, the Middle Name, Other ID, Phone, and Preferred Email fields can be modified manually. The other field values are brought in from the Campus Directory.
+Now the that user account has been selected for modification, many of the text fields can be modified. At UCSF, the Middle Name, Other ID, Phone, Pronouns, and Preferred Email fields can be modified manually. The other field values are brought in from the Campus Directory.
 
 The example below shows the scenario when there is no Campus Directory. Any field can be modified. Save and Cancel buttons are provided in both panes. The panes have been activated as shown in the "User Admin - top portion" image above.
 
@@ -24,11 +24,11 @@ The example below shows the scenario when there is no Campus Directory. Any fiel
 
 **First Name, Last Name, Campus ID, Username:** These values are either brought in from your campus directory (LDAP or other) or can be edited manually.
 
-**Middle Name, Other ID, Preferred Email, Phone:** These values can be edited here.&#x20;
+**Middle Name, Other ID, Preferred Email, Phone, Pronouns:** These values can be edited here.&#x20;
 
 _**NOTE:**_ Teaching notifications will be sent to a the preferred email address entered here if one exists in the system.
 
-**Password:** Only systems that are not set up to sync with a directory will have this link. This is used to reset a user's password. A utility to ensure password strength is included.
+**Password:** This is used to reset a user's password unless this is handled by the directory. A utility to ensure password strength is included.
 
 ![](../.gitbook/assets/adminrw4.png)
 

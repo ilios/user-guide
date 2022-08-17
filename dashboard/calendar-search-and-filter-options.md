@@ -62,7 +62,7 @@ Switch to a "Detail" search as shown below.
 
 This search option allows the user to search and display all activities for any course in the selected academic year and school, which have the selected search attributes. Search is possible by each of the following, or any combination of the following categories of data:
 
-* **Topics**&#x20;
+* ****[**Terms (by Vocabularies)**](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies)****
 * **Session Types**
 * **Course Levels**
 * **Program/Cohort**

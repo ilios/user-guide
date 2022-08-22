@@ -74,7 +74,7 @@ This display can be sorted by the following fields in addition to being filtered
 
 **TIP:** It can be helpful to sort by **"Status"** when you want to find out which Courses may not have been published yet. The Courses with the Status of "Not Published" will appear first in the list.
 
-![Courses Screen (Ilios 3.0)](<../../.gitbook/assets/all\_courses (1).jpg>)
+<figure><img src="../../.gitbook/assets/new crs list 1.png" alt=""><figcaption><p>Courses List (All Courses)</p></figcaption></figure>
 
 ## My Courses
 

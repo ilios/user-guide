@@ -13,6 +13,6 @@ To access this functionality, click on the Instructor Groups menu item from the 
 
 ![Instructor Groups (selected)](../.gitbook/assets/inst\_grp1.png)
 
-This is the screen that appears (see comments).
+This is the screen that appears (see comments). These Instructor Groups can be sorted by "Instructor Group Title" or by "Members" (member count). There is also a text box available in the upper right which allows for filter by text string search. A School Switcher is also available for the rare administrative users that have advanced privileges over more than one school.
 
-![](../.gitbook/assets/inst\_grp\_1.png)
+<figure><img src="../.gitbook/assets/instr_grp_1.png" alt=""><figcaption></figcaption></figure>

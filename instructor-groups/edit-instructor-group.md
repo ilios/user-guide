@@ -14,10 +14,8 @@ In order to edit the name of the Instructor Group, click on the name link itself
 
 After clicking "Manage Instructors" ...
 
+<figure><img src="../.gitbook/assets/ed_inst_grp_3.png" alt=""><figcaption><p>Instructor Group - in edit mode</p></figcaption></figure>
 
+After performing the steps outlined above and saving, the changes made take effect immediately. The screen is updated to reflect these changes in real-time.
 
-![](../.gitbook/assets/screen-shot-2021-09-28-at-3.54.18-pm.png)
-
-After performing the steps outlined above, the changes made take effect immediately. The screen is updated to reflect these changes in real-time.
-
-![](../.gitbook/assets/screen-shot-2021-09-28-at-3.59.18-pm.png)
+<figure><img src="../.gitbook/assets/ed_inst_grp_4.png" alt=""><figcaption></figcaption></figure>

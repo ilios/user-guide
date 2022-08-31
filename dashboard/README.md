@@ -6,11 +6,11 @@ The Dashboard is designed to provide quick access to common sets of information 
 
 ### Ilios Menu
 
-![](../.gitbook/assets/iliosmenu.png)
+<figure><img src="../.gitbook/assets/flyout_update_1.png" alt=""><figcaption><p>Ilios Menu - full size</p></figcaption></figure>
 
 Available menu items include:
 
-* **Dashboard:** This is the default Home page. It is bolded indicating that is the current location selected.
+* **Dashboard:** This is the default Home page. That is the current location selected.
 * [**Courses and Sessions**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions)**:** Displays a filterable list of all courses and sessions for the schools with which your name is associated in Ilios.
 * [**Learner Groups**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups)**:** Maintain (add/modify) learner groups to which students must belong in order to get assigned session offerings.
 * [**Instructor Groups**](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)**:** Associate groups of Instructors with one or more Instructor groups which can be attached to offerings.

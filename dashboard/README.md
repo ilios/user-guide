@@ -6,9 +6,27 @@ The Dashboard is designed to provide quick access to common sets of information 
 
 ### Ilios Menu
 
+#### Large Screen View
+
+The view below is of the Ilios flyout menu on a relatively large screen. This is how it will appear for Admin users unless they use a smaller screen, tablet, or smart phone.
+
 <figure><img src="../.gitbook/assets/flyout_update_1.png" alt=""><figcaption><p>Ilios Menu - full size</p></figcaption></figure>
 
-Available menu items include:
+#### Small Screen View - contracted
+
+When the Ilios application is not being viewed at full size is being viewed using a device with a smaller screen surface area, the toolbar spans across the top of the screen as shown below.
+
+<figure><img src="../.gitbook/assets/flyout_update_2.png" alt=""><figcaption><p>Ilios Menu - small size (contracted)</p></figcaption></figure>
+
+The **Ilios Menu expander** is only available in the smaller view of the toolbar. It is not needed in full-size mode.&#x20;
+
+#### Small Screen View - expanded
+
+Clicking the Ilios Menu expander (or contractor if already expanded) reveals in more detail the available menu options. You can see this display below.
+
+<figure><img src="../.gitbook/assets/flyout_update_3.png" alt=""><figcaption><p>Ilios Flyout Menu - small view (expanded)</p></figcaption></figure>
+
+Available menu items in all views include:
 
 * **Dashboard:** This is the default Home page. That is the current location selected.
 * [**Courses and Sessions**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions)**:** Displays a filterable list of all courses and sessions for the schools with which your name is associated in Ilios.

@@ -6,7 +6,6 @@
   * [Icons Explained](dashboard/icons-explained.md)
   * [Global Search](dashboard/search.md)
   * [Week At A Glance](dashboard/week-at-a-glance.md)
-  * [Activities View](dashboard/activities-view.md)
   * [Materials View](dashboard/materials-view.md)
   * [Calendar View](dashboard/calendar-view.md)
   * [Event Detail](dashboard/event-detail-view.md)

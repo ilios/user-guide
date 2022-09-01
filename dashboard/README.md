@@ -46,7 +46,6 @@ There are four different fully functional views that can be accessed from the Da
 These Dashboard View Options are ...
 
 * [**Week At A Glance** ](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance)(default view)
-* [**Activities**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/activities-view)
 * ****[**Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view)****
 * ****[**Calendar**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view)****
 

@@ -24,12 +24,6 @@ To get to the Month View, click the "Month" Calendar View Switcher link. The scr
 
 ![Month View (Calendar)](../.gitbook/assets/monthvw1.png)
 
-### Pre-Work&#x20;
-
-Pre-work (linked ILM's) are displayed below the calendar similar to what is shown below. Since we are in Month View, there are quite a few Pre-work ILM's to display.
-
-![Month View (Pre-Work)](../.gitbook/assets/monthvw2.png)
-
 ### NOTE ABOUT THE DISPLAY OF MULTIPLE OFFERINGS:
 
 When a Session with multiple offerings is clicked on the Week or Month View, the Day View is displayed to reveal the details.

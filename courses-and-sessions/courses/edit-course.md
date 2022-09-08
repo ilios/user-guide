@@ -6,13 +6,13 @@ To manage an existing course, enter part of the course’s title into the **"Fil
 
 **Courses Pre-filter**
 
-![](<../../.gitbook/assets/cs_rw\_5 (1).png>)
+![](<../../.gitbook/assets/cs\_rw\_5 (1).png>)
 
 **Courses Post-Filter**
 
 In this second screen shot, a search string of “brai” has been entered and as a result, only one course gets returned.
 
-![](../../.gitbook/assets/cs_rw\_6.png)
+![](../../.gitbook/assets/cs\_rw\_6.png)
 
 ## Course Summary Details
 
@@ -20,11 +20,11 @@ Once the Course has been selected as shown above, the following Course-level att
 
 **NOTE: Course Summary Details refers to the higher level details above the "Show Details" button. Refer to **_**Course Details**_** for the lower level details that do require the click of "Show Details" to be shown.**
 
-![](<../../.gitbook/assets/cs_rw\_7 (1).png>)
+![](<../../.gitbook/assets/cs\_rw\_7 (1).png>)
 
 ### Links and Functionality By The Numbers ...
 
-1. **Back to Courses List**: takes the user back to the list of Courses 
+1. **Back to Courses List**: takes the user back to the list of Courses&#x20;
 2. **Edit Course Title**: The title can be edited by clicking as shown.
 3. **Published Status**: The Course's publication status can be changed here.
 4. **Learning Materials Summary**: opens up [Learning Materials Summary](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/learning-materials-summary)
@@ -32,8 +32,8 @@ Once the Course has been selected as shown above, the following Course-level att
 6. **Rollover Course**: starts the process of rolling this Course over
 7. **Course Visualizations**: opens up Visualizations (Graphs) for this Course
 8. **Course ID**: The Course ID field can be edited by clicking as shown.
-9. **Clerkship Type**: edited here  
-10. **Start Date**: edited here 
+9. **Clerkship Type**: edited here &#x20;
+10. **Start Date**: edited here&#x20;
 11. **End Date**: edited as shown
 12. **Level**: edited here
 13. **Show Details**: opens up the rest of the Course Details.
@@ -42,8 +42,8 @@ Once the Course has been selected as shown above, the following Course-level att
 
 These are the lower level details of a Course that are displayed and can be modified once the "Show Details" tab button has been clicked. These are those items ...
 
-* [Course Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership) - set Course Directors and Course Administrators
-* Course Objectives (and associated Parent Objectives, Vocabulary Terms, and MeSH Terms) 
+* [Course Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership) - add/remove Course Directors, Course Administrators, and Student Advisors
+* Course Objectives (and associated Parent Objectives, Vocabulary Terms, and MeSH Terms)&#x20;
 * Course Learning Materials
 * [Competencies](https://iliosproject.gitbook.io/ilios-user-guide/schools/competencies) - set at School level
 * Terms (which can include various Vocabularies)
@@ -54,10 +54,10 @@ These are the lower level details of a Course that are displayed and can be modi
 
 Follow the links below for more specific information related to Course Objective activities. Adding MeSH Term(s) to Course Objectives is covered in the "Edit Course Objective" page linked below.
 
-* [Add Course Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/course_objective.html)
-* [Edit Course Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/edit_course_objective.html)
-* [Add Parent Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/add_parent_objective_to_course_objective.html)
-* [Edit Parent Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/edit_parent_objective_for_course_objective.html)
+* [Add Course Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/course\_objective.html)
+* [Edit Course Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/edit\_course\_objective.html)
+* [Add Parent Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/add\_parent\_objective\_to\_course\_objective.html)
+* [Edit Parent Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/edit\_parent\_objective\_for\_course\_objective.html)
 
 ### Program Cohorts
 
@@ -69,16 +69,16 @@ In order to populate courses with learner groups, the course must first be assoc
 
 To add or remove Cohorts from a Course, click the Manage Cohorts button as shown below. This appears at the bottom of the **Course Details** section.
 
-![](../../.gitbook/assets/manage_cohorts\_1.jpg)
+![](../../.gitbook/assets/manage\_cohorts\_1.jpg)
 
 In this case, we want to add the Dentistry DDS Class of 2018 to this Course. Click on its label as shown below.
 
-![Select The Cohort](../../.gitbook/assets/cohort_selection.jpg)
+![Select The Cohort](../../.gitbook/assets/cohort\_selection.jpg)
 
 **Courses and Sessions (after Cohort Selected)**
 
-![](../../.gitbook/assets/cohort_selection\_2.jpg)
+![](../../.gitbook/assets/cohort\_selection\_2.jpg)
 
 Now that the action detailed above has taken place, the Class of 2018 has been successfully added to the Course as it is evident that both Cohorts are listed.
 
-![](../../.gitbook/assets/cohort_selection\_3.jpg)
+![](../../.gitbook/assets/cohort\_selection\_3.jpg)

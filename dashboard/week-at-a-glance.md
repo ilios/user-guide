@@ -1,6 +1,6 @@
 # Week At A Glance
 
-This view gives students the detailed information they will need to navigate the current week. This includes all of the offerings they should be attending along with all of the learning materials associated with these offerings. Pre-work activities and Independent Learning Modules (asynchronous learning activities) are also included.
+This view gives students the detailed information they will need to navigate the current week. This includes all of the offerings they should be attending along with all of the learning materials associated with these offerings. Independent Learning Modules (asynchronous learning activities) are also included.
 
 This is the default when a user logs in. As shown below, there are [Event Detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) and [Learning Material](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view) links available as well. A scroll bar will be displayed if the information does not all fit on the screen.
 

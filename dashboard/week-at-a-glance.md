@@ -4,7 +4,7 @@ This view gives students the detailed information they will need to navigate the
 
 This is the default when a user logs in. As shown below, there are [Event Detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) and [Learning Material](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view) links available as well. A scroll bar will be displayed if the information does not all fit on the screen.
 
-**NOTE**: Week At A Glance (WaaG) is not designed as a complete and full calendar. It contains confirmed learning activities the learner will be facing that week. To access other weeks in a similarly formatted view, [All Weeks](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance#all-weeks) can be accessed. Events that are set to a status of "Scheduled", which don't contain session specific information and event scheduling are **NOT** displayed on Week at a Glance. They are available on "Activities" and "Calendar" view.&#x20;
+**NOTE**: Week At A Glance (WaaG) is not designed as a complete and full calendar. It contains confirmed learning activities the learner will be facing that week. To access other weeks in a similarly formatted view, [All Weeks](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance#all-weeks) can be accessed. Events that are set to a status of "Scheduled", which don't contain session specific information and event scheduling are **NOT** displayed on Week at a Glance. They are available on "Calendar" view.&#x20;
 
 ## **Pre-work**
 

@@ -1,8 +1,8 @@
 # Vocabularies
 
-Vocabularies are categories or collections of Terms (school-specific categories of learning) that can be selected and attached to many curricular objects within Ilios. In previous versions of Ilios, these were known as Topics and even further into the past, Disciplines.
+Vocabularies are categories or collections of **Terms** (school-specific categories of learning) that can be selected and attached to many curricular objects within Ilios. In previous versions of Ilios, these were known as Topics and even further into the past, Disciplines.
 
-Managing Vocabularies at the School level is performed using the Schools tab as well. Vocabulary Terms can be used in the tagging of the following curricular objects within Ilios ...
+Managing Vocabularies and Terms at the School level is performed using the Schools tab as well. Vocabulary Terms can be used in the tagging of the following curricular objects within Ilios ...
 
 * ****[**Session**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions)****
 * ****[**Course**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses)****
@@ -15,19 +15,21 @@ After clicking as shown above the Vocabularies become available to edit as shown
 
 ![](../.gitbook/assets/manage\_vocab\_2.jpg)
 
-In this example, \`UCSF 49\`, one of the Vocabularies for UCSF, has been selected. A new value "Autism and Related Issues" has been entered.
+#### Add New Term
+
+In this example, \`UCSF 49\`, one of the Vocabularies for UCSF, has been selected. A new Term "Autism and Related Issues" has been entered.
 
 ![](../.gitbook/assets/manage\_vocab\_3.jpg)
 
-Now that "Add" has been clicked, the new Vocabulary has been added as shown below.
+Now that "Add" has been clicked, the new Term has been added as shown below.
 
 ![](../.gitbook/assets/manage\_vocab\_4.jpg)
 
-These Vocabularies can be nested in the sense that there can be one or terms nested one or more levels lower than "Autism and Related Issues".
+These Vocabulary Terms can be nested in the sense that there can be one or terms nested one or more levels lower than "Autism and Related Issues".
 
-### Sub Terms
+#### Add Sub Term
 
-To add a Sub Term, click on "Autism and Related Issues". The term being added here will be nested below "Autism and Related Issues". For this reason, it is considered to be a "Sub Term" of "Autism and Related Issues".
+To add a Sub Term, click on "Autism and Related Issues". The term being added here will be nested below "Autism and Related Issues". For this reason, it is considered to be a "Sub Term" of "Autism and Related Issues".A
 
 ![](../.gitbook/assets/manage\_vocab\_5.jpg)
 

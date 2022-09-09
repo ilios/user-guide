@@ -28,7 +28,7 @@ In situations where linked ILM's are assigned, the user can navigate to either t
 
     <figure><img src="../.gitbook/assets/Screen Shot 2022-09-09 at 3.14.02 PM.png" alt=""><figcaption><p>Complete</p></figcaption></figure>
 
-
+#### Week at a Glance - Displayed
 
 <figure><img src="../.gitbook/assets/Updated WaaG Student View.png" alt=""><figcaption><p>Week at a Glance (student view)</p></figcaption></figure>
 

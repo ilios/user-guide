@@ -6,13 +6,25 @@ This is the default when a user logs in. As shown below, there are [Event Detail
 
 **NOTE**: Week At A Glance (WaaG) is not designed as a complete and full calendar. It contains confirmed learning activities the learner will be facing that week. To access other weeks in a similarly formatted view, [All Weeks](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance#all-weeks) can be accessed. Events that are set to a status of "Scheduled", which don't contain session specific information and event scheduling are **NOT** displayed on Week at a Glance. They are available on "Calendar" view.&#x20;
 
-## **Pre-work**
+## Linked ILM Work
 
-This section appears at the top of Week at a Glance. If a student has Independent Learning Modules assigned to them that have been linked to upcoming Session Offerings that pertain to their schedule, these are listed at the top of the screen. They are ordered by the date / time of the upcoming Offerings. This is designed to make it easier for students to plan their approach towards tackling these pre-requisites before arriving in class.
+ILM's that have been linked to an upcoming session are included as shown below in Week at a Glance. They are displayed similarly in Event Detail.
 
-In situations where linked ILM's are assigned, the user can navigate to either the ILM that needs to be completed before the scheduled Offering or to the Event Detail screen of the Offering itself. Standard ILM's which have a Due Date will show up on the Week At A Glance displaying the associated Due Date. This type of ILM is **NOT** provided its own area. The ILM's are ordered with the rest of the student's Offerings in ascending chronological date and time order.
+In situations where linked ILM's are assigned, the user can navigate to either the ILM that needs to be completed before the scheduled Offering or to the Event Detail screen of the Offering itself. Standard ILM's which have a Due Date will show up on the Week At A Glance displaying the associated Due Date. The ILM's are ordered with the rest of the student's Offerings in ascending chronological date and time order.
 
-![](../.gitbook/assets/allwks2.png)
+**Progress-Tracking Check Boxes** are included to help students determine which Learning Material activities they have already addressed. An updated Week at a Glance is shown below. These check boxes have three states ...
+
+1.  Not Started (default)&#x20;
+
+    <figure><img src="../.gitbook/assets/Screen Shot 2022-09-09 at 3.11.28 PM.png" alt=""><figcaption><p>Not started </p></figcaption></figure>
+2.  &#x20;In Progress&#x20;
+
+    <figure><img src="../.gitbook/assets/Screen Shot 2022-09-09 at 3.12.57 PM.png" alt=""><figcaption><p>Working on it </p></figcaption></figure>
+3.  Completed (current offering)
+
+    <figure><img src="../.gitbook/assets/Screen Shot 2022-09-09 at 3.14.02 PM.png" alt=""><figcaption><p>Complete</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Updated WaaG Student View.png" alt=""><figcaption><p>Week at a Glance (student view)</p></figcaption></figure>
 
 ## All Weeks
 

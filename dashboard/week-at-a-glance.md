@@ -2,7 +2,7 @@
 
 This view gives students the detailed information they will need to navigate the current week. This includes all of the offerings they should be attending along with all of the learning materials associated with these offerings. Independent Learning Modules (asynchronous learning activities) are also included.
 
-This is the default when a user logs in. As shown below, there are [Event Detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) and [Learning Material](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view) links available as well. A scroll bar will be displayed if the information does not all fit on the screen.
+This is the default when a user logs in. As shown [below](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance#week-at-a-glance-displayed), there are [Event Detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) and [Learning Material](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view) links available as well. A scroll bar will be displayed if the information does not all fit on the screen.
 
 **NOTE**: Week At A Glance (WaaG) is not designed as a complete and full calendar. It contains confirmed learning activities the learner will be facing that week. To access other weeks in a similarly formatted view, [All Weeks](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance#all-weeks) can be accessed. Events that are set to a status of "Scheduled", which don't contain session specific information and event scheduling are **NOT** displayed on Week at a Glance. They are available on "Calendar" view.&#x20;
 
@@ -14,7 +14,9 @@ ILM's that have been linked to an upcoming session are included as shown below i
 
 In situations where linked ILM's are assigned, the user can navigate to either the ILM that needs to be completed before the scheduled Offering or to the Event Detail screen of the Offering itself. Standard ILM's which have a Due Date will show up on the Week At A Glance displaying the associated Due Date. The ILM's are ordered with the rest of the student's Offerings in ascending chronological date and time order.
 
-**Progress-Tracking Check Boxes** are included to help students determine which Learning Material activities they have already addressed. These are persistent and will retain the value (state) selected by the student any time Ilios is accessed. Future screen shots showing these details in Event Detail and All Weeks are forthcoming.
+**Progress-Tracking Check Boxes**&#x20;
+
+These are included to help students determine which Learning Material activities they have already addressed. These are persistent and will retain the value (state) selected by the student any time Ilios is accessed. Future screen shots showing these details in Event Detail and All Weeks are forthcoming.
 
 **Check Box States**
 

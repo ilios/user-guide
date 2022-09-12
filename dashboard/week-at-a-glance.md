@@ -40,7 +40,9 @@ Another great feature of Ilios is that you can review any week's activity, wheth
 
 <figure><img src="../.gitbook/assets/all_weeks_starting_pt.png" alt=""><figcaption></figcaption></figure>
 
-After clicking "All Weeks", the screen and feature links are displayed as shown below.
+After clicking "All Weeks", the screen and feature links are displayed as shown below. Even though there are no learning activities for the logged-in student, the top part of the screen is shown for navigational purposes.
+
+<figure><img src="../.gitbook/assets/all_weeks_top.png" alt=""><figcaption><p>All Weeks (top)</p></figcaption></figure>
 
 ![All Weeks View](../.gitbook/assets/rw\_waag3.png)
 

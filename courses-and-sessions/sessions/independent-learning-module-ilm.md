@@ -5,7 +5,32 @@ ILM's are a specific type of Session which does not necessarily meet in any part
 These are displayed in one of two places ...
 
 1. ****[**ILM with Due Date / Time**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-with-due-date-time)**:** An ILM will appear on the Calendar at the specified time on the Due Date that was assigned. It shows up in a fifteen minute block on the Calendar regardless of the actual duration of the expected activity. If a time is not specified, the default is 5pm.
-2. ****[**ILM linked to an Upcoming Session Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-linked-to-session): An ILM that is linked to an upcoming Session will be displayed in its own area on the [Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance) - right at the top for easy reference for students. In the Calendar View, it will be displayed below. Screen shots of all of these views will be here soon.
+2. ****[**ILM linked to an Upcoming Session Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-linked-to-session): An ILM that is linked to an upcoming Session will have the learning activities listed on the target session in all places session offerings appear in Ilios, among them on [Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance).&#x20;
+
+An example of #2 is shown below. The icon indicating that an ILM is linked to another session is shown below.
+
+<figure><img src="../../.gitbook/assets/linked_ILM_Icon.png" alt=""><figcaption><p>Linked ILM Icon</p></figcaption></figure>
+
+#### Linked ILM - All Weeks&#x20;
+
+<figure><img src="../../.gitbook/assets/showing_pre_work.png" alt=""><figcaption><p>All Weeks Linked ILM's</p></figcaption></figure>
+
+In the example shown above, the student will need to click the link to "Hemostasis Module (Part 4)" in order to have access to the Learning Materials (activities) associated with that ILM. The "Hemostasis Module (Part 4)" ILM is linked to the Session entitled "Antithrombotics", which takes place at 10:50 AM on Wednesday. The student can access the progress checking boxes from the ILM. Here is how that appears in Event Detail of the target session.
+
+<figure><img src="../../.gitbook/assets/session_all_weeks.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+\
+
+
+The check box for the Learning Material "Hemostasis Module Part 4: Drugs" appears in the check box state of "completed", meaning the student has reviewed and processed this learning material's contents. It appears in more of a greyed out appearance on the target session but is more blue colored when accessed on the ILM (formerly known as Pre-work) itself.
+
+
+
+
 
 **NOTE:** Any Session Type can be assigned to an ILM. It is possible to have an available Session Type of "Independent Learning" which is not the same or linked in any way to what is being described here.
 

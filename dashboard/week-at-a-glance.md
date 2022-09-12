@@ -38,7 +38,7 @@ These are included to help students determine which Learning Material activities
 
 Another great feature of Ilios is that you can review any week's activity, whether it is in the future or the past. This also allows the user to refer to Learning activities that occurred or will occur in any week of any year that the user chooses to select. To open this functionality, click as shown in the screen shot below.&#x20;
 
-![](<../.gitbook/assets/allwks1 (1).png>)
+<figure><img src="../.gitbook/assets/all_weeks_starting_pt.png" alt=""><figcaption></figcaption></figure>
 
 After clicking "All Weeks", the screen and feature links are displayed as shown below.
 

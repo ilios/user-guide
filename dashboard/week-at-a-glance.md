@@ -40,12 +40,12 @@ Another great feature of Ilios is that you can review any week's activity, wheth
 
 <figure><img src="../.gitbook/assets/all_weeks_starting_pt.png" alt=""><figcaption></figcaption></figure>
 
-After clicking "All Weeks", the screen and feature links are displayed as shown below. Even though there are no learning activities for the logged-in student, the top part of the screen is shown for navigational purposes.
+After clicking "All Weeks", the screen and feature links are displayed as shown below. Even though there are no learning activities for the logged-in student at the beginning of the year, the top part of the screen is shown for navigational purposes.
 
 <figure><img src="../.gitbook/assets/all_weeks_top.png" alt=""><figcaption><p>All Weeks (top)</p></figcaption></figure>
 
-![All Weeks View](../.gitbook/assets/rw\_waag3.png)
+The user will always be routed to the current week, which will be in expanded view by default, along with the previous and following weeks.
 
 Any number of weeks can be expanded or contracted to show or hide all details of the events taking place in that week. This is demonstrated below. The links to Learning Materials and Session Details are also highlighted in the screen shot.
 
-![](../.gitbook/assets/rw\_waag4.png)
+<figure><img src="../.gitbook/assets/all_weeks_2.png" alt=""><figcaption><p>All Weeks (user routed to current week)</p></figcaption></figure>

@@ -89,7 +89,9 @@ Cohorts can also be removed from a Course in a similar manner.
 
 <figure><img src="../../.gitbook/assets/remove_cohort_1.png" alt=""><figcaption><p>Remove Cohort - Step 1</p></figcaption></figure>
 
+After performing the action shown above, we need to complete the process by clicking the green Save/Done button.
 
+<figure><img src="../../.gitbook/assets/remove_cohort_2.png" alt=""><figcaption><p>Remove Cohort - Step 2</p></figcaption></figure>
 
 
 

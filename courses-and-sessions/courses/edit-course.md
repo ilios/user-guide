@@ -65,7 +65,7 @@ For courses which are given more than once in an academic year, the course name 
 
 In order to populate courses with learner groups, the course must first be associated with the desired Program(s), as well as the desired learner cohorts within that program. Cohorts are listed by graduation year. If you select the program Doctor of Medicine, and its cohort Class of 2015, then the course will now be eligible for population with any learner or learner group from that program / cohort. A course may be associated with any number of programs and cohorts, allowing for interdisciplinary courses as well as mixed level courses. Only cohorts to which the user is provided access, either by permission granted for school or program access will be available for selection. Cohorts previously selected for which a user has no permissions will not be changeable by the user. In the example shown on the following page, Doctor of Medicine >> Class of 2017 has been chosen. When you are finished, click the green check to return to the Courses and Sessions screen.
 
-**Selection Screen (Program Cohort)**
+#### **Selection Screen (Program Cohort)**
 
 To add or remove Cohorts from a Course, click the Manage Cohorts button as shown below. This appears at the bottom of the **Course Details** section.
 
@@ -82,3 +82,18 @@ In this case, we want to add the Dentistry DDS Class of 2018 to this Course. Cli
 Now that the action detailed above has taken place, the Class of 2018 has been successfully added to the Course as it is evident that both Cohorts are listed.
 
 ![](../../.gitbook/assets/cohort\_selection\_3.jpg)
+
+#### Remove Cohort from Course
+
+Cohorts can also be removed from a Course in a similar manner.
+
+<figure><img src="../../.gitbook/assets/remove_cohort_1.png" alt=""><figcaption><p>Remove Cohort - Step 1</p></figcaption></figure>
+
+
+
+
+
+
+
+
+

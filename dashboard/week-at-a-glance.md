@@ -16,17 +16,17 @@ In situations where linked ILM's are assigned, the user can navigate to either t
 
 ### **Progress-Tracking Check Boxes**&#x20;
 
-These are included to help students determine which Learning Material activities they have already addressed. These are persistent and will retain the value (state) selected by the student any time Ilios is accessed.&#x20;
+These personal progress check boxes are included to help students determine which Learning Material activities they have already addressed. These are persistent and will retain the value (state) selected by the student any time Ilios is accessed. This is private and not shared or accessed by anyone but the learner themselves. Items which are part of linked ILM modules will display with a slightly lighter grey appearance. These require a further click-thru to the module itself for update.
 
 ### **Check Box States**
 
 1.  Not Started (default)&#x20;
 
     <figure><img src="../.gitbook/assets/Screen Shot 2022-09-09 at 3.11.28 PM.png" alt=""><figcaption><p>Not started </p></figcaption></figure>
-2.  &#x20;In Progress&#x20;
+2.  &#x20;In Progress (first click)&#x20;
 
     <figure><img src="../.gitbook/assets/Screen Shot 2022-09-09 at 3.12.57 PM.png" alt=""><figcaption><p>Working on it </p></figcaption></figure>
-3.  Completed (current offering)
+3.  Completed (second click)
 
     <figure><img src="../.gitbook/assets/Screen Shot 2022-09-09 at 3.14.02 PM.png" alt=""><figcaption><p>Complete</p></figcaption></figure>
 

@@ -30,11 +30,11 @@ Clicking on the Courses and Sessions menu item pulls up the screen for maintaini
 * [Add Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/add-session-objective)
 * [Edit Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session-objective)
 * [Add Parent Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/add-parent-objective-s)
-* [Edit Parent Objective ](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-parent-objective-s)   
-* [Sort Objectives](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/sessions/sort_objectives.html)    
-* [Independent Learning Module \(ILM\)](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm)    
-* [Copy Session](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/copy-session)      
-* [Delete Session](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/delete-session)       
+* [Edit Parent Objective ](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-parent-objective-s)  &#x20;
+* [Sort Objectives    ](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/sort-objectives)
+* [Independent Learning Module (ILM)](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm)   &#x20;
+* [Copy Session](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/copy-session)     &#x20;
+* [Delete Session](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/delete-session)      &#x20;
 * [Attach Learning Materials](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/attach-learning-materials)
 * [Sort Learning Materials](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/sort-learning-materials)
 
@@ -47,4 +47,3 @@ Clicking on the Courses and Sessions menu item pulls up the screen for maintaini
 * [Offering Editor Calendar](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/offerings-editor-calendar)
 
 ## [Publishing](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/publishing)
-

@@ -14,11 +14,11 @@ The scheduling and review of offerings can be accomplished by selecting "Courses
 
 ![Click the Event in the Calendar](../.gitbook/assets/click\_one.jpg)
 
-### Pre-work / Multiday Events
+### Linked Sessions / Multiday Events
 
-ILM's that are linked to Sessions (Pre-work) are displayed below the Calendar in their own area. Multiday Events (those that start and end on a different day) are as well. See below for an example of this.&#x20;
+ILM's that are linked to Sessions (Pre-work) display the associated learning materials along with the learning materials pertaining to the target session.&#x20;
 
-![](../.gitbook/assets/rw\_ilm19.png)
+Multiday Events (those that start and end on a different day) are displayed below the calendar.&#x20;
 
 ### Event Detail View
 

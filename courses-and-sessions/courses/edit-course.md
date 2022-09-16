@@ -56,8 +56,8 @@ Follow the links below for more specific information related to Course Objective
 
 * [Add Course Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/add-objective)
 * [Edit Course Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-objective)
-* [Add Parent Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/add\_parent\_objective\_to\_course\_objective.html)
-* [Edit Parent Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/edit\_parent\_objective\_for\_course\_objective.html)
+* [Add Parent Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/add-parent-objective)
+* [Edit Parent Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-parent-objective)
 
 ### Program Cohorts
 

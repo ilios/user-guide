@@ -54,8 +54,8 @@ These are the lower level details of a Course that are displayed and can be modi
 
 Follow the links below for more specific information related to Course Objective activities. Adding MeSH Term(s) to Course Objectives is covered in the "Edit Course Objective" page linked below.
 
-* [Add Course Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/course\_objective.html)
-* [Edit Course Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/edit\_course\_objective.html)
+* [Add Course Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/add-objective)
+* [Edit Course Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-objective)
 * [Add Parent Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/add\_parent\_objective\_to\_course\_objective.html)
 * [Edit Parent Objective](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/courses/edit\_parent\_objective\_for\_course\_objective.html)
 

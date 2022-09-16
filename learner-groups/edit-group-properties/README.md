@@ -6,7 +6,7 @@ The first step in the editing and review process is to select a School, Program,
 
 The School Selector is the first drop-down menu available and visible on the page. It is shown below with Medicine already chosen as the School.
 
-![](../.gitbook/assets/lg\_rd\_5.png)
+![](../../.gitbook/assets/lg\_rd\_5.png)
 
 
 
@@ -19,7 +19,7 @@ The first ten Learner Groups (A-Z) are shown in the screen shot. Many more exist
 * Subgroups -- A count of all of the subgroups for this higher-level group
 * Action menu -- Delete or Copy
 
-![](../.gitbook/assets/lg\_rd\_6.png)
+![](../../.gitbook/assets/lg\_rd\_6.png)
 
 ## Filter for Group
 
@@ -27,13 +27,13 @@ The ability to filter by Learner Group Title makes it easy to find and select a 
 
 In this example, the Learner Group and / or Subgroups to be modified is called "IDS 122B". Enter "ids" (not case-sensitive) in the filter box as shown below.
 
-![](../.gitbook/assets/lg\_rd\_7.png)
+![](../../.gitbook/assets/lg\_rd\_7.png)
 
 ## Edit Group Attributes
 
 To edit a Group's attributes, click as shown above. The group's name is a hyperlink used to edit it or view its attributes / membership. In this example "IDS 122B" has been selected. The top part of the screen appears as shown below with new features highlighted on the screen shot.
 
-![](../.gitbook/assets/lg\_top\_selected.jpg)
+![](../../.gitbook/assets/lg\_top\_selected.jpg)
 
 ## Edit Group Membership
 
@@ -45,7 +45,7 @@ The first thing to remember is to always navigate to the Learner Group to which 
 
 This is a long screen so it will be described in the guide in separate screen shots. The top part of the screen displays the list of the Learners currently enrolled in this group.
 
-![](../.gitbook/assets/lg\_top\_screen.jpg)
+![](../../.gitbook/assets/lg\_top\_screen.jpg)
 
 ### Screen Elements
 
@@ -65,10 +65,10 @@ This is a long screen so it will be described in the guide in separate screen sh
 
 &#x20;        Before ...
 
-![](<../.gitbook/assets/accomm\_pre (1).png>)
+![](<../../.gitbook/assets/accomm\_pre (1).png>)
 
 &#x20;        After ...
 
-![](../.gitbook/assets/accomm\_post.png)
+![](../../.gitbook/assets/accomm\_post.png)
 
 **Associated Courses:** Read-only list of Courses that have this Learner Group attached to one or more Session Offerings.

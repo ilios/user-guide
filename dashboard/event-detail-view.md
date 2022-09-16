@@ -2,7 +2,7 @@
 
 The Event Detail view is reached when a user clicks on a link in their Calendar, Calendar feed, Week at a Glance (WaaG), or any part of Ilios that reaches user Events (published Offerings).
 
-The screen shot below starts the process for a student to access the Event Detail view. In this case, the Session to be viewed in Event Detail View has a Pre-work ILM attached to it. Since these appear at the top of the [Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance), click as shown below to go to correct area of Week at a Glance that corresponds to that Session. This is helpful because the list can be quite lengthy.
+The screen shot below starts the process for a student to access the Event Detail view. In this case, the Session to be viewed in Event Detail view has an ILM attached to it.&#x20;
 
 ![](<../.gitbook/assets/Screen Shot 2021-10-21 at 3.33.41 PM.png>)
 
@@ -10,7 +10,7 @@ After clicking as shown above, the user is routed to the correct location in Wee
 
 The links shown in the screen shot above are explained below
 
-* **CV Pharm Module: Hypertension** - [Pre-work](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance#pre-work) (ILM) due prior to "Glucose Metabolism and Blood Glucose Homeostasis"
+* **CV Pharm Module: Hypertension** - Pre-work (ILM) due prior to "Glucose Metabolism and Blood Glucose Homeostasis"
 * **Weekly Checkpoint 4 - Due** - Link to that Session's Event Detail page
   * The informational "i" will expand to display the rest of the Session Description
   * Two Learning Materials (quizzes actually) are listed below as well

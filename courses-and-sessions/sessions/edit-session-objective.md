@@ -10,7 +10,7 @@ Editing an Objective is easily accomplished following the the steps listed below
 
 ![Click on the Session Title link to open it](../../.gitbook/assets/editobj2.png)
 
-* Expand the Objectives: Objectives are displayed in a collapsed detail view initially. 
+* Expand the Objectives: Objectives are displayed in a collapsed detail view initially.&#x20;
 
 ![](../../.gitbook/assets/editobj3.png)
 
@@ -31,11 +31,9 @@ Editing an Objective is easily accomplished following the the steps listed below
 
 Since the process of adding these at a Session level is identical to how it is accomplished at the Course level, please refer to the following links for reference.
 
-[Add MeSH Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-objective#add-mesh-term-s)
+[Add MeSH Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-objective#attach-mesh-term-s)
 
 [Add Vocabulary Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-objective#add-vocabulary-terms)
-
-
 
 
 

@@ -2,7 +2,7 @@
 
 There are three options available when viewing a Learning Material in Ilios. These instructions also apply to Session Learning Materials. These rules also apply to accessing the Learning Materials using the calendar feed (.ics), on a smart phone, computer, or tablet.
 
-### 1. View Inline (available for .pdf files, web links, and citations only)
+### 1. View Inline (.pdf files, web links, and citations)
 
 Web links can be followed with a click of the mouse. Citations can be viewed right on the screen in Ilios. However Adobe Acrobat .pdf files can be viewed right in the browser, not requiring a download. Online .pdf files have this option at this time. This is shown using the Calendar below.
 

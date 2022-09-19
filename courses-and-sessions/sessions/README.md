@@ -2,7 +2,7 @@
 
 **DESCRIPTION** (see [Glossary](https://iliosproject.gitbook.io/ilios-user-guide/glossary#session)): A session refers to a section or unit of a course with specific attributes of type and content. Sessions may be represented as multiple or singular time and place "Offerings," or as Independent Learning units with an estimated duration of educational time. Sessions (generally Independent Learning Modules (ILM's) can be associated with a follow-up Session. This is known as "pre-work", since the first learning activities should be completed before the follow-up takes place.
 
-## Session Attributes (all session types)
+### Session Attributes (all session types)
 
 * **Associated Groups**: (Currently displays only in aggregate at the course level.) Display only. Shows a list by name of the Learner Groups currently associated with the Session.
 * **Session Type**: Selected from a predefined list of instructional and assessment methods, loaded into the system at implementation. Click [here](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types) for more information on Session Types.
@@ -14,7 +14,7 @@
 * **Objectives**: Free-text entry field. Each Objective entered at the Session level may be associated with any number of the parent course’s Course-level Objectives. Session Objectives may also be assigned their own MeSH terms.
 * **Pre-Work**: If a Session has pre-work attached to it, there is an icon displayed on the Session list. This is shown in a screen shot [below](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions#session-list).
 
-## Session Attributes (additional for ILM)
+### Session Attributes (additional for ILM)
 
 * **Expected instructional hours**: Numeric entry of the total time in hours allotted for the activities associated with the session.
 * **Due Date**: Date by which time the activities are expected to be completed. If "Due Prior To" is not used, a Due Date can be used.
@@ -22,14 +22,14 @@
 * **Assigned Learner Groups**: Since there are no calendared offerings for ILM, groups are associated directly to the session.
 * **Assigned Instructors**: Since there are no calendared offerings for ILM, the responsible instructors of record are associated directly to the session.
 
-## Optional Session Attributes (usage assigned at School level)
+### Optional Session Attributes (usage assigned at School level)
 
 * **Core/Supplemental**: Allows for the flagging of elective vs. required curriculum units.
 * **Special Attire Required**: flags the content as noted. Special instructions or details should be entered in the Session Description field.
 * **Special Equipment Required**: flags the content as noted. Special instructions or details should be entered in the Session Description field.
 * **Attendance Required**: flags the content as noted. Attendance is not optional.
 
-## Screen Shots with Field Descriptions
+### Screen Shots with Field Descriptions
 
 This had to be split into upper and lower portions to allow space to display the entire screen.
 
@@ -41,11 +41,11 @@ This had to be split into upper and lower portions to allow space to display the
 
 ![](../../.gitbook/assets/session\_lower.png)
 
-## Overview
+### Overview
 
 The screen shot below shows the Courses and Sessions screen with the list of associated Sessions for a course.&#x20;
 
-### Session List
+#### Session List
 
 ![](../../.gitbook/assets/session\_list1.png)
 

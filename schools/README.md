@@ -11,7 +11,6 @@ These are set only at the time of creating a School for use in Ilios. There are 
 
 ## Additional School Attributes
 
-* [Add New School](https://iliosproject.gitbook.io/ilios-user-guide/schools/add-new-school)
 * [School Leadership](https://iliosproject.gitbook.io/ilios-user-guide/schools/school-leadership)
 * [Competencies](https://iliosproject.gitbook.io/ilios-user-guide/schools/competencies)
 * [Vocabularies](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies)

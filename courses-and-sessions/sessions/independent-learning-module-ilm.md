@@ -19,18 +19,7 @@ In the example shown above, the student will need to click the link to "Hemostas
 
 <figure><img src="../../.gitbook/assets/session_all_weeks.png" alt=""><figcaption></figcaption></figure>
 
-
-
-
-
-\
-
-
 The check box for the Learning Material "Hemostasis Module Part 4: Drugs" appears in the check box state of "completed", meaning the student has reviewed and processed this learning material's contents. It appears in more of a greyed out appearance on the target session but is more blue colored when accessed on the ILM (formerly known as Pre-work) itself.
-
-
-
-
 
 **NOTE:** Any Session Type can be assigned to an ILM. It is possible to have an available Session Type of "Independent Learning" which is not the same or linked in any way to what is being described here.
 
@@ -145,6 +134,3 @@ Instructors also need to be attached specifically to this newly created ILM. To 
 ![Manage Instructors](../../.gitbook/assets/rw\_ilm12.png)
 
 ![Search for and Select Instructor](../../.gitbook/assets/rw\_ilm13.png)
-
-
-

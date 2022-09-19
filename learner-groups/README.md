@@ -52,7 +52,7 @@ It is important to note that Learner Group Management is now very much about the
 
 * [New Learner Group](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/new-learner-group)
 * [Filter for Group](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/edit-group-properties#filter-for-group)
-* [Edit Group Attributes](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/learner\_groups/edit\_learner\_group.html#edit-group-attributes)
+* [Edit Group Attributes](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/edit-group-properties#edit-group-attributes)
 * [Edit Group Membership](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/edit-group-membership)
 * [Add Single Sub Group](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/sub-groups#add-single-sub-group)
 * [Add Multiple Sub Groups](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/sub-groups#add-multiple-sub-groups)

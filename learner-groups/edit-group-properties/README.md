@@ -21,7 +21,7 @@ The first ten Learner Groups (A-Z) are shown in the screen shot. Many more exist
 
 ![](../../.gitbook/assets/lg\_rd\_6.png)
 
-## Filter for Group
+### Filter for Group
 
 The ability to filter by Learner Group Title makes it easy to find and select a group to modify. Any characters (1 or more) can be entered. The result set is updated to return only Learner Groups that contain that search string in their Learner Group Title.
 
@@ -29,17 +29,15 @@ In this example, the Learner Group and / or Subgroups to be modified is called "
 
 ![](../../.gitbook/assets/lg\_rd\_7.png)
 
-## Edit Group Attributes
+### Edit Group Attributes
 
 To edit a Group's attributes, click as shown above. The group's name is a hyperlink used to edit it or view its attributes / membership. In this example "IDS 122B" has been selected. The top part of the screen appears as shown below with new features highlighted on the screen shot.
 
 ![](../../.gitbook/assets/lg\_top\_selected.jpg)
 
-## Edit Group Membership
+### Edit Group Membership
 
-There is no longer a need to activate multi-edit functionality. It is available immediately and always.
-
-### Important Note: The focus of editing Group Membership is the Group itself and not the Learner.
+**Important Note**: The focus of editing Group Membership is the Group itself and not the Learner.
 
 The first thing to remember is to always navigate to the Learner Group to which you wish to add or remove Learners.
 

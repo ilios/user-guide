@@ -5,7 +5,7 @@
 ## Session Attributes (all session types)
 
 * **Associated Groups**: (Currently displays only in aggregate at the course level.) Display only. Shows a list by name of the Learner Groups currently associated with the Session.
-* **Session Type**: Selected from a predefined list of instructional and assessment methods, loaded into the system at implementation. Click [here](https://www.aamc.org/download/273966/data/cistandardizedvocablist.pdf) for more information on Session Types.
+* **Session Type**: Selected from a predefined list of instructional and assessment methods, loaded into the system at implementation. Click [here](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types) for more information on Session Types.
 * **Description**: Free-text entry allowing for detailed information, instruction, and description of the Session curriculum and activities.
 * **Instructional Notes**: These are internal notes specifically used by Course Coordinators to share information about the session. They are not visible to Students.
 * **Terms**: Selected from a school-specific, pre-defined list of one or more Vocabularies.

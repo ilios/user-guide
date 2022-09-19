@@ -10,7 +10,7 @@ Once that has been done, it is necessary to find the session to modify as shown 
 
 * [Session Description](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#session-description)
 * [Instructional Notes](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#instructional-notes)
-* [Add MeSH](https://app.gitbook.com/@iliosproject/s/ilios-user-guide/courses-and-sessions/sessions/edit-session#add-mesh)&#x20;
+* [Add MeSH ](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#add-mesh)
 * [Manage Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#manage-terms)
 * [Manage Session Attributes](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#special-session-attributes)
 * [Inline Editing](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#inline-editing)

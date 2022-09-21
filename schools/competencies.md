@@ -25,31 +25,31 @@ Now that "Manage Competencies" has been clicked as shown above, the screen chang
 
 ![](../.gitbook/assets/screen-shot-2021-09-24-at-4.27.05-pm.png)
 
-## Add New Competency
+### Add New Competency
 
 To add a new Competency under (in this case) the "Interpersonal & Communication skills" domain, simply enter the text of the Competency and click "Add". "Another New One" has been started as a new Competency but not entered yet. This is shown below.
 
 ![Add Competency](../.gitbook/assets/competency\_add.jpg)
 
-## Edit Existing Competency
+### Edit Existing Competency
 
 To edit an existing Competency, simply click on the Name to edit it as shown below. Keep in mind that if it is referenced in Courses and or Sessions, the values there will update as well. In the example below, "Ethical Principles" will be changed to "Ethical Concepts" for no reason other than to demonstrate this functionality.
 
-### Step One -- select the Competency to edit
+#### Step One -- select the Competency to edit
 
 ![Select the Competency to Edit](../.gitbook/assets/update\_comp\_1.jpg)
 
-### Step Two -- make the changes in the provided inline edit box
+#### Step Two -- make the changes in the provided inline edit box
 
 ![Make the Changes](../.gitbook/assets/update\_comp\_2.jpg)
 
-### Step Three -- commit the changes (or click the red (x) to cancel the event)
+#### Step Three -- commit the changes (or click the red (x) to cancel the event)
 
 The changes are now reflected in the list.
 
 ![](../.gitbook/assets/update\_comp\_3.jpg)
 
-## Add New Competency Domain
+### Add New Competency Domain
 
 Adding a new high level Competency Domain can be easily accomplished in this latest version of Ilios. To do so, scroll to the bottom of the screen and enter the new domain into the text box provided and the click "Add" as shown below.
 

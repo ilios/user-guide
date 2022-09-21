@@ -1,3 +1,10 @@
+---
+description: >-
+  These are a controlled vocabulary of school-specific educational domains of
+  knowledge. Competencies may be divided into sub-domains, and may be mapped to
+  Objectives within a curriculum.
+---
+
 # Competencies
 
 Competency Domains can managed within the Ilios application. To access this functional area of Ilios, from the flyout menu select "**Schools**" as shown below.

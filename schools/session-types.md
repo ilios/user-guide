@@ -1,5 +1,7 @@
 # Session Types
 
+This refers to an educational activity's modality. Examples include "Lecture", "Small Group <12", and "Tutorial". These are customizable at the School level.
+
 ### Add New Session Type
 
 To create a new Session Type or to review existing session types, click as shown below. A newly created session type can be used for existing or for future Sessions being created in Ilios.

@@ -44,7 +44,7 @@ After clicking "All Weeks", the screen and feature links are displayed as shown 
 
 <figure><img src="../.gitbook/assets/all_weeks_top.png" alt=""><figcaption><p>All Weeks (top)</p></figcaption></figure>
 
-The user will always be routed to the current week, which will be in expanded view by default, along with the previous and following weeks.
+The user will always be routed to the current week, which will be in expanded view by default, along with the previous and following weeks. Weeks in Ilios run from Sunday to Saturday.
 
 Any number of weeks can be expanded or contracted to show or hide all details of the events taking place in that week. This is demonstrated below. The links to Learning Materials and Session Details are also highlighted in the screen shot.
 

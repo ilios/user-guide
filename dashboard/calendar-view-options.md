@@ -14,7 +14,7 @@ To get to the Day View, click the "Day" Calendar View Switcher link. The screen 
 
 ## Week View
 
-To get to the Week View, click the "Week" Calendar View Switcher link. The screen will appear as shown below with all of the details for the selected week displayed. You can see all of the details for the selected week and the view starts initially at 8:00 AM for viewing simplicity; however the entire 24 hour day is available by scrolling up or down.
+To get to the Week View, click the "Week" Calendar View Switcher link. The screen will appear as shown below with all of the details for the selected week displayed. You can see all of the details for the selected week and the view starts initially at 8:00 AM for viewing simplicity; however the entire 24 hour day is available by scrolling up or down. In Ilios, weeks start with Sunday as the first day and end with the following Saturday - the last day of the week.
 
 ![Week View](../.gitbook/assets/week\_view.jpg)
 
@@ -43,8 +43,6 @@ All Offerings are displayed.
 #### Week View / Month View (Multiple Offerings)
 
 With the Week View as well as the Month View, the Events will be rolled up into one with the rooms to be listed as "Multiple" and the Instructors' names will be listed such as "Instructor One, Instructor Two, et al".
-
-
 
 ## Multi-day Events
 

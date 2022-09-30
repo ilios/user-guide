@@ -64,4 +64,4 @@ The Ilios workflow is based on a curriculum structure which incorporates several
 
 ## Logging In
 
-Ilios allows for either native or enterprise authentication. If your institution uses either shibboleth authentication or basic LDAP, Ilios provides configuration for this. If not, you may either modify the configuration of the authentication files to meet the needs of your system, or implement the native Ilios username/password authentication system.
+Ilios allows for either native or enterprise authentication. Whether your institution uses Shibboleth authentication, basic LDAP, or CAS, Ilios provides configuration for this. If not, you may either modify the configuration of the authentication files to meet the needs of your system, or implement the native Ilios username/password authentication system.

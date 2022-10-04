@@ -36,11 +36,9 @@ This denotes a collection of people (Learners or Instructors) which can be assoc
 
 This refers to assigned metadata for any selected Learner Group. These labels do not create hierarchical associations or relationships with other objects or data in the system. Group Name, Default Instructor(s), and Default Location are examples of this along with Default Virtual Learning Link and whether or not learners within the learner Group require accommodation. Defaults are only applied in the case of Offering(s) created using "Small Groups" option upon Offering creation.&#x20;
 
-
-
 ## Independent Learning Module (ILM)
 
-A Session for a Course without a specific location or time of occurrence. Independent Learning Units are comprised of Learning Materials, an expected number of educational hours or duration for the learner to complete the content, and a due-by date. These are also referred to as _Independent Learning Units_ or _ILM's_. These are asynchronous learning activities performed by the Learner at their time of choosing before a Due Date or other upcoming Event.
+A Session for a Course without a specific location or time of occurrence. Independent Learning Units are comprised of Learning Materials, an expected number of educational hours or duration for the learner to complete the content, and a due-by date. These are also referred to as _Independent Learning Units_ or _ILM's_. These are asynchronous learning activities performed by the Learner at their time of choosing before ether a specified Due Date or another upcoming Event.
 
 ## Learner and Educator
 
@@ -49,8 +47,6 @@ The record of an individual who can be assigned to an object within the system. 
 ## Learning Material
 
 Digital assets (such as files) and information (such as citations and web links) which may be associated with curricular objects.
-
-
 
 ## MeSH
 
@@ -91,6 +87,3 @@ Vocabularies are categories or collections of Terms (school-specific categories 
 ## Week at a Glance
 
 This view gives students the detailed information they will need to navigate the current week. This includes all of the offerings they should be attending along with all of the learning materials associated with these offerings. Pre-work activities and Independent Learning Modules (asynchronous learning activities) are also included.
-
-
-

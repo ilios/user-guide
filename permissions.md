@@ -16,7 +16,7 @@ Your administrative users have permissions to edit only the areas to which they 
 
 #### Setting Permissions 
 
-Each section where Permissions can be modified will be covered in detail in the section of the User Guide that pertains to that aspect of Ilios.
+Each section where Permissions can be modified is covered in detail in the section of the User Guide that pertains to that aspect of Ilios.
 
 **Links**
 

@@ -1,6 +1,6 @@
 # Sub Groups
 
-To add one or more Sub Groups, navigate to a Learner Group for which it is needed to create a Sub Group. Click as shown below to start this process.
+To add one or more Sub Groups, navigate to a Learner Group that needs to have one or more Sub Groups created below it. Click as shown below to start this process.
 
 ![](<../.gitbook/assets/Screen Shot 2022-04-18 at 3.48.36 PM.png>)
 

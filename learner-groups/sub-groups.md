@@ -16,7 +16,7 @@ Adding a single sub group is the default (as shown below).
 
 Once added, the newly created sub group (Demo Sub 1) appears as shown below. It can be modified by clicking on the Title provided. There are no members in this sub group. They should be added manually. Also, there are no members in the Parent Gruop because the option to create an empty group was selected when it was created. Alternatively, the entire Cohort could be included in the Parent Group (Demonstration Group). The sub group that was just created can deleted by clicking on the trash can icon (under "Actions"). You will be asked to confirm this action since it cannot be undone.
 
-![](../.gitbook/assets/demo\_sub3.jpg)
+![](../images/sub_grp_1.png)
 
 ## Add Multiple Sub Groups
 

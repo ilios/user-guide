@@ -112,11 +112,11 @@ Clicking on the _**Manage Permissions**_ link will bring up a select box of all 
 
 Selecting one user will return a display of that user’s current access permissions to Schools, Programs and Courses.
 
-**Current Schools:** This provides access to the curricula for multiple schools in an institutional deployment of Ilios. Roles and access levels are carried over from school to school for any given user.
+**Schools:** This provides access to the curricula for multiple schools in an institutional deployment of Ilios. Roles and access levels are carried over from school to school for any given user.
 
-**Current Programs:** Provides explicit admin access to the Programs listed, regardless of role or access level.
+**Programs:** Provides explicit admin access to the Programs listed, regardless of role or access level.
 
-**Current Courses:** Provides explicit admin access to the Courses listed, regardless of role or access level.
+**Courses:** Provides explicit admin access to the Courses listed, regardless of role or access level.
 
 Selecting the appropriate link will allow for the addition/removal of items from their access list. Assignment is immediate upon display of the course or program in the access lists. You may only modify one category of permissions at a time. To modify additional permissions, save your selection(s) and return to the permissions selection screen.
 

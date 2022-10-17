@@ -13,4 +13,4 @@ The screen now appears as shown below. Three users have been selected to be adde
 
 ![](../.gitbook/assets/admin\_2.jpg)
 
-Refer to [Create New User](https://iliosproject.gitbook.io/ilios-user-guide/admin/create-new-user) for adding users to a cohort from you school's directory. For institutions not using a directory, students can be added to a Cohort upon setting up the user Account.
+Refer to [Create New User](https://iliosproject.gitbook.io/ilios-user-guide/admin/create-new-user) for adding users to a cohort from your school's directory. For institutions not using a directory, students can be added to a Cohort upon setting up the user Account.

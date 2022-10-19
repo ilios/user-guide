@@ -62,4 +62,4 @@ Also available in the upper right corner underneath the logged in user's name ar
 
 To the left of the drop-down explained above is the Language Selector drop-down menu.
 
-* [**Language Selector**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector)****
+* [**Language Selector**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector)

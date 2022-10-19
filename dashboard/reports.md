@@ -1,8 +1,6 @@
-# My Reports
+# Reports
 
-### My Reports
-
-My Reports contains all of the Reports created by the logged-in user. They can be accessed by clicking on the Report Title. New Reports can be created by clicking the \(+\) button.
+My Reports contains all of the Reports created by the logged-in user. The report content can be accessed by clicking on the Report Title. New Reports can be created by clicking the \(+\) button.
 
 The My Reports section on the Dashboard allows users to create and save quickly accessible snapshot style Reports. There are many combinations of data elements that can be used to generate custom data sets. These are also made available for download - to a .csv file.
 

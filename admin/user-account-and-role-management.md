@@ -8,7 +8,7 @@ Ilios provides for four distinct user roles which determine mode of access for a
 
 ### Non-Students
 
-* _**Course Director:**_ The Course Director role provides for full editorial access to the system for the primary school of the user. It adds the user as an entity in the Course Director and Instructor lists for association. In the `user_role` table of the database, this role is identified with a value of 1.
+* _**Course Director:**_ The Course Director role provides for full editorial access to the Courses to which they have been assigned as Course Director. In the `user_role` table of the database, this role is identified with a value of 1.
 * _**Instructor:**_ Any Ilios user can be added as an Instructor in Ilios. This association allows the Instructor to maintain their own offerings at a minimum (if they don't have higher access elsewhere). In the `user_role` table of the database, this role is identified with a value of 3.
 * _**Developer (aka Administrator):**_ This role provides for full editorial access to the system for the primary school of the user. It does not add the user to any associative lists. Allows for access to the “Admin Console” as well as "Curriculum Inventory" from the Ilios flyout menu. In the `user_role` table of the database, this role is identified with a value of 2.
 

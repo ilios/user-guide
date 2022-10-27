@@ -4,3 +4,9 @@ Reports now live in their own large area rather than the compact My Reports of y
 This shows a typical user's saved reports.
 
 ![](../images/reports_init_1.png)
+
+Running any of the reports here is as easy as simply clicking on the link. This is shown below.
+
+
+![](../images/reports_run_init_1.png)
+

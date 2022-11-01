@@ -7,6 +7,7 @@ This shows a typical user's saved reports.
 
 Running any of the reports here is as easy as simply clicking on the link. This is shown below.
 
-
 ![](../images/reports_run_init_1.png)
+
+After clicking as shown above, the screen will refresh with the data outputted to the screen.
 

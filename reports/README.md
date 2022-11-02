@@ -9,5 +9,7 @@ Running any of the reports here is as easy as simply clicking on the link. This 
 
 ![](../images/reports_run_init_1.png)
 
-After clicking as shown above, the screen will refresh with the data outputted to the screen.
+After clicking as shown above, the screen will refresh with the data outputted to the screen. 
+
+![](../images/report_with_data_1.png)
 

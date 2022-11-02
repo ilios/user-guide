@@ -15,5 +15,14 @@ After clicking as shown above, the screen will refresh with the data outputted t
 
 As shown above, there is a link available to download the report's output. After clicking as shown above (on a Mac anyway), the following dialog box appears. 
 
+![](../images/download_report_data.png)
 
+In this report example, the .csv download includes the following fields ...
 
+* Session Title 
+* Course Title 
+* Academic Year
+* Session Description
+* Session Objective (one per row)
+
+You can use a spreadsheet program (Excel, Google Sheets, Numbers etc.) of your choice to set up formatting and sort order of this exported output.

@@ -13,3 +13,7 @@ After clicking as shown above, the screen will refresh with the data outputted t
 
 ![](../images/report_with_data_1.png)
 
+As shown above, there is a link available to download the report's output. After clicking as shown above (on a Mac anyway), the following dialog box appears. 
+
+
+

@@ -39,6 +39,10 @@ Mousing over any of the Objectives will display the full text of the Objective a
 
 The Objectives visualization includes a data table to review the information presented in graphical format as a table. This can be quite a long table given how many sessions can exist in a large course. The top portion of the data table for the selected course is shown below. 
 
+![](../images/Obj_Data_Table_Top_1.png)
+
+![](../images/Obj_Data_Table_Top_2.png)
+
 ### Session Types
 
 The Session Types visualization is laid out horizontally rather than in a pie chart like the Objectives visualization in the section above. In the example below, I am hovering over a specific Session Type to review the usage specific of that session type in this particular course.&#x20;

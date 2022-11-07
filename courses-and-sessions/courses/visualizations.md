@@ -37,11 +37,15 @@ Mousing over any of the Objectives will display the full text of the Objective a
 
 #### Data Table
 
-The Objectives visualization includes a data table to review the information presented in graphical format as a table. This can be quite a long table given how many sessions can exist in a large course. The top portion of the data table for the selected course is shown below. 
+The Objectives visualization includes a data table to review the information presented in graphical format as a table. This can be quite a long table given how many sessions can exist in a large course. The top portion of the data table for the selected course is shown below using two different sort orders. The data can be sorted by any of the output columns (ascending or descending).
 
-![](../images/Obj_Data_Table_Top_1.png)
+**Sort Order One - Percentage (Descending)**
 
-![](../images/Obj_Data_Table_Top_2.png)
+![](../../images/Obj_Data_Table_Top_1.png)
+
+**Sort Order Two - Competency (Ascending)**
+
+![](../../images/Obj_Data_Table_Top_2.png)
 
 ### Session Types
 

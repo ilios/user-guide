@@ -2,15 +2,9 @@
 
 ## Delete Learner Group
 
-If you have been assigned permissions to delete Learner Groups, the trash can icon will be displayed allowing this functionality. The delete button \(trash can icon\) is displayed under the Actions menu as shown below.
+If you have been assigned permissions to delete Learner Groups, the trash can icon will be displayed allowing this functionality. The delete button (trash can icon) is displayed under the Actions menu as shown below.
 
 **IMPORTANT NOTE:** Learner Groups can be deleted if they have not been associated with any Learning Events (ILM's or Offerings).
-
-_**Ready to be Deleted**_  Notice that only the poorly named group "Big Empty Group" can be deleted. All of the other groups shown have either Members in the main group or members in one or more of their Subgroups. Only "Big Empty Group" has neither.
-
-![](../.gitbook/assets/delete_lg_2.jpg)
-
-To get to the situation "Big Empty Group" is in, all members in all Sub Groups and all members in the higher level group must be removed before the group can be deleted.
 
 ### Remove Members From Learner Group
 

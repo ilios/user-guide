@@ -4,7 +4,7 @@
 
 If you have been assigned permissions to delete Learner Groups, the trash can icon will be displayed allowing this functionality. The delete button \(trash can icon\) is displayed under the Actions menu as shown below.
 
-**IMPORTANT NOTE:** To be able to delete a Learner Group, it must be completely empty and all Sub Groups \(if they exist\) must be empty as well.
+**IMPORTANT NOTE:** Learner Groups can be deleted if they have not been associated with any Learning Events (ILM's or Offerings).
 
 _**Ready to be Deleted**_  Notice that only the poorly named group "Big Empty Group" can be deleted. All of the other groups shown have either Members in the main group or members in one or more of their Subgroups. Only "Big Empty Group" has neither.
 

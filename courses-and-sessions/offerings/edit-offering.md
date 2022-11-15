@@ -80,4 +80,4 @@ The full capability to edit the offering becomes available without having to nav
 
 **Inline Offering Editor (bottom)**
 
-![](<../../.gitbook/assets/off lower.png>)
+New screen shot coming -- old one removed.

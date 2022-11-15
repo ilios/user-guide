@@ -80,4 +80,6 @@ The full capability to edit the offering becomes available without having to nav
 
 **Inline Offering Editor (bottom)**
 
-New screen shot coming -- old one removed.
+![](<../../images/updateLG_Offg_11_14_22.png>)
+
+See above for reference on how to select or de-select any individual group in a tree. This same technique can be applied in the location depicting which groups are attached to any given offering. 

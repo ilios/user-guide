@@ -2,8 +2,6 @@
 
 Ilios has a robust ability to track and manage educational competency domains as well as specific course- and session-level learning Objectives. Objectives are entered as part of a complex tree or hierarchy; while each level of the curriculum structure \(Program, Course, Session\) may be provided with any number of competencies/Objectives independently, these Objectives may also be linked to an Objective or competency at the level immediately above them if desired.
 
-To learn more about the framework of the Ilios competency hierarchy, please click [here](http://slidesha.re/wUI5no).
-
 The competency structure for Ilios follows current usage for the UCSF School of Medicine, and conforms to the MedBiquitous specifications for Health Education Competency Frameworks.
 
 To learn more about these specifications, visit the [MedBiquitous](https://www.medbiq.org/) website.

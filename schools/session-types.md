@@ -46,6 +46,8 @@ De-activate a Session Type if it is no longer in use. This does not change the l
 
 ![](<../.gitbook/assets/serssion type deactivate.png>)
 
+**NOTE:** When a Session Type gets de-activated, it is sent to the bottom of this list. "(disabled)" will appear after the Session Type name.
+
 ### Remove Session Type
 
 Session Types can only be completely removed from the system if they have never been used. This is shown below. Like basically everywhere in Ilios, if the trash can is enabled, the object can be removed from the system.

@@ -44,7 +44,7 @@ An example of how these colors appear on a Calendar is shown below.
 
 De-activate a Session Type if it is no longer in use. This does not change the legacy data but will result in the Session Type no longer being available for use in Ilios going forward. The controls for performing this action are shown below.
 
-![](<../.gitbook/assets/serssion type deactivate.png>)
+![](<../.gitbook/assets/session_type_deactivate.png>)
 
 **NOTE:** When a Session Type gets de-activated, it is sent to the bottom of this list. "(disabled)" will appear after the Session Type name.
 

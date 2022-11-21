@@ -29,6 +29,8 @@
 * **Special Equipment Required**: flags the content as noted. Special instructions or details should be entered in the Session Description field.
 * **Attendance Required**: flags the content as noted. Attendance is not optional.
 
+**NOTE:** Your school can use completely different Optional Session Attributes since as these are configured at the School level.
+
 ### Screen Shots with Field Descriptions
 
 This had to be split into upper and lower portions to allow space to display the entire screen.

@@ -1,7 +1,5 @@
 # Maintain User Record
 
-With the advent of Ilios 3.0, more user record information modification and maintenance can be performed using the application than ever before.
-
 ### Search for and Find User Record to Modify
 
 You can perform a search and select an existing Ilios user record to modify as shown below.

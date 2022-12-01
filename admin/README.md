@@ -22,7 +22,7 @@ Each of the above functional links are detailed in upcoming sections.
 
 ## 4. [Add Learners to Cohort](https://iliosproject.gitbook.io/ilios-user-guide/admin/add-learners-to-cohort)
 
-## 5. [Fix User Account Discrepancies](https://iliosproject.gitbooks.io/ilios-user-guide/content/pages/admin/fix\_user\_account\_discrepancies.html)
+## 5. [Fix User Account Discrepancies](https://iliosproject.gitbook.io/ilios-user-guide/admin/fix-user-account-discrepancies)
 
 ## 6. [User Account and Role Management](https://iliosproject.gitbook.io/ilios-user-guide/admin/user-account-and-role-management)
 

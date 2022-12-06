@@ -20,7 +20,7 @@ When opening it in Excel on a Mac, it initially appears as shown below (Before .
 
 You can view this in Finder (Apple) or Windows Explorer (WIndows) and save it to a more appropriate location of your chosing. Later, right click on it and choose to open it however you would normally open a .csv file. Excel or other text or spreadsheet applications should work.
 
-What I recommend ...
+Suggested actions ...
 
 * Bold and customize the field names (top row)
 * Make the "mapped\_course\_objective" field much wider

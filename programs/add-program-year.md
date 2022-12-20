@@ -65,7 +65,7 @@ Below is a list of Program Year Objective attributes that can be edited or chang
 * **Sort Objectives**: Use this to set the order in which these objectives will appear - drag and drop. Refer to sorting [Course Objectives](../courses-and-sessions/courses/sort-objectives.md) or [Session Objectives](../courses-and-sessions/sessions/sort-objectives.md) for reference. 
 * ****[**Download Competency Map**](https://iliosproject.gitbook.io/ilios-user-guide/programs/competency-map-download)****
 * **Edit Description**: Clicking on the description of a Program Year Objectives will bring up an editing control.
-* **Competency**: The school level Competency / Domain Knowledge can be set here.
+* **Competency**: The school level Competency / Domain can be set here.
 * **Vocabulary Terms**: Terms can be attached to Program Year Objectives in the same manner as they are to Courses, Sessions etc.
 * **MeSH Terms**: Same as with Vocabulary Terms but using MeSH instead
 * **Active**: The light bulb icon indicates if an Objective is currently active and can be selected at the Course level. Clicking on the light bulb will de-activate the Objective, not destroying any legacy data but making sure it can not be selected going forward. Historical data will appear read-only.

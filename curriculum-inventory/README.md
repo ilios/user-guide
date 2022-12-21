@@ -20,7 +20,7 @@ The export created by the report is compliant with the Medbiquitous standards an
 
 The Curriculum Inventory functionality can be accessed (if you have the rights) by clicking on the Ilios Flyout Menu as shown below.
 
-![](../.gitbook/assets/ci\_rw\_1.png)
+![](../images/new_CI_Flyout.png)
 
 ### Main Screen
 

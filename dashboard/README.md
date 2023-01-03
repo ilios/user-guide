@@ -10,7 +10,7 @@ The Dashboard is designed to provide quick access to common sets of information 
 
 The view below is of the Ilios flyout menu on a relatively large screen. This is how it will appear for Admin users unless they use a smaller screen, tablet, or smart phone.
 
-<figure><img src="../.gitbook/assets/flyout_update_1.png" alt=""><figcaption><p>Ilios Menu - full size</p></figcaption></figure>
+<figure><img src="../images/Ilios_Flyout_Menu_1.png" alt=""><figcaption><p>Ilios Menu - full size</p></figcaption></figure>
 
 #### Small Screen View - contracted
 

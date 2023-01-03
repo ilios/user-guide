@@ -14,9 +14,9 @@ The view below is of the Ilios flyout menu on a relatively large screen. This is
 
 #### Small Screen View - contracted
 
-When the Ilios application is not being viewed at full size is being viewed using a device with a smaller screen surface area, the toolbar spans across the top of the screen as shown below.
+When the Ilios application is not being viewed at full size or is being viewed using a device with a smaller screen surface area, the toolbar spans across the top of the screen as shown below.
 
-<figure><img src="../.gitbook/assets/flyout_update_2.png" alt=""><figcaption><p>Ilios Menu - small size (contracted)</p></figcaption></figure>
+<figure><img src="../images/Top_Menu_View_1.png" alt=""><figcaption><p>Ilios Menu - small size (contracted)</p></figcaption></figure>
 
 The **Ilios Menu expander** is only available in the smaller view of the toolbar. It is not needed in full-size mode.&#x20;
 

@@ -24,7 +24,7 @@ The **Ilios Menu expander** is only available in the smaller view of the toolbar
 
 Clicking the Ilios Menu expander (or contractor if already expanded) reveals in more detail the available menu options. You can see this display below.
 
-<figure><img src="../.gitbook/assets/flyout_update_3.png" alt=""><figcaption><p>Ilios Flyout Menu - small view (expanded)</p></figcaption></figure>
+<figure><img src="../images/Flyout_Expanded.png" alt=""><figcaption><p>Ilios Flyout Menu - small view (expanded)</p></figcaption></figure>
 
 Available menu items in all views include:
 
@@ -34,6 +34,7 @@ Available menu items in all views include:
 * [**Instructor Groups**](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)**:** Associate groups of Instructors with one or more Instructor groups which can be attached to offerings.
 * [**Schools**](https://iliosproject.gitbook.io/ilios-user-guide/schools)**:** Maintain school-wide Competencies, Vocabularies, optional Session Attributes, and School Leadership.
 * [**Programs**](https://iliosproject.gitbook.io/ilios-user-guide/programs)**:** Add or Modify program objects, including Program Years and their associated attributes.
+* [**Reports**](https://iliosproject.gitbook.io/ilios-user-guide/reports)**:** Add, modify, or view user-specific customizable Reports.
 * [**Admin**](https://iliosproject.gitbook.io/ilios-user-guide/admin)**:** Maintain Accounts and User Management, which includes Primary and Secondary Cohort assignment functionality. Instructors will not see this unless they have been granted administrative rights over their School or Program.
 * [**Curriculum Inventory**](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory): Create and maintain Curriculum Inventory Reports.
 

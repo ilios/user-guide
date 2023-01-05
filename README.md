@@ -14,7 +14,7 @@ To perform a quick search to find any Ilios topic you may be hoping to find, the
 
 ![](images/user_guide_search_1.png)
 
-In the example shown above, the search term entered is "Add Session". You can see that many results were returned from that search. "Add New Session" is the first of the 38 results returned. The others can located by scrolling down the page. The highest likelihood (best match) appears towards the top of the screen decreasing further down the page.
+In the example shown above, the search term entered is "Add Session". You can see that many results were returned from that search. "Add New Session" is the first of the results returned. The others can located by scrolling down the page. The highest likelihood (best match) appears towards the top of the screen decreasing further down the page.
 
 As the search criteria is further refined, the results returned will be fewer. The more specific the search criteria is, the fewer results you will have to scroll through to find what you want. They are sorted by best match. Click on any of the links to pull up the exact topic in detail.
 

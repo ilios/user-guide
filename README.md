@@ -1,6 +1,6 @@
 # Introduction
 
-![](.gitbook/assets/ilios\_banner.jpg)
+![](images/ilios_banner.png)
 
 ## The Official Ilios User Guide
 

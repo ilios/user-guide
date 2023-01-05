@@ -6,7 +6,11 @@
 
 ### <mark style="color:blue;">User Guide Search</mark>
 
-To perform a quick search to find any Ilios topic you may be hoping to find, the search box in the upper right portion of the screen can be used for this. Before entering criteria, it appears as shown below. The search process used in searching the User Guide is similar to the [Global Search](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search) functionality in Ilios.
+To perform a quick search to find any Ilios topic you may be hoping to find, the search box in the upper right portion of the screen can be used for this. Before entering criteria, it appears as shown below. The search process used in searching the User Guide is similar to the [Global Search](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search) functionality in Ilios. The starting point is shown below.
+
+![](images/click_to_search.png)
+
+---------
 
 ![](images/user_guide_search_1.png)
 

@@ -8,7 +8,7 @@
 
 To perform a quick search to find any Ilios topic you may be hoping to find, the search box in the upper left portion of the screen can be used for this. Before entering criteria, it appears as shown below. The search process used in searching the User Guide is similar to the [Global Search](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search) functionality in Ilios.
 
-![](.gitbook/assets/user\_guide\_search\_1.jpg)
+![](images/user_guide_search_1.png)
 
 In this example, the search term entered is only "Add". You can see that 38 results were returned from that generic search. "Add New Session" is the first of the 38 results returned. The others can located by scrolling down the page. The highest likelihood (best match) appears towards the top of the screen decreasing further down the page.
 

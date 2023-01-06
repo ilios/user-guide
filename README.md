@@ -50,7 +50,7 @@ Ilios is built explicitly on the concept of user-centric information, rather tha
 
 ## Ilios Workflow
 
-The Ilios workflow is based on a curriculum structure which incorporates several interconnected levels (displayed below starting with the highest level -- program):
+The Ilios workflow is based on a curriculum structure which incorporates several interconnected levels (displayed below starting with a school's highest level -- program):
 
 ![Interconnected](.gitbook/assets/inter\_connected.jpg)
 

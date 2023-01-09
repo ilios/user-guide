@@ -52,7 +52,6 @@ These Dashboard View Options are ...
 
 Other functional areas available in all Dashboard views ...
 
-* [**My Reports**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-reports)
 * [**My Courses**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-courses)
 * [**Global Search**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search)
 

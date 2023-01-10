@@ -9,7 +9,7 @@ description: >-
 
 ### Student Facing Icons
 
-![Special Attire Required](../.gitbook/assets/att\_req\_icon.png)
+![Special Attire Required](../images/spec_attire_req.png)
 
 ![Special Equipment Required](../.gitbook/assets/icon2.png)
 

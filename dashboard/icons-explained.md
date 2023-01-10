@@ -11,7 +11,7 @@ description: >-
 
 ![Special Attire Required](../images/spec_attire_req.png)
 
-![Special Equipment Required](../.gitbook/assets/icon2.png)
+![Special Equipment Required](../images/spec_equip_needed.png)
 
 ![Supplemental Curriculum](../.gitbook/assets/icon3.png)
 

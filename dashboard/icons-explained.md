@@ -13,9 +13,9 @@ description: >-
 
 ![Special Equipment Required](../images/spec_equip_needed.png)
 
-![Supplemental Curriculum](../.gitbook/assets/icon3.png)
+![Supplemental Curriculum](../images/icon3.png)
 
-![Copy Virtual Meeting Link to Clipboard](../.gitbook/assets/copy\_to\_clipboard.png)
+![Copy Virtual Meeting Link to Clipboard](../images/copy_to_clipboard.png)
 
 **NOTE:** The actual URL is available to the left of the icon shown above. It is titled "Virtual Session Link". This link is also available further down in the Event Detail as well with the full URL written out.
 

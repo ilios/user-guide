@@ -21,7 +21,7 @@ description: >-
 
 ![Learning Material - Not Available Yet](../images/not_avail_yet.png)
 
-![More Information - click to see](../.gitbook/assets/more\_info.png)
+![More Information - click to see](../images/more_info.png)
 
 ![Learning Material - file](<../.gitbook/assets/lm\_file (1).png>)
 

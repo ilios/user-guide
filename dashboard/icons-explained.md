@@ -19,7 +19,7 @@ description: >-
 
 **NOTE:** The actual URL is available to the left of the icon shown above. It is titled "Virtual Session Link". This link is also available further down in the Event Detail as well with the full URL written out.
 
-![Learning Material - Not Available Yet](../.gitbook/assets/not\_avail\_yet.png)
+![Learning Material - Not Available Yet](../images/not_avail_yet.png)
 
 ![More Information - click to see](../.gitbook/assets/more\_info.png)
 

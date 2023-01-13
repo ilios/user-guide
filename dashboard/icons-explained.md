@@ -31,7 +31,7 @@ description: >-
 
 ![Learning Event - recently updated](../images/recently_updated.png)
 
-![Instructional Notes - for students to see](../.gitbook/assets/inst\_notes.png)
+![Instructional Notes - for students to see](../images/inst_notes.png)
 
 **NOTE:** There is also an "Attendance Required" icon that is used by the School of Pharmacy at UCSF. It is possible to create custom icons and activate them on a school level. The screen shot of this icon is shown below.
 

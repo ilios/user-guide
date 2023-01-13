@@ -41,7 +41,7 @@ description: >-
 
 ### Non-learner Facing Icons
 
-![Campus Name of Record - if different from Ilios user name, this icon appears.](../.gitbook/assets/campus\_name.png)
+![Campus Name of Record - if different from Ilios user name, this icon appears.](../images/campus_name.png)
 
 **NOTE**: Mousing over the informational icon as it pertains to user name will provide the campus name of record. An example is shown below (from the Admin Console) after pulling up the user record. The user's name was originally "Nicholas Ann Gutierrez" rather than what it currently is in Ilios "Dabney Gutierrez".
 

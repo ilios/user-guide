@@ -23,11 +23,11 @@ description: >-
 
 ![More Information - click to see](../images/more_info.png)
 
-![Learning Material - file](<../.gitbook/assets/lm_file.png>)
+![Learning Material - file](<../.images/lm_file.png>)
 
-![Learning Material - link](<../.gitbook/assets/lm_link.png>)
+![Learning Material - link](<../.images/lm_link.png>)
 
-![Learning Material - citation](<../.gitbook/assets/lm\_citation (1).png>)
+![Learning Material - citation](<../.images/lm_citation.png>)
 
 ![Learning Event - recently updated](../.gitbook/assets/recently\_updated.png)
 

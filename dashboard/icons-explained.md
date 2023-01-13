@@ -25,7 +25,7 @@ description: >-
 
 ![Learning Material - file](<../.gitbook/assets/lm_file.png>)
 
-![Learning Material - link](<../.gitbook/assets/lm\_link (1).png>)
+![Learning Material - link](<../.gitbook/assets/lm_link.png>)
 
 ![Learning Material - citation](<../.gitbook/assets/lm\_citation (1).png>)
 

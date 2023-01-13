@@ -41,14 +41,14 @@ description: >-
 
 ### Non-learner Facing Icons
 
-![Campus Name of Record - if different from Ilios user name, this icon appears.](../.gitbook/assets/campus\_name.png)
+![Campus Name of Record - if different from Ilios user name, this icon appears.](../images/campus_name.png)
 
 **NOTE**: Mousing over the informational icon as it pertains to user name will provide the campus name of record. An example is shown below (from the Admin Console) after pulling up the user record. The user's name was originally "Nicholas Ann Gutierrez" rather than what it currently is in Ilios "Dabney Gutierrez".
 
-![](../.gitbook/assets/campus\_name\_2.png)
+![](../images/campus_name_2.png)
 
-![Pre-work attached (Session can't be deleted when this is the case)](../.gitbook/assets/pre-work\_icon.png)
+![Pre-work attached (Session can't be deleted when this is the case)](../images/pre_work_icon.png)
 
 The icon below is displayed on the Calendar when an offering has not yet been published. Only Ilios users with non-student user roles will see these on the Calendar. Students only see published offerings.
 
-![Unpublished Offering on Calendar](<../.gitbook/assets/Screen Shot 2022-02-17 at 4.15.55 PM.png>)
+![Unpublished Offering on Calendar](<../images/unpublished.png>)

@@ -29,15 +29,15 @@ description: >-
 
 ![Learning Material - citation](<../.images/lm_citation.png>)
 
-![Learning Event - recently updated](../.gitbook/assets/recently\_updated.png)
+![Learning Event - recently updated](../images/recently_updated.png)
 
-![Instructional Notes - for students to see](../.gitbook/assets/inst\_notes.png)
+![Instructional Notes - for students to see](../images/inst_notes.png)
 
 **NOTE:** There is also an "Attendance Required" icon that is used by the School of Pharmacy at UCSF. It is possible to create custom icons and activate them on a school level. The screen shot of this icon is shown below.
 
-![Attendance Required](../.gitbook/assets/att\_req.png)
+![Attendance Required](../images/att_req.png)
 
-![Learning Material - required (won't appear if optional)](../.gitbook/assets/lm\_reqd.png)
+![Learning Material - required (won't appear if optional)](../images/lm_reqd.png)
 
 ### Non-learner Facing Icons
 

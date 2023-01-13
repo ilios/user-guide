@@ -51,4 +51,4 @@ description: >-
 
 The icon below is displayed on the Calendar when an offering has not yet been published. Only Ilios users with non-student user roles will see these on the Calendar. Students only see published offerings.
 
-![Unpublished Offering on Calendar](<../.gitbook/assets/Screen Shot 2022-02-17 at 4.15.55 PM.png>)
+![Unpublished Offering on Calendar](<../images/unpublished.png>)

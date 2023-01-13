@@ -37,7 +37,7 @@ description: >-
 
 ![Attendance Required](../images/att_req.png)
 
-![Learning Material - required (won't appear if optional)](../.gitbook/assets/lm\_reqd.png)
+![Learning Material - required (won't appear if optional)](../images/lm_reqd.png)
 
 ### Non-learner Facing Icons
 

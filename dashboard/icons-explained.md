@@ -29,7 +29,7 @@ description: >-
 
 ![Learning Material - citation](<../.images/lm_citation.png>)
 
-![Learning Event - recently updated](../.gitbook/assets/recently\_updated.png)
+![Learning Event - recently updated](../images/recently_updated.png)
 
 ![Instructional Notes - for students to see](../.gitbook/assets/inst\_notes.png)
 

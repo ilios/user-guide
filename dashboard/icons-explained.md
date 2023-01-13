@@ -35,7 +35,7 @@ description: >-
 
 **NOTE:** There is also an "Attendance Required" icon that is used by the School of Pharmacy at UCSF. It is possible to create custom icons and activate them on a school level. The screen shot of this icon is shown below.
 
-![Attendance Required](../.gitbook/assets/att\_req.png)
+![Attendance Required](../images/att_req.png)
 
 ![Learning Material - required (won't appear if optional)](../.gitbook/assets/lm\_reqd.png)
 

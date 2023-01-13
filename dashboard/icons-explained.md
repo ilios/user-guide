@@ -45,7 +45,7 @@ description: >-
 
 **NOTE**: Mousing over the informational icon as it pertains to user name will provide the campus name of record. An example is shown below (from the Admin Console) after pulling up the user record. The user's name was originally "Nicholas Ann Gutierrez" rather than what it currently is in Ilios "Dabney Gutierrez".
 
-![](../.gitbook/assets/campus\_name\_2.png)
+![](../images/campus_name_2.png)
 
 ![Pre-work attached (Session can't be deleted when this is the case)](../.gitbook/assets/pre-work\_icon.png)
 

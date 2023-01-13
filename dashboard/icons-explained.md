@@ -23,7 +23,7 @@ description: >-
 
 ![More Information - click to see](../images/more_info.png)
 
-![Learning Material - file](<../.gitbook/assets/lm\_file (1).png>)
+![Learning Material - file](<../.gitbook/assets/lm_file.png>)
 
 ![Learning Material - link](<../.gitbook/assets/lm\_link (1).png>)
 

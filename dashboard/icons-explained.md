@@ -47,7 +47,7 @@ description: >-
 
 ![](../images/campus_name_2.png)
 
-![Pre-work attached (Session can't be deleted when this is the case)](../.gitbook/assets/pre-work\_icon.png)
+![Pre-work attached (Session can't be deleted when this is the case)](../images/pre_work_icon.png)
 
 The icon below is displayed on the Calendar when an offering has not yet been published. Only Ilios users with non-student user roles will see these on the Calendar. Students only see published offerings.
 

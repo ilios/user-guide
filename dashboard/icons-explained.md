@@ -23,11 +23,11 @@ description: >-
 
 ![More Information - click to see](../images/more_info.png)
 
-![Learning Material - file](<../.images/lm_file.png>)
+![Learning Material - file](../.images/lm_file.png)
 
-![Learning Material - link](<../.images/lm_link.png>)
+![Learning Material - link](../.images/lm_link.png)
 
-![Learning Material - citation](<../.images/lm_citation.png>)
+![Learning Material - citation](../.images/lm_citation.png)
 
 ![Learning Event - recently updated](../images/recently_updated.png)
 

@@ -8,12 +8,12 @@ description: >-
 
 **NOTE**: Global Search is not currently available to users who are students and do not have any higher-level permissions or perform instructional or other non-learner functions in Ilios. This may change in the future.
 
-![Global Search on the Dashboard](../.gitbook/assets/srch1.png)
+![Global Search on the Dashboard](../images/srch1.png)
 
 The search box is initially located at the location specified above. If fewer than three characters are entered, the search will not be performed. The search box will move down to a more central location once a search has been successfully performed. Refer to [Search Results](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search#search-results).
 
-The search provides content search to users with heightened privileges (non-students) across the curricula at your institution. Access beyond read-only for search returns is determined by individual permissions for each user account.\
-\
+The search provides content search to users with heightened privileges (non-students) across the curricula at your institution. Access beyond read-only for search returns is determined by individual permissions for each user account.
+
 An entered search term will query across a broad array of areas within Ilios. These currently include:
 
 * Course Title

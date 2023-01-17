@@ -30,8 +30,8 @@ An entered search term will query across a broad array of areas within Ilios. Th
 * Session Vocabulary Terms
 * Session MeSH Terms
 
-Results are labeled according to the location of the match and listed with internal weighting to provide the most relevant results first.\
-\
+Results are labeled according to the location of the match and listed with internal weighting to provide the most relevant results first.
+
 After performing a search, all of the areas listed above are scanned for matches. Suggestions are also provided.
 
 ### Performing a Search
@@ -60,10 +60,10 @@ Once a search has been performed using the Global Search functionality, the resu
 
 #### Filter By School
 
-![](../.gitbook/assets/gs\_res\_1.png)
+![](../images/gs_res_1.png)
 
-#### Filter By Year&#x20;
+#### Filter By Year
 
-![Detail View of Year Selector](../.gitbook/assets/gs\_res\_2.png)
+![Detail View of Year Selector](../images/gs_res_2.png)
 
-Use of one or both of the filters shown above will change the result set to only include the values which meet the selected specifications.&#x20;
+Use of one or both of the filters shown above will change the result set to only include the values which meet the selected specifications.

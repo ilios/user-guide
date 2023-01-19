@@ -8,7 +8,7 @@ description:
 
 **NOTE**: Global Search is not currently available to users who are students and do not have any higher-level permissions or perform instructional or other non-learner functions in Ilios. This may change in the future.
 
-![Global Search on the Dashboard](../images/srch1.png)
+![Global Search on the Dashboard](../images/global_search_start.png)
 
 The search box is initially located at the location specified above. If fewer than three characters are entered, the search will not be performed. The search box will move down to a more central location once a search has been successfully performed. Refer to [Search Results](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search#search-results).
 

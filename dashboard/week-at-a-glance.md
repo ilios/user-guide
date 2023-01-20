@@ -69,7 +69,12 @@ Another great feature of Ilios is that you can review any week's activity, wheth
 
 After clicking "All Weeks", the screen and feature links are displayed as shown below. Even though there are no learning activities for the logged-in student at the beginning of the year, the top part of the screen is shown for navigational purposes.
 
-<figure><img src="../.gitbook/assets/all_weeks_top.png" alt=""><figcaption><p>All Weeks (top)</p></figcaption></figure>
+<figure>
+<img src="../images/all_weeks_top.png" alt="">
+  <figcaption>
+    <p>All Weeks (top)</p>
+  </figcaption>
+</figure>
 
 The user will always be routed to the current week, which will be in expanded view by default, along with the previous and following weeks. Weeks in Ilios run from Sunday to Saturday.
 

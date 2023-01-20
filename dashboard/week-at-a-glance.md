@@ -10,7 +10,7 @@ This is the default when a user logs in. As shown [below](https://iliosproject.g
 
 ILM's that have been linked to an upcoming session are included as shown below in Week at a Glance. They are displayed similarly in Event Detail. The linked Session icon is shown below. Learning Materials associated with these session can be selected as completed or in process. The caveat is that this must be done by following the link to associated ILM.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-09-09 at 3.33.07 PM.png" alt=""><figcaption><p>Linked Activities</p></figcaption></figure>
+<figure><img src="../images/linked_activity_icon.png" alt=""><figcaption><p>Linked Activities</p></figcaption></figure>
 
 In situations where linked ILM's are assigned, the user can navigate to either the ILM that needs to be completed before the scheduled Offering or to the Event Detail screen of the Offering itself. Standard ILM's which have a Due Date will show up on the Week At A Glance displaying the associated Due Date. The ILM's are ordered with the rest of the student's Offerings in ascending chronological date and time order.
 

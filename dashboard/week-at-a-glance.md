@@ -25,7 +25,7 @@ These personal progress check boxes are included to help students determine whic
     <figure>
     <img src="../images/activity_not_started.png" alt="Not Started">
       <figcaption>
-      <p>Not started</p>
+      <p>Not Started</p>
       </figcaption>
     </figure>
 
@@ -52,7 +52,7 @@ These personal progress check boxes are included to help students determine whic
 <figure>
 <img src="../images/updated_WaaG_student_view.png" alt="Student View">
   <figcaption>
-    <p>Week at a Glance (student view)</p>
+    <p>Week at a Glance (Student View)</p>
   </figcaption>
 </figure>
 
@@ -60,7 +60,12 @@ These personal progress check boxes are included to help students determine whic
 
 Another great feature of Ilios is that you can review any week's activity, whether it is in the future or has occurred in the past. To access this functionality, click as shown in the screen shot below.
 
-<figure><img src="../.gitbook/assets/all_weeks_starting_pt.png" alt=""><figcaption></figcaption></figure>
+<figure>
+<img src="../images/all_weeks_starting_pt.png" alt="All Weeks (Starting)">
+  <figcaption>
+    <p>All Weeks (Starting Point)</p>
+  </figcaption>
+</figure>
 
 After clicking "All Weeks", the screen and feature links are displayed as shown below. Even though there are no learning activities for the logged-in student at the beginning of the year, the top part of the screen is shown for navigational purposes.
 

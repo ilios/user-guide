@@ -24,13 +24,18 @@ These personal progress check boxes are included to help students determine whic
 
     <figure><img src="../images/activity_not_started.png" alt="Not Started">
       <figcaption>
-        <p>Not started </p>
+      <p>Not started</p>
       </figcaption>
     </figure>
 
 2.  In Progress (first click)
 
-    <figure><img src="../.gitbook/assets/Screen Shot 2022-09-09 at 3.12.57 PM.png" alt=""><figcaption><p>Working on it </p></figcaption></figure>
+    <figure><img src="../images/activity_in_progress.png" alt="In Progress">
+      <figcaption>
+      <p>Working on it</p>
+      </figcaption>
+    </figure>
+
 3.  Completed (second click)
 
     <figure><img src="../.gitbook/assets/Screen Shot 2022-09-09 at 3.14.02 PM.png" alt=""><figcaption><p>Complete</p></figcaption></figure>

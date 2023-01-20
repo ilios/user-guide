@@ -80,4 +80,9 @@ The user will always be routed to the current week, which will be in expanded vi
 
 Any number of weeks can be expanded or contracted to show or hide all details of the events taking place in that week. This is demonstrated below. The links to Learning Materials and Session Details are also highlighted in the screen shot.
 
-<figure><img src="../.gitbook/assets/all_weeks_2.png" alt=""><figcaption><p>All Weeks (user routed to current week)</p></figcaption></figure>
+<figure>
+<img src="../images/all_weeks_detail.png" alt="">
+  <figcaption>
+    <p>All Weeks (user routed to current week)</p>
+  </figcaption>
+</figure>

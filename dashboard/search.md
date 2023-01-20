@@ -44,7 +44,7 @@ To perform the full search (which we will do in this example), press the "Enter"
 
 ### Search Results
 
-![Search Results](../images/srch3.png)
+![Search Results](../images/global_search_results_1.png)
 
 ### Show More
 

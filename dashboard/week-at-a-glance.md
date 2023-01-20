@@ -25,7 +25,7 @@ These personal progress check boxes are included to help students determine whic
     <figure>
     <img src="../images/activity_not_started.png" alt="Not Started">
       <figcaption>
-      <p>Not started</p>
+      <p>Not Started</p>
       </figcaption>
     </figure>
 
@@ -49,20 +49,40 @@ These personal progress check boxes are included to help students determine whic
 
 ### Week at a Glance - Displayed
 
-<figure><img src="../.gitbook/assets/Updated WaaG Student View.png" alt=""><figcaption><p>Week at a Glance (student view)</p></figcaption></figure>
+<figure>
+<img src="../images/updated_WaaG_student_view.png" alt="Student View">
+  <figcaption>
+    <p>Week at a Glance (Student View)</p>
+  </figcaption>
+</figure>
 
 ## All Weeks
 
-Another great feature of Ilios is that you can review any week's activity, whether it is in the future or has occurred in the past. To access this functionality, click as shown in the screen shot below.&#x20;
+Another great feature of Ilios is that you can review any week's activity, whether it is in the future or has occurred in the past. To access this functionality, click as shown in the screen shot below.
 
-<figure><img src="../.gitbook/assets/all_weeks_starting_pt.png" alt=""><figcaption></figcaption></figure>
+<figure>
+<img src="../images/all_weeks_starting_pt.png" alt="All Weeks (Starting)">
+  <figcaption>
+    <p>All Weeks (Starting Point)</p>
+  </figcaption>
+</figure>
 
 After clicking "All Weeks", the screen and feature links are displayed as shown below. Even though there are no learning activities for the logged-in student at the beginning of the year, the top part of the screen is shown for navigational purposes.
 
-<figure><img src="../.gitbook/assets/all_weeks_top.png" alt=""><figcaption><p>All Weeks (top)</p></figcaption></figure>
+<figure>
+<img src="../images/all_weeks_top.png" alt="">
+  <figcaption>
+    <p>All Weeks (top)</p>
+  </figcaption>
+</figure>
 
 The user will always be routed to the current week, which will be in expanded view by default, along with the previous and following weeks. Weeks in Ilios run from Sunday to Saturday.
 
 Any number of weeks can be expanded or contracted to show or hide all details of the events taking place in that week. This is demonstrated below. The links to Learning Materials and Session Details are also highlighted in the screen shot.
 
-<figure><img src="../.gitbook/assets/all_weeks_2.png" alt=""><figcaption><p>All Weeks (user routed to current week)</p></figcaption></figure>
+<figure>
+<img src="../images/all_weeks_detail.png" alt="">
+  <figcaption>
+    <p>All Weeks (user routed to current week)</p>
+  </figcaption>
+</figure>

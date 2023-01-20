@@ -49,11 +49,16 @@ These personal progress check boxes are included to help students determine whic
 
 ### Week at a Glance - Displayed
 
-<figure><img src="../.gitbook/assets/Updated WaaG Student View.png" alt=""><figcaption><p>Week at a Glance (student view)</p></figcaption></figure>
+<figure>
+<img src="../images/updated_WaaG_student_view.png" alt="Student View">
+  <figcaption>
+    <p>Week at a Glance (student view)</p>
+  </figcaption>
+</figure>
 
 ## All Weeks
 
-Another great feature of Ilios is that you can review any week's activity, whether it is in the future or has occurred in the past. To access this functionality, click as shown in the screen shot below.&#x20;
+Another great feature of Ilios is that you can review any week's activity, whether it is in the future or has occurred in the past. To access this functionality, click as shown in the screen shot below.
 
 <figure><img src="../.gitbook/assets/all_weeks_starting_pt.png" alt=""><figcaption></figcaption></figure>
 

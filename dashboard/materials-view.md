@@ -36,8 +36,8 @@ Below is a screen shot similar to the one above but this time displaying the stu
 
 In the example shown below, the Data has been sorted by Title (A-Z). The default Sort Order is by Offering Date (Descending). Using the Title (A-Z) as a sort order puts the Course level Learning Materials at the top of the list as shown below.
 
-![](<../images/materials_view_sort.png>)
+![Change Sort Order](<../images/materials_view_sort.png>)
 
 Entering Search Criteria into the Filter search box will perform a search on ALL 4 of the fields listed above to help ensure the correct LM is found.
 
-![All Materials option - search results shown](<../.gitbook/assets/Screen Shot 2022-03-23 at 3.31.19 PM.png>)
+![All Materials option - search results shown](<../images/materials_view_filter.png>)

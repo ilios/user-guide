@@ -2,7 +2,7 @@
 
 ### Calendar
 
-![](../.gitbook/assets/new\_dashboard\_cal.jpg)
+![](../images/calendar_selected.png)
 
 Switching to the Calendar by clicking the Calendar button as shown above will cause the window to display as shown above. The Calendar becomes visible and enabled.
 

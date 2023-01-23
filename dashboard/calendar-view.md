@@ -34,15 +34,15 @@ You can also hover over an event with your mouse to retrieve and display more de
 
 The Calendar display presents Session Offerings with different background colors. These colors indicate the type of learning activity for the Offering. These colors can be customized in Ilios. They are configurable at the school level.
 
-[Session Types](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types) can be customized.&#x20;
+[Session Types](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types) can be customized.
 
 ### Non-Learner Calendar View
 
-It is important to note that non-students Ilios users _**WILL**_ see offerings for their courses / sessions that have not been published yet. Students will _**never**_ see these unless they happen to perform a non-student function such as being an Instructor, Course Administrator / Director, Session Administrator, or School Administrators / Director. These users will see the "Not Published" session offerings. Below is an example showing this view.&#x20;
+It is important to note that non-students Ilios users **WILL** see offerings for their courses / sessions that have not been published yet. Students will **never** see these unless they happen to perform a non-student function such as being an Instructor, Course Administrator / Director, Session Administrator, or School Administrators / Director. These users will see the "Not Published" session offerings. Below is an example showing this view.
 
-Icon indicating "Not Published" status:&#x20;
+Icon indicating "Not Published" status:
 
-![Not Published](../.gitbook/assets/unpubicon.png)
+![Not Published](../images/unpublished_icon.png)
 
 ![](../.gitbook/assets/nonscalview1.png)
 

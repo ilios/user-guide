@@ -22,13 +22,13 @@ Multiday Events (those that start and end on a different day) are displayed belo
 
 ### Event Detail View
 
-After performing the click event shown above, the [event detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) view appears.&#x20;
+After performing the click event shown above, the [event detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) view appears.
 
 ### Additional Details
 
 You can also hover over an event with your mouse to retrieve and display more details pertaining to that event without having to leave the Calendar.
 
-![Hover Over for Details](../.gitbook/assets/hover\_1.jpg)
+![Hover Over for Details](../images/calendar_hover.png)
 
 ### Color Coding
 

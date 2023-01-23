@@ -18,7 +18,7 @@ Below is a screen shot similar to the one above but this time displaying the stu
 
 "All Materials" has been selected instead of the default "Next 60 days".
 
-![](<../.gitbook/assets/Screen Shot 2022-03-21 at 2.53.05 PM.png>)
+![](<../images/materials_view_all.png>)
 
 ## Sort Options
 

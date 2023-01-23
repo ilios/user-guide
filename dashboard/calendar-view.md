@@ -44,7 +44,7 @@ Icon indicating "Not Published" status:
 
 ![Not Published](../images/unpublished_icon.png)
 
-![](../.gitbook/assets/nonscalview1.png)
+![A few tips ...](../images/calendar_tips.png)
 
 ### CSS Override
 

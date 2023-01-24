@@ -2,11 +2,11 @@
 
 The Event Detail view is reached when a user clicks on a link in their Calendar, Calendar feed, Week at a Glance (WaaG), or any part of Ilios that reaches user Events (published Offerings).
 
-The screen shot below starts the process for a student to access the Event Detail view. In this case, the Session to be viewed in Event Detail view has an ILM attached to it.&#x20;
+The screen shot below starts the process for a student to access the Event Detail view. In this case, the Session to be viewed in Event Detail view has an ILM attached to it.
 
-![](<../.gitbook/assets/Screen Shot 2021-10-21 at 3.33.41 PM.png>)
+![](<../images/event_detail_start.png>)
 
-After clicking as shown above, the user is routed to the correct location in Week at a Glance for the Session with the title of "Hypertension Cases", which is the follow-up (post-requisite) to the ILM entitled "CV Pharm Module: Hypertension".&#x20;
+After clicking as shown above, the user is routed to the correct location in Week at a Glance for the Session with the title of "Hypertension Cases", which is the follow-up (post-requisite) to the ILM entitled "CV Pharm Module: Hypertension".
 
 The links shown in the screen shot above are explained below
 

@@ -24,7 +24,7 @@ The links shown in the screen shot above are explained below
 
 After clicking as shown above, Event Detail is reached. The user can review the Location and timing of the Offering they are scheduled to be attending. Links are shown by the arrows.
 
-![Event Detail - upper part](<../.gitbook/assets/Screen Shot 2021-10-21 at 3.46.01 PM.png>)
+![Event Detail - upper part](<../images/event_detail_upper.png>)
 
 The lower part of Event Detail is shown below. There may be more than one screen shot forthcoming. Included are links to all of the Course and Session Learning Materials, as well the listings of both Session and Course Objectives.
 

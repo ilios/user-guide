@@ -28,7 +28,7 @@ After clicking as shown above, Event Detail is reached. The user can review the 
 
 The lower part of Event Detail is shown below. There may be more than one screen shot forthcoming. Included are links to all of the Course and Session Learning Materials, as well the listings of both Session and Course Objectives.
 
-![Event Detail - lower part](<../.gitbook/assets/Screen Shot 2021-10-22 at 12.02.37 PM.png>)
+![Event Detail - lower part](<../images/event_detail_lower.png>)
 
 ### Event Detail with Session Link
 

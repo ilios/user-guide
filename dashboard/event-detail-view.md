@@ -20,7 +20,7 @@ The links shown in the screen shot above are explained below
   * Link to the pre-work for this session (discussed above as well)
   * Learning Material available (.pdf)
 
-![](<../.gitbook/assets/Screen Shot 2021-10-21 at 3.42.47 PM.png>)
+![](<../images/event_detail_view.png>)
 
 After clicking as shown above, Event Detail is reached. The user can review the Location and timing of the Offering they are scheduled to be attending. Links are shown by the arrows.
 

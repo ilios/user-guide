@@ -36,8 +36,8 @@ If a logged in user has access rights to Courses and Sessions, there will be a l
 
 **NOTE**: Students will not have these links available if they do non perform non-learner activities in Ilios.
 
-![Event View (top) with Session Hyperlink](<../.gitbook/assets/Screen Shot 2022-01-31 at 5.24.37 PM.png>)
+![Event View (top) with Session Hyperlink](<../images/event_detail_top.png>)
 
 After following the link shown above, the user (Instructor, Director, Administrator, Student Advisor etc.) will be routed to Courses and Sessions to the underlying Session associated with the Calendar Event detailed in Event Detail.
 
-![Session Detail (top)](<../.gitbook/assets/Screen Shot 2022-01-31 at 5.31.12 PM.png>)
+![Session Detail (top)](<../images/event_detail_bottom.png>)

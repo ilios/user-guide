@@ -2,10 +2,10 @@
 
 There are two methods of accessing your Ilios Calendar on a mobile device ...
 
-1. Use the Ilios application directly on your phone or other mobile device.&#x20;
+1. Use the Ilios application directly on your phone or other mobile device.
 2. Generate a URL Feed and add it to a calendar application of your choosing on your phone or other mobile device.
 
-A [mobile friendly version](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/mobile-devices) of the Ilios application has been developed and is available now.&#x20;
+A [mobile friendly version](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/mobile-devices) of the Ilios application has been developed and is available now.
 
 If you are using form-based authentication, Ilios can be added (at least in Chrome) as an application to run on its own.
 
@@ -31,17 +31,17 @@ To connect a calendar application with Ilios, you will need a unique URL that yo
 
 **Step One:** Make sure to select Calendar and then click the Feed icon to generate the Calendar's URL feed.
 
-![](../.gitbook/assets/cal\_ics\_1.png)
+![](../images/cal_ics_1.png)
 
 **Step Two:** Copy the Feed to your clipboard by clicking the button shown below or close and return to the Calendar Dashboard.
 
-![](../.gitbook/assets/cal\_ics\_2.png)
+![](../images/cal_ics_2.png)
 
 A temporary confirmation "Copied Successfully" message will appear as shown below. It disappears on its own shortly.
 
-![](<../.gitbook/assets/feed copy.png>)
+![](<../images/feed copy.png>)
 
-**NOTE:** The URL generated for this is like a password. Anyone who knows it can view your calendar! Keep it safe.&#x20;
+**NOTE:** The URL generated for this is like a password. Anyone who knows it can view your calendar! Keep it safe.
 
 It is also important to note that if you are going to use this feed on a smart phone, it is recommended to paste the URL directly into the phone rather "daisy chaining" from yet another third party application. This can introduce additional problems when more than one synched application may have to update the feed, causing out of date information to be displayed.
 
@@ -63,20 +63,20 @@ Simply ...
 * From there, click on "Add Calendar" and then "From Internet"
 *   When the following box appears, paste in the URL copied in the previous step.
 
-    ![](../.gitbook/assets/calendar\_paste\_box.jpg)
+    ![](../images/calendar_paste_box.jpg)
 * Click "OK" to add the Calendar feed.
 *   Once pasted and added, the following box appears.
 
-    ![Static Calendar Paste](../.gitbook/assets/calendar\_confirm.jpg)
+    ![Static Calendar Paste](../images/calendar_confirm.jpg)
 * Click "Yes".
 *   It appears as shown below.
 
-    ![](../.gitbook/assets/calendar\_added.jpg)
+    ![](../images/calendar_added.jpg)
 * This is not a very easy name to remember so you will probably want to change it to something more useful like "Ilios" or "Classes" or whatever you feel is appropriate.
 * Just right-click on the long, ugly name and rename it.
 *   The results of doing this are shown below.  In this example, it was renamed "UCSF Classes".
 
-    ![](../.gitbook/assets/calendar\_renamed.jpg)
+    ![](../images/calendar_renamed.jpg)
 
 ### Add Calendar to Office 365 Outlook
 
@@ -85,11 +85,11 @@ This will be demonstrated showing the web version of Outlook from the Microsoft 
 * Log in to the Office 365 Outlook web client
 * Click as shown below to start this process
 
-![](../.gitbook/assets/add\_cal1.png)
+![](../images/add_cal1.png)
 
-* Click to subscribe to the calendar from the web&#x20;
+* Click to subscribe to the calendar from the web
 
-![](../.gitbook/assets/add\_cal2.png)
+![](../images/add_cal2.png)
 
 * This next step assumes that you already have the .ics feed copied up to your clipboard. Do this if you have not done so already.
 * Paste the .ics feed into the provided field as shown below.
@@ -97,11 +97,11 @@ This will be demonstrated showing the web version of Outlook from the Microsoft 
 * Choose the location to place this newly created calendar.
 * Other options include selecting a color scheme or "charm", which didn't seem to have much of an effect during my testing or documentation so accepting the defaults might serve your needs. See screen shot below for details.
 
-![](../.gitbook/assets/add\_cal3.png)
+![](../images/add_cal3.png)
 
 * Once "Import" has been clicked and the process has been completed, close the modal window and your screen will appear something like the following ...
 
-![Dave's SOM Schedule - now available](../.gitbook/assets/add\_cal4.png)
+![Dave's SOM Schedule - now available](../images/add_cal4.png)
 
 ### Add Calendar To Google Calendar
 
@@ -119,4 +119,4 @@ In many cases, it will be desirable to have access to the Ilios calendar and lea
 
 Ilios now requires LTI, in order to plug the Ilios events & calendar dashboard directly into your LTI-compatible LMS pages. It's as easy as clicking your mouse (two or three times). Using the Ilios LTI component is significantly more effective for your users than adding either an external link to the Ilios application pages, or using the older embedded calendar app. And besides, after the start of the new year, only the LTI component will function.
 
-The Ilios code is contained in a separate GitHub repository. It can be easily implemented. The older `Calendar_Controller.php` file, which added the Ilios calendar as an iFrame to moodle will no longer be supported after January 1, 2018.
+The Ilios code is contained in a separate GitHub repository. It can be easily implemented. The older `Calendar_Controller.php` file, which added the Ilios calendar as an iFrame to moodle is no longer supported.

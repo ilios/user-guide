@@ -1,10 +1,10 @@
 # Calendar View Options
 
-Beyond the filtering options mentioned in the previous section, there are three different viewing options for the Calendar. These involve how much data you would like to view at once in terms of duration of time. The Calendar can be viewed based on the following time increments -- _**Day, Week, Month**_.
+Beyond the filtering options mentioned in the previous section, there are three different viewing options for the Calendar. These involve how much data you would like to view at once in terms of duration of time. The Calendar can be viewed based on the following time increments -- **Day, Week, Month**.
 
-The Day, Week, Month, indicators as shown below are used to switch between these time-based views.
+The Day, Week, and Month indicators (shown below) are used to switch between these time-based views.
 
-![Calendar Duration View Switcher](../.gitbook/assets/duration\_switcher.jpg)
+![Calendar Duration View Switcher](../images/calendar_view_images/duration_switcher.png)
 
 ## Day View
 

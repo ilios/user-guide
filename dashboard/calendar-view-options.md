@@ -10,7 +10,7 @@ The Day, Week, and Month indicators (shown below) are used to switch between the
 
 To get to the Day View, click the "Day" Calendar View Switcher link. The screen will appear as shown below with all of the details for the selected day displayed. You can see all of the details for the selected day. The view starts initially at 8:00 AM for viewing simplicity; however the entire 24 hour day is available by scrolling up or down.
 
-![Day View](../.gitbook/assets/day\_view.jpg)
+![Day View](../images/calendar_view_images/day_view.png)
 
 ## Week View
 

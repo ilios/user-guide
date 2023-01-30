@@ -22,7 +22,7 @@ To get to the Week View, click the "Week" Calendar View Switcher link. The scree
 
 To get to the Month View, click the "Month" Calendar View Switcher link. The screen will appear as shown below with all of the details for the entire selected month displayed.
 
-![Month View (Calendar)](../.gitbook/assets/monthvw1.png)
+![Month View (Calendar)](../images/calendar_view_options/month_view.png)
 
 ### NOTE ABOUT THE DISPLAY OF MULTIPLE OFFERINGS:
 

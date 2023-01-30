@@ -30,7 +30,7 @@ When a Session with multiple offerings is clicked on the Week or Month View, the
 
 For a Session with Multiple Offerings, it is important to note that the offerings will be grouped on the Calendar and only displayed once in Week and Month view. The Day view will show all of the Session Offerings on the same screen - as shown below.
 
-_**Click the Session with Multiple Offerings**_
+**Click the Session with Multiple Offerings**
 
 ![](../.gitbook/assets/week\_view\_multiple.jpg)
 
@@ -54,7 +54,7 @@ Events that occur starting on one date and then ending on a later date are displ
 
 #### Viewing a Multi-day Event
 
-This appears underneath the Calendar when any event spans more than one day.&#x20;
+This appears underneath the Calendar when any event spans more than one day.
 
 ![](../.gitbook/assets/mult-day\_view.png)
 

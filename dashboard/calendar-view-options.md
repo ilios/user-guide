@@ -32,13 +32,13 @@ For a Session with Multiple Offerings, it is important to note that the offering
 
 **Click the Session with Multiple Offerings**
 
-![](../.gitbook/assets/week\_view\_multiple.jpg)
+![](../images/calendar_view_images/week_view_multiple.png)
 
 #### Day View (Multiple Offerings)
 
 All Offerings are displayed.
 
-![](../.gitbook/assets/day\_view\_multiple.jpg)
+![](../images/calendar_view_images/day_view_multiple.png)
 
 #### Week View / Month View (Multiple Offerings)
 
@@ -50,11 +50,11 @@ Events that occur starting on one date and then ending on a later date are displ
 
 #### Creating a Multi-day Event
 
-![](../.gitbook/assets/Multi\_day\_create.png)
+![](../images/calendar_view_images/multi_day_create.png)
 
 #### Viewing a Multi-day Event
 
 This appears underneath the Calendar when any event spans more than one day.
 
-![](../.gitbook/assets/mult-day\_view.png)
+![](../images/calendar_view_images/multi_day_view.png)
 

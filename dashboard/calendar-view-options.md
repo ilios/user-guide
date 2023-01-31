@@ -32,7 +32,7 @@ For a Session with Multiple Offerings, it is important to note that the offering
 
 **Click the Session with Multiple Offerings**
 
-![](../.gitbook/assets/week\_view\_multiple.jpg)
+![](../images/calendar_view_images/week_view_multiple.png)
 
 #### Day View (Multiple Offerings)
 

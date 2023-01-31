@@ -50,7 +50,7 @@ Events that occur starting on one date and then ending on a later date are displ
 
 #### Creating a Multi-day Event
 
-![](../.gitbook/assets/Multi\_day\_create.png)
+![](../images/calendar_view_images/multi_day_create.png)
 
 #### Viewing a Multi-day Event
 

@@ -38,7 +38,7 @@ For a Session with Multiple Offerings, it is important to note that the offering
 
 All Offerings are displayed.
 
-![](../.gitbook/assets/day\_view\_multiple.jpg)
+![](../images/calendar_view_images/day_view_multiple.png)
 
 #### Week View / Month View (Multiple Offerings)
 

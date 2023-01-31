@@ -56,5 +56,5 @@ Events that occur starting on one date and then ending on a later date are displ
 
 This appears underneath the Calendar when any event spans more than one day.
 
-![](../.gitbook/assets/mult-day\_view.png)
+![](../images/calendar_view_images/multi_day_view.png)
 

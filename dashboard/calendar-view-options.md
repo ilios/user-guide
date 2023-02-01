@@ -16,13 +16,13 @@ To get to the Day View, click the "Day" Calendar View Switcher link. The screen 
 
 To get to the Week View, click the "Week" Calendar View Switcher link. The screen will appear as shown below with all of the details for the selected week displayed. You can see all of the details for the selected week and the view starts initially at 8:00 AM for viewing simplicity; however the entire 24 hour day is available by scrolling up or down. In Ilios, weeks start with Sunday as the first day and end with the following Saturday - the last day of the week.
 
-![Week View](../images/calendar_view_options/week_view.png)
+![Week View](../images/calendar_view_images/week_view.png)
 
 ## Month View
 
 To get to the Month View, click the "Month" Calendar View Switcher link. The screen will appear as shown below with all of the details for the entire selected month displayed.
 
-![Month View (Calendar)](../images/calendar_view_options/month_view.png)
+![Month View (Calendar)](../images/calendar_view_images/month_view.png)
 
 ### NOTE ABOUT THE DISPLAY OF MULTIPLE OFFERINGS:
 

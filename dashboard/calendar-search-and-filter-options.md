@@ -12,11 +12,11 @@ The calendar is populated based on the choice made by the user choosing between 
 
 **Important Note:** Course Directors will see all of the Offerings for the Courses they assigned to as Course Directors; however Course Administrators and Student Advisors will **NOT** see all of the Offerings initially. They are encouraged to use the filters and / or Courses and Sessions screen to review the Offerings in the Course(s) for which they have been assigned the Course Administrator or Student Advisor role.
 
-![](../images/calendar_srch_images/dashboard_1.png)
+![](../images/calendar_srch_images/dashboard.png)
 
 To switch to "All Events", click as shown below.
 
-![](../.gitbook/assets/dashbd2.png)
+![](../images/calendar_srch_images/all_events_click_demo.png)
 
 As seen below, "All Events" is now selected.
 

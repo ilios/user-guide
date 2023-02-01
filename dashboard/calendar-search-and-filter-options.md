@@ -22,9 +22,9 @@ As seen below, "All Events" is now selected.
 
 ![](../images/calendar_srch_images/all_events_view_demo.png)
 
-_**Note about Buttons:**_ The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a Toggle will switch the toggle to another setting. The slider could be on either side.
+**Note about Buttons:** The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a Toggle will switch the toggle to another setting. The slider could be on either side.
 
-Regardless of whether you are displaying All Events of My Schedule, there are two methods of searching (_**“Search By Topic/Detail”**_ and _**“Search By Course”**_).\
+Regardless of whether you are displaying All Events of My Schedule, there are two methods of searching (**“Search By Topic/Detail”** and **“Search By Course”**).
 Switching from one to the other is accomplished by clicking the correct button. The text of the toggle switches back and forth depending on which search is currently active.
 
 ### Search Options
@@ -35,7 +35,7 @@ It may be helpful to also toggle to view "All Events" (as shown above) rather th
 
 To activate the Filters ...
 
-![](../.gitbook/assets/filters1.png)
+![Click to Display Filters](../images/calendar_srch_images/display_filters.png)
 
 The toggles now appear as shown below with the filters activated and visible.
 

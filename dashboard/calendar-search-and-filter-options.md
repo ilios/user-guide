@@ -39,7 +39,7 @@ To activate the Filters ...
 
 The toggles now appear as shown below with the filters activated and visible.
 
-![](../.gitbook/assets/filters2.png)
+![Filters Activated](../images/calendar_srch_images/filters_displayed.png)
 
 #### Search By Course/Type
 

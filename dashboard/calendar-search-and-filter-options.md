@@ -6,25 +6,25 @@ This functionality is available to all users in all modes of view. It provides t
 
 The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" and "Hide Filters" are the two selections made by default.
 
-_**All Events**_ will search and display results from the entire curriculum of the given school from any academic year.
+**All Events** will search and display results from the entire curriculum of the given school from any academic year.
 
-_**My Schedule**_ will display only those results which are available within the user’s current schedule. This is the default view. To get to "All Events" click the My Schedule toggle to change it to All Events as shown below. The My Schedule view will display all of the learning events to which the logged in user is associated. Learners (students) will see only the offerings that they are scheduled to attend. The view an Instructors will see is only the Offerings they are assigned as Instructor to teach.&#x20;
+**My Schedule** will display only those results which are available within the user’s current schedule. This is the default view. To get to "All Events" click the My Schedule toggle to change it to All Events as shown below. The My Schedule view will display all of the learning events to which the logged in user is associated. Learners (students) will see only the offerings that they are scheduled to attend. The view an Instructors will see is only the Offerings they are assigned as Instructor to teach.
 
 **Important Note:** Course Directors will see all of the Offerings for the Courses they assigned to as Course Directors; however Course Administrators and Student Advisors will **NOT** see all of the Offerings initially. They are encouraged to use the filters and / or Courses and Sessions screen to review the Offerings in the Course(s) for which they have been assigned the Course Administrator or Student Advisor role.
 
-![](../.gitbook/assets/dashbd1.png)
+![](../images/calendar_srch_images/dashboard.png)
 
 To switch to "All Events", click as shown below.
 
-![](../.gitbook/assets/dashbd2.png)
+![](../images/calendar_srch_images/all_events_click_demo.png)
 
 As seen below, "All Events" is now selected.
 
-![](../.gitbook/assets/dashbd3.png)
+![](../images/calendar_srch_images/all_events_view_demo.png)
 
-_**Note about Buttons:**_ The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a Toggle will switch the toggle to another setting. The slider could be on either side.
+**Note about Buttons:** The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a Toggle will switch the toggle to another setting. The slider could be on either side.
 
-Regardless of whether you are displaying All Events of My Schedule, there are two methods of searching (_**“Search By Topic/Detail”**_ and _**“Search By Course”**_).\
+Regardless of whether you are displaying All Events of My Schedule, there are two methods of searching (**“Search By Topic/Detail”** and **“Search By Course”**).
 Switching from one to the other is accomplished by clicking the correct button. The text of the toggle switches back and forth depending on which search is currently active.
 
 ### Search Options
@@ -35,11 +35,11 @@ It may be helpful to also toggle to view "All Events" (as shown above) rather th
 
 To activate the Filters ...
 
-![](../.gitbook/assets/filters1.png)
+![Click to Display Filters](../images/calendar_srch_images/display_filters.png)
 
 The toggles now appear as shown below with the filters activated and visible.
 
-![](../.gitbook/assets/filters2.png)
+![Filters Activated](../images/calendar_srch_images/filters_displayed.png)
 
 #### Search By Course/Type
 
@@ -47,12 +47,12 @@ This search option allows the user to search and display all of the activities f
 
 Search is possible by each of the following, or any combination of the following categories of data:
 
-* **Courses (pertaining to a chosen Program Year)**&#x20;
+* **Courses (pertaining to a chosen Program Year)**
 * **Session Types**
 
-In order to see all of the Sessions related to the Brain, Mind, and Behavior Course (any type of Session), the check boxes can be used as shown below.
+In order to see all of the Sessions related to the Airways, Blood, and Circulation Course (any type of Session), the check boxes can be used as shown below.
 
-![](../.gitbook/assets/filters\_course.jpg)
+![](../images/calendar_srch_images/filters_course.png)
 
 In any of these search modes, a search is automatically performed once the corresponding check boxes have been selected. The Calendar will reload with the results.
 

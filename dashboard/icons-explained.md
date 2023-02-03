@@ -23,11 +23,11 @@ description: >-
 
 ![More Information - click to see](../images/more_info.png)
 
-![Learning Material - file](../.images/lm_file.png)
+![Learning Material - file](../images/lm_file.png)
 
-![Learning Material - link](../.images/lm_link.png)
+![Learning Material - link](../images/lm_link.png)
 
-![Learning Material - citation](../.images/lm_citation.png)
+![Learning Material - citation](../images/lm_citation.png)
 
 ![Learning Event - recently updated](../images/recently_updated.png)
 
@@ -51,4 +51,4 @@ description: >-
 
 The icon below is displayed on the Calendar when an offering has not yet been published. Only Ilios users with non-student user roles will see these on the Calendar. Students only see published offerings.
 
-![Unpublished Offering on Calendar](<../images/unpublished.png>)
+![Unpublished Offering on Calendar](../images/unpublished.png)

@@ -41,7 +41,7 @@ The toggles now appear as shown below with the filters activated and visible.
 
 ![Filters Activated](../images/calendar_srch_images/filters_displayed.png)
 
-#### Search By Course/Type
+#### Search By Course / Session Type
 
 This search option allows the user to search and display all of the activities for any course in the selected academic year and school. That course selection can be further filtered for specific session types.
 
@@ -49,6 +49,7 @@ Search is possible by each of the following, or any combination of the following
 
 * **Courses (pertaining to a chosen Program Year)**
 * **Session Types**
+* ****[**Terms (by Vocabularies)**](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies)****
 
 In order to see all of the Sessions related to the Airways, Blood, and Circulation Course (any type of Session), the check boxes can be used as shown below.
 
@@ -62,7 +63,6 @@ Switch to a "Detail" search as shown below.
 
 This search option allows the user to search and display all activities for any course in the selected academic year and school, which have the selected search attributes. Search is possible by each of the following, or any combination of the following categories of data:
 
-* ****[**Terms (by Vocabularies)**](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies)****
 * **Session Types**
 * **Course Levels**
 * **Program/Cohort**

@@ -53,13 +53,13 @@ Search is possible by each of the following, or any combination of the following
 
 In order to see all of the Sessions related to the Airways, Blood, and Circulation Course (any type of Session), the check boxes can be used as shown below.
 
-![](../images/calendar_srch_images/filters_course.png)
+![Course Filter View](../images/calendar_srch_images/filters_course.png)
 
 In any of these search modes, a search is automatically performed once the corresponding check boxes have been selected. The Calendar will reload with the results.
 
-#### Search By Detail
+#### Search By Program Detail
 
-Switch to a "Detail" search as shown below.
+Switch to a "Program Detail" search as shown below.
 
 This search option allows the user to search and display all activities for any course in the selected academic year and school, which have the selected search attributes. Search is possible by each of the following, or any combination of the following categories of data:
 
@@ -67,15 +67,15 @@ This search option allows the user to search and display all activities for any 
 * **Course Levels**
 * **Program/Cohort**
 
-In order to see all of the Lectures (Session Type) for the Class of 2020 Doctor of Medicine - BRIDGES (Program/Cohort), the check boxes can be used as shown below.
+In order to see all of the Lectures (Session Type) for the Class of 2024 Doctor of Medicine - BRIDGES (Program/Cohort), the check boxes can be used as shown below.
 
-![](../.gitbook/assets/show\_filters\_3.jpg)
+![Program Detail View](../images/calendar_srch_images/program_detail_view.png)
 
 #### Load Filters Based On Academic Year & School
 
-The Course List and Program/Cohort List in the filters are associated with the selection in the Academic Year Selector shown below. The lists may also be determined by the School Selector (if applicable), which is to the right of the Academic Year Selector. Only the courses or program/cohorts associated with the selected Academic Year (and School) will be available for filtering selection. This does not necessarily mean that the Course doesn't extend forward or backwards into a different Calendar or Educational year. _This drop-down only and specifically controls the lists of courses and cohorts available for filtering --- not the display of information on the calendar itself, which will always show events for all available stretches of time._
+The Course List and Program/Cohort List in the filters are associated with the selection in the Academic Year Selector shown below. The lists may also be determined by the School Selector (if applicable), which is to the right of the Academic Year Selector. Only the courses or program/cohorts associated with the selected Academic Year (and School) will be available for filtering selection. This does not necessarily mean that the Course doesn't extend forward or backwards into a different Calendar or Educational year. This drop-down only and specifically controls the lists of courses and cohorts available for filtering --- not the display of information on the calendar itself, which will always show events for all available stretches of time.
 
-**Flexibility:** It is possible to select a Course or Session Type from 2015-16 and then go select one from another Academic Year (2016-17) or School if that is what you want to do.
+**Flexibility:** It is possible to select a Course or Session Type from any selected year and then go select one from another Academic Year or School if that is what you want to do.
 
 Detailed information is available for all search results on the calendar, however: learning materials for which the user does not already have access privileges will be visible (file name and info) but will not be downloadable.
 
@@ -87,7 +87,7 @@ The option is available to provide visual change alerts for calendar events. If 
 
 **QUICK NOTE:** You can apply filters and then hide the filter selectors. This will free up viewable Calendar area but still maintain the filtering criteria. An example of this is shown below. The active filter is "Lecture".
 
-![](../.gitbook/assets/day\_view\_multi.jpg)
+![Filters Hidden](../images/calendar_srch_images/day_view_filters_hidden.png)
 
 #### Expert Tip
 

@@ -53,13 +53,13 @@ Search is possible by each of the following, or any combination of the following
 
 In order to see all of the Sessions related to the Airways, Blood, and Circulation Course (any type of Session), the check boxes can be used as shown below.
 
-![](../images/calendar_srch_images/filters_course.png)
+![Course Filter View](../images/calendar_srch_images/filters_course.png)
 
 In any of these search modes, a search is automatically performed once the corresponding check boxes have been selected. The Calendar will reload with the results.
 
-#### Search By Detail
+#### Search By Program Detail
 
-Switch to a "Detail" search as shown below.
+Switch to a "Program Detail" search as shown below.
 
 This search option allows the user to search and display all activities for any course in the selected academic year and school, which have the selected search attributes. Search is possible by each of the following, or any combination of the following categories of data:
 
@@ -69,7 +69,7 @@ This search option allows the user to search and display all activities for any 
 
 In order to see all of the Lectures (Session Type) for the Class of 2020 Doctor of Medicine - BRIDGES (Program/Cohort), the check boxes can be used as shown below.
 
-![](../.gitbook/assets/show\_filters\_3.jpg)
+![Program Detail View](../images/calendar_srch_images/program_detail_view.png)
 
 #### Load Filters Based On Academic Year & School
 

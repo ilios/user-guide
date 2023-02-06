@@ -12,7 +12,6 @@
   * [Calendar Feed Options](dashboard/calendar-feed-options.md)
   * [Calendar View Options](dashboard/calendar-view-options.md)
   * [Calendar Search & Filter Options](dashboard/calendar-search-and-filter-options.md)
-  * [My Courses](dashboard/my-courses.md)
   * [My Profile](dashboard/my-profile.md)
   * [Reports](dashboard/reports.md)
   * [Language Selector](dashboard/language-selector.md)

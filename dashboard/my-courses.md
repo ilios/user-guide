@@ -10,6 +10,6 @@ This is demonstrated below showing how it works while being logged in as an Inst
 
 Clicking on the Course Title (Renal, Endocrine, GI, Nutrition) takes the user to the Course Detail screen for the selected Course as shown below.
 
-![](<../.gitbook/assets/Screen Shot 2022-04-21 at 2.32.29 PM.png>)
+![](<../images/my_courses/my_courses_detail.png>)
 
-**NOTE:** To return to the Dashboard, the back button on the browser can be used or instead use the Back to Courses List to go the Courses page.
+**NOTE:** To return to the Dashboard, the back button on the browser can be used. Alternatively, the "Back to Courses List" link will take you back to the Courses page.

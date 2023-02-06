@@ -13,7 +13,7 @@
   * [Calendar View Options](dashboard/calendar-view-options.md)
   * [Calendar Search & Filter Options](dashboard/calendar-search-and-filter-options.md)
   * [My Profile](dashboard/my-profile.md)
-  * [Reports](dashboard/reports.md)
+  * [Reports](reports/reports.md)
   * [Language Selector](dashboard/language-selector.md)
   * [Mobile Devices](dashboard/mobile-devices.md)
 * [Courses and Sessions](courses-and-sessions/README.md)

@@ -1,6 +1,6 @@
 # Dashboard
 
-Once logged in, you will be presented with the “Dashboard” or landing page, which will display the events for the current week for the logged-in user ([Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance)). Initially, the Calendar is not displayed. Clicking the "Calendar" button causes the Calendar to appear instead of Week at a Glance.&#x20;
+Once logged in, you will be presented with the “Dashboard” or landing page, which will display the events for the current week for the logged-in user ([Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance)). Initially, the Calendar is not displayed. Clicking the "Calendar" button causes the Calendar to appear instead of Week at a Glance.
 
 The Dashboard is designed to provide quick access to common sets of information and simple task and activity tracking. Navigation is performed by using the Ilios Menu, which appears on the upper left part of the screen and can be accessed and expanded by clicking “Ilios Menu” as shown below. It is a fly away menu that expands once it has been clicked and is available even if you have scrolled down the page. If your screen has enough viewable area, the **Ilios Menu** will appear automatically as shown below. Ilios users who do not perform non-learner activities (i.e. students who are not also Instructors) will not see the Ilios Menu shown below.
 
@@ -10,21 +10,36 @@ The Dashboard is designed to provide quick access to common sets of information 
 
 The view below is of the Ilios flyout menu on a relatively large screen. This is how it will appear for Admin users unless they use a smaller screen, tablet, or smart phone.
 
-<figure><img src="../images/Ilios_Flyout_Menu_1.png" alt=""><figcaption><p>Ilios Menu - full size</p></figcaption></figure>
+<figure>
+  <img src="../images/Ilios_Flyout_Menu_1.png" alt="Flyout Menu">
+  <figcaption>
+      <p>Ilios Menu - full size</p>
+  </figcaption>
+</figure>
 
 #### Small Screen View - contracted
 
 When the Ilios application is not being viewed at full size or is being viewed using a device with a smaller screen surface area, the toolbar spans across the top of the screen as shown below.
 
-<figure><img src="../images/Top_Menu_View_1.png" alt=""><figcaption><p>Ilios Menu - small size (contracted)</p></figcaption></figure>
+<figure>
+  <img src="../images/Top_Menu_View_1.png" alt="Top Menu View">
+  <figcaption>
+    <p>Ilios Menu - small size (contracted)</p>
+  </figcaption>
+</figure>
 
-The **Ilios Menu expander** is only available in the smaller view of the toolbar. It is not needed in full-size mode.&#x20;
+The **Ilios Menu expander** is only available in the smaller view of the toolbar. It is not needed in full-size mode.
 
 #### Small Screen View - expanded
 
 Clicking the Ilios Menu expander (or contractor if already expanded) reveals in more detail the available menu options. You can see this display below.
 
-<figure><img src="../images/Flyout_Expanded.png" alt=""><figcaption><p>Ilios Flyout Menu - small view (expanded)</p></figcaption></figure>
+<figure>
+  <img src="../images/Flyout_Expanded.png" alt="Small Screen View">
+  <figcaption>
+    <p>Ilios Flyout Menu - small view (expanded)</p>
+  </figcaption>
+</figure>
 
 Available menu items in all views include:
 
@@ -58,7 +73,7 @@ Other functional areas available in all Dashboard views ...
 Also available in the upper right corner underneath the logged in user's name are the following ...
 
 * [**My Profile**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-profile)
-* **Logout** -- exits the application&#x20;
+* **Logout** -- exits the application
 
 To the left of the drop-down explained above is the Language Selector drop-down menu.
 

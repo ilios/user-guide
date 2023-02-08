@@ -31,13 +31,13 @@ As explained in the application ...
 
 To create a new API Token, click Create New. The screen will refresh and display as shown below.
 
-![](../images/my_profile/new_token.png)
+![New Token](../images/my_profile/new_token.png)
 
 #### Date Picker
 
 The Date Picker (if selected) appears as shown below.
 
-![](../.gitbook/assets/new\_token\_date\_picker.jpg)
+![Token Expiration Date Picker](../images/my_profile/new_token_date_picker.png)
 
 ### Invalidate All Tokens
 

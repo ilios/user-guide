@@ -18,5 +18,5 @@ The only difference between the two screen shots above is that Ilios users who p
 
 #### Icons Explained 
 
-![Icons Explained in Picture](../.gitbook/assets/rw_phone4.png)
+![Icons Explained in Picture](../images/mobile_view/icons_explained.png)
 

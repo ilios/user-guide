@@ -45,7 +45,7 @@ Invalidate All Tokens - this will ensure that all of your tokens are no longer a
 
 ![](../images/my_profile/invalidate_tokens.png)
 
-![](../.gitbook/assets/invalidate\_tokens\_confirm.jpg)
+![](../images/my_profile/invalidate_tokens_confirm.png)
 
 After choosing the `Confirm` option, a confirmation message flashes in the upper part of the screen.
 

@@ -43,10 +43,10 @@ The Date Picker (if selected) appears as shown below.
 
 Invalidate All Tokens - this will ensure that all of your tokens are no longer able to be used. Access will be denied entirely. You can do this if you are no longer going to be accessing the API using tokens and / or you feel a token has been compromised.
 
-![](../images/my_profile/invalidate_tokens.png)
+![Start the Process](../images/my_profile/invalidate_tokens.png)
 
-![](../images/my_profile/invalidate_tokens_confirm.png)
+![Confirm or Cancel](../images/my_profile/invalidate_tokens_confirm.png)
 
 After choosing the `Confirm` option, a confirmation message flashes in the upper part of the screen.
 
-![](../.gitbook/assets/invalidate\_tokens\_msg.jpg)
+![Process completed](../images/my_profile/invalidate_tokens_msg.png)

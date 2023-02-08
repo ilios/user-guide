@@ -2,13 +2,13 @@
 
 This section contains sample screen shots of a typical user experience accessing Ilios on a mobile device, such as a smart phone. Ilios can now be used on smart phones. We have reduced the menu items to icons. 
 
-#### Login screen \(for non-LDAP emulating an iPhone 6/7/8\) ...
+#### Login screen (for non-LDAP emulating a mobile phone) ...
 
-![](../.gitbook/assets/rw_phone1.png)
+![Login from Mobile Phone](../images/mobile_view/mobile_login.png)
 
-#### Dashboard \(after Student logging in\) ...
+#### Dashboard (after Student logging in) ...
 
-![Week at a Glance \(on Mobile view\)](../.gitbook/assets/rw_phone2.png)
+![Week at a Glance \(on Mobile view\)](../images/mobile_view/student_view.png)
 
 #### Dashboard \(after Instructor logging in\) ...
 

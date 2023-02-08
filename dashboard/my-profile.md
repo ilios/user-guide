@@ -31,22 +31,22 @@ As explained in the application ...
 
 To create a new API Token, click Create New. The screen will refresh and display as shown below.
 
-![](../images/my_profile/new_token.png)
+![New Token](../images/my_profile/new_token.png)
 
 #### Date Picker
 
 The Date Picker (if selected) appears as shown below.
 
-![](../.gitbook/assets/new\_token\_date\_picker.jpg)
+![Token Expiration Date Picker](../images/my_profile/new_token_date_picker.png)
 
 ### Invalidate All Tokens
 
 Invalidate All Tokens - this will ensure that all of your tokens are no longer able to be used. Access will be denied entirely. You can do this if you are no longer going to be accessing the API using tokens and / or you feel a token has been compromised.
 
-![](../.gitbook/assets/invalidate\_tokens.jpg)
+![Start the Process](../images/my_profile/invalidate_tokens.png)
 
-![](../.gitbook/assets/invalidate\_tokens\_confirm.jpg)
+![Confirm or Cancel](../images/my_profile/invalidate_tokens_confirm.png)
 
 After choosing the `Confirm` option, a confirmation message flashes in the upper part of the screen.
 
-![](../.gitbook/assets/invalidate\_tokens\_msg.jpg)
+![Process completed](../images/my_profile/invalidate_tokens_msg.png)

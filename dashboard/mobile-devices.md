@@ -8,11 +8,11 @@ This section contains sample screen shots of a typical user experience accessing
 
 #### Dashboard (after Student logging in) ...
 
-![Week at a Glance \(on Mobile view\)](../images/mobile_view/student_view.png)
+![Week at a Glance (on Mobile view)](../images/mobile_view/student_view.png)
 
-#### Dashboard \(after Instructor logging in\) ...
+#### Dashboard (after Instructor logging in) ...
 
-![](../.gitbook/assets/rw_phone3.png)
+![](../images/mobile_view/instructor_view.png)
 
 The only difference between the two screen shots above is that Ilios users who perform non-learner functions in Ilios get the navigational icons shown toward the top of the screen underneath the "Dashboard" label.
 

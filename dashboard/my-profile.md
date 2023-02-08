@@ -4,13 +4,13 @@ The My Profile screen is a useful way to troubleshoot issues in Ilios. Any Ilios
 
 In this case, "Nicholas Ann Gutierrez" is the logged-in user, and also the user whose Profile will be displayed. This is also a good example of a student's view into the Ilios system with a populated populated Week at a Glance (WaaG) view.
 
-![](<../images/my_profile/my_profile_menu.png>)
+![Select from Menu](<../images/my_profile/my_profile_menu.png>)
 
 ## My Profile (details)
 
 After clicking My Profile, as shown above, the details regarding your logged-in account are displayed as shown below.
 
-![](../.gitbook/assets/myprofile1.png)
+![Details](../images/my_profile/my_profile_details.png)
 
 This screen is informational only - except for the API Token Management, which is covered below. We can see that Nicholas A. Gutierrez (me) has a high level of permissions (Developer - the most powerful role), (Instructor - can be selected as Instructor for Course Offerings), and (Course Director - can be selected as Course Director in Ilios). Nicholas is not a Student and is not assigned to any Cohort or Learner Group.
 

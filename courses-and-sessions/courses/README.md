@@ -87,11 +87,11 @@ By default, all courses for the selected school are displayed. There is a pair o
 
 **Original appearance:**
 
-![All Courses](../../images/course_images/all_crs_btn.png)
+![All Courses](../../images/course_images/all_courses_button.png)
 
 **After clicking / toggling:**
 
-![My Courses](../../.gitbook/assets/my\_crs\_btn1.png)
+![My Courses](../../.gitbook/assets/my_courses_button.png)
 
 The screen is then refreshed to display only the courses with which the logged in user is associated. In this example, the logged-in user is not associated in any way with the Anesthesia 110 course so it is no longer displayed.
 

@@ -87,7 +87,7 @@ By default, all courses for the selected school are displayed. There is a pair o
 
 **Original appearance:**
 
-![All Courses](../../.gitbook/assets/all\_crs\_btn1.png)
+![All Courses](../../images/course_images/all_crs_btn.png)
 
 **After clicking / toggling:**
 

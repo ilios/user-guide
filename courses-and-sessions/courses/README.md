@@ -23,7 +23,7 @@ A Course is a Curricular object that defines the content and structure of a spec
 
 This shows the Course detail screen (once a Course has been selected and Details have been expanded).
 
-![](<../../images/course_images/course_top.png>)
+![Course Detail - Top](<../../images/course_images/course_top.png>)
 
 #### Functionality and Links by the Numbers (upper)
 
@@ -33,8 +33,8 @@ This shows the Course detail screen (once a Course has been selected and Details
 4. **Edit Course Title**: The title can be edited by clicking as shown.
 5. **Published Status**: The Course's publication status can be changed here.
 6. **Course ID**: The Course ID field can be edited by clicking as shown.
-7. **Clerkship Type**: edited here &#x20;
-8. **Start Date**: edited here&#x20;
+7. **Clerkship Type**: edited here
+8. **Start Date**: edited here
 9. **Learning Materials Summary**: opens up Learning Materials summary
 10. **Print Summary**: opens up the all-inclusive Print Summary
 11. **Rollover Course**: starts the process of rolling this Course over
@@ -43,13 +43,13 @@ This shows the Course detail screen (once a Course has been selected and Details
 14. **Level**: edited here
 15. **Course Leadership**: expands to assign Course Directors and / or Administrators
 16. **Course Objectives**: expands and opens up the Objective editor
-17. **Search For Learning Material**: to find existing Learning Material &#x20;
-18. **Add Learning Material**: If Learning Material is not found, new ones can be uploaded&#x20;
+17. **Search For Learning Material**: to find existing Learning Material
+18. **Add Learning Material**: If Learning Material is not found, new ones can be uploaded
 19. **Sort Materials**: to change the order in which Learning Materials are displayed to students
 20. **Edit Learning Material**: allows for the changing of Learning Material attributes
 21. **Delete Learning Material**: if available, allows for the deletion of Learning Material objects
 
-![Course Detail Lower ](../../.gitbook/assets/course\_lower.png)
+![Course Detail Lower](../../images/course_images/course_lower.png)
 
 #### Functionality and Links by the Numbers (lower)
 
@@ -68,13 +68,18 @@ This display can be sorted by the following fields in addition to being filtered
 ### Sort Options ...
 
 * **Level**
-* **Start Date**&#x20;
-* **End Date**&#x20;
-* **Status**&#x20;
+* **Start Date**
+* **End Date**
+* **Status**
 
 **TIP:** It can be helpful to sort by **"Status"** when you want to find out which Courses may not have been published yet. The Courses with the Status of "Not Published" will appear first in the list.
 
-<figure><img src="../../.gitbook/assets/new crs list 1.png" alt=""><figcaption><p>Courses List (All Courses)</p></figcaption></figure>
+<figure>
+  <img src="../../images/course_images/new_crs_list.png" alt="">
+    <figcaption>
+      <p>Courses List (All Courses)</p>
+    </figcaption>
+</figure>
 
 ## My Courses
 

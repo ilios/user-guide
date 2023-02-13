@@ -21,9 +21,9 @@ A Course is a Curricular object that defines the content and structure of a spec
 
 ### Screen Elements
 
-This shows the Course detail screen (once a Course has been selected and Details have been expanded).&#x20;
+This shows the Course detail screen (once a Course has been selected and Details have been expanded).
 
-![](<../../.gitbook/assets/course\_top (1).png>)
+![](<../../images/course_images/course_top.png>)
 
 #### Functionality and Links by the Numbers (upper)
 

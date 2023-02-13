@@ -75,7 +75,7 @@ This display can be sorted by the following fields in addition to being filtered
 **TIP:** It can be helpful to sort by **"Status"** when you want to find out which Courses may not have been published yet. The Courses with the Status of "Not Published" will appear first in the list.
 
 <figure>
-  <img src="../../images/course_images/new_crs_list.png" alt="">
+  <img src="../../images/course_images/course_list.png" alt="">
     <figcaption>
       <p>Courses List (All Courses)</p>
     </figcaption>
@@ -95,5 +95,5 @@ By default, all courses for the selected school are displayed. There is a pair o
 
 The screen is then refreshed to display only the courses with which the logged in user is associated. In this example, the logged-in user is not associated in any way with the Anesthesia 110 course so it is no longer displayed.
 
-![My Courses (list of courses)](../../.gitbook/assets/my\_crs\_listed1.png)
+![My Courses (list of courses)](../../.gitbook/assets/my_courses_listed.png)
 

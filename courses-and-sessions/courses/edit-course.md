@@ -20,7 +20,7 @@ Once the Course has been selected as shown above, the following Course-level att
 
 **NOTE: Course Summary Details refers to the higher level details above the "Show Details" button. Refer to **_**Course Details**_** for the lower level details that do require the click of "Show Details" to be shown.**
 
-![](<../../.gitbook/assets/cs\_rw\_7 (1).png>)
+![Course Summary Details](<../../images/course_images/course_summary_details.png)
 
 ### Links and Functionality By The Numbers ...
 

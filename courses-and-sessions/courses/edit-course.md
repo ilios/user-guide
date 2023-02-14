@@ -6,13 +6,13 @@ To manage an existing course, enter part of the course’s title into the **"Fil
 
 **Courses Pre-filter**
 
-![](<../../.gitbook/assets/cs\_rw\_5 (1).png>)
+![Before Filtering](<../../images/course_images/courses_pre_filter.png)
 
 **Courses Post-Filter**
 
 In this second screen shot, a search string of “brai” has been entered and as a result, only one course gets returned.
 
-![](../../.gitbook/assets/cs\_rw\_6.png)
+![After Filtering](../../images/course_images/courses_post_filter)
 
 ## Course Summary Details
 
@@ -20,7 +20,7 @@ Once the Course has been selected as shown above, the following Course-level att
 
 **NOTE: Course Summary Details refers to the higher level details above the "Show Details" button. Refer to **_**Course Details**_** for the lower level details that do require the click of "Show Details" to be shown.**
 
-![](<../../.gitbook/assets/cs\_rw\_7 (1).png>)
+![Course Summary Details](<../../images/course_images/course_summary_details.png)
 
 ### Links and Functionality By The Numbers ...
 

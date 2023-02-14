@@ -6,13 +6,13 @@ To manage an existing course, enter part of the course’s title into the **"Fil
 
 **Courses Pre-filter**
 
-![](<../../.gitbook/assets/cs\_rw\_5 (1).png>)
+![Before Filtering](<../../images/course_images/courses_pre_filter.png)
 
 **Courses Post-Filter**
 
 In this second screen shot, a search string of “brai” has been entered and as a result, only one course gets returned.
 
-![](../../.gitbook/assets/cs\_rw\_6.png)
+![After Filtering](../../images/course_images/courses_post_filter)
 
 ## Course Summary Details
 

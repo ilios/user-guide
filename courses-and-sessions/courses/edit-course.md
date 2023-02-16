@@ -6,13 +6,13 @@ To manage an existing course, enter part of the course’s title into the **"Fil
 
 **Courses Pre-filter**
 
-![Before Filtering](<../../images/course_images/courses_pre_filter.png)
+![Before Filtering](../../images/course_images/courses_pre_filter.png)
 
 **Courses Post-Filter**
 
 In this second screen shot, a search string of “brai” has been entered and as a result, only one course gets returned.
 
-![After Filtering](../../images/course_images/courses_post_filter)
+![After Filtering](../../images/course_images/courses_post_filter.png)
 
 ## Course Summary Details
 
@@ -20,11 +20,11 @@ Once the Course has been selected as shown above, the following Course-level att
 
 **NOTE: Course Summary Details refers to the higher level details above the "Show Details" button. Refer to **_**Course Details**_** for the lower level details that do require the click of "Show Details" to be shown.**
 
-![Course Summary Details](<../../images/course_images/course_summary_details.png)
+![Course Summary Details](../../images/course_images/course_summary_details.png)
 
 ### Links and Functionality By The Numbers ...
 
-1. **Back to Courses List**: takes the user back to the list of Courses&#x20;
+1. **Back to Courses List**: takes the user back to the list of Courses
 2. **Edit Course Title**: The title can be edited by clicking as shown.
 3. ****[**Publication Status**](../publishing.md): The Course's publication status can be changed here.
 4. **Learning Materials Summary**: opens up [Learning Materials Summary](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/learning-materials-summary)
@@ -32,8 +32,8 @@ Once the Course has been selected as shown above, the following Course-level att
 6. **Rollover Course**: starts the process of rolling this Course over
 7. **Course Visualizations**: opens up Visualizations (Graphs) for this Course
 8. **Course ID**: The Course ID field can be edited by clicking as shown.
-9. **Clerkship Type**: edited here &#x20;
-10. **Start Date**: edited here&#x20;
+9. **Clerkship Type**: edited here
+10. **Start Date**: edited here
 11. **End Date**: edited as shown
 12. **Level**: edited here
 13. **Show Details**: opens up the rest of the Course Details.
@@ -43,7 +43,7 @@ Once the Course has been selected as shown above, the following Course-level att
 These are the lower level details of a Course that are displayed and can be modified once the "Show Details" tab button has been clicked. These are those items ...
 
 * [Course Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership) - add/remove Course Directors, Course Administrators, and Student Advisors
-* Course Objectives (and associated Parent Objectives, Vocabulary Terms, and MeSH Terms)&#x20;
+* Course Objectives (and associated Parent Objectives, Vocabulary Terms, and MeSH Terms)
 * Course Learning Materials
 * [Competencies](https://iliosproject.gitbook.io/ilios-user-guide/schools/competencies) - set at School level
 * Terms (which can include various Vocabularies)

@@ -88,13 +88,13 @@ Now that the action detailed above has taken place, the Class of 2018 has been s
 Cohorts can also be removed from a Course in a similar manner. The steps are documented below.
 
 <figure>
-  <img src="../../.gitbook/assets/remove_cohort_pre.png" alt="">
+  <img src="../../images/course_images/remove_cohort_pre.png" alt="Remove Cohort">
     <figcaption><p>Go to Cohort Manager</p>
     </figcaption>
 </figure>
 
 <figure>
-  <img src="../../.gitbook/assets/remove_cohort_1.png" alt="">
+  <img src="../../images/course_images/remove_cohort_start.png" alt="Starting Point">
     <figcaption>
       <p>Remove Cohort - Step 1</p>
     </figcaption>
@@ -103,14 +103,14 @@ Cohorts can also be removed from a Course in a similar manner. The steps are doc
 After performing the action shown above, we need to complete the process by clicking the green Save/Done button.
 
 <figure>
-  <img src="../../.gitbook/assets/remove_cohort_2.png" alt="">
+  <img src="../../images/course_images/removed_cohort_listed.png" alt="Back On the List">
     <figcaption>
       <p>Remove Cohort - Step 2</p>
     </figcaption>
 </figure>
 
 <figure>
-  <img src="../../.gitbook/assets/remove_cohort_3.png" alt="">
+  <img src="../../images/course_images/remove_cohort_completed.png" alt="Completed">
     <figcaption>
       <p>Remove Cohort - completed</p>
     </figcaption>

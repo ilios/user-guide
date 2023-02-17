@@ -73,7 +73,7 @@ To add or remove Cohorts from a Course, click the Manage Cohorts button as shown
 
 In this case, we want to add the Dentistry DDS Class of 2018 to this Course. Click on its label as shown below.
 
-![Select The Cohort](../../.gitbook/assets/cohort\_selection.jpg)
+![Select The Cohort](../../images/course_images/cohort_selector.png)
 
 **Courses and Sessions (after Cohort Selected)**
 

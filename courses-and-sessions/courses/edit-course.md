@@ -69,35 +69,52 @@ In order to populate courses with learner groups, the course must first be assoc
 
 To add or remove Cohorts from a Course, click the Manage Cohorts button as shown below. This appears at the bottom of the **Course Details** section.
 
-![](../../.gitbook/assets/manage\_cohorts\_1.jpg)
+![Manage Cohorts](../../images/course_images/manage_cohorts.png)
 
 In this case, we want to add the Dentistry DDS Class of 2018 to this Course. Click on its label as shown below.
 
-![Select The Cohort](../../.gitbook/assets/cohort\_selection.jpg)
+![Select The Cohort](../../images/course_images/cohort_selector.png)
 
 **Courses and Sessions (after Cohort Selected)**
 
-![](../../.gitbook/assets/cohort\_selection\_2.jpg)
+![](../../images/course_images/cohort_added_confirm.png)
 
 Now that the action detailed above has taken place, the Class of 2018 has been successfully added to the Course as it is evident that both Cohorts are listed.
 
-![](../../.gitbook/assets/cohort\_selection\_3.jpg)
+![](../../images/course_images/cohort_added_in_list.png)
 
 #### Remove Cohort from Course
 
 Cohorts can also be removed from a Course in a similar manner. The steps are documented below.
 
-<figure><img src="../../.gitbook/assets/remove_cohort_pre.png" alt=""><figcaption><p>Go to Cohort Manager</p></figcaption></figure>
+<figure>
+  <img src="../../images/course_images/remove_cohort_pre.png" alt="Remove Cohort">
+    <figcaption><p>Go to Cohort Manager</p>
+    </figcaption>
+</figure>
 
-<figure><img src="../../.gitbook/assets/remove_cohort_1.png" alt=""><figcaption><p>Remove Cohort - Step 1</p></figcaption></figure>
+<figure>
+  <img src="../../images/course_images/remove_cohort_start.png" alt="Starting Point">
+    <figcaption>
+      <p>Remove Cohort - Step 1</p>
+    </figcaption>
+</figure>
 
 After performing the action shown above, we need to complete the process by clicking the green Save/Done button.
 
-<figure><img src="../../.gitbook/assets/remove_cohort_2.png" alt=""><figcaption><p>Remove Cohort - Step 2</p></figcaption></figure>
+<figure>
+  <img src="../../images/course_images/removed_cohort_listed.png" alt="Back On the List">
+    <figcaption>
+      <p>Remove Cohort - Step 2</p>
+    </figcaption>
+</figure>
 
-
-
-<figure><img src="../../.gitbook/assets/remove_cohort_3.png" alt=""><figcaption><p>Remove Cohort - completed</p></figcaption></figure>
+<figure>
+  <img src="../../images/course_images/remove_cohort_completed.png" alt="Completed">
+    <figcaption>
+      <p>Remove Cohort - completed</p>
+    </figcaption>
+</figure>
 
 **IMPORTANT NOTE**: If a Program Cohort is removed from a Course, any offerings associated with Learner Groups from the removed Cohort are **NOT** removed from the system. Learner Groups from the removed Cohort will simply no longer be available for selection in Offerings in this Course.
 

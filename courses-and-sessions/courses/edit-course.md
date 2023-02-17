@@ -69,7 +69,7 @@ In order to populate courses with learner groups, the course must first be assoc
 
 To add or remove Cohorts from a Course, click the Manage Cohorts button as shown below. This appears at the bottom of the **Course Details** section.
 
-![](../../.gitbook/assets/manage\_cohorts\_1.jpg)
+![Manage Cohorts](../../images/course_images/manage_cohorts_1.png)
 
 In this case, we want to add the Dentistry DDS Class of 2018 to this Course. Click on its label as shown below.
 

@@ -81,7 +81,7 @@ In this case, we want to add the Dentistry DDS Class of 2018 to this Course. Cli
 
 Now that the action detailed above has taken place, the Class of 2018 has been successfully added to the Course as it is evident that both Cohorts are listed.
 
-![](../../.gitbook/assets/cohort\_selection\_3.jpg)
+![](../../images/course_images/cohort_added_in_list.png)
 
 #### Remove Cohort from Course
 

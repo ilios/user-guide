@@ -18,7 +18,7 @@ In this second screen shot, a search string of “brai” has been entered and a
 
 Once the Course has been selected as shown above, the following Course-level attributes are available for modification. The screen is shown below. Universal Locator is a helpful tracking field used for support issues that is not customizable; but the rest of the fields that can be modified are shown with arrows.
 
-**NOTE: Course Summary Details refers to the higher level details above the "Show Details" button. Refer to **_**Course Details**_** for the lower level details that do require the click of "Show Details" to be shown.**
+**NOTE**: Course Summary Details refers to the higher level details above the "Show Details" button. Refer to **[Course Details]**(https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#screen-elements) for the lower level details that do require the click of "Show Details" to be shown.
 
 ![Course Summary Details](../../images/course_images/course_summary_details.png)
 
@@ -63,7 +63,7 @@ Follow the links below for more specific information related to Course Objective
 
 For courses which are given more than once in an academic year, the course name or Course ID should identify this: for example Intersession 1 (2011-12), Intersession 2 (2011-12), Intersession 3 (2011-12), IDS 33A, IDS 33B, etc. Creating multiple instances of a course within an academic year is handled using the [Course Rollover](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-rollover) feature. For courses that are given more than once in an academic year, the listings are in chronological order according to start date.
 
-In order to populate courses with learner groups, the course must first be associated with the desired Program(s), as well as the desired learner cohorts within that program. Cohorts are listed by graduation year. If you select the program Doctor of Medicine, and its cohort Class of 2015, then the course will now be eligible for population with any learner or learner group from that program / cohort. A course may be associated with any number of programs and cohorts, allowing for interdisciplinary courses as well as mixed level courses. Only cohorts to which the user is provided access, either by permission granted for school or program access will be available for selection. Cohorts previously selected for which a user has no permissions will not be changeable by the user. In the example shown on the following page, Doctor of Medicine >> Class of 2017 has been chosen. When you are finished, click the green check to return to the Courses and Sessions screen.
+In order to populate courses with learner groups, the course must first be associated with the desired Program(s), as well as the desired learner cohorts within that program. Cohorts are listed by graduation year. If you select the program Doctor of Medicine - BRIDGES, and its cohort Class of 2027, then the course will now be eligible for population with any learner or learner group from that program / cohort. A course may be associated with any number of programs and cohorts, allowing for interdisciplinary courses as well as mixed level courses. In the example below, Doctor of Medicine >> Class of 2027 has been added to the course.
 
 #### **Selection Screen (Program Cohort)**
 
@@ -71,17 +71,17 @@ To add or remove Cohorts from a Course, click the Manage Cohorts button as shown
 
 ![Manage Cohorts](../../images/course_images/manage_cohorts.png)
 
-In this case, we want to add the Dentistry DDS Class of 2018 to this Course. Click on its label as shown below.
+In this case, we want to add the Doctor of Medicine - BRIDGES Class of 2026 to this Course. Click on its label as shown below.
 
 ![Select The Cohort](../../images/course_images/cohort_selector.png)
 
 **Courses and Sessions (after Cohort Selected)**
 
-![](../../images/course_images/cohort_added_confirm.png)
+![Confirm Cohort](../../images/course_images/cohort_added_confirm.png)
 
-Now that the action detailed above has taken place, the Class of 2018 has been successfully added to the Course as it is evident that both Cohorts are listed.
+Now that the action detailed above has taken place, the School of Medicine - BRIDGES - Class of 2026 has been successfully attached to the Course as shown below.
 
-![](../../images/course_images/cohort_added_in_list.png)
+![Cohort in List](../../images/course_images/cohort_added_in_list.png)
 
 #### Remove Cohort from Course
 

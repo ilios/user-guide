@@ -8,15 +8,15 @@ To enter a Course level Objective ...
 
 * Select a Course and open up the details.
 
-![](../../.gitbook/assets/show\_details\_btn.jpg)
+![Show Details](../../images/course_objectives/show_details.png)
 
 * Expand the Course Objectives list.
 
-![](../../.gitbook/assets/course\_obj\_collapsed.jpg)
+![Objectives - Collapsed](../../images/course_objectives/course_obj_collapsed.png)
 
 **1. Add New Course Objective**
 
-![](../../.gitbook/assets/add\_course\_obj2.jpg)
+![Add Objective](../../images/course_objectives/add_course_objective.png)
 
 **2. Enter Details**
 
@@ -28,10 +28,10 @@ When used, the competency and Objective tracking system allows for a complete st
 
 While all course level Objective information is directly associated with the course, in order to create a direct relationship between a course and a set of associated Competencies (and to have those competencies appear in the course information displayed to Ilios users), you must select a parent association from the available competency domains for one or more of your course Objectives.
 
-![](../../.gitbook/assets/add\_course\_obj3.jpg)
+![Enter text for new Course Objective](../../images/course_objectives/new_objective_description.png)
 
 **Updated Course Objective Counter**
 
 The newly added Course Objective gets appended to the list and the Objectives counter gets incremented by one to reflect the fact that this new one has been added.
 
-![Objectives Counter Updated](../../.gitbook/assets/add\_course\_obj4.jpg)
+![Objectives Counter Updated](../../images/course_objectives/updated_obj_count.png)

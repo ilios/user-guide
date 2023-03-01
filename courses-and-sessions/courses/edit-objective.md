@@ -4,25 +4,25 @@ The complete set of steps to edit a Course Objective are listed below.
 
 * Select a Course
 
-![](../../.gitbook/assets/crse_srch.png)
+![Select a Course](../../images/course_objectives/course_search.png)
 
 * Expand the Course Details
 
-![Expand the Details of this Course](../../.gitbook/assets/crs_details_show.png)
+![Expand the Details of this Course](../../images/course_objectives/course_details_show.png)
 
 * Expand the Objective List
 
-![](../../.gitbook/assets/crs_obj_expnd.png)
+![Click to show the list](../../images/course_objectives/course_objectives_expand.png)
 
 * To edit a Course Objective's Description, click on the Description and you can edit it from there.
 
-![Select Objective to Edit](../../.gitbook/assets/crs_obj_edit1.png)
+![Select Objective to Edit](../../images/course_objectives/course_objective_edit_1.png)
 
 ## Edit Description
 
 This is done in an inline editing style so you don't have to leave the page or lose the continuity of your work. This type of functionality is used in Ilios as much as possible for a more seamless interface experience.
 
-![](../../.gitbook/assets/crs_obj_edit2.png)
+![](../../images/course_objectives/course_objective_edit_2.png)
 
 * To maintain MeSH Term\(s\) and / or Vocabulary Terms associated with the Course Objective, follow the actions outlined in the screen shot series and steps detailed in the two upcoming sections below.
 

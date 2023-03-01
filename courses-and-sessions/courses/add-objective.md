@@ -28,7 +28,7 @@ When used, the competency and Objective tracking system allows for a complete st
 
 While all course level Objective information is directly associated with the course, in order to create a direct relationship between a course and a set of associated Competencies (and to have those competencies appear in the course information displayed to Ilios users), you must select a parent association from the available competency domains for one or more of your course Objectives.
 
-![](../../.gitbook/assets/add\_course\_obj3.jpg)
+![Enter text for new Course Objective](../../images/course_objectives/new_objective_description.png)
 
 **Updated Course Objective Counter**
 

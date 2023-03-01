@@ -8,11 +8,11 @@ To enter a Course level Objective ...
 
 * Select a Course and open up the details.
 
-![](../../.gitbook/assets/show\_details\_btn.jpg)
+![Show Details](../../images/course_objectives/show_details.png)
 
 * Expand the Course Objectives list.
 
-![](../../.gitbook/assets/course\_obj\_collapsed.jpg)
+![Objectives - Collapsed](../../images/course_objectives/course_obj_collapsed.png)
 
 **1. Add New Course Objective**
 

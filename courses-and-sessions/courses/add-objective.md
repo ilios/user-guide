@@ -34,4 +34,4 @@ While all course level Objective information is directly associated with the cou
 
 The newly added Course Objective gets appended to the list and the Objectives counter gets incremented by one to reflect the fact that this new one has been added.
 
-![Objectives Counter Updated](../../.gitbook/assets/add\_course\_obj4.jpg)
+![Objectives Counter Updated](../../images/course_objectives/updated_obj_count.png)

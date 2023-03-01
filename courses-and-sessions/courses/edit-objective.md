@@ -48,33 +48,29 @@ Once the Save action is completed, the screen refreshes to show the MeSH Term no
 
 This process is similar to the one detailed above attaching MeSH Terms to Course Objectives. Using the same Course Objective as in the previous section, this process is started as shown below.
 
-![Click "Add New" to start the process](../../.gitbook/assets/addvocab1.png)
-
-![](../../.gitbook/assets/addvocab2.png)
+![Click "Add New" to start the process](../../images/course_objectives/addvocab1.png)
 
 #### Select Vocabulary
 
 For this example, we would like to choose from the Vocabulary set "Topics". 
 
-![](../../.gitbook/assets/addvocab3.png)
+![Select Vocabulary](../../images/course_objectives/addvocab2.png)
 
 The screen now refreshes with the Terms in the Vocabulary set "Topics" displayed and ready for selection and review.
 
-![](../../.gitbook/assets/addvocab4.png)
+![](../../images/course_objectives/addvocab3.png)
 
 The list of Terms available for selection can be filtered by entering a text value as shown below. Entering the search / filter criteria of "health c" yields the results shown below.
 
-![](../../.gitbook/assets/addvocab5%20%281%29.png)
-
 Select "Health Care Quality Improvement" by clicking on the "+" icon button as shown below.
 
-![](../../.gitbook/assets/addvocab5.png)
+![](../../images/course_objectives/addvocab4.png)
 
 The screen adjusts to reflect this recent action. The newly added Term can be removed by clicking on the red "X" button on the label. The changes can be confirmed or rejected using the standard Save or Cancel buttons
 
-![](../../.gitbook/assets/addvocab6.png)
+![](../../images/course_objectives/addvocab5.png)
 
 After confirming the addition of the Term selected, both the MeSH Term added in the previous section and the Vocabulary Term recently added appear as shown below.
 
-![](../../.gitbook/assets/addvocab7.png)
+![](../../images/course_objectives/addvocab6.png)
 

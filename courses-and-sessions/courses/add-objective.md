@@ -16,7 +16,7 @@ To enter a Course level Objective ...
 
 **1. Add New Course Objective**
 
-![](../../.gitbook/assets/add\_course\_obj2.jpg)
+![Add Objective](../../images/course_objectives/add_course_objective.png)
 
 **2. Enter Details**
 

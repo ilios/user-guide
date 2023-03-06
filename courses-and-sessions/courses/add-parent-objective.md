@@ -6,7 +6,7 @@ To associate one or more Parent Objectives (Program Year level) to a Course Obje
 
 * Find and a Course from Courses and Sessions
 
-![](../../.gitbook/assets/search\_for\_course.jpg)
+![](../../images/course_objectives/search_for_course.jpg)
 
 * Click **Show Details (+)** to expand the Course and see the details
 * Review the Course Details and expand the screen to display the full list of Course Objectives as shown below.

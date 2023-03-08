@@ -10,7 +10,7 @@ Visualization are graphs and charted information intended to help make informed 
 
 One of the available charts displays the usage of Objectives and how frequently they are utilized in a Course ... or more importantly let you know when they are not being used.
 
-![](../../.gitbook/assets/crs\_vw\_1.png)
+![Go to Course Visualizations](../../images/course_visualizations/crs_vw_1.png)
 
 After clicking on the graph icon as shown above, you will see a screen similar to the following with (at the time of update) four different visualizations available to review.
 

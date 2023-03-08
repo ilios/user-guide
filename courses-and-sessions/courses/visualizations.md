@@ -25,7 +25,7 @@ Course Visualizations available ...
 * ****[**Vocabularies**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#vocabularies)****
 * ****[**Instructors**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#instructors)****
 
-![](../../.gitbook/assets/crs\_visualizations1.png)
+![visualization Starting Point](../../images/course_visualizations/crs_visualizations1.png)
 
 ### Objectives
 

@@ -55,7 +55,7 @@ The Session Types visualization is laid out horizontally rather than in a pie ch
 
 Clicking the "Discussion, Small Group (<=12)" link on the horizontal bar chart will guide you into additional details regarding those sessions. You can review Vocabulary Terms associated with the specified Session Type.
 
-![Session Types (lower level)](../../.gitbook/assets/voc\_term\_viz2.png)
+![Session Types (lower level)](../../images/course_visualizations/voc_term_viz2.png)
 
 ### Vocabularies
 

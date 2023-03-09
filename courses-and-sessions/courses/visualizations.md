@@ -63,11 +63,11 @@ The Vocabularies visualization shows how the Vocabularies set up for your school
 
 Initially the visualization displays all of the used Vocabulary libraries for this course. To get to the details, it is necessary to click on the Vocabulary to be reviewed.
 
-![Vocabulary Visualization (top level)](../../.gitbook/assets/vocab\_viz1.png)
+![Vocabulary Visualization (top level)](../../images/course_visualizations/vocab_viz1.png)
 
 After clicking on "UCSF 49", which is one of UCSF SOM school-specific Vocabularies, you can drill down into the results.
 
-![Vocabulary Visualization (lower level)](../../.gitbook/assets/vocab\_viz2.png)
+![Vocabulary Visualization (lower level)](../../images/course_visualizations/vocab_viz2.png)
 
 In the example presented above, the mouse is hovering over one of the UCSF 49 Vocabulary terms (Bleeding Disorders). Displayed is the percentage of the total instructional time of the sessions that were tagged with UCSF 49 Vocabulary terms that were tagged with "Bleeding Disorders", along with the duration of these offerings and the listing of the associated Sessions.
 

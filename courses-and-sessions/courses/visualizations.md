@@ -41,15 +41,15 @@ The Objectives visualization includes a data table to review the information pre
 
 **Sort Order One - Percentage (Descending)**
 
-![](../../images/Obj_Data_Table_Top_1.png)
+![Sort by Percentage descending](../../images/course_visualizations/Obj_Data_Table_Top_1.png)
 
 **Sort Order Two - Competency (Ascending)**
 
-![](../../images/Obj_Data_Table_Top_2.png)
+![Sort by Competency descending](../../images/course_visualizations/Obj_Data_Table_Top_2.png)
 
 ### Session Types
 
-The Session Types visualization is laid out horizontally rather than in a pie chart like the Objectives visualization in the section above. In the example below, I am hovering over a specific Session Type to review the usage specific of that session type in this particular course.&#x20;
+The Session Types visualization is laid out horizontally rather than in a pie chart like the Objectives visualization in the section above. In the example below, I am hovering over a specific Session Type to review the usage specific of that session type in this particular course.
 
 ![Session Types (higher level)](../../.gitbook/assets/sess\_type\_viz1.png)
 

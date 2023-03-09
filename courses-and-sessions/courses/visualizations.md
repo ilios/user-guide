@@ -51,11 +51,11 @@ The Objectives visualization includes a data table to review the information pre
 
 The Session Types visualization is laid out horizontally rather than in a pie chart like the Objectives visualization in the section above. In the example below, I am hovering over a specific Session Type to review the usage specific of that session type in this particular course.
 
-![Session Types (higher level)](../../.gitbook/assets/sess\_type\_viz1.png)
+![Session Types (higher level)](../../images/course_visualizations/sess_type_viz1.png)
 
 Clicking the "Discussion, Small Group (<=12)" link on the horizontal bar chart will guide you into additional details regarding those sessions. You can review Vocabulary Terms associated with the specified Session Type.
 
-![Session Types (lower level)](../../.gitbook/assets/voc\_term\_viz2.png)
+![Session Types (lower level)](../../images/course_visualizations/voc_term_viz2.png)
 
 ### Vocabularies
 
@@ -63,11 +63,11 @@ The Vocabularies visualization shows how the Vocabularies set up for your school
 
 Initially the visualization displays all of the used Vocabulary libraries for this course. To get to the details, it is necessary to click on the Vocabulary to be reviewed.
 
-![Vocabulary Visualization (top level)](../../.gitbook/assets/vocab\_viz1.png)
+![Vocabulary Visualization (top level)](../../images/course_visualizations/vocab_viz1.png)
 
 After clicking on "UCSF 49", which is one of UCSF SOM school-specific Vocabularies, you can drill down into the results.
 
-![Vocabulary Visualization (lower level)](../../.gitbook/assets/vocab\_viz2.png)
+![Vocabulary Visualization (lower level)](../../images/course_visualizations/vocab_viz2.png)
 
 In the example presented above, the mouse is hovering over one of the UCSF 49 Vocabulary terms (Bleeding Disorders). Displayed is the percentage of the total instructional time of the sessions that were tagged with UCSF 49 Vocabulary terms that were tagged with "Bleeding Disorders", along with the duration of these offerings and the listing of the associated Sessions.
 
@@ -77,21 +77,18 @@ More details will be coming regarding the Instructors visualization. It function
 
 Here is the top level view of the Instructors Visualization in a course that has completed. You can see how many instructors are going to be included in the horizontal bar chart.
 
-![Instructors Visualization (top level)](../../.gitbook/assets/instr\_top\_lvl.png)
+![Instructors Visualization (top level)](../../images/course_visualizations/instr_top_lvl.png)
 
 After clicking the donut chart above, the bar chart appears as shown below. In this example, the user is hovering over the data for "Julie Christina Lewis", however the bar representing the data pertaining to her teaching activity would be very hard to find given how many instructors performed instructional duties in this course.
 
-![Instructors Visualization (lower level)](../../.gitbook/assets/instr\_low\_lvl.png)
+![Instructors Visualization (lower level)](../../images/course_visualizations/instr_low_lvl.png)
 
 **Use the Filter**
 
 Using the example presented above, we will filter to focus in on the results of the instructor whose teaching details we wish to view.
 
-![Instructors Visualization (post-filter)](../../.gitbook/assets/instr\_low\_lvl3.png)
+![Instructors Visualization (post-filter)](../../images/course_visualizations/instr_low_lvl3.png)
 
 Following the steps outlined above, we now see the details of the teaching activities for the selected instructor. We can also review the type of sessions as well as the Vocabulary Terms associated with those sessions for which Julie Christina Lewis was the instructor. Also there is a breakdown of Total Instructional Time along with the total for asynchronous learning (ILM instruction).
 
-![](../../.gitbook/assets/instr\_low\_lvl4.png)
-
-
-
+![](../../images/course_visualizations/instr_low_lvl4.png)

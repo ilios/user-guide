@@ -81,17 +81,14 @@ Here is the top level view of the Instructors Visualization in a course that has
 
 After clicking the donut chart above, the bar chart appears as shown below. In this example, the user is hovering over the data for "Julie Christina Lewis", however the bar representing the data pertaining to her teaching activity would be very hard to find given how many instructors performed instructional duties in this course.
 
-![Instructors Visualization (lower level)](../../.gitbook/assets/instr\_low\_lvl.png)
+![Instructors Visualization (lower level)](../../images/course_visualizations/instr_low_lvl.png)
 
 **Use the Filter**
 
 Using the example presented above, we will filter to focus in on the results of the instructor whose teaching details we wish to view.
 
-![Instructors Visualization (post-filter)](../../.gitbook/assets/instr\_low\_lvl3.png)
+![Instructors Visualization (post-filter)](../../images/course_visualizations/instr_low_lvl3.png)
 
 Following the steps outlined above, we now see the details of the teaching activities for the selected instructor. We can also review the type of sessions as well as the Vocabulary Terms associated with those sessions for which Julie Christina Lewis was the instructor. Also there is a breakdown of Total Instructional Time along with the total for asynchronous learning (ILM instruction).
 
-![](../../.gitbook/assets/instr\_low\_lvl4.png)
-
-
-
+![](../../images/course_visualizations/instr_low_lvl4.png)

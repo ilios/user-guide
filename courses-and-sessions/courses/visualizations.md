@@ -77,7 +77,7 @@ More details will be coming regarding the Instructors visualization. It function
 
 Here is the top level view of the Instructors Visualization in a course that has completed. You can see how many instructors are going to be included in the horizontal bar chart.
 
-![Instructors Visualization (top level)](../../.gitbook/assets/instr\_top\_lvl.png)
+![Instructors Visualization (top level)](../../images/course_visualizations/instr_top_lvl.png)
 
 After clicking the donut chart above, the bar chart appears as shown below. In this example, the user is hovering over the data for "Julie Christina Lewis", however the bar representing the data pertaining to her teaching activity would be very hard to find given how many instructors performed instructional duties in this course.
 

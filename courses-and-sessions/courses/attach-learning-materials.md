@@ -14,11 +14,11 @@ Just select one of the results and it will be attached to the Course. The proces
 
 **Perform Search**
 
-![](../../.gitbook/assets/search\_for\_course\_lm.jpg)
+![Search for LM](../../images/course_learning_materials/search_for_course_lm.jpg)
 
 **Select File to Attach**
 
-![](../../.gitbook/assets/search\_for\_course\_lm\_2.jpg)
+![Select LM](../../images/course_learning_materials/search\_for\_course\_lm\_2.jpg)
 
 **See Results of Action and Modify Available Meta-Data**
 

@@ -24,15 +24,15 @@ Just select one of the results and it will be attached to the Course. The proces
 
 Dismiss the search window as shown below.
 
-![](../../.gitbook/assets/clear\_search\_box.jpg)
+![Clear the search box](../../images/course_learning_materials/clear_search_box.jpg)
 
 It is evident that the file has now been attached to the Course. It is the fourth item in the list.
 
-![](../../.gitbook/assets/course\_lm\_attached.jpg)
+![File - attached](../../images/course_learning_materials/course_lm_attached.jpg)
 
 Click on the Display Name to view more details and to modify some information about the attachment of this file to the Course. Many attributes of the file itself cannot be modified. The properties of these [field descriptions](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/attach-learning-materials#field-descriptions) are below.
 
-![](../../.gitbook/assets/course\_lm\_attached\_2.jpg)
+![Click for more](../../images/course_learning_materials/course_lm_attached_2.jpg)
 
 ## Field Descriptions
 
@@ -55,7 +55,7 @@ Click on the Display Name to view more details and to modify some information ab
 * _**\[file size]:**_ For uploaded files, the size in KB. Non-editable. Provided by system.
 * _**\[file type]:**_ - For uploaded files, the file mime-type / extension. Non-editable. Provided by system.  Allowed file types include:  aiff, avi, csv, doc, docx, gif, gz, html, jpeg, jpg, mov, mp3, mp4, mpg, pdf, png, ppt, pptx, rtf, swf, tar, tiff, txt, wav, word, wmv,  xls, xlsx, xml, zip.
 
-![](../../.gitbook/assets/add\_course\_lm\_3.jpg)
+![Add Course LM details](../../iamges/course_learning_materials/add_course_lm_3.jpg)
 
 ### Description
 
@@ -86,4 +86,4 @@ For lectures and other similar media, where the likely method of delivery is str
 * _**Instructional Notes:**_ Free-text entry field to allow commentary and instruction for the Learning Materials. Notes may be set to be visible to all users, or set as visible only to instructional faculty/staff. Notes provided are unique to a given instance of use for any Learning Materials.
 * _**Show Notes to Students:**_ Indicates whether or not the optional notes entered in the Instructional Notes field (described above) are displayed to students or not.
 * _**Timed Release**_** (Add Start Date / Add End Date):** This allows for Learning Materials to be displayed to students for a specified range of dates. This can be either Start Date or End Date or both. The Learning Materials must be in a Final or Revised state to be displayed.
-* _**MeSH Terms (Select MeSH for:):**_ Selected by searching the MeSH database. MeSH terms selected are unique to a given instance of use for any Learning Materials.&#x20;
+* _**MeSH Terms (Select MeSH for:):**_ Selected by searching the MeSH database. MeSH terms selected are unique to a given instance of use for any Learning Materials.

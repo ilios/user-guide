@@ -12,7 +12,7 @@ An example of a Course that can be rolled over is shown below.
 
 To roll a Course over, click the Course Rollover icon as shown below.
 
-![](../../.gitbook/assets/rollover_icon.png)
+![Click as shown](../../images/course_rollover/rollover_icon.png)
 
 Once the button icon has been clicked in the previous step, the screen changes to the following with two options ...
 
@@ -21,15 +21,15 @@ Once the button icon has been clicked in the previous step, the screen changes t
 
 These options are described in the screen shot below.
 
-![](../../.gitbook/assets/rollover_course.png)
+![Review the options](../../images/course_rollover/rollover_course.png)
 
 Once the Course has been rolled over, you can go and fix up the newly created Course. You will be taken to the new Course automatically. In this example, Option \#1 \(the default\) was performed along with the selection of the Cohort to be assigned to the newly created Course.
 
-![](../../.gitbook/assets/rollover_course_2.png)
+![Course Rollover](../../images/course_rollover/rollover_course_2.png)
 
 Here is the newly created Course.
 
-![](../../.gitbook/assets/rollover-course_3.png)
+![New Course created](../../images/course_rollover/rollover-course_3.png)
 
 ## Roll Course Over Into Current \(Same\) Year
 
@@ -43,29 +43,29 @@ To do this ...
 
 * Select a Course that needs to be rolled over into the Current year.
 
-![](../../.gitbook/assets/same_year_rollover_1.jpg)
+![Select Course](../../images/course_rollover/same_year_rollover_1.jpg)
 
 * Click on the Rollover Icon to start the process.
 
-![](../../.gitbook/assets/same_year_rollover_2.jpg)
+![Click the icon](../../images/course_rollover/same_year_rollover_2.jpg)
 
 * Notice that the drop-down selector indicates "Course Already Exists"
 
-![](../../.gitbook/assets/same_year_rollover_3.jpg)
+![Review](../../images/course_rollover/same_year_rollover_3.jpg)
 
 * Change the Title of the Course being created by the Rollover as shown below.
 
-![](../../.gitbook/assets/same_year_rollover_4.jpg)
+![Change Course's Name (title)](../../images/course_rollover/same_year_rollover_4.jpg)
 
 * Click Advanced Options and select the Date the new Course is set to start.  The choices in the date picker are automatically limited to the same day of the week as the current Course Start Date.  This is to ensure Offerings are scheduled during the same days of the week as the Offerings of the previous Course.
 
-![](../../.gitbook/assets/same_year_rollover_5.jpg)
+![Set new Course start date](../../images/course_rollover/same_year_rollover_5.jpg)
 
 * Click Done and that's it.  Review the results and make modifications to the newly created Course as needed.
 
 You will be routed automatically to the new Course.
 
-![](../../.gitbook/assets/same_year_rollover_6.jpg)
+![Success - Review new Course](../../images/course_rollover/same_year_rollover_6.jpg)
 
 ## Roll Course Over Into Previous Year
 

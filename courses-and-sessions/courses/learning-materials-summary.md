@@ -4,17 +4,17 @@ A recent new feature of Ilios is the Learning Materials Summary, which for the C
 
 To go to the Learning Materials Summary, pull up a Course and click the correct icon as shown below.
 
-![](../../.gitbook/assets/lmsumrw1.png)
+![Click as shown](../../images/course_learning_materials/lmsumrw1.png)
 
 The available sorting and filtering options are shown below.
 
-![](../../.gitbook/assets/lmsumrw2.png)
+![Sorting and Filtering Options shown](../../images/course_learning_materials/lmsumrw2.png)
 
 **Filters and Sorting Demonstrated:**
 
 A **Course** level search is performed below with the matches circled. 
 
-![Course Level Search](../../.gitbook/assets/lmsumrw3.png)
+![Course Level Search](../../images/course_learning_materials/lmsumrw3.png)
 
 A **Session** level search is shown below.
 
@@ -22,7 +22,7 @@ In the example shown below, a Session level search was performed for "histology"
 
 The search results for "histology" are outlined in orange oval outlining.
 
-![](../../.gitbook/assets/lm_summary_filter.jpg)
+![Search applied ...](../../images/course_learning_materials/lm_summary_filter.jpg)
 
 Any of the Learning Materials can be accessed by clicking on the URL link located under the "Title" header.
 

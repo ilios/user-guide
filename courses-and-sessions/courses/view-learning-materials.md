@@ -8,15 +8,15 @@ Web links can be followed with a click of the mouse. Citations can be viewed rig
 
 * Click on the Calendared event as shown below to go to Event Detail.
 
-![](../../.gitbook/assets/lm\_view\_1.jpg)
+![Click on the Calendar event](../../images/course_learning_materials/lm_view_1.jpg)
 
-* The options for two different LM types is shown below. The .pdf file can be downloaded or viewed inline; whereas the Web Link can only be followed and viewed in the browser.
+* The viewing options are shown below. The .pdf file can be downloaded or viewed inline; whereas the Web Link can only be followed and viewed in the browser.
 
-![](../../.gitbook/assets/lm\_view\_2.jpg)
+![Options shown](../../images/course_learning_materials/lm_view_2.jpg)
 
 **Icons Explained**
 
-![](../../.gitbook/assets/lm\_icons.jpg)
+![Icons](../../images/course_learning_materials/lm_icons.jpg)
 
 ### 2. Download File (available for any file)
 
@@ -26,9 +26,9 @@ In the past, this was the default behavior for all files. Now .pdf files have be
 
 This is only for users with advanced permissions over the Course or Session associated with this Learning Material object. The link to any Learning Material (file or not) can be copied to the user's clipboard and used elsewhere. Please refer to the [Permissions Matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) for more information on user roles.
 
-![](<../../.gitbook/assets/lm\_view1 (1).png>)
+![Click to select](../../images/course_learning_materials/lm_view1.png)
 
-![](../../.gitbook/assets/lm\_view2.png)
+![View details](../../images/course_learning_materials/lm_view2.png)
 
 The link is now available to be pasted either by menu item (where available) or keyboard command (ctrl-C / cmd-C).
 

@@ -55,7 +55,7 @@ Click on the Display Name to view more details and to modify some information ab
 * _**\[file size]:**_ For uploaded files, the size in KB. Non-editable. Provided by system.
 * _**\[file type]:**_ - For uploaded files, the file mime-type / extension. Non-editable. Provided by system.  Allowed file types include:  aiff, avi, csv, doc, docx, gif, gz, html, jpeg, jpg, mov, mp3, mp4, mpg, pdf, png, ppt, pptx, rtf, swf, tar, tiff, txt, wav, word, wmv,  xls, xlsx, xml, zip.
 
-![Add Course LM details](../../iamges/course_learning_materials/add_course_lm_3.jpg)
+![Add Course LM details](../../images/course_learning_materials/add_course_lm_3.jpg)
 
 ### Description
 

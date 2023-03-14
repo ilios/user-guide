@@ -25,7 +25,7 @@ Course Visualizations available ...
 * ****[**Vocabularies**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#vocabularies)****
 * ****[**Instructors**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#instructors)****
 
-![visualization Starting Point](../../images/course_visualizations/crs_visualizations1.png)
+![Visualization - starting point](../../images/course_visualizations/crs_visualizations1.png)
 
 ### Objectives
 
@@ -91,4 +91,4 @@ Using the example presented above, we will filter to focus in on the results of 
 
 Following the steps outlined above, we now see the details of the teaching activities for the selected instructor. We can also review the type of sessions as well as the Vocabulary Terms associated with those sessions for which Julie Christina Lewis was the instructor. Also there is a breakdown of Total Instructional Time along with the total for asynchronous learning (ILM instruction).
 
-![](../../images/course_visualizations/instr_low_lvl4.png)
+![Instructor detail view](../../images/course_visualizations/instr_low_lvl4.png)

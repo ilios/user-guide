@@ -6,7 +6,7 @@ Click as shown below to start the process of adding a new session.
 
 ![first step - click to start](../../images/add_new_session/add_new_session_start.png)
 
-The entry fields now be come enabled and visible. Enter the Title and select the Session Type for the new session as shown below.
+The entry fields now become enabled and visible. Enter the Title and select the Session Type for the new session as shown below.
 
 ![add Title and Save](../../images/add_new_session/add_title.png)
 

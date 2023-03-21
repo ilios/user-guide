@@ -26,7 +26,7 @@ After dropping the Objective, the list is re-sorted as shown below. Click `"Save
 
 After click the green Save button, a splash screen like the following appears briefly. After it disappears the screen will revert to its original expanded appearance.
 
-![](../../.gitbook/assets/splash_screen.jpg)
+![Saving ...](../../images/sort_session_objectives/splash_screen.jpg)
 
 ![](../../.gitbook/assets/sort_sess_obj_6.jpg)
 

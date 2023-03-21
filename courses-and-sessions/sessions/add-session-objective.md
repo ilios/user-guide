@@ -8,28 +8,28 @@ To enter a Session level Objective, follow the steps detailed below.
 
 **1. Go To Courses and Sessions**
 
-![](<../../.gitbook/assets/cs\_rw\_1 (1).png>)
+![Open Courses and Sessions](../../images/add_session_objective/open_courses_and_sessions.png)
 
 **2. Search for and select the Course**
 
-![](<../../.gitbook/assets/cs\_rw\_2 (1).png>)
+![Select Course](../../images/add_session_objective/select_course.png)
 
 **3. Search for and select the Session**
 
-![Choose Session](../../.gitbook/assets/cs\_rw\_3.png)
+![Select Session](../../images/add_session_objective/select_session.png)
 
-**4. Click to expand the existing Session Objectives**&#x20;
+**4. Click to expand the existing Session Objectives**
 
-![Expand Session Objective List](<../../.gitbook/assets/cs\_rw\_4 (1).png>)
+![Expand Session Objective List](../../images/add_session_objective/expand_obj_list.png)
 
-**5. Click to add new**&#x20;
+**5. Click to add new**
 
-![Add new Session Objective](../../.gitbook/assets/cs\_rw\_5.png)
+![Add new Session Objective](../../images/add_session_objective/add_sess_obj.png)
 
 **6. Enter the Session Objective Details**
 
-![](<../../.gitbook/assets/cs\_rw\_6 (1).png>)
+![Enter Objective text](../../images/add_session_objective/enter_text.png)
 
 Once the save has been processed, the Objective counter is incremented to include the Objective that was just entered. The new Objective is appended to the bottom of the list.
 
-![Adds one to the counter](../../.gitbook/assets/cs\_rw\_7.png)
+![Adds one to the counter](../../images/add_session_objective/counter_adjusted.png)

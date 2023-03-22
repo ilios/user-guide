@@ -10,15 +10,15 @@ Before uploading a potential duplicate Learning Material file, link, or citation
 
 #### Search for Learning Material (LM)
 
-In this example, a search was performed for "Anatomy". Any of the resulting LM's can be attached to the Session by clicking anywhere in the area corresponding to the LM.
+In this example, a search was performed for "Anatomy". Any of the resulting LM's can be attached to the Session by clicking anywhere in the area corresponding to the LM. 
 
-![](../../.gitbook/assets/search\_for\_session\_lm.jpg)
+![Search for "Anatomy"](../../images/attach_session_learning_material/search_for_session_lm.jpg)
 
 After selecting the one as indicated above, it has now become attached to this Session as shown below.
 
 **NOTE:** Now that there are multiple Learning Materials attached to the Session, the `Sort Materials` button is available and activated. This is covered later.
 
-![](../../.gitbook/assets/attach\_session\_lm.jpg)
+![LM now attached](../../images/attach_session_learning_material/attach_session_lm.jpg)
 
 **See Results of Action and Modify Available Meta-Data**
 
@@ -26,7 +26,7 @@ As seen above, the file has now been attached to this Session. Click on the Disp
 
 Refer to the screen shot below for details.
 
-![](../../.gitbook/assets/session\_lm\_details.jpg)
+![Details shown](../../images/attach_session_learning_material/session_lm_details.jpg)
 
 ### Add New Learning Material to a Session
 
@@ -87,4 +87,4 @@ For lectures and other similar media, where the likely method of delivery is str
 * _**Instructional Notes:**_ Free-text entry field to allow commentary and instruction for the Learning Materials. Notes may be set to be visible to all users, or set as visible only to instructional faculty/staff. Notes provided are unique to a given instance of use for any Learning Materials.
 * _**Show Notes to Students:**_ Indicates whether or not the optional notes entered in the Instructional Notes field (described above) are displayed to students or not.
 * _**Timed Release**_** (Add Start Date / Add End Date):** This allows for Learning Materials to be displayed to students for a specified range of dates. This can be either Start Date or End Date or both. The Learning Materials must be in a Final or Revised state to be displayed.
-* _**MeSH Terms (Select MeSH for:):**_ Selected by searching the MeSH database. MeSH terms selected are unique to a given instance of use for any Learning Materials.&#x20;
+* _**MeSH Terms (Select MeSH for:):**_ Selected by searching the MeSH database. MeSH terms selected are unique to a given instance of use for any Learning Materials.

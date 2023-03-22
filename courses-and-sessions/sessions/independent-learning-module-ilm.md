@@ -114,15 +114,15 @@ The lower part of the screen is shown below. Any (or all) of the following Sessi
 
 After clicking the "Manage Learners" button as shown in the screen shot above, follow the steps outlined below. Keep in mind that if this Session has attached Offerings with Learner Groups attached, this is a separate process. It is necessary to attach Learner Groups or Individual Learners and Instructors or Instructor Groups specifically to this ILM being created or no one will know it exists.
 
-![](../../.gitbook/assets/rw\_ilm7.png)
+![Select Learner Group](../../images/ilm/select_lg.png)
 
 Now that (in this example) H\&I Exam Groups has been selected, the display has been updated to reflect this selection. Now that the higher level group H\&I Exam and all 6 of its Sub Groups have been attached to this ILM Session, the Sub Groups can be removed individually or they can be removed all at the same time. These options are illustrated below.
 
-![](../../.gitbook/assets/rw\_ilm8.png)
+![Sub Groups can be removed individually](../../images/ilm/indiv_sub_removal.png)
 
 For the sake of documentation and to demonstrate, choosing Option 2 leads to the following results.
 
-![](../../.gitbook/assets/rw\_ilm9.png)
+![Sub Group removed](../../images/ilm/sub_removed.png)
 
 Clicking "Remove All" (Option 1) would have removed all of the Sub Groups and the higher level group back to "Available Learner Groups", thus removing all of these groups from the ILM Session.
 
@@ -130,11 +130,11 @@ Clicking "Remove All" (Option 1) would have removed all of the Sub Groups and th
 
 Below is a screen shot featuring several containers for reference.
 
-![](../../.gitbook/assets/rw\_ilm10.png)
+![Containers shown](../../images/ilm/containers_shown.png)
 
 After saving (clicking the green check box button), the Learner Groups counter updates as shown below to reflect the total count of attached Learner Groups.
 
-![](../../.gitbook/assets/rw\_ilm11.png)
+![Counter updated](../../images/ilm/counter_updated.png)
 
 ## Manage Individual Learners
 

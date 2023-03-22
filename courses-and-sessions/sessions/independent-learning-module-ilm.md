@@ -68,29 +68,29 @@ Following the instructions shown above for changing the due date and / or time o
 
 It is also possible to link an ILM to an upcoming Session offering. This way the student will know to complete the activities required by the ILM before attending the learning activity to which the Learner is assigned.
 
-![](../../.gitbook/assets/ilm\_screen1.png)
+![Click to link](../../images/ilm/ilm_screen1.png)
 
 After clicking as shown above, select the Session (in the same Course) to which this ILM should be linked.
 
 A handy scrollable and searchable grid appears for the selection process to take place. All sessions in the current course are displayed and available for selection. The location of the mouse is an example of where the session can be clicked. Anywhere in the row or on the "+" button is fine.
 
-![](../../.gitbook/assets/ilm\_screen2.png)
+![Select the Session](../../images/ilm/ilm_screen2.png)
 
 After the "Ischemic Injury 06/25/2020 10:00 AM" Session gets selected, it can be attached to the ILM.
 
 **NOTE**: The first offering date is included in the grid to make it easier to select the correct Session.
 
-![](../../.gitbook/assets/ilm\_screen3.png)
+![Due Prior to Session selected](../../images/ilm/ilm_screen3.png)
 
 After clicking the green Done button to confirm ...
 
-![](../../.gitbook/assets/ilm\_screen4.png)
+![Session now linked](../../images/ilm/ilm_screen4.png)
 
 As mentioned elsewhere, these linked ILM's appear in the top portion of the Week At A Glance. If you are viewing the Calendar, the linked ILM's will appear below the actual calendar.
 
 Here is a filtered view from Courses and Sessions showing how this looks from that perspective.
 
-![](../../.gitbook/assets/ilm\_screen5.png)
+![Session List shown](../../images/ilm/ilm_screen5.png)
 
 The lower part of the screen is shown below. Any (or all) of the following Session-level attributes may be added here ...
 
@@ -106,7 +106,7 @@ The lower part of the screen is shown below. Any (or all) of the following Sessi
 * **MeSH**: Associate MeSH Terms to the Session
 * **Offerings** (ILM's can have associated Offerings but frequently do not since this is normally asynchronous learning that is performed by students outside of the classroom setting).
 
-![](../../.gitbook/assets/ilm\_screen6.png)
+![ILM - more details](../../images/ilm/ilm_screen6.png)
 
 ## Manage Learner Groups
 

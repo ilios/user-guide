@@ -18,11 +18,21 @@ An example of #2 is shown below. The icon indicating that an ILM is linked to an
 
 #### Linked ILM - All Weeks
 
-<figure><img src="../../.gitbook/assets/showing_pre_work.png" alt=""><figcaption><p>All Weeks Linked ILM's</p></figcaption></figure>
+<figure>
+  <img src="../../images/ilm/showing_pre_work.png" alt="Pre-work exists">
+  <figcaption>
+    <p>All Weeks Linked ILM's</p>
+  </figcaption>
+</figure>
 
 In the example shown above, the student will need to click the link to "Hemostasis Module (Part 4)" in order to have access to the Learning Materials (activities) associated with that ILM. The "Hemostasis Module (Part 4)" ILM is linked to the Session entitled "Antithrombotics", which takes place at 10:50 AM on Wednesday. The student can access the progress checking boxes from the ILM. Here is how that appears in Event Detail of the target session.
 
-<figure><img src="../../.gitbook/assets/session_all_weeks.png" alt=""><figcaption></figcaption></figure>
+<figure>
+  <img src="../../images/ilm/linked_ILMs.png" alt="Event Detail">
+    <figcaption>
+    <p>Linked ILM Learning Material Activities</p>
+  </figcaption>
+</figure>
 
 The check box for the Learning Material "Hemostasis Module Part 4: Drugs" appears in the check box state of "completed", meaning the student has reviewed and processed this learning material's contents. It appears in more of a greyed out appearance on the target session but is more blue colored when accessed on the ILM (formerly known as Pre-work) itself.
 
@@ -32,19 +42,19 @@ Also, it is important to note that the background color on the Calendar will ref
 
 To create an ILM ...
 
-![](../../.gitbook/assets/fndcrs1.png)
+![Select Course](../../images/ilm/find_course.png)
 
-![](../../.gitbook/assets/fndcrs2.png)
+![Add Session](../../images/ilm/add_session.png)
 
-![](../../.gitbook/assets/fndcrs3.png)
+![Add details](../../images/ilm/add_session_details.png)
 
-![](../../.gitbook/assets/fndcrs4.png)
+![Open Session](../../images/ilm/open_session.png)
 
 ### ILM with Due Date / Time
 
 In the case below, the ILM was set with a Due Date of 7/28/2020. Once the Session is published, the ILM will appear on the Learner's calendar in a 15 minute time-slot at the specified time of day on the Due Date (7/28/2020).
 
-![](../../.gitbook/assets/ilm1.png)
+![Edit options for ILM](../../images/ilm/edit_options.png)
 
 It is important to note that one or more Learner Groups or Individual Learners must be added to ILM's so students will see the offerings on their calendars. The ILM (like any other type of session) must also be published.
 
@@ -52,7 +62,7 @@ It is important to note that one or more Learner Groups or Individual Learners m
 
 Following the instructions shown above for changing the due date and / or time of an ILM, the following controls appear to handle this task. Either or both can be modified as shown below. In this situation, the date field has been clicked, calling up the date picker control. Due time is controlled by changing the values in the drop-down menus.
 
-![](../../.gitbook/assets/due\_dt\_time.png)
+![Due Date/Time](../../images/ilm/due_dt_time.png)
 
 ### ILM Linked to Session
 
@@ -66,7 +76,7 @@ A handy scrollable and searchable grid appears for the selection process to take
 
 ![](../../.gitbook/assets/ilm\_screen2.png)
 
-After the "Ischemic Injury 06/25/2020 10:00 AM" Session gets selected, it can be attached to the ILM.&#x20;
+After the "Ischemic Injury 06/25/2020 10:00 AM" Session gets selected, it can be attached to the ILM.
 
 **NOTE**: The first offering date is included in the grid to make it easier to select the correct Session.
 
@@ -76,7 +86,7 @@ After clicking the green Done button to confirm ...
 
 ![](../../.gitbook/assets/ilm\_screen4.png)
 
-As mentioned elsewhere, these linked ILM's appear in the top portion of the Week At A Glance. If you are viewing the Calendar, the linked ILM's will appear below the actual calendar.&#x20;
+As mentioned elsewhere, these linked ILM's appear in the top portion of the Week At A Glance. If you are viewing the Calendar, the linked ILM's will appear below the actual calendar.
 
 Here is a filtered view from Courses and Sessions showing how this looks from that perspective.
 

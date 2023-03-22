@@ -38,9 +38,9 @@ As listed below, there are three types of Learning Materials that can be uploade
 * Web Link
 * Citation
 
-![](../../.gitbook/assets/add\_course\_lm\_1.jpg)
+![Select LM type](../../images/attach_session_learning_material/select_type.jpg)
 
-![](../../.gitbook/assets/add\_course\_lm\_2.jpg)
+!["File" selected](../../images/attach_session_learning_material/file_type_selected.jpg)
 
 ## Field Descriptions
 

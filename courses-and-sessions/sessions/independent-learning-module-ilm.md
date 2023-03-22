@@ -1,17 +1,22 @@
 # Independent Learning Module (ILM)
 
-ILM's are a specific type of Session which does not necessarily meet in any particular location at an appointed time. It refers to a curricular activity of a specified required length of time that should be completed by a particular date or before a particular Session offerings is to take place. They are specifically meant to track learning which occurs independently and “asynchronously” outside the classroom, which may or may not be associated with synchronous / didactic learning.&#x20;
+ILM's are a specific type of Session which does not necessarily meet in any particular location at an appointed time. It refers to a curricular activity of a specified required length of time that should be completed by a particular date or before a particular Session offerings is to take place. They are specifically meant to track learning which occurs independently and “asynchronously” outside the classroom, which may or may not be associated with synchronous / didactic learning.
 
 These are displayed in one of two places ...
 
 1. ****[**ILM with Due Date / Time**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-with-due-date-time)**:** An ILM will appear on the Calendar at the specified time on the Due Date that was assigned. It shows up in a fifteen minute block on the Calendar regardless of the actual duration of the expected activity. If a time is not specified, the default is 5pm.
-2. ****[**ILM linked to an Upcoming Session Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-linked-to-session): An ILM that is linked to an upcoming Session will have the learning activities listed on the target session in all places session offerings appear in Ilios, among them on [Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance).&#x20;
+2. ****[**ILM linked to an Upcoming Session Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-linked-to-session): An ILM that is linked to an upcoming Session will have the learning activities listed on the target session in all places session offerings appear in Ilios, among them on [Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance).
 
 An example of #2 is shown below. The icon indicating that an ILM is linked to another session is shown below.
 
-<figure><img src="../../.gitbook/assets/linked_ILM_Icon.png" alt=""><figcaption><p>Linked ILM Icon</p></figcaption></figure>
+<figure>
+    <img src="../../images/ilm/linked_ILM_Icon.png" alt="Linked ILM">
+    <figcaption>
+      <p>Linked ILM Icon</p>
+    </figcaption>
+</figure>
 
-#### Linked ILM - All Weeks&#x20;
+#### Linked ILM - All Weeks
 
 <figure><img src="../../.gitbook/assets/showing_pre_work.png" alt=""><figcaption><p>All Weeks Linked ILM's</p></figcaption></figure>
 

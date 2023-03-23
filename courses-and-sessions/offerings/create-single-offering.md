@@ -10,7 +10,7 @@ As indicated below, the Offerings Editor Calendar is initially hidden. To displa
 
 Since the offering editor is such a long and complex form, the elements will be handled one at a time starting with "Scheduling". 
 
-![Top portion of screen &quot;Scheduling&quot;](../../.gitbook/assets/sched1.png)
+![Top portion of screen - Scheduling](../../images/create_single_offering/scheduling.png)
 
 #### Participants
 
@@ -18,43 +18,43 @@ Underneath the "Scheduling" component is an area to set who will be attending th
 
 **Instructors**
 
-Adding instructors either as a group \([Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)\) or as individual instructors is shown below.
+Adding instructors either as a group ([Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)) or as individual instructors is shown below.
 
-![Before searching](../../.gitbook/assets/inst1.png)
+![Before searching](../../images/create_single_offering/instructor_search.png)
 
-![After searching and selecting](../../.gitbook/assets/inst2.png)
+![After searching and selecting](../../images/create_single_offering/instructors_selected.png)
 
-**Learners** . 
+**Learners** 
 
 The next section shows how this process functions for adding learners to an Offering. Just as with Instructors, learners can be added individually or as a group \(still most common practice\). The difference here is that individual learners are selected in a separate area from where Learner Groups are selected. 
 
 **Add Learner Groups**  
 
-![Search](../../.gitbook/assets/lg1.png)
+![Search](../../images/create_single_offering/lg1.png)
 
 After searching and selecting as shown above ...
 
-![Learner Groups - selected](../../.gitbook/assets/lg2.png)
+![Learner Groups - selected](../../images/create_single_offering/lg2.png)
 
 **Add Individual Learners**  
 
 It is important to note that these Learners being added here do not need to be in the Cohort associated with this Course. 
 
-![Before searching ](../../.gitbook/assets/lg3.png)
+![Before searching ](../../images/create_single_offering/lg3.png)
 
-![Find and select](../../.gitbook/assets/lg4.png)
+![Find and select](../../images/create_single_offering/lg4.png)
 
-![Learner added](../../.gitbook/assets/lg5.png)
+![Learner added](../../images/create_single_offering/lg5.png)
 
 Now that everything has been added as we want for this offering, clicking Save will complete this process. The resulting screen is shown in the second image below. Mousing over a learner group's name will display the parent group for reference. All instructors \(whether added individually or as a member of an instructor group\) are shown under the Instructors column header. Individual Learners are available to review from the Session List page as shown below.
 
-![Mouse-over for Learner list](../../.gitbook/assets/sesslst1.png)
+![Mouse-over for Learner list](../../images/create_single_offering/learner_list_displayed.png)
 
 **Learner Group Parent** 
 
 A learner group's parent relationship can be determined by hovering over with the mouse for more details.
 
-![Offering - after save](../../.gitbook/assets/lg6.png)
+![Offering - after save](../../images/create_single_offering/lg6.png)
 
 ### Permissions Note
 

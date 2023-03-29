@@ -17,6 +17,6 @@ Individual learners can be attached to offerings in Ilios. One thing to remember
 * The offering editor itself - in edit mode
 * In the Session list with the session expanded - described below ...
 
-Mousing over will expose all learners - members of learner groups along with individual learners. A simple example of this is shown below. When there are more learners than can be displayed, hovering over with the mouse will reveal the additional users designated as individual learners.\
+Mousing over will expose all learners - members of learner groups along with individual learners. A simple example of this is shown below. When there are more learners than can be displayed, hovering over with the mouse will reveal the additional users designated as individual learners.
 
 ![Addition of Individual learner displayed](../../images/add_indiv_learners/indiv_learners_shown.png)

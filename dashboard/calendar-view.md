@@ -2,7 +2,7 @@
 
 ### Calendar
 
-![](../images/calendar_selected.png)
+![Calendar selected](../images/calendar_selected.png)
 
 Switching to the Calendar by clicking the Calendar button as shown above will cause the window to display as shown above. The Calendar becomes visible and enabled.
 
@@ -40,9 +40,9 @@ The Calendar display presents Session Offerings with different background colors
 
 It is important to note that non-students Ilios users **WILL** see offerings for their courses / sessions that have not been published yet. Students will **never** see these unless they happen to perform a non-student function such as being an Instructor, Course Administrator / Director, Session Administrator, or School Administrators / Director. These users will see the "Not Published" session offerings. Below is an example showing this view.
 
-Icon indicating "Not Published" status:
+Icon indicating "Not Published" status: 
 
-![Not Published](../images/unpublished_icon.png)
+![Not Published](../images/unpubiished_icon.png)
 
 ![A few tips ...](../images/calendar_tips.png)
 

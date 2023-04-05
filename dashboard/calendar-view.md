@@ -42,7 +42,12 @@ It is important to note that non-students Ilios users **WILL** see offerings for
 
 Icon indicating "Not Published" status: 
 
-![Not Published](../images/unpubiished_icon.png)
+<figure>
+  <img src="../images/unpublished_icon.png" alt="Unpublished icon">
+    <figcaption>
+      <p>Unpublished</p>
+    </figcaption>
+</figure>
 
 ![A few tips ...](../images/calendar_tips.png)
 

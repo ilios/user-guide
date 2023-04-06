@@ -42,6 +42,10 @@ It is important to note that non-students Ilios users **WILL** see offerings for
 
 Icon indicating "Not Published" status: 
 
+![Unpublished Icon](../images/unpubiished_icon.png)
+
+Testing ...
+
 <figure>
   <img src="../images/unpublished_icon.png" alt="Unpublished icon">
     <figcaption>

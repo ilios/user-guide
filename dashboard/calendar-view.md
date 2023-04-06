@@ -44,15 +44,6 @@ Icon indicating "Not Published" status:
 
 ![Unpublished Icon](../images/unpubiished_icon.png)
 
-Testing ...
-
-<figure>
-  <img src="../images/unpublished_icon.png" alt="Unpublished icon">
-    <figcaption>
-      <p>Unpublished</p>
-    </figcaption>
-</figure>
-
 ![A few tips ...](../images/calendar_tips.png)
 
 ### CSS Override

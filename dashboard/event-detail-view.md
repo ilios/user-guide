@@ -4,11 +4,11 @@ The Event Detail view is reached when a user clicks on a link in their Calendar,
 
 The screen shot below starts the process for a student to access the Event Detail view. In this case, the Session to be viewed in Event Detail view has an ILM attached to it.
 
-![](<../images/event_detail_start.png>)
+![Navigate to selected Session](../images/event_detail/event_detail_start.png)
 
 After clicking as shown above, the user is routed to the correct location in Week at a Glance for the Session with the title of "Hypertension Cases", which is the follow-up (post-requisite) to the ILM entitled "CV Pharm Module: Hypertension".
 
-The links shown in the screen shot above are explained below
+The links shown in the screen shot above are explained below.
 
 * **CV Pharm Module: Hypertension** - Pre-work (ILM) due prior to "Glucose Metabolism and Blood Glucose Homeostasis"
 * **Weekly Checkpoint 4 - Due** - Link to that Session's Event Detail page
@@ -20,15 +20,15 @@ The links shown in the screen shot above are explained below
   * Link to the pre-work for this session (discussed above as well)
   * Learning Material available (.pdf)
 
-![](<../images/event_detail_view.png>)
+![Link to Event Detail shown](../images/event_detail/event_detail_view.png)
 
 After clicking as shown above, Event Detail is reached. The user can review the Location and timing of the Offering they are scheduled to be attending. Links are shown by the arrows.
 
-![Event Detail - upper part](<../images/event_detail_upper.png>)
+![Event Detail - upper part](../images/event_detail/event_detail_upper.png)
 
 The lower part of Event Detail is shown below. There may be more than one screen shot forthcoming. Included are links to all of the Course and Session Learning Materials, as well the listings of both Session and Course Objectives.
 
-![Event Detail - lower part](<../images/event_detail_lower.png>)
+![Event Detail - lower part](../images/event_detail/event_detail_lower.png)
 
 ### Event Detail with Session Link
 
@@ -36,8 +36,8 @@ If a logged in user has access rights to Courses and Sessions, there will be a l
 
 **NOTE**: Students will not have these links available if they do non perform non-learner activities in Ilios.
 
-![Event View (top) with Session Hyperlink](<../images/event_detail_top.png>)
+![Event View (top) with Session Hyperlink](../images/event_detail/event_detail_top.png)
 
 After following the link shown above, the user (Instructor, Director, Administrator, Student Advisor etc.) will be routed to Courses and Sessions to the underlying Session associated with the Calendar Event detailed in Event Detail.
 
-![Session Detail (top)](<../images/event_detail_bottom.png>)
+![Event Detail (bottom)](../images/event_detail/event_detail_bottom.png)

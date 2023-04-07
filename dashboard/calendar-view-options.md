@@ -32,13 +32,13 @@ For a Session with Multiple Offerings, it is important to note that the offering
 
 **Click the Session with Multiple Offerings**
 
-![](../images/calendar_view_images/week_view_multiple.png)
+![Click multi-offering Session](../images/calendar_view_images/week_view_multiple.png)
 
 #### Day View (Multiple Offerings)
 
 All Offerings are displayed.
 
-![](../images/calendar_view_images/day_view_multiple.png)
+![All offerings - displayed](../images/calendar_view_images/day_view_multiple.png)
 
 #### Week View / Month View (Multiple Offerings)
 
@@ -50,11 +50,11 @@ Events that occur starting on one date and then ending on a later date are displ
 
 #### Creating a Multi-day Event
 
-![](../images/calendar_view_images/multi_day_create.png)
+![Create multi-day event](../images/calendar_view_images/multi_day_create.png)
 
 #### Viewing a Multi-day Event
 
 This appears underneath the Calendar when any event spans more than one day.
 
-![](../images/calendar_view_images/multi_day_view.png)
+![View the multi-day event](../images/calendar_view_images/multi_day_view.png)
 

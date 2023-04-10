@@ -12,15 +12,15 @@ The calendar is populated based on the choice made by the user choosing between 
 
 **Important Note:** Course Directors will see all of the Offerings for the Courses they assigned to as Course Directors; however Course Administrators and Student Advisors will **NOT** see all of the Offerings initially. They are encouraged to use the filters and / or Courses and Sessions screen to review the Offerings in the Course(s) for which they have been assigned the Course Administrator or Student Advisor role.
 
-![](../images/calendar_srch_images/dashboard.png)
+![Select Calendar](../images/calendar_srch_images/dashboard.png)
 
 To switch to "All Events", click as shown below.
 
-![](../images/calendar_srch_images/all_events_click_demo.png)
+![Swich to All Events](../images/calendar_srch_images/all_events_click_demo.png)
 
 As seen below, "All Events" is now selected.
 
-![](../images/calendar_srch_images/all_events_view_demo.png)
+![All Events selected](../images/calendar_srch_images/all_events_view_demo.png)
 
 **Note about Buttons:** The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a Toggle will switch the toggle to another setting. The slider could be on either side.
 

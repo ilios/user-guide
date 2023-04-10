@@ -2,17 +2,17 @@
 
 ### Calendar
 
-![Calendar selected](../images/calendar_selected.png)
+![Calendar selected](../images/calendar_view_images/calendar_selected.png)
 
 Switching to the Calendar by clicking the Calendar button as shown above will cause the window to display as shown above. The Calendar becomes visible and enabled.
 
-The Ilios calendar displays all items in Ilios with which you are directly associated. Clicking on an event in the calendar will bring up the Event Detail View for that specific Session Offering.
+The Ilios calendar displays all items in Ilios with which you are directly associated. Clicking on an event in the calendar will bring up the Event Detail View for that specific Session Offering. 
 
 The scheduling and review of offerings can be accomplished by selecting "Courses and Sessions" from the Ilios menu. Although the scheduling of the offerings / events occurs on this screen, the event itself will appear on the Calendar at the corresponding date / time. These events will also be displayed in any linked calendars.
 
 ### Calendar View
 
-![Click the Event in the Calendar](../images/calendar_event_click.png)
+![Click the Event in the Calendar](../images/calendar_view_images/calendar_event_click.png)
 
 ### Linked Sessions / Multiday Events
 
@@ -28,7 +28,7 @@ After performing the click event shown above, the [event detail](https://iliospr
 
 You can also hover over an event with your mouse to retrieve and display more details pertaining to that event without having to leave the Calendar.
 
-![Hover Over for Details](../images/calendar_hover.png)
+![Hover Over for Details](../images/calendar_view_images/calendar_hover.png)
 
 ### Color Coding
 
@@ -42,9 +42,9 @@ It is important to note that non-students Ilios users **WILL** see offerings for
 
 Icon indicating "Not Published" status: 
 
-![Unpublished Icon](../images/unpubiished_icon.png)
+![Unpublished Icon](../images/calendar_view_images/unpublished.png)
 
-![A few tips ...](../images/calendar_tips.png)
+![A few tips ...](../images/calendar_view_images/calendar_tips.png)
 
 ### CSS Override
 

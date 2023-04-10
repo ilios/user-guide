@@ -1,6 +1,6 @@
 # Introduction
 
-![](images/ilios_banner.png)
+![Ilios banner](images/introduction/ilios_banner.png)
 
 ## The Official Ilios User Guide
 
@@ -8,11 +8,11 @@
 
 To perform a quick search to find any Ilios topic you may be hoping to find, the search box in the upper right portion of the screen can be used for this. Before entering criteria, it appears as shown below. The search process used in searching the User Guide is similar to the [Global Search](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search) functionality in Ilios. The starting point is shown below.
 
-![](images/click_to_search.png)
+![Click to search](images/introduction/click_to_search.png)
 
 ---------
 
-![](images/user_guide_search_1.png)
+![User guide search](images/introduction/user_guide_search.png)
 
 In the example shown above, the search term entered is "Add Session". You can see that many results were returned from that search. "Add New Session" is the first of the results returned. The others can located by scrolling down the page. The highest likelihood (best match) appears towards the top of the screen decreasing further down the page.
 
@@ -52,7 +52,7 @@ Ilios is built explicitly on the concept of user-centric information, rather tha
 
 The Ilios workflow is based on a curriculum structure which incorporates several interconnected levels (displayed below starting with a school's highest level -- program):
 
-![Interconnected](images/inter_connected.png)
+![Interconnected](images/introduction/inter_connected.png)
 
 * A deployment of Ilios may include multiple related schools or institutions.
 * Every school or institution creates and owns specific programs of study.

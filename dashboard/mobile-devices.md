@@ -12,7 +12,7 @@ This section contains sample screen shots of a typical user experience accessing
 
 #### Dashboard (after Instructor logging in) ...
 
-![](../images/mobile_view/instructor_view.png)
+![Instructor logged in](../images/mobile_view/instructor_view.png)
 
 The only difference between the two screen shots above is that Ilios users who perform non-learner functions in Ilios get the navigational icons shown toward the top of the screen underneath the "Dashboard" label.
 

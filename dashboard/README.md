@@ -11,7 +11,7 @@ The Dashboard is designed to provide quick access to common sets of information 
 The view below is of the Ilios flyout menu on a relatively large screen. This is how it will appear for Admin users unless they use a smaller screen, tablet, or smart phone.
 
 <figure>
-  <img src="../images/Ilios_Flyout_Menu_1.png" alt="Flyout Menu">
+  <img src="../images/dashboard/flyout_menu.png" alt="Flyout Menu">
   <figcaption>
       <p>Ilios Menu - full size</p>
   </figcaption>
@@ -22,7 +22,7 @@ The view below is of the Ilios flyout menu on a relatively large screen. This is
 When the Ilios application is not being viewed at full size or is being viewed using a device with a smaller screen surface area, the toolbar spans across the top of the screen as shown below.
 
 <figure>
-  <img src="../images/Top_Menu_View_1.png" alt="Top Menu View">
+  <img src="../images/dashboard/top_menu_view.png" alt="Top Menu View">
   <figcaption>
     <p>Ilios Menu - small size (contracted)</p>
   </figcaption>
@@ -35,7 +35,7 @@ The **Ilios Menu expander** is only available in the smaller view of the toolbar
 Clicking the Ilios Menu expander (or contractor if already expanded) reveals in more detail the available menu options. You can see this display below.
 
 <figure>
-  <img src="../images/Flyout_Expanded.png" alt="Small Screen View">
+  <img src="../images/dashboard/flyout_expanded.png" alt="Small Screen View">
   <figcaption>
     <p>Ilios Flyout Menu - small view (expanded)</p>
   </figcaption>

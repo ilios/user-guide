@@ -10,7 +10,12 @@ This is the default when a user logs in. As shown [below](https://iliosproject.g
 
 ILM's that have been linked to an upcoming session are included as shown below in Week at a Glance. They are displayed similarly in Event Detail. The linked Session icon is shown below. Learning Materials associated with these session can be selected as completed or in process. The caveat is that this must be done by following the link to associated ILM.
 
-<figure><img src="../images/linked_activity_icon.png" alt=""><figcaption><p>Linked Activities</p></figcaption></figure>
+<figure>
+  <img src="../images/week_at_a_glance/linked_activity_icon.png" alt="">
+  <figcaption>
+    <p>Linked Activities</p>
+  </figcaption>
+</figure>
 
 In situations where linked ILM's are assigned, the user can navigate to either the ILM that needs to be completed before the scheduled Offering or to the Event Detail screen of the Offering itself. Standard ILM's which have a Due Date will show up on the Week At A Glance displaying the associated Due Date. The ILM's are ordered with the rest of the student's Offerings in ascending chronological date and time order.
 
@@ -23,7 +28,7 @@ These personal progress check boxes are included to help students determine whic
 1.  Not Started (default)
 
     <figure>
-    <img src="../images/activity_not_started.png" alt="Not Started">
+    <img src="../images/week_at_a_glance/activity_not_started.png" alt="Not Started">
       <figcaption>
       <p>Not Started</p>
       </figcaption>
@@ -32,7 +37,7 @@ These personal progress check boxes are included to help students determine whic
 2.  In Progress (first click)
 
     <figure>
-    <img src="../images/activity_in_progress.png" alt="In Progress">
+    <img src="../images/week_at_a_glance/activity_in_progress.png" alt="In Progress">
       <figcaption>
       <p>Working on it</p>
       </figcaption>
@@ -41,7 +46,7 @@ These personal progress check boxes are included to help students determine whic
 3.  Completed (second click)
 
     <figure>
-    <img src="../images/activity_completed.png" alt="Done">
+    <img src="../images/week_at_a_glance/activity_completed.png" alt="Done">
       <figcaption>
       <p>Complete</p>
       </figcaption>
@@ -50,7 +55,7 @@ These personal progress check boxes are included to help students determine whic
 ### Week at a Glance - Displayed
 
 <figure>
-<img src="../images/updated_WaaG_student_view.png" alt="Student View">
+<img src="../images/week_at_a_glance/updated_WaaG_student_view.png" alt="Student View">
   <figcaption>
     <p>Week at a Glance (Student View)</p>
   </figcaption>
@@ -61,7 +66,7 @@ These personal progress check boxes are included to help students determine whic
 Another great feature of Ilios is that you can review any week's activity, whether it is in the future or has occurred in the past. To access this functionality, click as shown in the screen shot below.
 
 <figure>
-<img src="../images/all_weeks_starting_pt.png" alt="All Weeks (Starting)">
+<img src="../images/week_at_a_glance/all_weeks_starting_pt.png" alt="All Weeks (Starting)">
   <figcaption>
     <p>All Weeks (Starting Point)</p>
   </figcaption>
@@ -70,7 +75,7 @@ Another great feature of Ilios is that you can review any week's activity, wheth
 After clicking "All Weeks", the screen and feature links are displayed as shown below. Even though there are no learning activities for the logged-in student at the beginning of the year, the top part of the screen is shown for navigational purposes.
 
 <figure>
-<img src="../images/all_weeks_top.png" alt="">
+<img src="../images/week_at_a_glance/all_weeks_top.png" alt="All weeks - top">
   <figcaption>
     <p>All Weeks (top)</p>
   </figcaption>
@@ -81,7 +86,7 @@ The user will always be routed to the current week, which will be in expanded vi
 Any number of weeks can be expanded or contracted to show or hide all details of the events taking place in that week. This is demonstrated below. The links to Learning Materials and Session Details are also highlighted in the screen shot.
 
 <figure>
-<img src="../images/all_weeks_detail.png" alt="">
+<img src="../images/week_at_a_glance/all_weeks_detail.png" alt="All weeks - detail">
   <figcaption>
     <p>All Weeks (user routed to current week)</p>
   </figcaption>

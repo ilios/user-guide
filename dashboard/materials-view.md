@@ -8,7 +8,7 @@ With the Materials view, all Learning Materials which have Offerings within the 
 
 Clicking as shown above on "Materials" brings up the Learning Materials the student will be using for the offerings occurring at any point in the next 60 days. "All Materials" can be toggled here which will have the same window but with all Learning Materials the student has ever encountered. Pagination helps load these Learning Materials up quite quickly.
 
-![Materials View - starting point](<../images/materials_view_start.png>)
+![Materials View - starting point](../images/materials_view/materials_view_start.png)
 
 Clicking on the title of the Learning Material will route the user to be able to access and / or download the Learning Material file, link, or citation. If it is a link, the web site will open. Citations are displayed in completeness right there and there is nothing to click or follow. Files will be downloaded to the user's computer.
 
@@ -18,7 +18,7 @@ Below is a screen shot similar to the one above but this time displaying the stu
 
 "All Materials" has been selected instead of the default "Next 60 days".
 
-![Materials for next 60 days](<../images/materials_view_all.png>)
+![Materials for next 60 days](../images/materials_view/materials_view_all.png)
 
 ## Sort Options
 
@@ -36,8 +36,8 @@ Below is a screen shot similar to the one above but this time displaying the stu
 
 In the example shown below, the Data has been sorted by Title (A-Z). The default Sort Order is by Offering Date (Descending). Using the Title (A-Z) as a sort order puts the Course level Learning Materials at the top of the list as shown below.
 
-![Change Sort Order](<../images/materials_view_sort.png>)
+![Change Sort Order](../images/materials_view/materials_view_sort.png)
 
 Entering Search Criteria into the Filter search box will perform a search on ALL 4 of the fields listed above to help ensure the correct LM is found.
 
-![All Materials option - search results shown](<../images/materials_view_filter.png>)
+![All Materials option - search results shown](../images/materials_view/materials_view_filter.png)

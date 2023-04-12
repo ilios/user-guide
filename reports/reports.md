@@ -3,19 +3,19 @@ Reports now live in their own large area rather than the compact My Reports of y
 
 This shows a typical user's saved reports.
 
-![](../images/reports_init_1.png)
+![Saved reports](../images/reports/user_saved_reports.png)
 
 Running any of the reports here is as easy as simply clicking on the link. This is shown below.
 
-![](../images/reports_run_init_1.png)
+![Run any report](../images/reports/run_report.png.png)
 
 After clicking as shown above, the screen will refresh with the data outputted to the screen. 
 
-![](../images/report_with_data_1.png)
+![Data displayed](../images/reports/report_with_data.png)
 
 As shown above, there is a link available to download the report's output. After clicking as shown above (on a Mac anyway), the following dialog box appears. 
 
-![](../images/download_report_data.png)
+![Download link shown](../images/reports/download_report_data.png)
 
 In this report example, the .csv download includes the following fields ...
 

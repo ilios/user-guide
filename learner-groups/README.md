@@ -10,7 +10,7 @@ _**Learner Group Attributes:**_
 * ****[**Default Instructor(s)**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-instructor-s) - Selected from the existing population that has been entered into Ilios by campus systems and manual entry. Shown in display as the instructor of record for activities to which a group is associated when no other instructors are identified. This only applies to Small Group Offerings. Individual Offerings do **NOT** get the default instructor from the Learner Group.
 * ****[**Default Location**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-location) - Shown in display as the location of record for activities to which a group is associated when no other location is identified. Just as with Default Instructor, this only applies to Small Group Offerings.
 * ****[**Default Virtual Learning Link**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-virtual-learning-link) - Entered manually or pasted in from an external source such as Zoom. This default virtual learning link behaves in the same manner as Default Instructor(s) and Default Location. It will only apply to Small Group Offerings.
-* **Needs Accommodation** - Toggled when one or more learners in any given group (or sub group) need accommodation or additional resources in order to participate successfully in virtual learning events.&#x20;
+* **Needs Accommodation** - Toggled when one or more learners in any given group (or sub group) need accommodation or additional resources in order to participate successfully in virtual learning events.
 * **Associated Courses** - Read-only listing of all Courses that have used this Learner Group in Session Offerings or ILM's.
 
 _**Other Options:**_
@@ -65,21 +65,21 @@ It is important to note that Learner Group Management is now very much about the
 
 There is a way in Ilios to easily review Learner Group, specifically, Sub Group Membership. To do this, open up Learner Group Management by clicking the "Learner Groups" menu item from the Ilios flyout menu. Then, choose a Group which has Sub Groups the membership of which you would like to verify. For the sake of this example, we have chosen "Anesthesia Simulator Group", which has 19 Subgroups and a total of 155 Members.
 
-![](../.gitbook/assets/lg\_rw\_1.png)
+![Select Learner group](../images/learner_group_README/select_learner_group.png)
 
 Once the Learner Group has been selected by clicking on the Learner Group link, the screen appears as shown below. We are at the higher level of "Anesthesia Simulator Group". To review the members of any of the sub groups, the sub group should be selected. If you are already in one of the sub groups, clicking Manage at that level will allow members to be viewed and moved around between the sub groups.
 
-![](../.gitbook/assets/lg\_rw\_2.png)
+![View details](../images/learner_group_README/view_details.png)
 
 The Learner Group called "Anesthesia Simulator Group 03" has been selected as shown by the purple arrowed instructions above. The 9 members of the groups are listed in read-only mode. To maintain "Anesthesia Simulator Groups 03" and allowing the removal or addition of Learners from this (and the other) sub-groups underneath "Anesthesia Simulator Group", click "Manage".
 
-![](../.gitbook/assets/lg\_rw\_3.png)
+![Manage Learner Group](../images/learner_group_README/manage_learner_group.png)
 
 To ensure learners have been properly assigned to the correct Subgroups, scroll down and review the membership.
 
-**NOTE**: The default sort order is by First Name >> Ascending. Once in "Manage" mode, you may want to switch the sort order to Group Name >> Ascending to help with maintenance and review.
+**NOTE**: The default sort order is by First Name >> Ascending. Once in "Manage" mode, you may want to switch the sort order to Group Name >> Ascending to help with maintenance and review. 
 
-![](../.gitbook/assets/lg\_rw\_4.png)
+![View sort order](../images/learner_group_README/view_sort_order.png)
 
 Scroll down further and you can see the Learners who are in other "Anesthesia Simulator Group" sub-groups. What can be done here?
 
@@ -90,4 +90,4 @@ After scrolling down past the 9 members of "Anesthesia Simulator Group 03", the 
 
 As highlighted below, the Learner "Tammy Howard" can be moved into "Anesthesia Simulator Group 03" by either clicking the green "+" or by clicking the check box to the left of her first name "Tammy" and then later by confirming the move.
 
-![](../.gitbook/assets/lg\_rw\_5.png)
+![Select learner](../images/learner_group_README/select_learner.png)

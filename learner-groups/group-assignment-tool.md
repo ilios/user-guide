@@ -2,7 +2,7 @@
 
 This tool accepts a comma or tab delimited file to define Ilios users to be uploaded or assigned into the Learner Groups \(Sub Groups\) of which they need to be assigned as members.
 
-While it is a requirement that users have to exist in Ilios and be students in the correct Cohort, the term "upload" is still correct in the sense that a document \(.csv, .tsv, .txt\) that exists outside of Ilios needs to be "uploaded" into Ilios to process the Learner Group assignments specified in the document.
+While it is a requirement that users have to exist in Ilios and be students in the correct Cohort, the term "upload" is still correct in the sense that a document (.csv, .tsv, .txt) that exists outside of Ilios needs to be "uploaded" into Ilios to process the Learner Group assignments specified in the document.
 
 ## How To Use It ...
 
@@ -10,15 +10,15 @@ While it is a requirement that users have to exist in Ilios and be students in t
 
 To start this process, click as shown below.
 
-![](../.gitbook/assets/tool1.png)
+![Click to activate](../images/learner_group_assignment_tool/click_to_activate.png)
 
 The group created for this example is called "Gold Team Exam Group". As indicated in the screen shot above, there are 12 Sub Groups already created to hold the incoming Learners contained in the delimited file that will be uploaded.
 
-![](../.gitbook/assets/tool2.png)
+![Click to upload](../images/learner_group_assignment_tool/click_to_upload.png)
 
 Clicking the **"Sample File"** link will cause a file called "SampleUserUpload.tsv" to be downloaded to your computer. Open this file in Excel to view its contents. It will initially be stored in your "Downloads" folder. The screen shot below is from the sample .tsv file opened in Excel. It contains no data but indicates the four fields that need to be included in any .tsv, .csv, or .txt file to be uploaded.
 
-![](../.gitbook/assets/tool3.png)
+![Sample shown](../images/learner_group_assignment_tool/sample_shown.png)
 
 * **First:** Learner's first name.
 * **Second:** Learner's last name.
@@ -31,39 +31,39 @@ Using the empty sample file as a template, create a file using Excel or Text Pad
 
 In Excel, the following file with sample data has been created.
 
-![](../.gitbook/assets/tool4.png)
+![Sample with data](../images/learner_group_assignment_tool/sample_with_data.png)
 
-The file in this case has been titled "SampleUserUploadNewSubs2.tsv". It is a tab separated file. There are 24 students to be assigned to their correct Sub Groups, which are named "New \#\#" where "\#\#" refers to a number between 01 and 12. These Sub Groups are nested under a parent Learner Group called "New".
+The file in this case has been titled "SampleUserUploadNewSubs2.tsv". It is a tab separated file. There are 24 students to be assigned to their correct Sub Groups, which are named "New "##" where "##" refers to a number between 01 and 12. These Sub Groups are nested under a parent Learner Group called "New".
 
 ### Attach Upload File
 
 The first step here is to navigate to the higher level Learner Group with the title "New". As shown below, this Learner Group has 9 Sub Groups. Three of the 12 Learner Groups will be created for demonstration purposes.
 
-![](../.gitbook/assets/tool5.png)
+![New groups created](../images/learner_group_assignment_tool/new_groups_created.png)
 
 After clicking the **"Upload Group Assignments"** button and then **"Choose File**, a dialog box similar to the one shown below will appear. The exact appearance of this file dialog box will vary depending on the operating system of your computer, tablet, or phone. The example shows a Mac laptop.
 
-![](../.gitbook/assets/tool6.png)
+![File dialog box shown](../images/learner_group_assignment_tool/file_dialog_box.png)
 
-Now that the correct file has been selected, click Open and see the results as shown below.The label indicates there are 24 valid users to be assigned into the Learner Groups.
+Now that the correct file has been selected, click Open and see the results as shown below. The label indicates there are 24 valid users to be assigned into the Learner Groups.
 
-![](../.gitbook/assets/tool7.png)
+![Review results](../images/learner_group_assignment_tool/review_results.png)
 
 Scroll to the bottom of the screen and click as shown below to continue.
 
-![](../.gitbook/assets/tool8.png)
+![Click to proceed](../images/learner_group_assignment_tool/click_to_proceed.png)
 
 **NOTE:** If these records do not look correct for any reason, you can still back out and fix the upload file and try again once the file has been corrected.
 
 After clicking **Continue**, the screen takes on the following appearance. Refer to the on-screen instructions for more information. In the three cases where a Learner Group match was not found immediately, you can create the group specified by the upload file or select one of the other existing groups.
 
-![](../.gitbook/assets/tool9.png)
+![Some groups not created ... yet](../images/learner_group_assignment_tool/missing_groups.png)
 
 In this example, the **Create This Group** button will get clicked for all three of the yellow-highlighted group mismatches.
 
-The results of this action are shown below. All groups from the file \(Uploaded Group\) match a correct Existing Group. All backgrounds are green with correct selections made.
+The results of this action are shown below. All groups from the file (Uploaded Group) match a correct Existing Group. All backgrounds are green with correct selections made.
 
-![](../.gitbook/assets/tool10.png)
+![All records match](../images/learner_group_assignment_tool/all_records_match.png)
 
 ### Final Results
 
@@ -71,11 +71,11 @@ Scroll down below here to find a section entitled "Final Results". This shows th
 
 The top of the screen is shown below.
 
-![](../.gitbook/assets/tool11.png)
+![Final results](../images/learner_group_assignment_tool/final_results.png)
 
-At the bottom part of the screen \(may require a bit of scrolling depending on how many Learners are being assigned\), the **"Save"** button is available to process the group assignment and make the save to the database.
+At the bottom part of the screen (may require a bit of scrolling depending on how many Learners are being assigned), the **"Save"** button is available to process the group assignment and make the save to the database.
 
-![](../.gitbook/assets/tool12.png)
+![Save this assignment](../images/learner_group_assignment_tool/save_assignment.png)
 
 ### Verify Results
 
@@ -85,5 +85,5 @@ Below is a high level view of the fact that each of the Sub Groups now contains 
 
 Click on any of the Sub Groups to review and confirm group membership.
 
-![](../.gitbook/assets/tool13.png)
+![Confirm group membership](../images/learner_group_assignment_tool/confrim_group_membership.png)
 

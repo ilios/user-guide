@@ -37,25 +37,25 @@ The process for adding default instructor(s) is similar with the exception being
 
 **Step One**
 
-![](../.gitbook/assets/lgdefinst1.png)
+![Default instructor start - Click "Manage"](../images/learner_group_defaults/default_instructor_start.png)
 
 **Step Two**
 
 After clicking as shown above, the screen adjusts to allow for the search for one or more instructors to be performed.
 
-![](../.gitbook/assets/lgdefinst2.png)
+![Default instructor - search](../images/learner_group_defaults/default_instructor_search.png)
 
 **Step Three**
 
 Search for and select several Instructors and an Instructor Group. The instructors who are in the group are listed as shown below.
 
-![](../.gitbook/assets/lgdefinst4.png)
+![Default instructor - save](../images/learner_group_defaults/default_instructor_search.png)
 
 After performing the action shown above, all 7 members of the "BMB Anatomy Lab Faculty" Instructor group along with the 2 individual Instructors have been assigned to be default instructors for any newly created offerings associated with this Learner Group.
 
 After confirming by clicking the check box button ...
 
-![All Default Instructors are listed.](../.gitbook/assets/lgdefinst5.png)
+![All Default Instructors are listed - review default instructors](../images/learner_group_defaults/default_instructor_review.png)
 
 ## Default Virtual Learning Link
 

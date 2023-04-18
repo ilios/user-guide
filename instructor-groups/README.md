@@ -11,8 +11,20 @@ The Instructor Groups module in Ilios allows for the creation of reusable and tr
 
 To access this functionality, click on the Instructor Groups menu item from the flyout menu as shown below.
 
-<figure><img src="../.gitbook/assets/instr_grp_2.png" alt=""><figcaption><p>Flyout Menu -  Instructor Group Maintenance</p></figcaption></figure>
+<figure>
+    <img src="../images/instructor_groups_all_images/access_instructor_groups.png" alt="Access Instructor Group Maintenance">
+    <figcaption>
+        <p>Flyout Menu -  Instructor Group Maintenance
+        </p>
+    </figcaption>
+</figure>
 
 This is the screen that appears (see comments). These Instructor Groups can be sorted by "Instructor Group Title" or by "Members" (member count). There is also a text box available in the upper right which allows for filter by text string search. A School Switcher is also available for the rare administrative users that have advanced privileges over more than one school.
 
-<figure><img src="../.gitbook/assets/instr_grp_1.png" alt=""><figcaption></figcaption></figure>
+<figure>
+    <img src="../images/instructor_groups_all_images/instructor_group_list.png" alt="Instructor group list">
+    <figcaption>
+        <p>Instructor group list with details
+        </p>
+    </figcaption>
+</figure>

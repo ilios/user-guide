@@ -75,18 +75,18 @@ This is used when one or more learners in a learner group require accommodations
 
 Initially (before being set), the toggle appears as shown below. The default for any learner group is "No"
 
-![](../.gitbook/assets/needs\_accom1.png)
+![Needs accommodation - default "No"](../images/learner_group_defaults/needs_accom_default_no.png)
 
 Slide the toggle over to the right by clicking it.
 
-![](../.gitbook/assets/needs\_accom2.png)
+![Needs accommodation - slide to set to "Yes"](../images/learner_group_defaults/needs_accom_set_to_yes.png)
 
 You can review and verify which learner groups have had this value set. Refer to the arrows in the screen shot below.
 
-![](../.gitbook/assets/needs\_accom3.png)
+![Needs accommodation - review](../images/learner_group_defaults/needs_accom_indicated.png)
 
 These groups are subgroups. From the parent group (one level up), this is how these designations appear.
 
-![](../.gitbook/assets/needs\_accom4.png)
+![Needs accommodation - sub groups indicated](../images/learner_group_defaults/needs_accom_sub_groups.png)
 
 Learners in these groups will NOT see this anywhere in the offering view on calendar or Week at a Glance. This is only for administrative purposes.

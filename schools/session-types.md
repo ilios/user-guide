@@ -6,11 +6,11 @@ This refers to an educational activity's modality. Examples include "Lecture", "
 
 To create a new Session Type or to review existing session types, click as shown below. A newly created session type can be used for existing or for future Sessions being created in Ilios.
 
-![Reveal School-level Session Type Details](../.gitbook/assets/new\_sess\_type1.png)
+![Reveal School-level Session Type Details](../images/schools/session_types/new_sess_type1.png)
 
-![Add New Session Type (Step 1)](../.gitbook/assets/new\_sess\_type2.png)
+![Add New Session Type (Step 1)](../images/schools/session_types/new_sess_type2.png)
 
-![Add New Session Type (Step 2)](../.gitbook/assets/new\_sess\_type3.png)
+![Add New Session Type (Step 2)](../images/schools/session_types/new_sess_type3.png)
 
 ### Edit Session Type
 
@@ -32,19 +32,19 @@ To do this ...
 * Click the "edit" button
 * Select the new color using the color guide tool or enter a hex value for the new color.
 
-![Selecting A New Color for Session Type](../.gitbook/assets/edit\_sess\_type\_color1.png)
+![Selecting A New Color for Session Type](../images/schools/session_types/sess_type_color_selector.png)
 
 ### Colors Displayed
 
 An example of how these colors appear on a Calendar is shown below.
 
-![](../.gitbook/assets/colors.png)
+![Colors displayed](../images/schools/session_types/colors.png)
 
 ### De-Activate Session Type
 
 De-activate a Session Type if it is no longer in use. This does not change the legacy data but will result in the Session Type no longer being available for use in Ilios going forward. The controls for performing this action are shown below.
 
-![](<../.gitbook/assets/session_type_deactivate.png>)
+![Session type - de-activate](../images/schools/session_types/session_type_deactivate.png)
 
 **NOTE:** When a Session Type gets de-activated, it is sent to the bottom of this list. "(disabled)" will appear after the Session Type name.
 
@@ -52,4 +52,4 @@ De-activate a Session Type if it is no longer in use. This does not change the l
 
 Session Types can only be completely removed from the system if they have never been used. This is shown below. Like basically everywhere in Ilios, if the trash can is enabled, the object can be removed from the system.
 
-![](<../.gitbook/assets/remv sess type.png>)
+![Session type - remove](../images/schools/session_types/session_type_remove.png)

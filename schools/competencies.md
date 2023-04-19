@@ -9,9 +9,9 @@ description: >-
 
 Competency Domains can managed within the Ilios application. To access this functional area of Ilios, from the flyout menu select "**Schools**" as shown below.
 
-![](../.gitbook/assets/screen-shot-2021-09-17-at-3.29.34-pm.png)
+![Click "Schools"](../images/schools/competencies/click_schools.png)
 
-![Select School to edit](../.gitbook/assets/schools.jpg)
+![Select School to edit](../images/schools/competencies/select_school.jpg)
 
 Now that the School of Medicine has been selected, Competencies can be maintained using the following interface and commands.
 
@@ -19,17 +19,17 @@ The highest level Domains are shown initially with the count of associated Compe
 
 In the screen shot below, the "7" refers to the count of Competency domains, whereas the "23" refers to the count of Competencies within these domains.
 
-![](../.gitbook/assets/screen-shot-2021-09-24-at-4.21.51-pm.png)
+![Competencies displayed](../images/schools/competencies/competencies_displayed.png)
 
 Now that "Manage Competencies" has been clicked as shown above, the screen changes to the functional area as shown below, allowing the competencies to be managed. Only the top domain "Interpersonal & Communication skills" is displayed to save space and for clarity. "Email and Database Etiquette" was recently added and is not attached to any courses or sessions and can be deleted. The existence of the trash can icon instead of the count of times it has been attached confirms this.
 
-![](../.gitbook/assets/screen-shot-2021-09-24-at-4.27.05-pm.png)
+![Unused competency](../images/schools/competencies/unused_competency.png)
 
 ### Add New Competency
 
 To add a new Competency under (in this case) the "Interpersonal & Communication skills" domain, simply enter the text of the Competency and click "Add". "Another New One" has been started as a new Competency but not entered yet. This is shown below.
 
-![Add Competency](../.gitbook/assets/competency\_add.jpg)
+![Add Competency](../images/schools/competencies/add_competency.jpg)
 
 ### Edit Existing Competency
 
@@ -37,27 +37,27 @@ To edit an existing Competency, simply click on the Name to edit it as shown bel
 
 #### Step One -- select the Competency to edit
 
-![Select the Competency to Edit](../.gitbook/assets/update\_comp\_1.jpg)
+![Select competency](../images/schools/competencies/select_competency.jpg)
 
 #### Step Two -- make the changes in the provided inline edit box
 
-![Make the Changes](../.gitbook/assets/update\_comp\_2.jpg)
+![Make changes](../images/schools/competencies/make_changes.jpg)
 
 #### Step Three -- commit the changes (or click the red (x) to cancel the event)
 
 The changes are now reflected in the list.
 
-![](../.gitbook/assets/update\_comp\_3.jpg)
+![Changes reflected](../images/schools/competencies/changes_reflected.jpg)
 
 ### Add New Competency Domain
 
 Adding a new high level Competency Domain can be easily accomplished in this latest version of Ilios. To do so, scroll to the bottom of the screen and enter the new domain into the text box provided and the click "Add" as shown below.
 
-![Add New Competency Domain](../.gitbook/assets/new\_domain.jpg)
+![Add new domain](../images/schools/competencies/add_new_domain.jpg)
 
-The new domain then appears in the list as shown. Only a portion of the screen is shown to save space.&#x20;
+The new domain then appears in the list as shown. Only a portion of the screen is shown to save space.
 
-![New Domain Added](../.gitbook/assets/new\_domain\_2.jpg)
+![New Domain Added](../images/schools/competencies/new_domain_added.jpg)
 
 At this point, you can ...
 
@@ -67,7 +67,7 @@ At this point, you can ...
 
 Editing a Domain is performed in exactly the same way as editing a Competency is performed. The field is an inline edit field as shown below with the options described in the image.
 
-![](../.gitbook/assets/edit\_domain.jpg)
+![Edit domain](../images/schools/competencies/edit_domain.jpg)
 
 **NOTE:** Be sure to include any and all competencies you may wish to use at this level in order to be able to select them at the Program level.
 
@@ -75,13 +75,13 @@ Editing a Domain is performed in exactly the same way as editing a Competency is
 
 Ilios offers the functionality to attach PCRS terms to competencies either at the domain level or competency level (under domain). The starting point for the association is shown below.
 
-![Ready to edit PCRS Association](../.gitbook/assets/screen-shot-2021-09-17-at-3.11.24-pm.png)
+![Ready to edit PCRS Association](../images/schools/competencies/edit_PCRS.png)
 
 After clicking as shown above, the full set of Physician Competency Reference Set values are population for selection to be associated with the School's Competencies at any level. One or more of these can be selected as shown below.
 
-![](../.gitbook/assets/screen-shot-2021-09-17-at-3.23.54-pm.png)
+![Update PCRS](../images/schools/competencies/update_PCRS.png)
 
-After saving the data in the scenario shown above, the PCRS values are now associated with the Competency.&#x20;
+After saving the data in the scenario shown above, the PCRS values are now associated with the Competency.
 
-![](../.gitbook/assets/screen-shot-2021-09-17-at-3.26.34-pm.png)
+![Updated PCRS](../images/schools/competencies/updated_PCRS.png)
 

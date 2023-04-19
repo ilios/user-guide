@@ -21,8 +21,8 @@ These are set only at the time of creating a School for use in Ilios. There are 
 
 The attributes listed above for the selected School can be configured once the School has been selected or initially entered. The selection screen appears as shown below.
 
-![](<../.gitbook/assets/Screen Shot 2022-04-11 at 3.03.05 PM.png>)
+![School list](../images/schools/school_list.png)
 
 After clicking as shown above, School Detail appears. From here, the remaining configurable School attributes can be entered.
 
-![School detail](<../.gitbook/assets/Screen Shot 2022-04-11 at 3.07.19 PM.png>)
+![School detail](../images/schools/school_detail.png)

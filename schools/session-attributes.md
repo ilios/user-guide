@@ -6,24 +6,24 @@ There are four optional attributes that can be used and tracked with the creatio
 
 *   Navigate to Schools from the Ilios Flyout Menu and select the School to review / modify.
 
-    ![](../.gitbook/assets/att\_req\_schools\_1.jpg)
+    ![Navigate to Schools](../images/schools/session_attributes/navigate_to_schools.jpg)
 
 **Step Two**
 
 *   Expand to review the details of the current settings
 
-    ![](../.gitbook/assets/att\_req\_schools\_2.jpg)
+    ![Show details](../images/schools/session_attributes/show_details.jpg)
 
 **Step Three**
 
 *   Modify any of the settings
 
-    ![](../.gitbook/assets/att\_req\_schools\_3.jpg)
+    ![Modify settings](../images/schools/session_attributes/modify_settings.jpg)
 
 These Session Attributes are switched on or off for any given Session using Courses and Sessions >> Session Detail as shown below. In addition to Attendance Required (shown here), Supplemental Curriculum, Special Equipment Required, and Special Attire Required can be set as true or false here (if they were enabled in the previous steps).
 
-![](../.gitbook/assets/att\_req\_c\_and\_s.jpg)
+![Switch on or off](../images/schools/session_attributes/switch_on_of_off.jpg)
 
 In the case of `Attendance Required`, this is displayed as shown below in the Event Detail screen. The other Session Attributes also have display icons in the Event Detail screen.
 
-![](../.gitbook/assets/att\_req\_event\_det.jpg)
+![Attendance required](../images/schools/session_attributes/attendance_required.jpg)

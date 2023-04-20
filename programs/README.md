@@ -6,15 +6,15 @@ This model allows for the greatest flexibility among institutions to manage prog
 
 To create or edit a program, a user must have full edit privileges. First, access the Programs screen by selecting Programs from the Ilios menu.
 
-![Click &quot;Programs&quot; from the Ilios menu](../.gitbook/assets/screen-shot-2021-09-15-at-3.55.54-pm.png)
+![Click Programs from the Ilios menu](../images/programs/click_programs.png)
 
 ## Program Attributes
 
 * _**Name:**_ Up to 200 characters in length.  Click on the name to edit it.
-* _**Short Title:**_ \(abbreviation\) - Up to 10 characters in length. Click on the "Click to edit" label or existing short name hyperlink to edit this.
-* _**Duration:**_ May be between 1 and 10 years.  Click on the number \(in this example 4\) to edit this value.
+* _**Short Title:**_ (abbreviation) - Up to 10 characters in length. Click on the "Click to edit" label or existing short name hyperlink to edit this.
+* _**Duration:**_ May be between 1 and 10 years.  Click on the number (in this example 4) to edit this value.
 
-A newly-entered Program will need to have Program Year\(s\) set up in order to associate Learner Groups \(Students\) to the Program and its offerings.
+A newly-entered Program will need to have Program Year(s) set up in order to associate Learner Groups (Students) to the Program and its offerings.
 
 #### Quick Links...
 

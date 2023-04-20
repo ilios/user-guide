@@ -6,7 +6,7 @@ This model allows for the greatest flexibility among institutions to manage prog
 
 To create or edit a program, a user must have full edit privileges. First, access the Programs screen by selecting Programs from the Ilios menu.
 
-![Click Programs from the Ilios menu](../images/programs/click_programs.png)
+![Click Programs from the Ilios menu](../images/programs/README/click_programs.png)
 
 ## Program Attributes
 

@@ -7,7 +7,7 @@
 * [Duration \(in years\)](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#change-program-duration-years)
 * [Program Leadership](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#program-leadership) - \(add/remove Program Directors\)
 
-![](../.gitbook/assets/screen-shot-2021-09-27-at-3.31.48-pm.png)
+![Program - in read mode](../images/programs/edit_program/program_in_read_mode.png)
 
 #### Edit Program Title
 
@@ -15,67 +15,48 @@ To edit a program's Title, all that is needed to do is to click on the Title its
 
 After clicking on the Program's title "Doctor Of Spine Therapy", the field becomes editable and appears as shown below. 
 
-![In &quot;Edit&quot; mode](../.gitbook/assets/screen-shot-2021-09-27-at-3.28.26-pm.png)
+![Program - in edit mode](../images/programs/edit_program/program_in_edit_mode.png)
 
 The text will be changed to "Spine Doctor" and confirmed.
 
 * Change the text.
 
-![Text has changed.](../.gitbook/assets/editprogrw3.png)
+![Update program name](../images/programs/edit_program/update_program_name.png)
 
 * Confirm the change and review the results.
 
-![Updated Program Name](../.gitbook/assets/editprogrw4.png)
+![Program name - updated](../images/programs/edit_program/program_name_updated.png)
 
 #### Add / Edit Short Title
 
 Since this is a newly created program, there has been no short title entered yet. To enter the short title ...
 
-![](../.gitbook/assets/editprogrw7.png)
+![Click to add](../images/programs/edit_program/click_to_add.png)
 
 * Enter the desired short title. The minimum length for a short title value is 2 characters. The short title "SD Doc" has been entered into the Program Title \(short\) field as shown below.
 
-![](../.gitbook/assets/editprogrw8.png)
+![Enter short title](../images/programs/edit_program/enter_short_title.png)
 
 * After saving the record, "Click to edit" has been replaced with the Program's actual short title "SD Doc".
 
-![](../.gitbook/assets/editprogrw9.png)
+![Short title - added](../images/programs/edit_program/short_title_added.png)
 
-#### Change Program Duration \(Years\)
+#### Change Program Duration (Years)
 
 Modifying the duration of a program is easily accomplished in Ilios. Following the steps below will complete this task.
 
-![](../.gitbook/assets/editprogrw10.png)
+![Click to edit duration](../images/programs/edit_program/click_to_edit_duration.png)
 
-![Select a new Program Duration](../.gitbook/assets/editprogrw11.png)
+![Select new duration](../images/programs/edit_program/select_new_duration.png)
 
-![Confirm new duration](../.gitbook/assets/editprogrw12%20%281%29.png)
+![Confirm new duration](../images/programs/edit_program/confirm_new_duration.png)
 
-![New Program duration saved](../.gitbook/assets/editprogrw13%20%281%29.png)
+![Duration updated](../images/programs/edit_program/duration_updated.png)
 
 #### Program Leadership
 
 Please refer to the [Permissions Matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) to review what rights within the Ilios system will be granted when users are added as Program Directors.
 
-![Expand to review](../.gitbook/assets/editprogrw15.png)
+![Expand leadership](../images/programs/edit_program/expand_leadership.png)
 
-![Click &quot;Manage Leadership&quot;](../.gitbook/assets/editprogrw14.png)
-
-#### Change Program Duration
-
-To change a Program's duration \(the default is set to 4 years\) ...
-
-![Edit Program Duration](../.gitbook/assets/editprogrw10%20%281%29.png)
-
-* Select a new Program Duration as shown below. 
-
-![](../.gitbook/assets/editprogrw11%20%281%29.png)
-
-* Save the updated Program Duration
-
-![](../.gitbook/assets/editprogrw12.png)
-
-* View the results of this action
-
-![Program Duration updated](../.gitbook/assets/editprogrw13.png)
-
+![Click to manage](../images/programs/edit_program/click_to_manage_leadership.png)

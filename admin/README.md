@@ -6,13 +6,13 @@ This is what the screen looks like at a school that is hooked up to a Campus Dir
 
 #### With Campus Directory ...
 
-![With campus directory](../images/admin_console/with_campus_directory.png)
+![With campus directory](../images/admin_console/README/with_campus_directory.png)
 
 Each of the above functional links are detailed in upcoming sections.
 
 #### Without Campus Directory ...
 
-![Without campus directory](../images/admin_console/without_campus_directory.png)
+![Without campus directory](../images/admin_console/README/without_campus_directory.png)
 
 ## 1. [View All](https://iliosproject.gitbook.io/ilios-user-guide/admin/view-all)
 

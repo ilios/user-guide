@@ -1,26 +1,28 @@
 # Program Year Objective Visualization
 
-![](../.gitbook/assets/pyvis1.png)
+This is a very dense and detailed visualizsation showing program year objectives being mapped down to the course and session level, indicating how this mapping has occured.
 
-Since this requires some heavy calculations, a blue progress indicator bar will appear as the graph \(visualization\) is being generated. 
+![Select visualization](../images/programs/objective_map_visualization/select_visualization.png)
 
-![](../.gitbook/assets/progbar1.png)
+Since this requires some heavy calculations, a blue progress indicator bar will appear as the graph (visualization) is being generated. 
+
+![Progress bar ... loading](../images/programs/objective_map_visualization/progress_bar_loading.png)
 
 Once the progress bar has completed its journey, the following high level visualization appears on screen. This needs to be clicked to drill down to be able to review the data.
 
-![](../.gitbook/assets/pyvis2.png)
+![Click for more details](../images/programs/objective_map_visualization/click_for_more_details.png)
 
 After clicking as shown above, the visualization can be reviewed. This is currently required as an extra step due to the fact that we may have more visualizations at this higher level in the future.
 
-![Highest Level Mouse Over](../.gitbook/assets/pyvis3.png)
+![Highest Level Mouse Over](../images/programs/objective_map_visualization/highest_level_mouse_over.png)
 
 Clicking further down at each level will reveal the appropriate detail. 
 
-![Competency Domain Level \(Medical Knowledge\)](../.gitbook/assets/pyvis4.png)
+![Competency Domain Level (Medical Knowledge)](../images/programs/objective_map_visualization/competency_domain_level.png)
 
-![Program Year Objective Level \(MK1\)](../.gitbook/assets/pyvis5.png)
+![Program Year Objective Level (MK1)](../images/programs/objective_map_visualization/program_year_objective_level.png)
 
 It is also possible to go down to the Course Objective level, which is the lowest level of this visualization. 
 
-![](../.gitbook/assets/pyvis6.png)
+![Course objective level](../images/programs/objective_map_visualization/course_objective_level.png)
 

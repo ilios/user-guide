@@ -1,6 +1,6 @@
 # User Account And Role Management
 
-Currently, there are two tools available in the Management Console: _**User Account Management**_, and _**Permissions**_. The default page is User Account Management, which provides alerts on accounts requiring administrative attention, as well as the default user search link.
+Currently, there are two tools available in the Management Console: **User Account Management**, and **Permissions**. The default page is User Account Management, which provides alerts on accounts requiring administrative attention, as well as the default user search link.
 
 ## User Roles
 
@@ -8,13 +8,13 @@ Ilios provides for four distinct user roles which determine mode of access for a
 
 ### Non-Students
 
-* _**Course Director:**_ The Course Director role provides for full editorial access to the Courses to which they have been assigned as Course Director. In the `user_role` table of the database, this role is identified with a value of 1.
-* _**Instructor:**_ Any Ilios user can be added as an Instructor in Ilios. This association allows the Instructor to maintain their own offerings at a minimum (if they don't have higher access elsewhere). In the `user_role` table of the database, this role is identified with a value of 3.
-* _**Developer (aka Administrator):**_ This role provides for full editorial access to the system for the primary school of the user. It does not add the user to any associative lists. Allows for access to the “Admin Console” as well as "Curriculum Inventory" from the Ilios flyout menu. In the `user_role` table of the database, this role is identified with a value of 2.
+* **Course Director:** The Course Director role provides for full editorial access to the Courses to which they have been assigned as Course Director. In the `user_role` table of the database, this role is identified with a value of 1.
+* **Instructor:** Any Ilios user can be added as an Instructor in Ilios. This association allows the Instructor to maintain their own offerings at a minimum (if they don't have higher access elsewhere). In the `user_role` table of the database, this role is identified with a value of 3.
+* **Developer (aka Administrator):** This role provides for full editorial access to the system for the primary school of the user. It does not add the user to any associative lists. Allows for access to the “Admin Console” as well as "Curriculum Inventory" from the Ilios flyout menu. In the `user_role` table of the database, this role is identified with a value of 2.
 
 ### Students
 
-* _**Student:**_ The student role allows for the automatic ingestion from an external LDAP directory, and the association to any program cohort. Students may also be assigned additional, non-student roles, but their primary role will remain that of student. In the `user_role` table of the database, this role is identified with a value of 4.
+* **Student:** The student role allows for the automatic ingestion from an external LDAP directory, and the association to any program cohort. Students may also be assigned additional, non-student roles, but their primary role will remain that of student. In the `user_role` table of the database, this role is identified with a value of 4.
 
 ### Former Students
 
@@ -40,7 +40,7 @@ Non-student records are those which are valid active records, (i.e. have a valid
 
 When there is a conflict between an Ilios account record and its parent record in the campus directory, this will appear on the Management Console. Each record may either be updated --- replacing the conflicting information with the data found in the external directory --- disabled, or ignored until the next ingest cycle. Any record that is found to be in conflict will remain in the alert panel until action is taken.
 
-To manage existing accounts and their roles, go to the _**Management Console**_ and open the _**Manage User Accounts**_ link. An alert icon will display on the dashboard when there are accounts awaiting attention. Accounts requiring reconciliation will appear in the top alert panel on the Management console landing page, and students requiring cohort assignment in the bottom alert panel. If there are no items requiring attention, the default page will show the user search panel.
+To manage existing accounts and their roles, go to the **Management Console** and open the **Manage User Accounts** link. An alert icon will display on the dashboard when there are accounts awaiting attention. Accounts requiring reconciliation will appear in the top alert panel on the Management console landing page, and students requiring cohort assignment in the bottom alert panel. If there are no items requiring attention, the default page will show the user search panel.
 
 **Note:** When using the search panel, the default view of returned records will be from all available records in Ilios, regardless of School affiliation. However, creation of a new record will automatically associate the new record with the primary school affiliation of the current admin user.
 
@@ -48,7 +48,7 @@ To manage existing accounts and their roles, go to the _**Management Console**_ 
 
 Accounts which appear to have a conflict with the registered data in the external directory will be listed in the alert panel; each will provide details including what points of data are in conflict.
 
-Selecting to _**Disable**_ the account will freeze the account until further action is taken, preventing the user from accessing Ilios and removing them from select lists for further assignment, but will not change the historic Ilios record; selecting to Update will update the account with the information in the external directory; Selecting _**Leave As Is**_ will remove the account from the alert list until the next ingest cycle; not selecting an option will leave the account on the alert list, waiting for reconciliation. You may also set an individual account to be ignored by the reconciliation process; this is done on the individual user account detail page by selecting the option of _**"Exclude From Synch"**_.
+Selecting to **Disable** the account will freeze the account until further action is taken, preventing the user from accessing Ilios and removing them from select lists for further assignment, but will not change the historic Ilios record; selecting to Update will update the account with the information in the external directory; Selecting **Leave As Is** will remove the account from the alert list until the next ingest cycle; not selecting an option will leave the account on the alert list, waiting for reconciliation. You may also set an individual account to be ignored by the reconciliation process; this is done on the individual user account detail page by selecting the option of **"Exclude From Synch"**.
 
 ### Assigning Student Accounts
 
@@ -60,13 +60,13 @@ This assigns students to a “primary” cohort, which will be their parent coho
 
 ### Disabling Accounts
 
-The _**“disabling”**_ of an account is blocking the user’s access to Ilios. This means that a user who has been disabled will no longer be able to log in to the system, and instead will be alerted that their account has been disabled, and to contact the Ilios administrator for assistance. This is the default state for newly ingested student records until they have been assigned to a cohort. For Instructor and Director records, they will also be removed from the current selection lists in the system.
+The **“disabling”** of an account is blocking the user’s access to Ilios. This means that a user who has been disabled will no longer be able to log in to the system, and instead will be alerted that their account has been disabled, and to contact the Ilios administrator for assistance. This is the default state for newly ingested student records until they have been assigned to a cohort. For Instructor and Director records, they will also be removed from the current selection lists in the system.
 
-To disable an existing Ilios Account, search for the user account in question, and select them from the results list. From the available actions, choose _**“disable this account”**_ and click _**continue**_. The account is now disabled.
+To disable an existing Ilios Account, search for the user account in question, and select them from the results list. From the available actions, choose **“disable this account”** and click **continue**. The account is now disabled.
 
 Similarly, for managing existing account roles, simply find the desired account, select the desired active roles for the user in question and click continue.
 
-_\*_Ignoring Accounts for Directory Ingest and Reconciliation
+#### Ignoring Accounts for Directory Ingest and Reconciliation
 
 An account may be set to be ignored by the reconciliation with external directory information; this provides for avoiding repeating alerts on accounts that may have information which is unavailable to the campus system, or which are specific to Ilios for any reason. Clicking the box labeled _**“Exclude this account from synchronization process”**_ will set the account to be ignored by the process.
 
@@ -78,9 +78,9 @@ There are two methods of creating a user in Ilios: via the Management Console, o
 
 Once uploaded, the users listed will be added to the instructor group or learner cohort in which you are working.
 
-The other, preferred method of creating users in Ilios is to use the _**Management Console**_ search tool. When a search for a user is run, if no results are found in Ilios, the user is presented with the opportunity to create a new Ilios account.
+The other, preferred method of creating users in Ilios is to use the **Management Console** search tool. When a search for a user is run, if no results are found in Ilios, the user is presented with the opportunity to create a new Ilios account.
 
-Selecting _**“Create Account”**_ will bring up the template for entering a new account: The required fields are name, Campus ID, and email. These must match the official records in the directory for accuracy. Note that if internal authentication is not active, the username and password fields are disabled or not visible at all in more recent versions; these are only for use in situations where Ilios native authentication, rather than shibboleth, is in use. Passwords must adhere to a high security standard.
+Selecting **“Create Account”** will bring up the template for entering a new account: The required fields are name, Campus ID, and email. These must match the official records in the directory for accuracy. Note that if internal authentication is not active, the username and password fields are disabled or not visible at all in more recent versions; these are only for use in situations where Ilios native authentication, rather than shibboleth, is in use. Passwords must adhere to a high security standard.
 
 Please note that only non-student accounts may be created here. The account may later be associated with a learner record via external directory reconciliation as described above, but in general student accounts should only be entered into Ilios via external directory feed or via the Learner Groups page. Minimum and maximum lengths of the UC Id field may be set in the configuration file `config/ilios.php` as variable attributes. The default min and max values are each initially set to “9”, but can be modified in the file `web/application/config/[default.]ilios.php`.
 
@@ -108,7 +108,7 @@ Ilios provides a management interface to allow for the simple control of edit �
 
 By default, any existing non-student user will automatically have edit privileges to the curriculum for their assigned school. To assign school privileges, or to assign direct course privileges to users, the Management Console should be opened. It is accessed by clicking on the “Open Management Console” link in the Administration section of the Dashboard. Only users assigned admin control for the system (directors, developers) may access the console.
 
-Clicking on the _**Manage Permissions**_ link will bring up a select box of all Ilios users, regardless of school association. You may select one or more users for permissions management.
+Clicking on the **Manage Permissions** link will bring up a select box of all Ilios users, regardless of school association. You may select one or more users for permissions management.
 
 Selecting one user will return a display of that user’s current access permissions to Schools, Programs and Courses.
 

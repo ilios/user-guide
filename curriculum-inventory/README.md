@@ -20,13 +20,13 @@ The export created by the report is compliant with the Medbiquitous standards an
 
 The Curriculum Inventory functionality can be accessed (if you have the rights) by clicking on the Ilios Flyout Menu as shown below.
 
-![Click on the flyout](../images/curriculum_inventory/curriculum_inventory_flyout.png)
+![Click on the flyout](../images/curriculum_inventory/README/curriculum_inventory_flyout.pngcurriculum_inventory_flyout.png)
 
 ### Main Screen
 
 After clicking the Curriculum Inventory link from the Ilios flyout menu as shown above, the screen will appear similar to what is shown below.
 
-![Curriculum Inventory report list](../images/curriculum_inventory/curriculum_inventory_report_list.png)
+![Curriculum Inventory report list](../images/curriculum_inventory/README/curriculum_inventory_report_list.png)
 
 The existing Curriculum Inventory (CI) Reports can be sorted by ...
 
@@ -44,23 +44,23 @@ You can see (A - Z) next to Report Name above, which indicates that is the curre
 
 Click the (+) button as shown below to start the process of creating a new CI Report.
 
-![Click to start](../images/curriculum_inventory/click_to_start.png)
+![Click to start](../images/curriculum_inventory/README/click_to_start.png)
 
 #### 2. Select School, Program, Year and enter Name and optional Description
 
 Once the (+) icon has been clicked as shown above, the screen appears as shown below. Select and / or enter the applicable data for the newly created CI Report.
 
-![](../.gitbook/assets/ci\_rw\_18.png)
+![Screen elements shown](../images/curriculum_inventory/README/screen_elements_shown.png)
 
 After the data has been entered or selected as shown above and "Done" has been clicked, the new CI Report gets created. It gets shifted to the bottom of the list (sorted currently by "Report Name").
 
 **NOTE:** The newly created reported can be deleted - use the red trash can icon to do this. Its status is DRAFT. Any report that has not been finalized can be deleted.
 
-![](../.gitbook/assets/ci\_rw\_19.png)
+![New report created](../images/curriculum_inventory/README/new_report_created.png)
 
 ### Icons Explained
 
-![](../.gitbook/assets/ci\_rw\_3.png)
+![Icons explained](../images/curriculum_inventory/README/icons_explained.png)
 
 The red trash can "Delete" is only available when a CI Report has not been finalized. A finalized CI Report is shown with a locked icon and cannot be deleted.
 
@@ -74,17 +74,17 @@ Note that in the current iteration, it is necessary to create the highest level 
 
 Now that the new CI Report was saved in Step 2 (above), the report can be accessed and edited by using any of the three routes indicated by the purple arrows in the screen shot below. The congratulatory message only appears until the screen is refreshed or other action is taken.
 
-![](../.gitbook/assets/ci\_rw\_20.png)
+![New report saved](../images/curriculum_inventory/README/new_report_saved.png)
 
 Now that the newly created report has been selected and opened for editing, to start the process of creating the top level of the nested Sequence Blocks, click the (+) button as shown below.
 
-![](../.gitbook/assets/ci\_rw\_21.png)
+![Add first sequence block](../images/curriculum_inventory/README/add_first_sequence_block.png)
 
 It is strongly recommended that the structure of your report be well defined prior to creating it in Ilios. This will facilitate the process of modeling your high level tracks, blocks, and nested sequences.
 
 The data entry points for a new Sequence Block are detailed below.
 
-![](../.gitbook/assets/ci\_rw\_23.png)
+![Sequence block details](../images/curriculum_inventory/README/sequence_block_details.png)
 
 **IMPORTANT NOTE**: By default, courses are set to be "Not A Clerkship". If a Clerkship Type is selected, **BOTH** Start and End Date **AND** Duration are required. This is pointed out because the image above indicates only one is required - not the case with Clerkships.
 
@@ -102,7 +102,7 @@ After clicking the **Done** button shown above, the Sequence Block is committed 
 
 This is the process of assigning the Courses (and the Sessions and Offerings) that correspond to the Sequence Block saved in the previous step.
 
-Pull up the recently saved top-level Sequence Block by following one of the routes indicated in the screen shot below to begin the process of adding the Courses and Sessions to the nested Sequence Block being created.&#x20;
+Pull up the recently saved top-level Sequence Block by following one of the routes indicated in the screen shot below to begin the process of adding the Courses and Sessions to the nested Sequence Block being created.
 
 ![](../.gitbook/assets/ci\_rw\_25.png)
 

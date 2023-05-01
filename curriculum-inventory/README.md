@@ -26,7 +26,7 @@ The Curriculum Inventory functionality can be accessed (if you have the rights) 
 
 After clicking the Curriculum Inventory link from the Ilios flyout menu as shown above, the screen will appear similar to what is shown below.
 
-![](../.gitbook/assets/ci\_rw\_5.png)
+![Curriculum Inventory report list](../images/curriculum_inventory/curriculum_inventory_report_list.png)
 
 The existing Curriculum Inventory (CI) Reports can be sorted by ...
 
@@ -44,7 +44,7 @@ You can see (A - Z) next to Report Name above, which indicates that is the curre
 
 Click the (+) button as shown below to start the process of creating a new CI Report.
 
-![](../.gitbook/assets/ci\_rw\_6.png)
+![Click to start](../images/curriculum_inventory/click_to_start.png)
 
 #### 2. Select School, Program, Year and enter Name and optional Description
 

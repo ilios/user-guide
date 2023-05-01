@@ -14,13 +14,13 @@ Reports may be created, edited and/or deleted up until they are “finalized”.
 
 Only one report for each year of each program may be in place at any time; this includes finalized reports.
 
-The export created by the report is compliant with the Medbiquitous standards and the AAMC inventory business rules. Once generated it may be delivered directly to the AAMC for input into the CI and MedAPS system. This was designed with the School of Medicine in mind. However, the provided tools can be used by any school (Pharmacy, Dentistry etc.).&#x20;
+The export created by the report is compliant with the Medbiquitous standards and the AAMC inventory business rules. Once generated it may be delivered directly to the AAMC for input into the CI and MedAPS system. This was designed with the School of Medicine in mind. However, the provided tools can be used by any school (Pharmacy, Dentistry etc.).
 
 ## Accessing Curriculum Inventory
 
 The Curriculum Inventory functionality can be accessed (if you have the rights) by clicking on the Ilios Flyout Menu as shown below.
 
-![](../images/new_CI_Flyout.png)
+![Click on the flyout](../images/curriculum_inventory/curriculum_inventory_flyout.png)
 
 ### Main Screen
 
@@ -28,11 +28,11 @@ After clicking the Curriculum Inventory link from the Ilios flyout menu as shown
 
 ![](../.gitbook/assets/ci\_rw\_5.png)
 
-&#x20;The existing Curriculum Inventory (CI) Reports can be sorted by ...
+The existing Curriculum Inventory (CI) Reports can be sorted by ...
 
 `Report Name`
 
-&#x20;or ...
+or ...
 
 `Academic Year`
 

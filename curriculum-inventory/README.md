@@ -20,13 +20,13 @@ The export created by the report is compliant with the Medbiquitous standards an
 
 The Curriculum Inventory functionality can be accessed (if you have the rights) by clicking on the Ilios Flyout Menu as shown below.
 
-![Click on the flyout](../images/curriculum_inventory/curriculum_inventory_flyout.png)
+![Click on the flyout](../images/curriculum_inventory/README/curriculum_inventory_flyout.pngcurriculum_inventory_flyout.png)
 
 ### Main Screen
 
 After clicking the Curriculum Inventory link from the Ilios flyout menu as shown above, the screen will appear similar to what is shown below.
 
-![Curriculum Inventory report list](../images/curriculum_inventory/curriculum_inventory_report_list.png)
+![Curriculum Inventory report list](../images/curriculum_inventory/README/curriculum_inventory_report_list.png)
 
 The existing Curriculum Inventory (CI) Reports can be sorted by ...
 
@@ -44,23 +44,23 @@ You can see (A - Z) next to Report Name above, which indicates that is the curre
 
 Click the (+) button as shown below to start the process of creating a new CI Report.
 
-![Click to start](../images/curriculum_inventory/click_to_start.png)
+![Click to start](../images/curriculum_inventory/README/click_to_start.png)
 
 #### 2. Select School, Program, Year and enter Name and optional Description
 
 Once the (+) icon has been clicked as shown above, the screen appears as shown below. Select and / or enter the applicable data for the newly created CI Report.
 
-![](../.gitbook/assets/ci\_rw\_18.png)
+![Screen elements shown](../images/curriculum_inventory/README/screen_elements_shown.png)
 
 After the data has been entered or selected as shown above and "Done" has been clicked, the new CI Report gets created. It gets shifted to the bottom of the list (sorted currently by "Report Name").
 
 **NOTE:** The newly created reported can be deleted - use the red trash can icon to do this. Its status is DRAFT. Any report that has not been finalized can be deleted.
 
-![](../.gitbook/assets/ci\_rw\_19.png)
+![New report created](../images/curriculum_inventory/README/new_report_created.png)
 
 ### Icons Explained
 
-![](../.gitbook/assets/ci\_rw\_3.png)
+![Icons explained](../images/curriculum_inventory/README/icons_explained.png)
 
 The red trash can "Delete" is only available when a CI Report has not been finalized. A finalized CI Report is shown with a locked icon and cannot be deleted.
 
@@ -74,17 +74,17 @@ Note that in the current iteration, it is necessary to create the highest level 
 
 Now that the new CI Report was saved in Step 2 (above), the report can be accessed and edited by using any of the three routes indicated by the purple arrows in the screen shot below. The congratulatory message only appears until the screen is refreshed or other action is taken.
 
-![](../.gitbook/assets/ci\_rw\_20.png)
+![New report saved](../images/curriculum_inventory/README/new_report_saved.png)
 
 Now that the newly created report has been selected and opened for editing, to start the process of creating the top level of the nested Sequence Blocks, click the (+) button as shown below.
 
-![](../.gitbook/assets/ci\_rw\_21.png)
+![Add first sequence block](../images/curriculum_inventory/README/add_first_sequence_block.png)
 
 It is strongly recommended that the structure of your report be well defined prior to creating it in Ilios. This will facilitate the process of modeling your high level tracks, blocks, and nested sequences.
 
 The data entry points for a new Sequence Block are detailed below.
 
-![](../.gitbook/assets/ci\_rw\_23.png)
+![Sequence block details](../images/curriculum_inventory/README/sequence_block_details.png)
 
 **IMPORTANT NOTE**: By default, courses are set to be "Not A Clerkship". If a Clerkship Type is selected, **BOTH** Start and End Date **AND** Duration are required. This is pointed out because the image above indicates only one is required - not the case with Clerkships.
 
@@ -96,31 +96,31 @@ The data entry points for a new Sequence Block are detailed below.
 
 After clicking the **Done** button shown above, the Sequence Block is committed to the database. The meta-information about the Sequence Block is displayed as shown below.
 
-![](../.gitbook/assets/ci\_rw\_24.png)
+![Success message](../images/curriculum_inventory/README/success_message.png)
 
 #### 4. Add Nested Sequence Block
 
 This is the process of assigning the Courses (and the Sessions and Offerings) that correspond to the Sequence Block saved in the previous step.
 
-Pull up the recently saved top-level Sequence Block by following one of the routes indicated in the screen shot below to begin the process of adding the Courses and Sessions to the nested Sequence Block being created.&#x20;
+Pull up the recently saved top-level Sequence Block by following one of the routes indicated in the screen shot below to begin the process of adding the Courses and Sessions to the nested Sequence Block being created.
 
-![](../.gitbook/assets/ci\_rw\_25.png)
+![Other options](../images/curriculum_inventory/README/other_options.png)
 
-![](../.gitbook/assets/ci\_rw\_26.png)
+![Start adding more](../images/curriculum_inventory/README/start_adding_more.png)
 
 Now that the process has been started as shown above the Sequence Block creation screen is displayed again only this time, the new Sequence Block will be "nested" under the higher level one.
 
 After following the steps shown above, the Nested Sequence Block can be created as shown below.
 
-![](../.gitbook/assets/ci\_rw\_15.png)
+![Nested block options](../images/curriculum_inventory/README/nested_block_options.png)
 
 After clicking Done, the new Sequence Block gets created as shown below.
 
-![](../.gitbook/assets/ci\_rw\_16.png)
+![Nested block saved](../images/curriculum_inventory/README/nested_block_saved.png)
 
 Open up the newly created nested Sequence Block by clicking in one of the locations indicated by the blue arrows above.
 
-![](../.gitbook/assets/ci\_rw\_17.png)
+![To make changes](../images/curriculum_inventory/README/to_make_changes.png)
 
 The changes that can be made after clicking Manage as shown above are primarily to deal with Instructional Time. In the case that is circled above there are 8 Offerings and the time is not counted as one Offering. The full duration of all 8 Offerings is added up for the total of 32 hours, even though each of the Offerings (Exams) that any one student would attend would last 4 hours. You can select "Count as one offering" to be "Yes" to fix this if that is what you choose to do. In this case, that would probably be the best thing to do since each student only has to take this exam one time.
 
@@ -140,11 +140,11 @@ Since, it is not accurate to have all of the 7 Offerings to be added together to
 
 Clicking as shown below will adjust the Sequence Block to reflect reality better. The two ILM's at the top of the Sequence Block have been selected to **NOT** be included in the CI Report output. The ABC1 Exam is now counted at its correct duration (4 hours).
 
-![](../.gitbook/assets/ci\_rw\_27.png)
+![Set duration options](../images/curriculum_inventory/README/set_duration_options.png)
 
 Click the Green Check box to process the update(s). The screen refreshes with the updated values indicated.
 
-![](../.gitbook/assets/ci\_rw\_28.png)
+![Updates processed](../images/curriculum_inventory/README/updates_processed.png)
 
 Once a report is created in draft form, it becomes available in the “select report” list which appears when clicking the “select report” button at the top left of the screen. Reports may be edited at any time until they are finalized. Once finalized, they may not be modified, and changes to the existing active curriculum or Ilios data will not modify their contents.
 
@@ -152,26 +152,26 @@ It may be necessary to go one level deeper into the Block Sequence structure whe
 
 #### 6. Finalize Curriculum Inventory Report
 
-The example below shows a completed CI Report that is now ready to be finalized. Any of the fields with blue text can still be edited before the report gets finalized. The report can also be downloaded before or after it gets finalized. The same is true for performing a[ ](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/ci-report-rollover)[rollover](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/ci-report-rollover).&#x20;
+The example below shows a completed CI Report that is now ready to be finalized. Any of the fields with blue text can still be edited before the report gets finalized. The report can also be downloaded before or after it gets finalized. The same is true for performing a[ ](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/ci-report-rollover)[rollover](https://iliosproject.gitbook.io/ilios-user-guide/curriculum-inventory/ci-report-rollover).
 
 ![](../.gitbook/assets/ci\_rw\_29.png)
 
 After clicking the `Finalize` button as shown above, the user is presented with one final chance to either go through with the finalization of the report or cancel out and make further refinements.
 
-![](../.gitbook/assets/ci\_rw\_30.png)
+![Finalize report](../images/curriculum_inventory/README/finalize_report.png)
 
 Now, after clicking `Yes`, the CI Report gets finalized and as the message states no further edits will be possible.
 
 The following splash screen appears while the finalizaton process is being performed. It may take a while to complete.
 
-![](../.gitbook/assets/ci\_rw\_31.png)
+![Finalizing ...](../images/curriculum_inventory/README/finalizing.png)
 
 Now the report can be downloaded but cannot be edited. The top part of the screen reflects this fact.
 
-![](../.gitbook/assets/ci\_rw\_32.png)
+![Can be downloaded only](../images/curriculum_inventory/README/can_be_downloaded_only.png)
 
 The XML output from the CI Report can be run through an XML parser such as [this one](https://www.corefiling.com/opensource/schemaValidate.html) to check for errors. Common errors include fields that require a value not receiving a value.
 
 Clicking `Download` will create a file called `report.xml` which will be saved to your default download folder.
 
-![](../.gitbook/assets/downloaded.jpg)
+![Downloaded](../images/curriculum_inventory/README/downloaded.jpg)

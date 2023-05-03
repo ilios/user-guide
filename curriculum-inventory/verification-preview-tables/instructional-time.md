@@ -8,11 +8,11 @@ description: >-
 
 #### Table 3-A
 
-![Non-Clerkship Sequence Blocks](../../.gitbook/assets/ci_table3_1.png)
+![Non-Clerkship Sequence Blocks](../../images/curriculum_inventory/verification_tables/instructional_time/non_clerkship_sequence_blocks.png)
 
-#### Table 3-B
+#### Table 3-B 
 
-![Clerkship Sequence Blocks](../../.gitbook/assets/ci_table3_2.png)
+![Clerkship Sequence Blocks](../../images/curriculum_inventory/verification_tables/instructional_time/clerkship_sequence_blocks.png)
 
 In both cases, the Verification table returns the Sequence Block title, Academic Level, Total Weeks of instruction, along with the Average Hours of Instruction per week. This is helpful to determine if adjustments should be made before submitting the CI Report.
 

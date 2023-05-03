@@ -2,5 +2,5 @@
 
 Table 5 is shown below.
 
-![](../../.gitbook/assets/ci_table5_1.png)
+![Non-clerkship sequence blocks](../../images/curriculum_inventory/verification_tables/non_clerkship_sequence_blocks/non_clerkship_sequence_blocks.png)
 

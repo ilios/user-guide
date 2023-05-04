@@ -2,5 +2,5 @@
 
 Table 6 is shown below.
 
-![](../../.gitbook/assets/ci_table6_1.png)
+![Clerkship block table](../../images/curriculum_inventory/verification_tables/clerkship_sequence_blocks/clerkship_block_table.png)
 

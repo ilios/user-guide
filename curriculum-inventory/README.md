@@ -1,5 +1,7 @@
 # Curriculum Inventory
 
+IMPORTANT NOTE: The AAMC will no longer collect curriculum data through the AAMC Curriculum Inventory Portal. For the 2022-2023 academic year and beyond, they will collect curriculum data through a new survey. Questions? Please contact [curriculum@aamc.org](mailto:curriculum@aamc.org).
+
 ## Curriculum Inventory Manager
 
 The Curriculum Inventory Manager is designed to allow Ilios users to craft standards-compliant xml output reports for the AAMC’s new Curriculum Inventory, as well as to provide a platform for modeling new frameworks for the curricula held in Ilios.

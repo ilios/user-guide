@@ -1,8 +1,12 @@
 # Program Years
 
+A program year is essentially a year of instructional activity for any given program. The process of adding one or more program years is detailed below along with the configurable attributes of a program year.
+
 ## **Add Program Year**
 
 **Step 1:** Click the (+) to begin the process of adding the Program Year.
+
+**NOTE** If program years have already been added to your program, creating a new program year will use the attributes assigned to the previous year, in essence "rolling over" the previous program year - saving work effort. Each program year can then be individually modified.
 
 ![Add program year - start](../images/programs/program_years/add_program_year_start.png)
 

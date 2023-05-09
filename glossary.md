@@ -54,7 +54,7 @@ Acronym for Medical Subject Headings. This is a controlled vocabulary that may b
 
 ## Not Published
 
-The default status of an object (Session, Course) which is not finalized and does not display in detail on the public calendars or to learners. Users with edit privileges may see, edit, and modify these objects. The other states available for objects are Published and Scheduled.&#x20;
+The default status of an object (Session, Course) which is not finalized and does not display in detail on the public calendars or to learners. Users with edit privileges may see, edit, and modify these objects. The other states available for objects are Published and Scheduled.
 
 ## Objective
 
@@ -67,6 +67,10 @@ The scheduled (time and place) representation of a Session or teaching unit, rep
 ## Program
 
 A specific course of study for a given school.
+
+## Program Year
+
+A year of instruction for a Program.
 
 ## Published
 

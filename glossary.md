@@ -34,11 +34,11 @@ This denotes a collection of people (Learners or Instructors) which can be assoc
 
 ## Group Attributes
 
-This refers to assigned metadata for any selected Learner Group. These labels do not create hierarchical associations or relationships with other objects or data in the system. Group Name, Default Instructor(s), and Default Location are examples of this along with Default Virtual Learning Link and whether or not learners within the learner Group require accommodation. Defaults are only applied in the case of Offering(s) created using "Small Groups" option upon Offering creation.&#x20;
+This refers to assigned metadata for any selected Learner Group. These labels do not create hierarchical associations or relationships with other objects or data in the system. Group Name, Default Instructor(s), and Default Location are examples of this along with Default Virtual Learning Link and whether or not learners within the learner Group require accommodation. Defaults are only applied in the case of Offering(s) created using "Small Groups" option upon Offering creation.
 
 ## Independent Learning Module (ILM)
 
-A Session for a Course without a specific location or time of occurrence. Independent Learning Units are comprised of Learning Materials, an expected number of educational hours or duration for the learner to complete the content, and a due-by date. These are also referred to as _Independent Learning Units_ or _ILM's_. These are asynchronous learning activities performed by the Learner at their time of choosing before ether a specified Due Date or another upcoming Event.
+A Session for a Course without a specific location or time of occurrence. Independent Learning Units are comprised of Learning Materials, an expected number of educational hours or duration for the learner to complete the content, and a due-by date. These are also referred to as _Independent Learning Modules_ or _ILM's_. These are asynchronous learning activities performed by the Learner at their time of choosing before ether a specified Due Date or another upcoming Event.
 
 ## Learner and Educator
 
@@ -54,7 +54,7 @@ Acronym for Medical Subject Headings. This is a controlled vocabulary that may b
 
 ## Not Published
 
-The default status of an object (Session, Course) which is not finalized and does not display in detail on the public calendars or to learners. Users with edit privileges may see, edit, and modify these objects. The other states available for objects are Published and Scheduled.&#x20;
+The default status of an object (Session, Course) which is not finalized and does not display in detail on the public calendars or to learners. Users with edit privileges may see, edit, and modify these objects. The other states available for objects are Published and Scheduled.
 
 ## Objective
 
@@ -67,6 +67,10 @@ The scheduled (time and place) representation of a Session or teaching unit, rep
 ## Program
 
 A specific course of study for a given school.
+
+## Program Year
+
+A year of instruction for a Program.
 
 ## Published
 

@@ -16,6 +16,7 @@ A Course is a Curricular object that defines the content and structure of a spec
 * **Objectives:** Free-text entry field. Each Objective entered at the course level may be associated to one or more Program-level Objectives for each program associated with the Course. It is a school-level configurable option to allow Course objectives to be associated with only one Program Year objective, or to allow them to be associated with multiple Program Year objectives. Only authorized users from a given program’s home school may edit the relationships of an Objective to that program’s cohorts. Course Objectives may also be assigned their own MeSH terms and Vocabulary Terms.
 * **Course Director(s):** Selected from list of available names. The list is populated with users identified and tagged as having “Director” level permissions in the database.
 * **Terms:** Selected from a school-specific, pre-defined list.
+* **Vocabularies:** Collections of Terms (school-specific categories of learning) that can be selected and attached (tagged) to many curricular objects within Ilios.
 * **MeSH Terms:** Selected by searching the MeSH database.
 * **Learning Materials:** Course level learning materials are available to all Sessions of a Course, and are entered using the Learning Materials search/upload tools.
 

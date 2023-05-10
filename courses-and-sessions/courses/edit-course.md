@@ -46,7 +46,7 @@ These are the lower level details of a Course that are displayed and can be modi
 * Course Objectives (and associated Parent Objectives, Vocabulary Terms, and MeSH Terms)
 * Course Learning Materials
 * [Competencies](https://iliosproject.gitbook.io/ilios-user-guide/schools/competencies) - set at School level
-* Terms (which can include various Vocabularies)
+* Terms - selected from one or more Vocabularies, which are configured at the School level
 * Course MeSH Terms
 * [Program Cohorts](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-course#program-cohorts)
 

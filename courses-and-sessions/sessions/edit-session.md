@@ -65,6 +65,24 @@ After saving in the scenario above, the screen changes to something similar to t
 
 The Description will get truncated in this view. Clicking on the ellipses or the information symbol will change the screen to display the rest of the session description if it is truncated due to being too lengthy. This will look the same as it looked earlier when editing the description.
 
+### Add URL
+
+This applies to any text box in Ilios; but `Description` and `Instructional Notes` are both good examples of this. To add a URL to a Session `Description`, follow the steps shown below.
+
+![Enter URL - starting point](../../images/session_edit/enter_URL_starting_point.png)
+
+After clicking as shown above, the entry area appears to add a URL, displayed to the user as the "Text" value entered here. There is a check box available if you would like the link to appear in a new tab (or not if left in un-checked state).
+
+![Enter text and link](../../images/session_edit/enter_text_and_link.png)
+
+This is how it appears when entered as shown above.
+
+![In "edit" mode](../../images/session_edit/in_edit_mode.png)
+
+After being saved, the link appears as shown below in "display" (post-save) mode.
+
+![In "display" mode](../../images/session_edit/in_display_mode.png)
+
 ### Instructional Notes
 
 The process for editing and entering Instructional Notes is basically identical to the process detailed above for session description. One difference is that Instructional Notes do not get truncated in the interface if lengthy.

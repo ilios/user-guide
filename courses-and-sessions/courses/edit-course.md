@@ -2,7 +2,7 @@
 
 ### Find Course By Filter
 
-To manage an existing course, enter part of the course’s title into the **"Filter by course title”** text field located above the **“Add New”** button. The result will automatically return a course list which applies the critieria entered. You can also just scroll through the list and find the Course without filtering at all.
+To manage and edit an existing course, enter part of the course’s title into the **"Filter by course title”** text field located above the **“Add New”** button. The result will automatically return a course list which applies the critieria entered. You can also just scroll through the list and find the Course without filtering at all.
 
 **Courses Pre-filter**
 

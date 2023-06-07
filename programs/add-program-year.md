@@ -60,7 +60,7 @@ When reviewing Program Year Objectives, you can not only download the Competency
 
 Below is a sample screen shot illustrating this. The Program Year Objective "MK2 (graduation) ..." has been expanded by clicking the arrow to the left of the Objective. Viewable are the Courses in which this was taught along with the text values of the associated Course Objectives.
 
-Any, or all, of these Program Year Objectives can be expanded individually to resveal these useful details.
+Any, or all, of these Program Year Objectives can be expanded individually to reveal these useful details.
 
 ![Program year objective detail](../images/programs/program_years/program_year_objective_detail.png)
 

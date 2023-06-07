@@ -54,7 +54,7 @@ Here is the resulting display after selecting "Class of 2020" as the Program Yea
 
 ![Program year detail](../images/programs/program_years/program_year_detail.png)
 
-When reviewing Program Year Objectives, you can not only download the Competency Map, you can review how these Program Year Objectives are mapped in Courses Objectives as parents.
+When reviewing Program Year Objectives, you can not only download the Competency Map, you can review how these Program Year Objectives are mapped in Course Objectives as parents.
 
 #### View Objective Mapping
 

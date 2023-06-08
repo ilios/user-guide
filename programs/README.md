@@ -10,9 +10,9 @@ To create or edit a program, a user must have full edit privileges. First, acces
 
 ## Program Attributes
 
-* _**Name:**_ Up to 200 characters in length.  Click on the name to edit it.
-* _**Short Title:**_ (abbreviation) - Up to 10 characters in length. Click on the "Click to edit" label or existing short name hyperlink to edit this.
-* _**Duration:**_ May be between 1 and 10 years.  Click on the number (in this example 4) to edit this value.
+* **Name:** Up to 200 characters in length. Click on the name to edit it.
+* **Short Title:** (abbreviation) - Up to 10 characters in length. Click on the "Click to edit" label or existing short name hyperlink to edit this.
+* **Duration:** May be between 1 and 10 years. Click on the number (in this example 4) to edit this value. This is used to determine Course Level.
 
 A newly-entered Program will need to have Program Year(s) set up in order to associate Learner Groups (Students) to the Program and its offerings.
 

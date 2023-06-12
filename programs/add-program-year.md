@@ -58,6 +58,8 @@ When reviewing Program Year Objectives, you can not only download the Competency
 
 #### View Objective Mapping
 
+This shows where the Program Year objectives (graduation requirements) have been linked to Course objectives, which in turn can be linked to Session objectives. 
+
 Below is a sample screen shot illustrating this. The Program Year Objective "MK2 (graduation) ..." has been expanded by clicking the arrow to the left of the Objective. Viewable are the Courses in which this was taught along with the text values of the associated Course Objectives.
 
 Any, or all, of these Program Year Objectives can be expanded individually to reveal these useful details.

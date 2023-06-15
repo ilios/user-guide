@@ -82,4 +82,4 @@ The full capability to edit the offering becomes available without having to nav
 
 ![Offering editor - bottom](../../images/edit_offering/offering_editor_bottom.png)
 
-See above for reference on how to select or de-select any individual group in a tree. This same technique can be applied in the location depicting which groups are attached to any given offering. 
+See above for reference on how to select or de-select any individual group in a tree. This same technique can be applied in the location depicting which groups are attached to any given offering. The Shift key can be used to select or de-select any Learner Group within a selected tree.

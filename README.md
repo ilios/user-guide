@@ -18,8 +18,6 @@ In the example shown above, the search term entered is "Add Session". You can se
 
 As the search criteria is further refined, the results returned will be fewer. The more specific the search criteria is, the fewer results you will have to scroll through to find what you want. They are sorted by best match. Click on any of the links to pull up the exact topic in detail.
 
-Please feel free to bookmark this page. This living document will be continually updated and is the most current Ilios User Guide available. Content will be refined and added on an ongoing basis.
-
 Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org) with any comments or suggestions you may have regarding this User Guide or about Ilios functionality in general.
 
 The user guide is configured to have high level chapters based on the flyout menu items in the application, to be followed by a quick guide explaining how to perform common tasks in Ilios.

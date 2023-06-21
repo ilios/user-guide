@@ -57,7 +57,7 @@ Refer to the [Permissions Matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilio
 
 ## Dashboard View Options
 
-There are four different fully functional views that can be accessed from the Dashboard. Each of these is detailed in upcoming sections and can be accessed by clicking the links below. The default Dashboard view is Week at a Glance.
+There are three different fully functional views that can be accessed from the Dashboard. Each of these is detailed in upcoming sections and can be accessed by clicking the links below. The default Dashboard view is Week at a Glance.
 
 These Dashboard View Options are ...
 

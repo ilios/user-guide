@@ -73,7 +73,7 @@ In the example presented above, the mouse is hovering over one of the UCSF 49 Vo
 
 ### Instructors
 
-More details will be coming regarding the Instructors visualization. It functions in a similar manner to Vocabularies. You do get a bit more information at the higher level though - a percentage of the total. After clicking on the Instructor's name, it takes you down into a view showing the Vocabulary Terms tagged on this Instructor's sessions along with another graph showing Session Types for this instructor's offerings. Another thing it offers, because it needs to in a complicated course, is the option to filter on the lower level (horizontal bar chart).
+The Instructors visualization functions in a similar manner to Vocabularies. You do get a bit more information at the higher level though - a percentage of the total. After clicking on the Instructor's name, it takes you down into a view showing the Vocabulary Terms tagged on this Instructor's sessions along with another graph showing Session Types for this instructor's offerings. Another thing it offers, because it needs to in a complicated course, is the option to filter on the lower level (horizontal bar chart).
 
 Here is the top level view of the Instructors Visualization in a course that has completed. You can see how many instructors are going to be included in the horizontal bar chart.
 

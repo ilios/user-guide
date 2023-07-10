@@ -44,7 +44,7 @@ Clicking the Ilios Menu expander (or contractor if already expanded) reveals in 
 Available menu items in all views include:
 
 * **Dashboard:** This is the default Home page. That is the current location selected.
-* [**Courses and Sessions**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions)**:** Displays a filterable list of all courses and sessions for the schools with which your name is associated in Ilios.
+* [**Courses and Sessions**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions)**:** Maintain (add/modify) Courses and Sessions. Select from a filterable list of all courses and sessions for the school(s) with which your user profile is associated in Ilios.
 * [**Learner Groups**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups)**:** Maintain (add/modify) learner groups to which students must belong in order to get assigned session offerings.
 * [**Instructor Groups**](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)**:** Associate groups of Instructors with one or more Instructor groups which can be attached to offerings.
 * [**Schools**](https://iliosproject.gitbook.io/ilios-user-guide/schools)**:** Maintain school-wide Competencies, Vocabularies, optional Session Attributes, and School Leadership.
@@ -61,7 +61,7 @@ There are three different fully functional views that can be accessed from the D
 
 These Dashboard View Options are ...
 
-* [**Week At A Glance** ](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance)(default view)
+* [**Week At A Glance**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance)(default view)
 * ****[**Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view)****
 * ****[**Calendar**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view)****
 

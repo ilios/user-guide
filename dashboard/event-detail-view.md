@@ -14,4 +14,4 @@ Links in the screen shot - explained below
 
 After clicking as shown above, the user is routed to the Event Detail of the ILM entitled "Histology of the Cardiovascular System". This event is pre-requisite for the Session "Response of the Heart to Injury".
 
-![ILM Event View - due before ...](../images/event_detail/ILM_detail.png)
+![ILM Event View - due before ...](../images/event_detail/ILM_detail_pre_work.png)

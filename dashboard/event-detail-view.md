@@ -15,3 +15,16 @@ Links in the screen shot - explained below
 After clicking as shown above, the user is routed to the Event Detail of the ILM entitled "Histology of the Cardiovascular System". This event is pre-requisite for the Session "Response of the Heart to Injury".
 
 ![ILM Event View - due before ...](../images/event_detail/ILM_detail_pre_work.png)
+
+**Learning Material Activity Check Boxes**
+
+These are used by Learners (students) to track their progress as far as reading, viewing, or other activities related to Learning Materials for any given Session. Clicking one time will change (toggle) the check box to the next state. There are three states. 
+
+1. Not Started - This is the default indicating that the student has not started reading, viewing, or performing the action of completing the assignment as it pertains to the Learning Material attached to an assigned Session.
+
+2. In Progress - This is the result of clicking one time after the previous state. This means the student is working on completing the Learning Material assignment.
+
+3. Completed - This is the third state of the check boxes. This means the student has completed the work associated with the assigned Learning Material. 
+
+Anywhere the student sees Learning Materials will carry over this value. It is necessary to drill into pre-work or "Due Before" linked Sessions to get to the Learning Material itself and to be able to utilize the check boxes. They will not be enabled from the top level (post-requisite / target) Session.
+

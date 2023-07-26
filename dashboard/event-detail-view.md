@@ -32,5 +32,5 @@ These are used by Learners (students) to track their progress as far as reading,
 
 ![Completed](../images/event_detail/completed.png)
 
-Anywhere in the application the student sees Learning Materials will carry  this selection state. It is necessary to drill into pre-work or "Due Before" linked Sessions to get to the Learning Material itself and to be able to utilize the check boxes. They will not be enabled from the top level (post-requisite / target) Session.
+Anywhere in the application the student sees Learning Materials will carry this selection state. It is necessary to drill into pre-work or "Due Before" linked Sessions to get to the Learning Material itself and to be able to utilize the check boxes. They will not be enabled from the top level (post-requisite / target) Session.
 

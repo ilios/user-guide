@@ -22,6 +22,12 @@ Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org)
 
 The user guide is configured to have high level chapters based on the flyout menu items in the application, to be followed by a quick guide explaining how to perform common tasks in Ilios.
 
+### <mark style="color:blue;">User Guide Navigation - On This Page</mark>
+
+All pages within the guide that have bookmarks added by the author will have clickable links in an area on the right side of the screen called "ON THIS PAGE". An example of this is shown below.
+
+![On this page](images/introduction/on_this_page.png)
+
 ## Working with Ilios
 
 One important thing to remember: **Ilios is a web application.**

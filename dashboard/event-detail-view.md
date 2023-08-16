@@ -16,7 +16,7 @@ After clicking as shown above, the user is routed to the Event Detail of the ILM
 
 ![ILM Event View - due before ...](../images/event_detail/ILM_detail_pre_work.png)
 
-**Learning Material Activity Check Boxes**
+## Learning Material Activity Check Boxes
 
 These are used by Learners (students) to track their progress as far as reading, viewing, or other activities related to Learning Materials for any given Session. Clicking one time will change (toggle) the check box to the next state. There are four states. 
 
@@ -31,7 +31,6 @@ These are used by Learners (students) to track their progress as far as reading,
 **3.** Completed - This is the third state of the check boxes. This means the student has completed the work associated with the assigned Learning Material. 
 
 ![Completed](../images/event_detail/completed.png)
-
 
 **4.** Not Available - In this case, the user will need to navigate to another location to both download / view the Learning Material and to ude the check box to track progress. It is necessary to drill into pre-work or "Due Before" linked Sessions to get to the Learning Material itself and to be able to utilize the check boxes. They will not be enabled from the top level (post-requisite / target) Session.
 

@@ -15,6 +15,8 @@ Clicking on the title of the Learning Material will route the user to be able to
 ### Status - Learning Material activity check boxes
 Learning Material activity check boxes are included here as well. All three states are shown in the screen shot above. 
 
+Refer to [Event Detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view#status-learning-material-activity-check-boxes) for detailed information regarding the usage of these check boxes. This information gets shared anywhere Learning Materials are accessed by students in Ilios.
+
 ## All Materials
 
 Below is a screen shot similar to the one above but this time displaying the student's entire suite of Learning Materials for their entire education experience.

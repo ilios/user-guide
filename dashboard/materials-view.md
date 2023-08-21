@@ -47,4 +47,4 @@ In the example shown below, the Data has been sorted by Title (A-Z). The default
 
 Entering Search Criteria into the Filter search box will perform a search on ALL 4 of the fields listed above to help ensure the correct LM is found.
 
-![All Materials option - search results shown](../images/materials_view/materials_view_filter.png)
+![All Materials View - filtered results shown](../images/materials_view/materials_view_filtered.png)

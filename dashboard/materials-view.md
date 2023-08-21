@@ -23,7 +23,7 @@ Below is a screen shot similar to the one above but this time displaying the stu
 
 "All Materials" has been selected instead of the default "Next 60 days".
 
-![Materials for next 60 days](../images/materials_view/materials_view_all.png)
+![All Materials](../images/materials_view/all_materials.png)
 
 ## Sort Options
 

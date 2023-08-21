@@ -39,9 +39,9 @@ Below is a screen shot similar to the one above but this time displaying the stu
 * Session Title
 * Instructor
 
-In the example shown below, the Data has been sorted by Title (A-Z). The default Sort Order is by Offering Date (Descending). Using the Title (A-Z) as a sort order puts the Course level Learning Materials at the top of the list as shown below.
+In the example shown below, the Data has been sorted by Title (A-Z). The default Sort Order is by Offering Date (Descending). Using the Title (A-Z) sorts all learning materials by learning material title.
 
-**NOTE:** The date associated with Course level learning materials reflects the starting date of the course since there is no session or offering involved. Also, the session and instructor fields are both empty for the same reason. There is also no "Status" box for course level learning materials since these are referral guides for the entire course.
+**NOTE:** The date associated with Course level learning materials reflects the starting date of the course since there is no session or offering involved. Also, the session and instructor fields are both empty for the same reason. There is no "Status" box for course level learning materials since these are referral guides for the entire course.
 
 ![All Materials - Updated Sort Order](../images/materials_view/materials_view_sorted.png)
 

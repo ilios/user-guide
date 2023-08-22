@@ -31,11 +31,11 @@ To connect a calendar application with Ilios, you will need a unique URL that yo
 
 **Step One:** Make sure to select Calendar and then click the Feed icon to generate the Calendar's URL feed.
 
-![Generate the feed](../images/calendar_feed_options/generate_feed.png)
+![Generate the feed](../images/calendar_feed_options/generate_the_feed.png)
 
 **Step Two:** Copy the Feed to your clipboard by clicking the button shown below or close and return to the Calendar Dashboard.
 
-![Copy the feed](../images/calendar_feed_options/copy_feed.png)
+![Copy the feed](../images/calendar_feed_options/copy_the_feed.png)
 
 A temporary confirmation "Copied Successfully" message will appear as shown below. It disappears on its own shortly.
 

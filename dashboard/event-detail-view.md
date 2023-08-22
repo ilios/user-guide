@@ -16,7 +16,7 @@ After clicking as shown above, the user is routed to the Event Detail of the ILM
 
 ![ILM Event View - due before ...](../images/event_detail/ILM_detail_pre_work.png)
 
-## Learning Material Activity Check Boxes
+### Learning Material Activity Check Boxes
 
 These are used by Learners (students) to track their progress as far as reading, viewing, or other activities related to Learning Materials for any given Session. Clicking one time will change (toggle) the check box to the next state. There are four states. 
 

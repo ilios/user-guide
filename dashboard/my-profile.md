@@ -4,7 +4,7 @@ The My Profile screen is a useful way to troubleshoot issues in Ilios. Any Ilios
 
 In this case, "Nicholas Ann Gutierrez" is the logged-in user, and also the user whose Profile will be displayed. This is also a good example of a student's view into the Ilios system with a populated populated Week at a Glance (WaaG) view.
 
-![Select from Menu](<../images/my_profile/my_profile_menu.png>)
+![Select from Menu](../images/my_profile/select_my_profile.png)
 
 ## My Profile (details)
 

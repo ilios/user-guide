@@ -14,7 +14,7 @@ After clicking My Profile, as shown above, the details regarding your logged-in 
 
 This screen is informational only - except for the API Token Management, which is covered below. We can see that Nicholas A. Gutierrez (me) has a high level of permissions (Developer - the most powerful role), (Instructor - can be selected as Instructor for Course Offerings), and (Course Director - can be selected as Course Director in Ilios). Nicholas is not a Student and is not assigned to any Cohort or Learner Group.
 
-**Other Fields**
+### Other Fields
 
 * **Former Student** - This is selected when the logged in user is (was) a Student who has graduated.  This information can be obtained via a nightly synchronization job with your directory server.
 * **Exclude From Sync** - This is selected when this user is to be considered an exception regarding the synchronization job. Ilios retains its data and overwrite attempts are not performed based on data coming from the directory server.

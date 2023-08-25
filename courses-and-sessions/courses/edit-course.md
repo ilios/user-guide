@@ -18,7 +18,7 @@ In this second screen shot, a search string of “brai” has been entered and a
 
 Once the Course has been selected as shown above, the following Course-level attributes are available for modification. The screen is shown below. Universal Locator is a helpful tracking field used for support issues that is not customizable; but the rest of the fields that can be modified are shown with arrows.
 
-**NOTE**: Course Summary Details refers to the higher level details above the "Show Details" button. Refer to **[Course Details]**(https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#screen-elements) for the lower level details that do require the click of "Show Details" to be shown.
+**NOTE**: Course Summary Details refers to the higher level details above the "Show Details" button. Refer to [**Course Details**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#screen-elements) for the lower level details that do require the click of "Show Details" to be shown.
 
 ![Course Summary Details](../../images/course_images/course_summary_details.png)
 

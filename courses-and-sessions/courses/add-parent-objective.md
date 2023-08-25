@@ -1,19 +1,19 @@
 # Attach Parent Objective
 
-As mentioned before, it is configurable to allow Course Objectives to have either allow for the addition of one Parent Objective, or to allow for multiple parents to be attached.&#x20;
+As mentioned before, it is configurable to allow Course Objectives to have either allow for the addition of one Parent Objective, or to allow for multiple parents to be attached.
 
 To associate one or more Parent Objectives (Program Year level) to a Course Objective ...
 
 * Find and a Course from Courses and Sessions
 
-![Select Course](../../images/course_objectives/search_for_course.jpg)
+![Select Course](../../images/course_objectives/select_course.png)
 
 * Click **Show Details (+)** to expand the Course and see the details
 * Review the Course Details and expand the screen to display the full list of Course Objectives as shown below.
 
 **1. Show Details**
 
-![Show Details](../../images/course_objectives/add_course_parent_obj.jpg)
+![Show Details](../../images/course_objectives/show_details_full_view.png)
 
 **2. Expand Objectives**
 

@@ -36,7 +36,7 @@ After clicking as shown above, it is evident there is at least one Course Object
 
 Now that "Add New" has been clicked as shown above, the Program Year Objective can be selected as a Parent to the Course Objective.
 
-![Add Program Year Objective](../../images/course_objectives/add_course_parent_obj4.jpg)
+![Add Program Year Objective](../../images/course_objectives/add_program_year_objective.png)
 
 **5. Review the Results**
 

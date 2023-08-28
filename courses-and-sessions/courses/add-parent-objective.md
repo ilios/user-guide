@@ -17,7 +17,14 @@ To associate one or more Parent Objectives (Program Year level) to a Course Obje
 
 **2. Expand Objectives**
 
-![Expand Objectives](../../images/course_objectives/add_course_parent_obj2.jpg)
+![Expand Objectives](../../images/course_objectives/expand_objectives.png)
+
+Of the 24 course objectives ...
+* 21 have associated program year objectives (orange color) 
+* 4 have associated Vocabulary terms (also orange)
+* 0 have associated MeSH terms (red x)
+
+If any of these parent relationships had a value for each objective, the dot would be green rather than orange in color.
 
 **3. Objective Review**
 

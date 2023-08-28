@@ -38,6 +38,8 @@ Now that "Add New" has been clicked as shown above, the Program Year Objective c
 
 ![Add Program Year Objective](../../images/course_objectives/add_program_year_objective.png)
 
+![click to confirm](../../images/course_objectives/click_to_confirm.png)
+
 **5. Review the Results**
 
 ![Review the Results](../../images/course_objectives/add_course_parent_obj5.jpg)

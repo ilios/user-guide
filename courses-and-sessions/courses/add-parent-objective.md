@@ -28,9 +28,9 @@ If any of these parent relationships had a value for each objective, the dot wou
 
 **3. Objective Review**
 
-After clicking as shown above, it is evident there is one Course Objective that is missing its Parent (Program Year) Objective.
+After clicking as shown above, it is evident there is at least one Course Objective that is missing its Parent (Program Year) Objective.
 
-![Objective Review](../../images/course_objectives/add_course_parent_obj3.jpg)
+![Objective Review](../../images/course_objectives/objective_review.png)
 
 **4. Add Program Year Objective as a Parent to Course Objective**
 

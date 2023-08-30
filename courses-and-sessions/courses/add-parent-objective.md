@@ -1,6 +1,6 @@
 # Attach Parent Objective
 
-As mentioned before, it is configurable to allow Course Objectives to have either allow for the addition of one Parent Objective, or to allow for multiple parents to be attached.
+As mentioned before, it is configurable to allow Course Objectives to either allow for the addition of only one Parent Objective, or to allow for multiple parents to be attached.
 
 To associate one or more Parent Objectives (Program Year level) to a Course Objective ...
 
@@ -20,11 +20,11 @@ To associate one or more Parent Objectives (Program Year level) to a Course Obje
 ![Expand Objectives](../../images/course_objectives/expand_objectives.png)
 
 Of the 24 course objectives ...
-* 21 have associated program year objectives (orange color) 
+* 21 have associated program year (parent) objectives (orange color) 
 * 4 have associated Vocabulary terms (also orange)
 * 0 have associated MeSH terms (red x)
 
-If any of these parent relationships had a value for each objective, the dot would be green rather than orange in color.
+If any of these relationships were in place for all objectives, the dot would be green rather than orange in color.
 
 **3. Objective Review**
 

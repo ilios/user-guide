@@ -56,4 +56,4 @@ After performing steps 4 and 5, a Program Year Objective with a Competency of `I
 
 Here are the Course Competencies after performing the steps above.
 
-![Course Competencies (after)](../../images/course_objectives/course_competencies_post.jpg)
+![Course Competencies (after)](../../images/course_objectives/course_competencies_after.png)

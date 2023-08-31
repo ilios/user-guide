@@ -42,7 +42,7 @@ Now that "Add New" has been clicked as shown above, the Program Year Objective c
 
 **5. Review the Results**
 
-![Review the Results](../../images/course_objectives/add_course_parent_obj5.jpg)
+![Review the Results](../../images/course_objectives/parent_objective_added.png)
 
 ## Course Competency Updates
 

@@ -50,7 +50,7 @@ This occurs when a Program Year Objective that gets selected as a Parent to a Co
 
 Here are the Course Competencies before performing the steps shown above.
 
-![Course Competencies (before)](../../images/course_objectives/course_competencies_pre.jpg)
+![Course Competencies (before)](../../images/course_objectives/course_competencies_before.png)
 
 After performing steps 4 and 5, a Program Year Objective with a Competency of `Interprofessional Collaboration` is added as parent to one of the Course Objectives, thus adding a Competency to the Course.
 

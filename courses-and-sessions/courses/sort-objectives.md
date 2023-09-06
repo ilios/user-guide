@@ -12,9 +12,9 @@ To do this, pull up a Course that already has Objectives ready to be sorted. Cli
 
 ![move objectives](../../images/course_objectives/move_objectives.png)
 
-There is not enough room to show all 21 Objectives in this case. For the sake of demonstration, it is desired that the final Course Objective displayed be moved up into the first position so that it becomes the first Course Objective displayed to Students.
+There is not enough room to show all 24 course objectives in this case. The top part of the screen is shown. For the sake of demonstration, it is desired that the final Course Objective displayed be moved up into the first position so that it becomes the first Course Objective displayed to Students.
 
-![Full List shown](../../images/course_objectives/sort_course_obj_3.jpg)
+![top of full list shown](../../images/course_objectives/top_of_full_list_shown.png)
 
 To do this, select the final Objective and drag it up to the first position. The Objective will appear ghosted out along with its destination. Let go of the mouse button when the Objective being moved (re-prioritized) is in position as shown below.
 

@@ -10,7 +10,7 @@ To do this, pull up a Course that already has Objectives ready to be sorted. Cli
 
 * Now that the Objectives have been expanded, they can be dragged and dropped into the correct location. This location will determine the order in which they are presented to Students wherever Students access this information.
 
-![Move Objectives](../../images/course_objectives/sort_course_obj_2.jpg)
+![move objectives](../../images/course_objectives/move_objectives.png)
 
 There is not enough room to show all 21 Objectives in this case. For the sake of demonstration, it is desired that the final Course Objective displayed be moved up into the first position so that it becomes the first Course Objective displayed to Students.
 

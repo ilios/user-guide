@@ -6,7 +6,7 @@ To do this, pull up a Course that already has Objectives ready to be sorted. Cli
 
 * Click `Objectives(x)` to expand the Objectives as shown below.
 
-![Expand Objectives](../../images/course_objectives/sort_course_obj_1.jpg)
+![expand objectives - large view](../../images/course_objectives/expand_objectives_large_view.png)
 
 * Now that the Objectives have been expanded, they can be dragged and dropped into the correct location. This location will determine the order in which they are presented to Students wherever Students access this information.
 

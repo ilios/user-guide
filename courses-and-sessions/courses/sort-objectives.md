@@ -20,13 +20,13 @@ To do this, select the final Objective and drag it up to the first position. The
 
 ![move last to first](../../images/course_objectives/move_last_to_first.png)
 
-After dropping the Objective, the list is re-sorted as shown below. Click `"Save"` to complete this process or `"Cancel"` to abort.
+After dropping the Objective, the list is re-sorted as shown below. Click `"Save"` to complete this process. `"Cancel"` is available like always should you wish to not process this update.
 
-![Re-sorted List](../../images/course_objectives/sort_course_obj_5.jpg)
+![click to save updated course objective sort order](../../images/course_objectives/click_to_save_crs_obj_sort.png)
 
-After click the green Save button, a splash screen like the following appears briefly. After it disappears the screen will revert to its original expanded appearance.
+After click the green Save button, a progress update displays briefly as shown below.
 
-![Saving](../../images/course_objectives/splash_screen.jpg)
+![updating sort order](../../images/course_objectives/updating_sort_order.png)
 
-![List - refreshed](../../images/course_objectives/sort_course_obj_6.jpg)
+![refreshed list](../../images/course_objectives/refreshed_list.png)
 

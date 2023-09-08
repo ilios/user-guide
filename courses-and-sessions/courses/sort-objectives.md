@@ -18,7 +18,7 @@ There is not enough room to show all 24 course objectives in this case. The top 
 
 To do this, select the final Objective and drag it up to the first position. The Objective will appear ghosted out along with its destination. Let go of the mouse button when the Objective being moved (re-prioritized) is in position as shown below.
 
-![Move Final Objective to first position](../../images/course_objectives/sort_course_obj_4.jpg)
+![move last to first](../../images/course_objectives/move_last_to_first.png)
 
 After dropping the Objective, the list is re-sorted as shown below. Click `"Save"` to complete this process or `"Cancel"` to abort.
 

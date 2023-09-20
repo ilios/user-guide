@@ -26,7 +26,7 @@ After dropping the Objective, the list is re-sorted as shown below. Click `"Save
 
 After click the green Save button, a progress update displays briefly as shown below.
 
-![updating sort order](../../images/course_objectives/updating_sort_order.png)
+![updating objective sort order](../../images/course_objectives/updating_obj_sort_order.png)
 
 ![refreshed list](../../images/course_objectives/refreshed_list.png)
 

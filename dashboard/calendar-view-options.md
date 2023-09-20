@@ -24,7 +24,7 @@ To get to the Month View, click the "Month" Calendar View Switcher link. The scr
 
 ![Month View (Calendar)](../images/calendar_view_images/month_view.png)
 
-### NOTE ABOUT THE DISPLAY OF MULTIPLE OFFERINGS:
+### Multiple Offerings Display
 
 When a Session with multiple offerings is clicked on the Week or Month View, the Day View is displayed to reveal the details.
 

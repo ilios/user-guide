@@ -4,9 +4,9 @@ Once logged in, you will be presented with the “Dashboard” or landing page, 
 
 The Dashboard is designed to provide quick access to common sets of information and simple task and activity tracking. Navigation is performed by using the Ilios Menu, which appears on the upper left part of the screen and can be accessed and expanded by clicking “Ilios Menu” as shown below. It is a fly away menu that expands once it has been clicked and is available even if you have scrolled down the page. If your screen has enough viewable area, the **Ilios Menu** will appear automatically as shown below. Ilios users who do not perform non-learner activities (i.e. students who are not also Instructors, Course Directors, Course Administrators, or Student Advisors) will not see the Ilios Menu shown below.
 
-### Ilios Menu
+## Ilios Menu
 
-#### Large Screen View
+### Large Screen View
 
 The view below is of the Ilios flyout menu on a relatively large screen. This is how it will appear for Admin users unless they use a smaller screen, tablet, or smart phone.
 
@@ -17,7 +17,7 @@ The view below is of the Ilios flyout menu on a relatively large screen. This is
   </figcaption>
 </figure>
 
-#### Small Screen View - contracted
+### Small Screen View - contracted
 
 When the Ilios application is not being viewed at full size or is being viewed using a device with a smaller screen surface area, the toolbar spans across the top of the screen as shown below.
 
@@ -30,7 +30,7 @@ When the Ilios application is not being viewed at full size or is being viewed u
 
 The **Ilios Menu expander** is only available in the smaller view of the toolbar. It is not needed in full-size mode.
 
-#### Small Screen View - expanded
+### Small Screen View - expanded
 
 Clicking the Ilios Menu expander (or contractor if already expanded) reveals in more detail the available menu options. You can see this display below.
 
@@ -61,9 +61,9 @@ There are three different fully functional views that can be accessed from the D
 
 These Dashboard View Options are ...
 
-* [**Week At A Glance**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance)(default view)
-* ****[**Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view)****
-* ****[**Calendar**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view)****
+* [**Week At A Glance**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance) (default view)
+* [**Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view)
+* [**Calendar**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view)
 
 Also available ...
 

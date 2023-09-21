@@ -2,7 +2,7 @@
 
 A Course is a Curricular object that defines the content and structure of a specific instance of coursework available to the school or program.
 
-### Course Attributes
+## Course Attributes
 
 * **Course Name:** Long title of the course, entered on course creation. 200 character max.
 * **Course ID:** Field allowing any internal or external ID up to 18 characters to be entered.
@@ -19,13 +19,13 @@ A Course is a Curricular object that defines the content and structure of a spec
 * **MeSH Terms:** Selected by searching the MeSH database.
 * **Learning Materials:** Course level learning materials are available to all Sessions of a Course, and are entered using the Learning Materials search/upload tools.
 
-### Screen Elements
+## Screen Elements
 
 This shows the Course detail screen (once a Course has been selected and Details have been expanded).
 
 ![Course Detail - Top](<../../images/course_images/course_top.png>)
 
-#### Functionality and Links by the Numbers (upper)
+### Functionality and Links by the Numbers (upper)
 
 1. **Back to Courses List**: takes the user back to the list of Courses
 2. **Language Switcher**: currently can be switched to French, Spanish, or English
@@ -51,7 +51,7 @@ This shows the Course detail screen (once a Course has been selected and Details
 
 ![Course Detail Lower](../../images/course_images/course_lower.png)
 
-#### Functionality and Links by the Numbers (lower)
+### Functionality and Links by the Numbers (lower)
 
 1. **Competencies**: opens up the list of Competencies associated with this Course
 2. **Terms**: opens up Terms for this Course
@@ -59,7 +59,7 @@ This shows the Course detail screen (once a Course has been selected and Details
 4. **Manage Cohorts**: to add or remove Cohorts from the Course
 5. **Hide Details**: hides all Course Details with the exception of the [Course Summary Details](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-course#course-summary-details)
 
-### All Courses (default view)
+## All Courses (default view)
 
 When first visiting this screen during an Ilios session, the default view is **"ALL COURSES"**, which is shown below. You can limit the number of Courses displayed on the screen by filtering on Course Title.
 

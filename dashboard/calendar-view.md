@@ -10,7 +10,7 @@ The Ilios calendar displays all items in Ilios with which you are directly assoc
 
 The scheduling and review of offerings can be accomplished by selecting "Courses and Sessions" from the Ilios menu. Although the scheduling of the offerings / events occurs on this screen, the event itself will appear on the Calendar at the corresponding date / time. These events will also be displayed in any linked calendars.
 
-### Calendar View
+## Calendar View
 
 ![Click the Event in the Calendar](../images/calendar_view_images/calendar_event_click.png)
 

@@ -27,7 +27,7 @@ As seen below, "All Events" is now selected.
 Regardless of whether you are displaying All Events of My Schedule, there are two methods of searching (**“Search By Topic/Detail”** and **“Search By Course”**).
 Switching from one to the other is accomplished by clicking the correct button. The text of the toggle switches back and forth depending on which search is currently active.
 
-### Search Options
+## Search Options
 
 By default, the filters needed to perform a search on the calendar are not activated. Us the (Show Filters/Hide Filters) Toggle to activate them.
 
@@ -41,7 +41,7 @@ The toggles now appear as shown below with the filters activated and visible.
 
 ![Filters Activated](../images/calendar_srch_images/filters_displayed.png)
 
-#### Search By Course / Session Type
+### Search By Course / Session Type
 
 This search option allows the user to search and display all of the activities for any course in the selected academic year and school. That course selection can be further filtered for specific session types.
 
@@ -49,7 +49,7 @@ Search is possible by each of the following, or any combination of the following
 
 * **Courses (pertaining to a chosen Program Year)**
 * **Session Types**
-* ****[**Terms (by Vocabularies)**](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies)****
+* **[**Terms (by Vocabularies)**](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies)**
 
 In order to see all of the Sessions related to the Airways, Blood, and Circulation Course (any type of Session), the check boxes can be used as shown below.
 
@@ -57,7 +57,7 @@ In order to see all of the Sessions related to the Airways, Blood, and Circulati
 
 In any of these search modes, a search is automatically performed once the corresponding check boxes have been selected. The Calendar will reload with the results.
 
-#### Search By Program Detail
+### Search By Program Detail
 
 Switch to a "Program Detail" search as shown below.
 
@@ -71,7 +71,7 @@ In order to see all of the Lectures (Session Type) for the Class of 2024 Doctor 
 
 ![Program Detail View](../images/calendar_srch_images/program_detail_view.png)
 
-#### Load Filters Based On Academic Year & School
+### Load Filters Based On Academic Year & School
 
 The Course List and Program/Cohort List in the filters are associated with the selection in the Academic Year Selector shown below. The lists may also be determined by the School Selector (if applicable), which is to the right of the Academic Year Selector. Only the courses or program/cohorts associated with the selected Academic Year (and School) will be available for filtering selection. This does not necessarily mean that the Course doesn't extend forward or backwards into a different Calendar or Educational year. This drop-down only and specifically controls the lists of courses and cohorts available for filtering --- not the display of information on the calendar itself, which will always show events for all available stretches of time.
 
@@ -83,12 +83,12 @@ The detail panel provides access to offering details of time, place, date, and i
 
 The option is available to provide visual change alerts for calendar events. If activated in the Ilios configurations file for an institution, the alerts add a small icon to the upper left of any calendar event (day and week view only), as well as to its agenda list item listing whenever there has been an addition or update for that event. The icon would display for a set number of days after the change (configurable value, currently set to 3 days; system default was 7 days). After that, the event display returns to normal.
 
-#### Hiding the Filters
+### Hiding the Filters
 
 **QUICK NOTE:** You can apply filters and then hide the filter selectors. This will free up viewable Calendar area but still maintain the filtering criteria. An example of this is shown below. The active filter is "Lecture".
 
 ![Filters Hidden](../images/calendar_srch_images/day_view_filters_hidden.png)
 
-#### Expert Tip
+### Expert Tip
 
 It is also possible to combine filters between the two filter types. In other words, you can use the "Course / Type" filter, add one or more criteria, and then use the "Details" filter, adding more criteria from there. You can do a combination filter from both filter types.

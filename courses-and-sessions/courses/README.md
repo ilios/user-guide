@@ -25,7 +25,8 @@ This shows the Course detail screen (once a Course has been selected and Details
 
 ![Course Detail - Top](<../../images/course_images/course_top.png>)
 
-### Functionality and Links by the Numbers (upper)
+## Functionality and Links
+### Upper part of screen
 
 1. **Back to Courses List**: takes the user back to the list of Courses
 2. **Language Switcher**: currently can be switched to French, Spanish, or English
@@ -51,7 +52,7 @@ This shows the Course detail screen (once a Course has been selected and Details
 
 ![Course Detail Lower](../../images/course_images/course_lower.png)
 
-### Functionality and Links by the Numbers (lower)
+### Lower part of screen
 
 1. **Competencies**: opens up the list of Competencies associated with this Course
 2. **Terms**: opens up Terms for this Course

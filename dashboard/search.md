@@ -34,7 +34,7 @@ Results are labeled according to the location of the match and listed with inter
 
 After performing a search, all of the areas listed above are scanned for matches. Suggestions are also provided.
 
-### Performing a Search
+## Performing a Search
 
 To search for anything related to "brain", enter that into the search field provided. A list of suggested refinements ("Suggested Values") appear below the search box. Any of those can be utilized by clicking directly onto it.
 
@@ -42,11 +42,11 @@ To search for anything related to "brain", enter that into the search field prov
 
 To perform the full search (which we will do in this example), press the "Enter" key on the keyboard to perform the search.
 
-### Search Results
+## Search Results
 
 ![Search Results](../images/global_search/global_search_results.png)
 
-### Show More
+## Show More
 
 Search Results are grouped by Course, and then by Session. In the case above, the top three sessions that match (in order of match accuracy) are displayed. Clicking the "**Show More**" link, which appears at below the first three results for each Course, will open up and show the rest of the sessions within that course that match. For example, after the first "**Show More**" link located under the session link for "Defining the Mind", the screen now displays the rest of the sessions in the course called "Brain, Mind, and Behavior".
 
@@ -54,7 +54,7 @@ Search Results are grouped by Course, and then by Session. In the case above, th
 
 **NOTE:** This functionality is not available for students at this time.
 
-### Filter Results
+## Filter Results
 
 Once a search has been performed using the Global Search functionality, the results can be further refined (filtered). The following shows two types of filtering that can be done here.
 

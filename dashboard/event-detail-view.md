@@ -4,11 +4,15 @@ The Event Detail view is reached when a user clicks on a link in their Calendar,
 
 The screen shot below starts the process for a student to access the Event Detail view. In this case, the Session selected is a pre-requisite (formerly know as Pre-work) ILM due before "Response of the Heart to Injury". The associated Learning Material activities can be accessed and completed by clicking the provided link or by accessing the follow-up activity.
 
-Links in the screen shot - explained below
+## Screen Elements
+
+### Links in the screen shot - explained below
 
 * **Histology of the Cardiovascular System** - Pre-work (ILM) due prior to "Response of the Heart to Injury". User will be taken to the Event Detail view of the ILM when clicked.
 * **Response of the Heart to Injury** - This is the post-requisite to the ILM listed above. User will be taken to Event Detail for the offering when clicked.
 * **ABC Course Wrap-up** - Another scheduled activity for this Learner.
+
+### Updated Event Detail
 
 ![Updated Event Detail](../images/event_detail/updated_event_detail.png)
 
@@ -16,7 +20,7 @@ After clicking as shown above, the user is routed to the Event Detail of the ILM
 
 ![ILM Event View - due before ...](../images/event_detail/ILM_detail_pre_work.png)
 
-### Learning Material Activity Check Boxes
+## Learning Material Activity Check Boxes
 
 These are used by Learners (students) to track their progress as far as reading, viewing, or other activities related to Learning Materials for any given Session. Clicking one time will change (toggle) the check box to the next state. There are four states. 
 

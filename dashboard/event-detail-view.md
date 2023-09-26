@@ -6,7 +6,7 @@ The screen shot below starts the process for a student to access the Event Detai
 
 ## Screen Elements
 
-### Links in the screen shot - explained below
+### Links - explained 
 
 * **Histology of the Cardiovascular System** - Pre-work (ILM) due prior to "Response of the Heart to Injury". User will be taken to the Event Detail view of the ILM when clicked.
 * **Response of the Heart to Injury** - This is the post-requisite to the ILM listed above. User will be taken to Event Detail for the offering when clicked.

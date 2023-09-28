@@ -1,6 +1,6 @@
 # Language Selector
 
-It is possible to change the language of the majority of the captions in Ilios to be in (at this point) Spanish or French. These translations are as accurate as possible at this point but may be revised pending feedback from users.
+It is possible to change the language of the majority of the captions in Ilios to be in (at this point) Spanish or French. These translations are as accurate as possible but may be revised pending feedback from users.
 
 <figure>
   <img src="../images/language_selector/language_switcher.png" alt="Language Switcher">

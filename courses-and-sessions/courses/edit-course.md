@@ -75,7 +75,7 @@ In this case, we want to add the Doctor of Medicine - BRIDGES Class of 2026 to t
 
 ![Select Cohort](../../images/course_images/cohort_selector.png)
 
-### After Cohort Selected
+### After Adding Cohort
 
 ![Confirm Cohort](../../images/course_images/cohort_added_confirm.png)
 
@@ -83,7 +83,7 @@ Now that the action detailed above has taken place, the School of Medicine - BRI
 
 ![Cohort in List](../../images/course_images/cohort_added_in_list.png)
 
-#### Remove Cohort from Course
+### Remove Cohort
 
 Cohorts can also be removed from a Course in a similar manner. The steps are documented below.
 

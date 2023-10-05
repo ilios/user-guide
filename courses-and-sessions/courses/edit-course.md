@@ -65,7 +65,7 @@ For courses which are given more than once in an academic year, the course name 
 
 In order to populate courses with learner groups, the course must first be associated with the desired Program(s), as well as the desired learner cohorts within that program. Cohorts are listed by graduation year. If you select the program Doctor of Medicine - BRIDGES, and its cohort Class of 2027, then the course will now be eligible for population with any learner or learner group from that program / cohort. A course may be associated with any number of programs and cohorts, allowing for interdisciplinary courses as well as mixed level courses. In the example below, Doctor of Medicine >> Class of 2027 has been added to the course.
 
-### Selection Screen (Program Cohort)
+### Select Cohort
 
 To add or remove Cohorts from a Course, click the Manage Cohorts button as shown below. This appears at the bottom of the **Course Details** section.
 
@@ -75,7 +75,7 @@ In this case, we want to add the Doctor of Medicine - BRIDGES Class of 2026 to t
 
 ![Select Cohort](../../images/course_images/cohort_selector.png)
 
-### Courses and Sessions (after Cohort Selected)
+### After Cohort Selected
 
 ![Confirm Cohort](../../images/course_images/cohort_added_confirm.png)
 

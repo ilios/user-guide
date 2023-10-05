@@ -1,14 +1,14 @@
 # Edit Course
 
-### Find Course By Filter
+## Find Course By Filter
 
 To manage and edit an existing course, enter part of the course’s title into the **"Filter by course title”** text field located above the **“Add New”** button. The result will automatically return a course list which applies the critieria entered. You can also just scroll through the list and find the Course without filtering at all.
 
-**Courses Pre-filter**
+### Courses Pre-filter
 
 ![Before Filtering](../../images/course_images/courses_pre_filter.png)
 
-**Courses Post-Filter**
+### Courses Post-Filter
 
 In this second screen shot, a search string of “brai” has been entered and as a result, only one course gets returned.
 
@@ -65,7 +65,7 @@ For courses which are given more than once in an academic year, the course name 
 
 In order to populate courses with learner groups, the course must first be associated with the desired Program(s), as well as the desired learner cohorts within that program. Cohorts are listed by graduation year. If you select the program Doctor of Medicine - BRIDGES, and its cohort Class of 2027, then the course will now be eligible for population with any learner or learner group from that program / cohort. A course may be associated with any number of programs and cohorts, allowing for interdisciplinary courses as well as mixed level courses. In the example below, Doctor of Medicine >> Class of 2027 has been added to the course.
 
-#### **Selection Screen (Program Cohort)**
+### Selection Screen (Program Cohort)
 
 To add or remove Cohorts from a Course, click the Manage Cohorts button as shown below. This appears at the bottom of the **Course Details** section.
 
@@ -75,7 +75,7 @@ In this case, we want to add the Doctor of Medicine - BRIDGES Class of 2026 to t
 
 ![Select Cohort](../../images/course_images/cohort_selector.png)
 
-**Courses and Sessions (after Cohort Selected)**
+### Courses and Sessions (after Cohort Selected)
 
 ![Confirm Cohort](../../images/course_images/cohort_added_confirm.png)
 

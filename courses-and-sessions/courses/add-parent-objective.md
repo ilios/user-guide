@@ -8,7 +8,7 @@ To associate one or more Parent Objectives (Program Year level) to a Course Obje
 
 * Find and a Course from Courses and Sessions
 
-![select course here](../../images/course_objectives/select_course.png)
+![select course](../../images/course_objectives/select_course.png)
 
 * Click **Show Details (+)** to expand the Course and see the details
 * Review the Course Details and expand the screen to display the full list of Course Objectives as shown below.

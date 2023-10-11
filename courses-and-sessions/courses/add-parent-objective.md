@@ -1,4 +1,6 @@
-# Attach Parent Objective
+# Attach Parent Objectives
+
+## Add Parent Objectives
 
 As mentioned before, it is configurable to allow Course Objectives to either allow for the addition of only one Parent Objective, or to allow for multiple parents to be attached.
 
@@ -6,18 +8,18 @@ To associate one or more Parent Objectives (Program Year level) to a Course Obje
 
 * Find and a Course from Courses and Sessions
 
-![Select Course here](../../images/course_objectives/select_course.png)
+![select course here](../../images/course_objectives/select_course.png)
 
 * Click **Show Details (+)** to expand the Course and see the details
 * Review the Course Details and expand the screen to display the full list of Course Objectives as shown below.
 
 **1. Show Details**
 
-![Show Details as well](../../images/course_objectives/show_details_full_view.png)
+![show details](../../images/course_objectives/show_details_full_view.png)
 
-**2. Expand Objectives**
+**2. Expand Objective List**
 
-![Expand Objectives](../../images/course_objectives/expand_objectives.png)
+![expand objective list](../../images/course_objectives/expand_objectives.png)
 
 Of the 24 course objectives ...
 * 21 have associated program year (parent) objectives (orange color) 
@@ -30,19 +32,19 @@ If any of these relationships were in place for all objectives, the dot would be
 
 After clicking as shown above, it is evident there is at least one Course Objective that is missing its Parent (Program Year) Objective.
 
-![Objective Review](../../images/course_objectives/objective_review.png)
+![objective review](../../images/course_objectives/objective_review.png)
 
 **4. Add Program Year Objective as a Parent to Course Objective**
 
 Now that "Add New" has been clicked as shown above, the Program Year Objective can be selected as a Parent to the Course Objective.
 
-![Add Program Year Objective](../../images/course_objectives/add_program_year_objective.png)
+![add program year objective](../../images/course_objectives/add_program_year_objective.png)
 
 ![click to confirm](../../images/course_objectives/click_to_confirm.png)
 
 **5. Review the Results**
 
-![Review the Results](../../images/course_objectives/parent_objective_added.png)
+![parent objective added](../../images/course_objectives/parent_objective_added.png)
 
 ## Course Competency Updates
 
@@ -50,10 +52,10 @@ This occurs when a Program Year Objective that gets selected as a Parent to a Co
 
 Here are the Course Competencies before performing the steps shown above.
 
-![Course Competencies (before)](../../images/course_objectives/course_competencies_before.png)
+![course competencies (before)](../../images/course_objectives/course_competencies_before.png)
 
 After performing steps 4 and 5, a Program Year Objective with a Competency of `Interprofessional Collaboration` is added as parent to one of the Course Objectives, thus adding a Competency to the Course.
 
 Here are the Course Competencies after performing the steps above.
 
-![Course Competencies (after)](../../images/course_objectives/course_competencies_after.png)
+![course competencies (after)](../../images/course_objectives/course_competencies_after.png)

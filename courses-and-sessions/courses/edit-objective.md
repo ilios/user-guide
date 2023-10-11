@@ -4,15 +4,15 @@ The complete set of steps to edit a Course Objective are listed below.
 
 * Select a Course
 
-![Select a Course](../../images/course_objectives/course_search.png)
+![select a course](../../images/course_objectives/course_search.png)
 
 * Expand the Course Details
 
-![Expand the Details of this Course](../../images/course_objectives/course_details_show.png)
+![show more](../../images/course_objectives/course_details_show.png)
 
 * Expand the Objective List
 
-![Click to show the list](../../images/course_objectives/course_objectives_expand.png)
+![click to show the list](../../images/course_objectives/course_objectives_expand.png)
 
 * To edit a Course Objective's description (title), click on the description and you can edit it from there.
 
@@ -71,6 +71,8 @@ The screen adjusts to reflect this recent action. The newly added Term can be re
 ![list updated](../../images/course_objectives/addvocab5.png)
 
 After confirming the addition of the Term selected, both the MeSH Term added in the previous section and the Vocabulary Term recently added appear as shown below.
+
+### Review Recent Updates
 
 ![course objective list updated](../../images/course_objectives/addvocab6.png)
 

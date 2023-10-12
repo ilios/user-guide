@@ -24,6 +24,7 @@ Offerings can be created as ...
 * [**Single Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/create-single-offering)**:**  A single (or even multiple) event(s) for one or more Learner Groups to attend at the same time, in the same place and with the same Instructors.
 * [**Small Group Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/create-small-group-offerings)**:**  A single event or a series of events for a number of smaller Learner Groups that can be offered at the same time (or a different time) but with each individual Learner Group meeting in a different location. 
 * [**Recurring Event**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/recurring-event)**:**  A recurring event that occurs multiple times for a specified number of weeks.  This is activated by utilizing the "Make Recurring" slider to toggle this functionality to the "On" position.
+* [**Multi-Day Event**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/multi-day-offerings)**:** Offerings that start on one day and continue on until the next or a future day are considered multi-day offerings. They are tracked in a slightly different manner than other offerings in Ilios.
 
 Click to add a new offering as shown by the arrow in the screen shot below. First, an existing course and session must have been selected.
 

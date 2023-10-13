@@ -2,7 +2,7 @@
 
 Course objectives can have one or more associations with parent (program year) objectives. This is configurable at the school level whether to allow multiple or just one to be attached.
 
-## Parent Objecctive Updates
+## Parent Objective Updates
 
 * Select an Objective to change its association to its Parent Objective
 

@@ -1,18 +1,24 @@
 ---
-description: Course objectives can be sorted so that the presentation of the objectives occurs in a user-specified order.
+description: This is now accomplished in a similar manner to the sorting of Learning Materials, as well as Program Year Objectives and Session Objectives. This allows instructional designers to determine a priority ranking of Objectives to be presented to students.
 ---
 
 # Sort Objectives
 
-This is now accomplished in a similar manner to the sorting of Learning Materials, as well as Program Year Objectives and Session Objectives. This allows instructional designers to determine a priority ranking of Objectives to be presented to students.
+## Setting up the Sort Order
 
 To do this, pull up a Course that already has Objectives ready to be sorted. Click `Show Details` to review the Course Details.
 
+### Show Details
+
 * Click `Objectives(x)` to expand the Objectives as shown below.
+
+### Expand Objective View
 
 ![expand objectives - large view](../../images/course_objectives/expand_objectives_large_view.png)
 
 * Now that the Objectives have been expanded, they can be dragged and dropped into the correct location. This location will determine the order in which they are presented to Students wherever Students access this information.
+
+### Set New Sort Order
 
 ![move objectives](../../images/course_objectives/move_objectives.png)
 
@@ -29,6 +35,8 @@ After dropping the Objective, the list is re-sorted as shown below. Click `"Save
 ![click to save updated course objective sort order](../../images/course_objectives/click_to_save_crs_obj_sort.png)
 
 After click the green Save button, a progress update displays briefly as shown below.
+
+### Updated Sort Order 
 
 ![updating objective sort order](../../images/course_objectives/updating_obj_sort_order.png)
 

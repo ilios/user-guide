@@ -1,3 +1,7 @@
+---
+description: Click ([here](https://www.iliosproject.org/about/)) for a thorough introduction to Ilios and to sign up for our email notifications and updates.
+---
+
 # Introduction
 
 ![Ilios banner image](images/introduction/ilios_banner.png)

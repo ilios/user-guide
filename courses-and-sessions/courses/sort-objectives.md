@@ -1,3 +1,7 @@
+---
+description: Course objectives can be sorted so that the presentation of the objectives occurs in a user-specified order.
+---
+
 # Sort Objectives
 
 This is now accomplished in a similar manner to the sorting of Learning Materials, as well as Program Year Objectives and Session Objectives. This allows instructional designers to determine a priority ranking of Objectives to be presented to students.

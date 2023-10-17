@@ -5,7 +5,7 @@ For an introduction to Ilios and to sign up for newsletters and announcements, c
 
 ![Ilios banner image](images/introduction/ilios_banner.png)
 
-## The Official Ilios User Guide
+# DartAjax
 
 ## <mark style="color:blue;">User Guide Search</mark>
 

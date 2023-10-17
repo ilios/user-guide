@@ -11,7 +11,7 @@ For an introduction to Ilios and to sign up for newsletters and announcements, c
 
 ## The Official Ilios User Guide
 
-### <mark style="color:blue;">User Guide Search</mark>
+## <mark style="color:blue;">User Guide Search</mark>
 
 To perform a quick search to find any Ilios topic you may be hoping to find, the search box in the upper right portion of the screen can be used for this. Before entering criteria, it appears as shown below. The search process used in searching the User Guide is similar to the [Global Search](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search) functionality in Ilios. The starting point is shown below.
 
@@ -29,7 +29,7 @@ Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org)
 
 The user guide is configured to have high level chapters based on the flyout menu items in the application, to be followed by a quick guide explaining how to perform common tasks in Ilios.
 
-### <mark style="color:blue;">User Guide Navigation - On This Page</mark>
+## <mark style="color:blue;">Navigation - On This Page</mark>
 
 All pages within the guide that have bookmarks added by the author will have clickable links in an area on the right side of the screen called "ON THIS PAGE". An example of this is shown below.
 
@@ -43,19 +43,19 @@ This application is web-based, meaning it must be accessed through web-browsing 
 
 Stick with the most recent releases in any of the browsers listed above, and Ilios will perform as expected. It can also be used on mobile phone browsers and most tablets.
 
-### Saving Work
+## Saving Work
 
 Work processed in Ilios is presented and collected in real-time, but is only saved to the system when a save event occurs. Much of the saving activity takes place automatically in real-time using in line editing or other user-friendly editing areas. This guide describes in detail how the save process occurs (ie. when you will need to manually save and when it takes place automatically). When there is work that is unsaved, action buttons will become active and should be used to process the save event before navigating away.
 
-### Top-level Search
+## Top-level Search
 
 Ilios is designed to provide as much information as possible in a single display page. Ilios screens (Courses, Sessions etc.) allow for real-time text searching on multiple fields to make it easy to find the information you need.
 
-### Optimal Viewing
+## Optimal Viewing
 
 Your primary view is that of an editor and content creator. In order to facilitate this complex view, the system currently works best on a high-resolution display monitor. Other views such as Learner views, and other non-content creation views, are usable at lower resolution, and can be viewed on smart phones and other handheld devices.
 
-### Course Calendar
+## Course Calendar
 
 Ilios is built explicitly on the concept of user-centric information, rather than course-centric information. What this means is that the default view for a user entering the system is not an individual course, but the aggregate of all courses with which they are associated. As a course developer/ director, the maintenance of a single course and its sessions and offerings can easily be performed by selecting “Courses and Sessions” from the Ilios Menu.
 

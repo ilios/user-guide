@@ -5,7 +5,9 @@ For an introduction to Ilios and to sign up for newsletters and announcements, c
 
 ![Ilios banner image](images/introduction/ilios_banner.png)
 
-# DartAjax
+## Starting Point
+
+Welcome to the official Ilios User Guide. Feel free to bookmark this page and refer to it with any Ilios questions you may have. You can send any email inquiries [here](mailto:support@iliosproject.org).
 
 ## <mark style="color:blue;">User Guide Search</mark>
 

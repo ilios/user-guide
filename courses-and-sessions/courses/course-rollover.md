@@ -33,6 +33,8 @@ The following screen will appear to let you know the rollover is being processed
 
 ![rollover processing](../../images/course_rollover/rollover_processing.png)
 
+A green header up at the top of the screen will be displayed for a few seconds once the rollover has been completed. 
+
 ![course rollover](../../images/course_rollover/rollover_course_2.png)
 
 Here is the newly created Course.

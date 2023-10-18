@@ -8,7 +8,7 @@ An example of adding a MeSH term to a Course Objective is shown below.
 
 **2. Expand to see the Course Details**
 
-![Expand the Course Details](../../.gitbook/assets/add_mesh2.jpg)
+![expand the course details](../../.gitbook/assets/add_mesh2.jpg)
 
 **3. Select the Objective**
 

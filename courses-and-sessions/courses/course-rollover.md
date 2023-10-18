@@ -18,16 +18,11 @@ To roll a Course over, click the Course Rollover icon as shown below.
 
 ![rollover icon shown](../../images/course_rollover/rollover_icon_shown.png)
 
-Once the button icon has been clicked in the previous step, the screen changes to the following with two options ...
-
-1. Accept the Defaults: This will copy the Sessions and Offerings but since the Cohort has not been selected, the Program Year parent objectives will not be mapped to the Course Objectives. If the Cohort is selected later, the mapping of the Course Objectives to the Program Year Objectives will have to be done manually.
-2. Customize the Rollover: Using this technique, you can selected the Cohort to be assigned to the newly being created Course. This will ensure that the mapping of the Course Objectives to the Program Year Objectives is retained and won't required re-attachment.
-
-These options are described in the screen shot below.
+Once the button icon has been clicked in the previous step, the screen changes to the following with several options, which are described below.
 
 ![course rollover options](../../images/course_rollover/course_rollover_options.png)
 
-Once the Course has been rolled over, you can go and fix up the newly created Course. You will be taken to the new Course automatically. In this example, Option #1 (the default) was performed along with the selection of the Cohort to be assigned to the newly created Course.
+Once the Course has been rolled over, you can go and fix up the newly created Course. You will be taken to the new Course automatically. 
 
 The following screen will appear to let you know the rollover is being processed. 
 

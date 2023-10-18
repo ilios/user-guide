@@ -33,13 +33,13 @@ The following screen will appear to let you know the rollover is being processed
 
 ![rollover processing](../../images/course_rollover/rollover_processing.png)
 
-A green header up at the top of the screen will be displayed for a few seconds once the rollover has been completed. 
+Clicking the "Done" button shown in the screen shot above will create the new course, add the cohort to it, add the offerings with estimated start dates (same day of week), and map the program year objectives to this new course.
 
-![course rollover](../../images/course_rollover/rollover_course_2.png)
+A green header up at the top of the screen will be displayed for a few seconds once the rollover has been completed. 
 
 Here is the newly created Course.
 
-![new course created](../../images/course_rollover/rollover-course_3.png)
+![new course created](../../images/course_rollover/new_course_created.png)
 
 ## Current Year
 

@@ -16,7 +16,7 @@ The most common rationale for rolling a course over is to make a copy of the cur
 
 To roll a Course over, click the Course Rollover icon as shown below.
 
-![rollover icon shown](../../images/course_rollover/rollover_icon.png)
+![rollover icon shown](../../images/course_rollover/rollover_icon_shown.png)
 
 Once the button icon has been clicked in the previous step, the screen changes to the following with two options ...
 
@@ -25,9 +25,15 @@ Once the button icon has been clicked in the previous step, the screen changes t
 
 These options are described in the screen shot below.
 
-![review the options](../../images/course_rollover/rollover_course.png)
+![course rollover options](../../images/course_rollover/course_rollover_options.png)
 
 Once the Course has been rolled over, you can go and fix up the newly created Course. You will be taken to the new Course automatically. In this example, Option #1 (the default) was performed along with the selection of the Cohort to be assigned to the newly created Course.
+
+The following screen will appear to let you know the rollover is being processed. 
+
+![rollover processing](../../images/course_rollover/rollover_processing.png)
+
+A green header up at the top of the screen will be displayed for a few seconds once the rollover has been completed. 
 
 ![course rollover](../../images/course_rollover/rollover_course_2.png)
 

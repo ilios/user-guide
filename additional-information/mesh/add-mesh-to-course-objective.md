@@ -4,19 +4,19 @@ An example of adding a MeSH term to a Course Objective is shown below.
 
 **1. Select the Course**
 
-![Add MeSH to Course Objective Part 1](../../.gitbook/assets/add_mesh1.jpg)
+![add MeSH to course objective - starting point](../../images/additional_info/add_MeSH_to_crs_obj/add_mesh1.jpg)
 
 **2. Expand to see the Course Details**
 
-![expand the course details](../../.gitbook/assets/add_mesh2.jpg)
+![expand the course details](../../images/additional_info/add_MeSH_to_crs_obj/add_mesh2.jpg)
 
 **3. Select the Objective**
 
-![Select the Objective](../../.gitbook/assets/add_mesh3.jpg)
+![select the objective](../../images/additional_info/add_MeSH_to_crs_obj/add_mesh3.jpg)
 
 **4. Select the MeSH Term**
 
-![Select the MeSH Term](../../.gitbook/assets/add_mesh4.jpg)
+![select the MeSH term](../../images/additional_info/add_MeSH_to_crs_obj/add_mesh4.jpg)
 
 MeSH terms may be associated with Courses, Sessions, Learning Materials, and Learning Objectives \(at any level - Program Year, Course, or Session\).
 

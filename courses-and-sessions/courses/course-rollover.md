@@ -44,11 +44,11 @@ To do this ...
 
 * Select a Course that needs to be rolled over into the current year.
 
-![select course](../../images/course_rollover/same_year_rollover_1.jpg)
+![select course](../../images/course_rollover/select_course.png)
 
 * Click on the Rollover icon to start the process.
 
-![click the rollover icon](../../images/course_rollover/same_year_rollover_2.jpg)
+![click the rollover icon](../../images/course_rollover/click_rollover_button.png)
 
 * Notice that the drop-down selector indicates "Course Already Exists"
 

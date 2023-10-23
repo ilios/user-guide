@@ -52,21 +52,19 @@ To do this ...
 
 * Notice that the drop-down selector indicates "Course Already Exists"
 
-![courses already exists](../../images/course_rollover/course_already_exists.png)
+![course already exists](../../images/course_rollover/course_already_exists.png)
 
 * Change the Title of the Course being created by the Rollover as shown below.
 
-![change course's name (title)](../../images/course_rollover/same_year_rollover_4.jpg)
+![update course options](../../images/course_rollover/update_course_options.png)
 
-* Click Advanced Options and select the Date the new Course is set to start.  The choices in the date picker are automatically limited to the same day of the week as the current Course Start Date.  This is to ensure Offerings are scheduled during the same days of the week as the Offerings of the previous Course.
-
-![set new course's start date](../../images/course_rollover/same_year_rollover_5.jpg)
+* Select the date for the new course to start.  The choices in the date picker are automatically limited to the same day of the week as the current course start date.  This is to ensure offerings are scheduled during the same days of the week as the offerings of the previous course.
 
 * Click Done and that's it.  Review the results and make modifications to the newly created Course as needed.
 
 You will be routed automatically to the new Course.
 
-![success - review new course](../../images/course_rollover/same_year_rollover_6.jpg)
+![new course](../../images/course_rollover/new_course.png)
 
 ## Previous Year
 

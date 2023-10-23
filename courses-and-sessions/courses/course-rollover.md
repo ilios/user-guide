@@ -52,7 +52,7 @@ To do this ...
 
 * Notice that the drop-down selector indicates "Course Already Exists"
 
-![review](../../images/course_rollover/same_year_rollover_3.jpg)
+![courses already exists](../../images/course_rollover/course_already_exists.png)
 
 * Change the Title of the Course being created by the Rollover as shown below.
 

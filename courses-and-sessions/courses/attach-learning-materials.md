@@ -1,5 +1,5 @@
 ---
-description: Learning Materials may be attached to courses or sessions. In order to be used with Ilios, materials must be tagged with certain additional information - a display name, owner and copyright information. Adding these elements is covered below.
+description: Learning Materials may be attached to courses or sessions. In order to be used with Ilios, materials must be tagged with certain additional information. This is covered below.
 ---
 
 The first step is to select a Course and also to click "Show Details" to reveal the Course Details - of which Learning Materials is one. These steps are covered in other parts of the guide.

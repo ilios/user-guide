@@ -1,12 +1,10 @@
-# Attach Learning Materials
-
 The first step is to select a Course and also to click "Show Details" to reveal the Course Details - of which Learning Materials is one. These steps are covered in other parts of the guide.
 
-### Attach Existing Learning Material to a Course
+## Attach Existing Learning Material
 
 Before uploading a potential duplicate Learning Material file, link, or citation, you should search to if it already exists in the system. The key thing to remember here is that with Learning Materials, the relationship between the Learning Material and the Course is what is being created here. The same Learning Material can be attached to any number of Courses or Sessions.
 
-#### Search for Learning Material (LM)
+### Perform Search
 
 The screen shot below shows the Learning Material section for a Course. A search was performed for the value 'ground school obj'.
 
@@ -16,9 +14,13 @@ Just select one of the results and it will be attached to the Course. The proces
 
 ![Search for LM](../../images/course_learning_materials/search_for_course_lm.jpg)
 
+### Attach File
+
 **Select File to Attach**
 
 ![Select LM](../../images/course_learning_materials/search\_for\_course\_lm\_2.jpg)
+
+### Update Meta-Data
 
 **See Results of Action and Modify Available Meta-Data**
 
@@ -52,12 +54,12 @@ Click on the Display Name to view more details and to modify some information ab
 * **Timed Release:** Allows for the specification of start and / or end dates for students to be able to view / download this Learning Material object. **Add Start Date** and **Add End Date** are used to set these values.
 * **Select MeSH for:** Provides for the attachment of Medical Subject Headers to the Learning Material objects.
 * **File/Web Link/Citation:** For files: the physical or actual name of the uploaded file; for web links, the literal URL; for citations, the specific cite content.
-* _**\[file size]:**_ For uploaded files, the size in KB. Non-editable. Provided by system.
-* _**\[file type]:**_ - For uploaded files, the file mime-type / extension. Non-editable. Provided by system.  Allowed file types include:  aiff, avi, csv, doc, docx, gif, gz, html, jpeg, jpg, mov, mp3, mp4, mpg, pdf, png, ppt, pptx, rtf, swf, tar, tiff, txt, wav, word, wmv,  xls, xlsx, xml, zip.
+* **[file size]:** For uploaded files, the size in KB. Non-editable. Provided by system.
+* **[file type]:** For uploaded files, the file mime-type / extension. Non-editable. Provided by system.  Allowed file types include:  aiff, avi, csv, doc, docx, gif, gz, html, jpeg, jpg, mov, mp3, mp4, mpg, pdf, png, ppt, pptx, rtf, swf, tar, tiff, txt, wav, word, wmv,  xls, xlsx, xml, zip.
 
 ![Add Course LM details](../../images/course_learning_materials/add_course_lm_3.jpg)
 
-### Description
+## Learning Material Description
 
 Learning Materials may be attached to courses or sessions. In order to be used with Ilios, materials must be tagged with certain additional information: a display name, owner and copyright information, MeSH vocabulary, etc. These elements are available for the user to input and edit when Learning Materials are loaded into the system.
 
@@ -79,11 +81,13 @@ In order to save a learning material in connection with a session or course, tha
 
 For lectures and other similar media, where the likely method of delivery is streaming/viewing from the server, rather than downloading, materials should be stored elsewhere, and the links to them should be the resources saved in Ilios.
 
-#### Additional Fields (modified once the inital upload has been completed)
+### Additional Fields 
 
-* _**Status:**_ Options for this are Final (appears to students as long there is no start or end date), Revised (same as Final for display purposes), and Draft (will not be displayed to students even if the current date lies between the start and end date (if it exists)).
-* _**Required:**_ Identifies required vs. recommended materials in the context of use. Requirement is unique to a given instance of use for any Learning Materials.
-* _**Instructional Notes:**_ Free-text entry field to allow commentary and instruction for the Learning Materials. Notes may be set to be visible to all users, or set as visible only to instructional faculty/staff. Notes provided are unique to a given instance of use for any Learning Materials.
-* _**Show Notes to Students:**_ Indicates whether or not the optional notes entered in the Instructional Notes field (described above) are displayed to students or not.
-* _**Timed Release**_** (Add Start Date / Add End Date):** This allows for Learning Materials to be displayed to students for a specified range of dates. This can be either Start Date or End Date or both. The Learning Materials must be in a Final or Revised state to be displayed.
-* _**MeSH Terms (Select MeSH for:):**_ Selected by searching the MeSH database. MeSH terms selected are unique to a given instance of use for any Learning Materials.
+These are modified once the inital upload has been completed.
+
+* **Status:** Options for this are Final (appears to students as long there is no start or end date), Revised (same as Final for display purposes), and Draft (will not be displayed to students even if the current date lies between the start and end date (if it exists)).
+* **Required:** Identifies required vs. recommended materials in the context of use. Requirement is unique to a given instance of use for any Learning Materials.
+* **Instructional Notes:** Free-text entry field to allow commentary and instruction for the Learning Materials. Notes may be set to be visible to all users, or set as visible only to instructional faculty/staff. Notes provided are unique to a given instance of use for any Learning Materials.
+* **Show Notes to Students:** Indicates whether or not the optional notes entered in the Instructional Notes field (described above) are displayed to students or not.
+* **Timed Release** This allows for Learning Materials to be displayed to students for a specified range of dates. This can be either Start Date or End Date or both. The Learning Materials must be in a Final or Revised state to be displayed.
+* **MeSH Terms (Select MeSH for:):** Selected by searching the MeSH database. MeSH terms selected are unique to a given instance of use for any Learning Materials.

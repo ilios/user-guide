@@ -1,30 +1,30 @@
 ---
-description: 
-Learning Materials may be attached to courses or sessions. In order to be used with Ilios, materials must be tagged with certain additional information - a display name, owner and copyright information. Adding these elements is covered below.
+description: Learning Materials may be attached to courses or sessions. In order to be used with Ilios, materials must be tagged with certain additional information - a display name, owner and copyright information. Adding these elements is covered below.
 ---
+
 The first step is to select a Course and also to click "Show Details" to reveal the Course Details - of which Learning Materials is one. These steps are covered in other parts of the guide.
 
-## Attach Existing Learning Material
+# Attach Existing Learning Material
 
 Before uploading a potential duplicate Learning Material file, link, or citation, you should search to if it already exists in the system. The key thing to remember here is that with Learning Materials, the relationship between the Learning Material and the Course is what is being created here. The same Learning Material can be attached to any number of Courses or Sessions.
 
-### Perform Search
+## Perform Search
 
 The screen shot below shows the Learning Material section for a Course. A search was performed for the value 'ground school obj'.
 
 Just select one of the results and it will be attached to the Course. The process of attaching existing Learning Materials or uploading new Learning Materials at the Session level is very similar to doing this at the Course level.
 
-**Perform Search**
+**Search for LM**
 
 ![Search for LM](../../images/course_learning_materials/search_for_course_lm.jpg)
 
-### Attach File
+## Attach File
 
 **Select File to Attach**
 
 ![Select LM](../../images/course_learning_materials/search\_for\_course\_lm\_2.jpg)
 
-### Update Meta-Data
+## Update Meta-Data
 
 **See Results of Action and Modify Available Meta-Data**
 
@@ -81,7 +81,7 @@ In order to save a learning material in connection with a session or course, tha
 
 For lectures and other similar media, where the likely method of delivery is streaming/viewing from the server, rather than downloading, materials should be stored elsewhere, and the links to them should be the resources saved in Ilios.
 
-### Additional Fields 
+## Additional Fields 
 
 These are modified once the inital upload has been completed.
 

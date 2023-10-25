@@ -1,3 +1,7 @@
+---
+description: 
+Learning Materials may be attached to courses or sessions. In order to be used with Ilios, materials must be tagged with certain additional information - a display name, owner and copyright information. Adding these elements is covered below.
+---
 The first step is to select a Course and also to click "Show Details" to reveal the Course Details - of which Learning Materials is one. These steps are covered in other parts of the guide.
 
 ## Attach Existing Learning Material
@@ -58,10 +62,6 @@ Click on the Display Name to view more details and to modify some information ab
 * **[file type]:** For uploaded files, the file mime-type / extension. Non-editable. Provided by system.  Allowed file types include:  aiff, avi, csv, doc, docx, gif, gz, html, jpeg, jpg, mov, mp3, mp4, mpg, pdf, png, ppt, pptx, rtf, swf, tar, tiff, txt, wav, word, wmv,  xls, xlsx, xml, zip.
 
 ![Add Course LM details](../../images/course_learning_materials/add_course_lm_3.jpg)
-
-## Learning Material Description
-
-Learning Materials may be attached to courses or sessions. In order to be used with Ilios, materials must be tagged with certain additional information: a display name, owner and copyright information, MeSH vocabulary, etc. These elements are available for the user to input and edit when Learning Materials are loaded into the system.
 
 Learning Materials are currently stored in an Ilios-specific file directory system. Items in the file directory may be attached to the curriculum directly by searching the repositories from the search interface for Learning Materials; if a desired item is not found, it may be uploaded directly to the server from the same interface.
 

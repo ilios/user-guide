@@ -47,7 +47,7 @@ This had to be split into upper and lower portions to allow space to display the
 
 The screen shot below shows the Courses and Sessions screen with the list of associated Sessions for a course.
 
-#### Session List
+### Session List
 
 ![Session - list](../../images/sessions_main_page/session_list1.png)
 

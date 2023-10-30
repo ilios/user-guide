@@ -6,11 +6,11 @@ This refers to an educational activity's modality. Examples include "Lecture", "
 
 To create a new Session Type or to review existing session types, click as shown below. A newly created session type can be used for existing or for future Sessions being created in Ilios.
 
-![Reveal School-level Session Type Details](../images/schools/session_types/new_sess_type1.png)
+![show session type details](../images/schools/session_types/show_session_type_details.png)
 
-![Add New Session Type (Step 1)](../images/schools/session_types/new_sess_type2.png)
+![add new session type (step 1)](../images/schools/session_types/new_sess_type2.png)
 
-![Add New Session Type (Step 2)](../images/schools/session_types/new_sess_type3.png)
+![add new session type (step 2)](../images/schools/session_types/new_sess_type3.png)
 
 ### Edit Session Type
 

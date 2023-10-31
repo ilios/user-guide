@@ -16,7 +16,9 @@ An example of #2 is shown below. The icon indicating that an ILM is linked to an
     </figcaption>
 </figure>
 
-#### Linked ILM - All Weeks
+## ILM Options
+
+### Linked ILM - All Weeks
 
 <figure>
   <img src="../../images/ilm/showing_pre_work.png" alt="Pre-work exists">

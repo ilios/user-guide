@@ -23,7 +23,7 @@ An example of #2 is shown below. The icon indicating that an ILM is linked to an
 <figure>
   <img src="../../images/ilm/showing_pre_work.png" alt="Pre-work exists">
   <figcaption>
-    <p>All Weeks Linked ILM's</p>
+    <p>All Weeks linked ILM's</p>
   </figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ In the example shown above, the student will need to click the link to "Hemostas
 <figure>
   <img src="../../images/ilm/linked_ILMs.png" alt="Event Detail">
     <figcaption>
-    <p>Linked ILM Learning Material Activities</p>
+    <p>Linked ILM Learning Material activities</p>
   </figcaption>
 </figure>
 

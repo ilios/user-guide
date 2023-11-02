@@ -2,7 +2,7 @@
 
 The Instructor Groups module in Ilios allows for the creation of reusable and trackable sets of instructors that can be associated to course/session activity. The groups are populated from the existing directory of active Ilios users, and can be modified and added to as needed. An instructor may be associated with any number of instructor groups, or none at all. Instructors and instructor groups are associated with course content at the offering level for each session (session offering(s)) or they can be attached to Independent Learning Modules (ILM's).
 
-### Quick Links
+## Quick Links
 
 * [Add Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups/add-instructor-group)
 * [Edit Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups/edit-instructor-group)
@@ -12,9 +12,9 @@ The Instructor Groups module in Ilios allows for the creation of reusable and tr
 To access this functionality, click on the Instructor Groups menu item from the flyout menu as shown below.
 
 <figure>
-    <img src="../images/instructor_groups_all_images/access_instructor_groups.png" alt="Access Instructor Group Maintenance">
+    <img src="../images/instructor_groups_all_images/open_instructor_groups.png" alt="Open Instructor Group Maintenance">
     <figcaption>
-        <p>Flyout Menu -  Instructor Group Maintenance
+        <p>Flyout Menu -  go to Instructor Group maintenance
         </p>
     </figcaption>
 </figure>

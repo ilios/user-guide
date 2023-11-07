@@ -17,7 +17,7 @@ Your administrative users have permissions to edit only the areas to which they 
 
 Each section where Permissions can be modified is covered in detail in the section of the User Guide that pertains to that aspect of Ilios.
 
-**Links**
+### Links
 
 * [Course Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership)
 * [Session Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/session-leadership)

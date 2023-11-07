@@ -9,7 +9,6 @@ Selecting Schools from the Ilios flyout menu takes the user to a location which 
     </figcaption>
 </figure>
 
-
 ## Initial School Attributes
 
 These are set only at the time of creating a School for use in Ilios. There are only two fields that are set at School creation time.

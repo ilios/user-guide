@@ -7,7 +7,7 @@ There are two places in Ilios where the concept of **"Publishing"** applies ...
 * [**Courses**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses)
 * [**Sessions**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions)
 
-## To Publish a Course ...
+## Publish a Course
 
 In the example below, all of the required fields have been entered and the Sessions have been entered and are ready to be published as well. Publishing a Course is in effect, finalizing it. If the Sessions for a Course are also published and there are Offerings to display, they will be displayed on a Student's calendar or contained within the Calendar Feed.
 
@@ -21,7 +21,7 @@ After performing the step indicated above, the publication status drop-down now 
 
 ![Course - published](../images/publishing/course_published.png)
 
-**To Publish a Course (with one or more Missing Items) ...**
+### with one or more Missing Items
 
 There are 2 different types of data attributes available for checking in the workflow: **required** fields, which must be present for publishing, and if unavailable will make the publish button in the checklist inactive; and **desired** fields, which may be overridden after review, or left as-is without override. If overridden, the course object publishes normally. If left as-is, the course object is published as “TBD”, or “Scheduled” – which reserves space on the calendar for users to see, but does not provide details of the session. Re-publishing a course or session at any time will update the information contained in it to its most recent state. Courses and sessions are independent of one another in the workflow, and can be published individually. A course, as the umbrellas container of its sessions, may also be published together with all of its associated sessions.
 
@@ -38,7 +38,9 @@ The required fields for publishing a Course are indicated above. The others are 
 
 ![Course Publication options](../images/publishing/course_publication_options.png)
 
-## To Publish a Session ...
+## Publish a Session
+
+### Single Session
 
 In the **Single Session Only** workflow, a single session is checked to verify data. Session level attributes checked are:
 
@@ -50,7 +52,7 @@ In the **Single Session Only** workflow, a single session is checked to verify d
 
 The fields required to create a Session are indicated above. The others are desired fields. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Missing Items” value on the drop-down menu. If all fields are completed, then clicking the “Publish” button will immediately publish the Session, without a review check. If you choose to review the missing items, the Publish option will be available on the review screen. You can choose Publish As Is if you choose not to review the items before publishing the Session.
 
-**To Publish a Session (with one or more Missing Items)**
+### with one or more Missing Items
 
 ![Select Session to review or publish](../images/publishing/select_session.jpg)
 
@@ -58,7 +60,7 @@ The fields required to create a Session are indicated above. The others are desi
 
 ![Session publication options](../images/publishing/publish_session_options.jpg)
 
-**Review Missing Items**
+### Review Missing Items
 
 Upon clicking Option #2 (**Review 1 Missing Items** - see above), the screen will display what data from among the desired fields is missing.
 
@@ -67,6 +69,8 @@ Upon clicking Option #2 (**Review 1 Missing Items** - see above), the screen wil
 In the **Publish Full Course with All Sessions** workflow, a display of the course level info and every associated session is made available. The course level info and each session function independently as above, allowing override individually. If an associated session was previously in published state, it will still be displayed in the list and allow for republishing following the rules above. Any changes to a previously published session will overwrite its previous status. A course may be in Not Published state, yet have sessions which are Published or Scheduled. The Published/Scheduled sessions will not display on the public calendar until the parent course is in published or Scheduled state. Not Published sessions never display on the public calendar.
 
 When a course is in Scheduled state and has sessions in Published and/or Scheduled state, those Published and Scheduled sessions will display as TBD until the course is published. A published course will display any Scheduled or Published sessions as their state indicates accordingly.
+
+### Publish All Sessions
 
 ![Publish all](../images/publishing/publish_all.png)
 

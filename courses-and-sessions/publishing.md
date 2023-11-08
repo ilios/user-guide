@@ -54,17 +54,17 @@ The fields required to create a Session are indicated above. The others are desi
 
 ### Publish with Missing Item(s)
 
-![Select Session to review or publish](../images/publishing/select_session.jpg)
+![Select Session to review or publish](../images/publishing/select_session_with_missing.png)
 
-**Session Detail** appears.
+### Publishing Options
 
-![Session publication options](../images/publishing/publish_session_options.jpg)
+![Session publication options](../images/publishing/publishing_options.png)
 
 ### Review Missing Items
 
-Upon clicking Option #2 (**Review 1 Missing Items** - see above), the screen will display what data from among the desired fields is missing.
+Upon clicking Option #2 (**Review 1 Missing Items** - see above), the screen will display what data from among the desired fields is missing. In this case, no MeSH terms have been associated with this session. You can ignore this and publish anyway or add one or more MeSH terms.
 
-![Review Missing Items](../images/publishing/review_missing_items.jpg)
+![Review Missing Items](../images/publishing/missing_MeSH.png)
 
 In the **Publish Full Course with All Sessions** workflow, a display of the course level info and every associated session is made available. The course level info and each session function independently as above, allowing override individually. If an associated session was previously in published state, it will still be displayed in the list and allow for republishing following the rules above. Any changes to a previously published session will overwrite its previous status. A course may be in Not Published state, yet have sessions which are Published or Scheduled. The Published/Scheduled sessions will not display on the public calendar until the parent course is in published or Scheduled state. Not Published sessions never display on the public calendar.
 

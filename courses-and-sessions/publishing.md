@@ -21,7 +21,7 @@ After performing the step indicated above, the publication status drop-down now 
 
 ![Course - published](../images/publishing/course_published.png)
 
-### with one or more Missing Items
+### with Missing Item(s)
 
 There are 2 different types of data attributes available for checking in the workflow: **required** fields, which must be present for publishing, and if unavailable will make the publish button in the checklist inactive; and **desired** fields, which may be overridden after review, or left as-is without override. If overridden, the course object publishes normally. If left as-is, the course object is published as “TBD”, or “Scheduled” – which reserves space on the calendar for users to see, but does not provide details of the session. Re-publishing a course or session at any time will update the information contained in it to its most recent state. Courses and sessions are independent of one another in the workflow, and can be published individually. A course, as the umbrellas container of its sessions, may also be published together with all of its associated sessions.
 
@@ -52,7 +52,7 @@ In the **Single Session Only** workflow, a single session is checked to verify d
 
 The fields required to create a Session are indicated above. The others are desired fields. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Missing Items” value on the drop-down menu. If all fields are completed, then clicking the “Publish” button will immediately publish the Session, without a review check. If you choose to review the missing items, the Publish option will be available on the review screen. You can choose Publish As Is if you choose not to review the items before publishing the Session.
 
-### with one or more Missing Items
+### with Missing Item(s)
 
 ![Select Session to review or publish](../images/publishing/select_session.jpg)
 

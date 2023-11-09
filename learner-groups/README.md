@@ -1,10 +1,8 @@
-# Learner Groups
-
 ## Learner Groups
 
 This denotes a collection of Learners which can be associated with Sessions, Offerings, and Independent Learning Modules.
 
-**Learner Group Attributes:**
+### Attributes
 
 * **Title** - The name of the Learner Group - Text field description of the Learner Group.
 * [**Default Instructor(s)**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-instructor-s) - Selected from the existing population that has been entered into Ilios by campus systems and manual entry. Shown in display as the instructor of record for activities to which a group is associated when no other instructors are identified. This only applies to Small Group Offerings. Individual Offerings do **NOT** get the default instructor from the Learner Group.
@@ -13,7 +11,7 @@ This denotes a collection of Learners which can be associated with Sessions, Off
 * **Needs Accommodation** - Toggled when one or more learners in any given group (or sub group) need accommodation or additional resources in order to participate successfully in virtual learning events.
 * **Associated Courses** - Read-only listing of all Courses that have used this Learner Group in Session Offerings or ILM's.
 
-_**Other Options:**_
+### Other Options
 
 * **Hide Calendar / Show Calendar -** These buttons are used to switch on or off the Learner Group Calendar, which displays all learning activities to which this Learner Group has been attached. This Calendar is displayed using the weekly view. It can scrolled forward or backwards in time.
 * **Show events for all subgroups -** This toggles on or off whether the Learner Group Calendar displays events for any and all subgroups of this Learner Group.
@@ -24,7 +22,9 @@ The groups in Ilios are persistent data containers, which exist outside the cont
 
 For learners to be associated with curricular material in Ilios, they must be associated with a learner group.
 
-_**Learner Groups are Hierarchical**_
+### Hierarchical by Design
+
+**Learner Groups are Hierarchical**
 
 A key to the Group Management system is to understand the hierarchical nature of the groups, and the way it relates to Programs of study.
 
@@ -40,11 +40,11 @@ Note that when selecting learners for addition to a group, disabled user names a
 
 Only one group may be edited at a time. To open a different group for editing, either a parallel group in the same level of the hierarchy, or a group in a higher level of the hierarchy, click on the “open this group” link; this will close the group currently available for edit, and open the selected group for editing and management.
 
-#### How to Access
+### How to Access
 
 Clicking on the flyout menu item "Learner Groups" brings up the Learner Group Management tool. The tasks that can be accomplished using this tool are spelled out in individual sections below. You can create, modify, and delete Learner Groups. Membership in Learner Groups is maintained here as well. This determines which students are attached to which offerings. Learner Groups are attached to Offerings. This is key to understanding how Ilios works.
 
-#### Group Centric
+### Group Centric
 
 It is important to note that Learner Group Management is now very much about the group itself. The key is to navigate to whichever group (or sub group) needs modification (Learners added or removed mainly). Once you navigate to the correct group or sub group (the breadcrumbs are helpful with this), you can then search and find any Learner(s) in the Cohort who can be easily added to the group to which you have navigated. Please refer to the Tasks section below for links to specific actions that can be taken.
 
@@ -61,9 +61,9 @@ It is important to note that Learner Group Management is now very much about the
 * [Removing One Or More Learners From Group](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/edit-group-membership#removing-one-or-more-learners-from-group)
 * [Delete Learner Group](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/remove-learner-group)
 
-## View Learner Group Membership
+### View Learner Group Membership
 
-There is a way in Ilios to easily review Learner Group, specifically, Sub Group Membership. To do this, open up Learner Group Management by clicking the "Learner Groups" menu item from the Ilios flyout menu. Then, choose a Group which has Sub Groups the membership of which you would like to verify. For the sake of this example, we have chosen "Anesthesia Simulator Group", which has 19 Subgroups and a total of 155 Members.
+There is a way in Ilios to easily review Learner Group, specifically, Sub Group membership. To do this, open up Learner Group Management by clicking the "Learner Groups" menu item from the Ilios flyout menu. Then, choose a Group which has Sub Groups the membership of which you would like to verify. For the sake of this example, we have chosen "Anesthesia Simulator Group", which has 19 Subgroups and a total of 155 Members.
 
 ![Select Learner group](../images/learner_group_README/select_learner_group.png)
 

@@ -9,7 +9,7 @@
 
 ![Program - in read mode](../images/programs/edit_program/program_in_read_mode.png)
 
-#### Edit Program Title
+## Edit Program Title
 
 To edit a program's Title, all that is needed to do is to click on the Title itself, edit it if desired, and then confirm the changes. The process is shown below.
 
@@ -27,7 +27,7 @@ The text will be changed to "Spine Doctor" and confirmed.
 
 ![Program name - updated](../images/programs/edit_program/program_name_updated.png)
 
-#### Add / Edit Short Title
+## Add / Edit Short Title
 
 Since this is a newly created program, there has been no short title entered yet. To enter the short title ...
 
@@ -41,7 +41,7 @@ Since this is a newly created program, there has been no short title entered yet
 
 ![Short title - added](../images/programs/edit_program/short_title_added.png)
 
-#### Change Program Duration (Years)
+## Change Program Duration (Years)
 
 Modifying the duration of a program is easily accomplished in Ilios. Following the steps below will complete this task.
 
@@ -53,7 +53,7 @@ Modifying the duration of a program is easily accomplished in Ilios. Following t
 
 ![Duration updated](../images/programs/edit_program/duration_updated.png)
 
-#### Program Leadership
+## Program Leadership
 
 Please refer to the [Permissions Matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) to review what rights within the Ilios system will be granted when users are added as Program Directors.
 

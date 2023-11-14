@@ -16,7 +16,7 @@ A program year is essentially a year of instructional activity for any given pro
 
 Save when done by clicking the "Done" button as shown below.
 
-![Enter program year](../images/programs/program_years/enter_program_year.png)
+![click to save](../images/programs/program_years/click_to_save.png)
 
 ![Program year added](../images/programs/program_years/program_year_added.png)
 

@@ -56,7 +56,7 @@ Here is the resulting display after selecting "Class of 2020" as the Program Yea
 
 When reviewing Program Year Objectives, you can not only download the Competency Map, you can review how these Program Year Objectives are mapped to Course Objectives as parents.
 
-#### View Objective Mapping
+## View Objective Mapping
 
 This shows where the Program Year objectives (graduation requirements) have been linked to Course objectives, which in turn can be linked to Session objectives. 
 

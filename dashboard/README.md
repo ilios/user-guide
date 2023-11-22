@@ -41,7 +41,15 @@ Clicking the Ilios Menu expander (or contractor if already expanded) reveals in 
   </figcaption>
 </figure>
 
-Available menu items in all views include:
+### Mobile View
+
+The view of Ilios as seen from a mobile phone or device is very similar to the way it is described above in Small Screen View.
+
+For more details, review [Mobile Device View](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/mobile-devices).
+
+### Menu Items (all views)
+
+These menu items available in all views include:
 
 * **Dashboard:** This is the default Home page. That is the current location selected.
 * [**Courses and Sessions**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions)**:** Maintain (add/modify) Courses and Sessions. Select from a filterable list of all courses and sessions for the school(s) with which your user profile is associated in Ilios.

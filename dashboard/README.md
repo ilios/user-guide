@@ -41,6 +41,12 @@ Clicking the Ilios Menu expander (or contractor if already expanded) reveals in 
   </figcaption>
 </figure>
 
+### Mobile View
+
+The view of Ilios as seen from a mobile phone or device is very similar to the way it is described above in Small Screen View.
+
+For more details, review [Mobile Device View](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/mobile-devices).
+
 Available menu items in all views include:
 
 * **Dashboard:** This is the default Home page. That is the current location selected.

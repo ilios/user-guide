@@ -58,11 +58,11 @@ Search Results are grouped by Course, and then by Session. In the case above, th
 
 Once a search has been performed using the Global Search functionality, the results can be further refined (filtered). The following shows two types of filtering that can be done here.
 
-#### Filter By School
+### Filter By School
 
 ![Filter by School](../images/global_search/filter_by_school.png)
 
-#### Filter By Year
+### Filter By Year
 
 ![Detail View of Year Selector](../images/global_search/filter_by_year.png)
 

@@ -103,7 +103,7 @@ This will be demonstrated showing the web version of Outlook from the Microsoft 
 
 ![Dave's SOM Schedule - now available](../images/calendar_feed_options/add_cal4.png)
 
-### Add Calendar To Google Calendar
+### Add Calendar to Google Calendar
 
 The process for adding the Calendar feed to a Google (or other) mail account is similar to the process of adding the Calendar feed to an Outlook Calendar. If using a laptop or desktop computer, you can just paste the URL into the location specified. It is still a matter of adding a Calendar from the Internet, and pasting the URL into the location indicated.
 
@@ -115,7 +115,7 @@ LTI refers to "Learning Tools Interoperability", a standard being rapidly adopte
 
 In many cases, it will be desirable to have access to the Ilios calendar and learning material information within an external system, such as a learning management system (LMS). To facilitate this, we have an LTI plug-in that can be easily added to a wide range of different LMS systems. At UCSF, we add it to moodle. This can be done by choosing "Ilios Dashboard" as an activity within moodle.
 
-**Deploying the Ilios LTI**
+### Deploying the Ilios LTI
 
 Ilios now requires LTI, in order to plug the Ilios events & calendar dashboard directly into your LTI-compatible LMS pages. It's as easy as clicking your mouse (two or three times). Using the Ilios LTI component is significantly more effective for your users than adding either an external link to the Ilios application pages, or using the older embedded calendar app. And besides, after the start of the new year, only the LTI component will function.
 

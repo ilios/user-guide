@@ -2,14 +2,14 @@
 
  As far as the Program itself is concerned, the fields that can be modified are listed below. Editing any of these fields will have long reaching effects.
 
-* [Program Title](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#edit-program-title)
-* [Program Title \(short\)](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#add-edit-short-title)
-* [Duration \(in years\)](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#change-program-duration-years)
-* [Program Leadership](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#program-leadership) - \(add/remove Program Directors\)
+* [Title](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#edit-program-title)
+* [Short Title)](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#add-edit-short-title)
+* [Duration (in years)](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#change-program-duration-years)
+* [Leadership](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#program-leadership) - (add/remove Directors)
 
-![Program - in read mode](../images/programs/edit_program/program_in_read_mode.png)
+![Program - high level view](../images/programs/edit_program/program_high_level_view.png)
 
-## Edit Program Title
+## Edit Title
 
 To edit a program's Title, all that is needed to do is to click on the Title itself, edit it if desired, and then confirm the changes. The process is shown below.
 
@@ -33,7 +33,7 @@ Since this is a newly created program, there has been no short title entered yet
 
 ![Click to add](../images/programs/edit_program/click_to_add.png)
 
-* Enter the desired short title. The minimum length for a short title value is 2 characters. The short title "SD Doc" has been entered into the Program Title \(short\) field as shown below.
+* Enter the desired short title. The minimum length for a short title value is 2 characters. The short title "SD Doc" has been entered into the Program Title (short) field as shown below.
 
 ![Enter short title](../images/programs/edit_program/enter_short_title.png)
 
@@ -41,7 +41,7 @@ Since this is a newly created program, there has been no short title entered yet
 
 ![Short title - added](../images/programs/edit_program/short_title_added.png)
 
-## Change Program Duration (Years)
+## Update Duration (Years)
 
 Modifying the duration of a program is easily accomplished in Ilios. Following the steps below will complete this task.
 
@@ -53,7 +53,7 @@ Modifying the duration of a program is easily accomplished in Ilios. Following t
 
 ![Duration updated](../images/programs/edit_program/duration_updated.png)
 
-## Program Leadership
+## Update Leadership
 
 Please refer to the [Permissions Matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) to review what rights within the Ilios system will be granted when users are added as Program Directors.
 

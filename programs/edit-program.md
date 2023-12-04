@@ -3,7 +3,7 @@
  As far as the Program itself is concerned, the fields that can be modified are listed below. Editing any of these fields will have long reaching effects.
 
 * [Title](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#edit-program-title)
-* [Short Title)](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#add-edit-short-title)
+* [Short Title](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#add-edit-short-title)
 * [Duration (in years)](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#change-program-duration-years)
 * [Leadership](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#program-leadership) - (add/remove Directors)
 

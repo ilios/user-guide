@@ -60,3 +60,9 @@ Please refer to the [Permissions Matrix](https://www.dropbox.com/s/431sdj2bfoi3v
 ![Expand leadership](../images/programs/edit_program/expand_leadership.png)
 
 ![Click to manage](../images/programs/edit_program/click_to_manage_leadership.png)
+
+After clicking as shown above, the screen allows for the searching and selecting of any Ilios user to be added as program director (Leaderdship).
+
+![select to add to leadership](../images/programs/edit_program/click_to_add_leadership.png)
+
+![confirm new leadership](../images/programs/edit_program/confirm_new_leadership.png)

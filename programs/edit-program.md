@@ -66,3 +66,9 @@ After clicking as shown above, the screen allows for the searching and selecting
 ![select to add to leadership](../images/programs/edit_program/click_to_add_leadership.png)
 
 ![confirm new leadership](../images/programs/edit_program/confirm_new_leadership.png)
+
+After processing the update as shown above, the results of the previous activity can be verified.
+
+This is still in expanded mode. In contracted mode, the count will still update to reflect this recent action.
+
+![new leadership added](../images/programs/edit_program/new_leadership_added.png)

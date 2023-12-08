@@ -28,7 +28,7 @@ Offerings can be created as ...
 
 Click to add a new offering as shown by the arrow in the screen shot below. First, an existing course and session must have been selected.
 
-![Click button to start adding Offerings](../../images/offerings_README/offering_add_new_btn.jpg)
+![Click button to start adding Offerings](../../images/offerings_README/add_new_offering_button.png)
 
 The screen now appears as shown below to continue taking action to add the offering(s). Recent upgrade to the interface include the fact that End Time is no longer manually entered. It is determined automatically based on the Duration of the Offering that is entered here. Also "Available Learner Groups" is now a searchable field.
 

@@ -30,6 +30,6 @@ Click to add a new offering as shown by the arrow in the screen shot below. Firs
 
 ![Click button to start adding Offerings](../../images/offerings_README/add_new_offering_button.png)
 
-The screen now appears as shown below to continue taking action to add the offering(s). Recent upgrade to the interface include the fact that End Time is no longer manually entered. It is determined automatically based on the Duration of the Offering that is entered here. Also "Available Learner Groups" is now a searchable field.
+The screen now appears as shown below to continue taking action to add the offering(s). End Time is determined automatically based on the Duration of the Offering that is entered here. Also "Available Learner Groups" is a searchable field.
 
-![Small Groups default shown](../../images/offerings_README/add_offering.jpg)
+![Small Groups default shown](../../images/offerings_README/add_offering.png)

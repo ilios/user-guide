@@ -18,9 +18,17 @@ The icon looks a bit blurry at that level. Here is what it looks like in regular
 
 The first step is to find a user whose schedule you would like to view. This process is shown briefly below and highlighted in other areas of the guide as well.
 
+### Select User
+
 ![Select user](../images/admin_console/calendar_preview/select_user.jpg)
 
-Once this user "Dabney Orton" has been selected, his calendar is shown right here on the Admin Console screen. Scroll down to the bottom to see it. Below an example is shown.
+Once this user "Dabney Orton" has been selected, his calendar can be shown right here on the Admin Console screen. Click as shown below to get the calendar to become displayed here. 
+
+### Display Calendar
+
+![Display calendar](../images/admin_console/calendar_preview/click_to_display_calendar.png)
+
+### Sample Calendar
 
 ![Sample calendar](../images/admin_console/calendar_preview/sample_calendar.jpg)
 

@@ -72,6 +72,7 @@
 * [Instructor Groups](instructor-groups/README.md)
   * [Add Instructor Group](instructor-groups/add-instructor-group.md)
   * [Edit Instructor Group](instructor-groups/edit-instructor-group.md)
+  * [Delete Instructor Group](instructor-groups/delete-instructor-group.md)
 * [Schools](schools/README.md)
   * [Add New School](schools/add-new-school.md)
   * [School Leadership](schools/school-leadership.md)

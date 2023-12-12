@@ -8,6 +8,7 @@ The Instructor Groups module in Ilios allows for the creation of reusable and tr
 
 * [Add Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups/add-instructor-group)
 * [Edit Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups/edit-instructor-group)
+* [Delete Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups/delete-instructor-group)
 
 ## Instructor Group Maintenance
 

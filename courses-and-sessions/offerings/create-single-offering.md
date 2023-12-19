@@ -6,17 +6,17 @@ The same process as the creation of Small Group Offerings can be performed in re
 
 As indicated below, the Offerings Editor Calendar is initially hidden. To display it and to review the scheduling of this offering as well as all other offerings involving the same learner groups, click Show Calendar.
 
-#### Scheduling
+### Scheduling
 
 Since the offering editor is such a long and complex form, the elements will be handled one at a time starting with "Scheduling". 
 
 ![Top portion of screen - Scheduling](../../images/create_single_offering/scheduling.png)
 
-#### Participants
+### Participants
 
 Underneath the "Scheduling" component is an area to set who will be attending the offering as Instructor or Learner. Both of these can be set using groups or individuals.
 
-**Instructors**
+## Instructors
 
 Adding instructors either as a group ([Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)) or as individual instructors is shown below.
 
@@ -24,11 +24,11 @@ Adding instructors either as a group ([Instructor Group](https://iliosproject.gi
 
 ![After searching and selecting](../../images/create_single_offering/instructors_selected.png)
 
-**Learners** 
+## Learners
 
 The next section shows how this process functions for adding learners to an Offering. Just as with Instructors, learners can be added individually or as a group \(still most common practice\). The difference here is that individual learners are selected in a separate area from where Learner Groups are selected. 
 
-**Add Learner Groups**  
+### Add Learner Groups
 
 ![Search](../../images/create_single_offering/lg1.png)
 
@@ -36,7 +36,7 @@ After searching and selecting as shown above ...
 
 ![Learner Groups - selected](../../images/create_single_offering/lg2.png)
 
-**Add Individual Learners**  
+### Add Individual Learners
 
 It is important to note that these Learners being added here do not need to be in the Cohort associated with this Course. 
 
@@ -50,13 +50,13 @@ Now that everything has been added as we want for this offering, clicking Save w
 
 ![Mouse-over for Learner list](../../images/create_single_offering/learner_list_displayed.png)
 
-**Learner Group Parent** 
+### View Learner Group Parent
 
 A learner group's parent relationship can be determined by hovering over with the mouse for more details.
 
 ![Offering - after save](../../images/create_single_offering/lg6.png)
 
-### Permissions Note
+## Permissions Note
 
 Adding an Instructor to an Offering automatically adds a "Session Instructor" permission for this Instructor's relationship with this Session. The Instructor can modify this session but **NOT** any other sessions unless they are given higher permissions elsewhere - at the Course, Program, or School level or are attached as an Instructor to other Sessions Offerings.
 

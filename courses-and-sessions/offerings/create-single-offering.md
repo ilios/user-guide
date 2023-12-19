@@ -16,7 +16,7 @@ Since the offering editor is such a long and complex form, the elements will be 
 
 Underneath the "Scheduling" component is an area to set who will be attending the offering as Instructor or Learner. Both of these can be set using groups or individuals.
 
-### Instructors
+## Instructors
 
 Adding instructors either as a group ([Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)) or as individual instructors is shown below.
 

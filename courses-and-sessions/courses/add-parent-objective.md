@@ -1,6 +1,6 @@
 # Attach Parent Objectives
 
-## Add Parent Objectives
+## Add Parent Objectives - steps
 
 As mentioned before, it is configurable to allow Course Objectives to either allow for the addition of only one Parent Objective, or to allow for multiple parents to be attached.
 
@@ -13,11 +13,11 @@ To associate one or more Parent Objectives (Program Year level) to a Course Obje
 * Click **Show Details (+)** to expand the Course and see the details
 * Review the Course Details and expand the screen to display the full list of Course Objectives as shown below.
 
-### 1. Show Details
+### Show Details
 
 ![show details](../../images/course_objectives/show_details_full_view.png)
 
-### 2. Expand Objective List
+### Expand Objective List
 
 ![expand objective list](../../images/course_objectives/expand_objectives.png)
 
@@ -28,13 +28,13 @@ Of the 24 course objectives ...
 
 If any of these relationships were in place for all objectives, the dot would be green rather than orange in color.
 
-### 3. Objective Review
+### Objective Review
 
 After clicking as shown above, it is evident there is at least one Course Objective that is missing its Parent (Program Year) Objective.
 
 ![objective review](../../images/course_objectives/objective_review.png)
 
-### 4. Add Parent to Course Objective
+### Add Parent
 
 Now that "Add New" has been clicked as shown above, the Program Year Objective can be selected as a Parent to the Course Objective. These parent objectives reflect graduation requirements and related competencies. They will prove to be very helpful in setting expected educational outcomes and learning goals.
 
@@ -42,7 +42,7 @@ Now that "Add New" has been clicked as shown above, the Program Year Objective c
 
 ![click to confirm](../../images/course_objectives/click_to_confirm.png)
 
-### 5. Review the Results
+### Review the Results
 
 ![parent objective added](../../images/course_objectives/parent_objective_added.png)
 

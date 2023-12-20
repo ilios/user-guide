@@ -36,7 +36,7 @@ After clicking as shown above, it is evident there is at least one Course Object
 
 ### 4. Add Parent to Course Objective
 
-Now that "Add New" has been clicked as shown above, the Program Year Objective can be selected as a Parent to the Course Objective.
+Now that "Add New" has been clicked as shown above, the Program Year Objective can be selected as a Parent to the Course Objective. These parent objectives reflect graduation requirements and related competencies. They will prove to be very helpful in setting expected educational outcomes and learning goals.
 
 ![add program year objective](../../images/course_objectives/add_program_year_objective.png)
 

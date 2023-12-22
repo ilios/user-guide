@@ -15,7 +15,7 @@ After clicking as shown above the Vocabularies become available to edit as shown
 
 ![Expanded vocabularies](../images/schools/vocabularies/expanded_vocabularies.jpg)
 
-#### Add New Term
+## Add New Term
 
 In this example, `UCSF 49`, one of the Vocabularies for UCSF, has been selected. A new Term "Autism and Related Issues" has been entered.
 
@@ -27,7 +27,7 @@ Now that "Add" has been clicked, the new Term has been added as shown below.
 
 These Vocabulary Terms can be nested in the sense that there can be one or terms nested one or more levels lower than "Autism and Related Issues".
 
-#### Add Sub Term
+### Add Sub Term
 
 To add a Sub Term, click on "Autism and Related Issues". The term being added here will be nested below "Autism and Related Issues". For this reason, it is considered to be a "Sub Term" of "Autism and Related Issues".
 
@@ -37,7 +37,7 @@ To add a Sub Term, click on "Autism and Related Issues". The term being added he
 
 ![Sub term added](../images/schools/vocabularies/sub_term_added.jpg)
 
-### Activate / Deactivate Vocabulary Terms
+## Activate / Deactivate Vocabulary Terms
 
 It is now possible in Ilios to deactivate any Vocabulary Term that may no longer be in use.
 

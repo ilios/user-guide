@@ -4,30 +4,28 @@ description: >-
   level in Ilios.
 ---
 
-# Visualizations
+# Course Visualizations
 
 Visualization are graphs and charted information intended to help make informed decisions about how Ilios is being used and how this use could be improved.
 
 One of the available charts displays the usage of Objectives and how frequently they are utilized in a Course ... or more importantly let you know when they are not being used.
 
-![Go to Course Visualizations](../../images/course_visualizations/crs_vw_1.png)
+![access course visualizations](../../images/course_visualizations/crs_vw_1.png)
 
 After clicking on the graph icon as shown above, you will see a screen similar to the following with (at the time of update) four different visualizations available to review.
-
-## Course Visualizations
 
 Each visualization currently available is displayed at this level in a donut or pie shaped graph. Clicking on any of the four will result in seeing the data in greater detail.
 
 Course Visualizations available ...
 
-* ****[**Objectives**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#objectives)****
-* ****[**Session Types**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#session-types)****
-* ****[**Vocabularies**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#vocabularies)****
-* ****[**Instructors**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#instructors)****
+* **[**Objectives**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#objectives)**
+* **[**Session Types**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#session-types)**
+* **[**Vocabularies**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#vocabularies)**
+* **[**Instructors**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#instructors)**
 
 ![Visualization - starting point](../../images/course_visualizations/crs_visualizations1.png)
 
-### Objectives
+## Objectives
 
 The example below is from a user clicking on the **Objectives** visualization (the one in the upper left corner). It is displayed as shown below.
 
@@ -35,7 +33,7 @@ Mousing over any of the Objectives will display the full text of the Objective a
 
 ![Mouse-over demonstrated](../../images/course_visualizations/obj_vis1.png)
 
-#### Data Table
+### Data Table
 
 The Objectives visualization includes a data table to review the information presented in graphical format as a table. This can be quite a long table given how many sessions can exist in a large course. The top portion of the data table for the selected course is shown below using two different sort orders. The data can be sorted by any of the output columns (ascending or descending).
 
@@ -47,7 +45,7 @@ The Objectives visualization includes a data table to review the information pre
 
 ![Sort by Competency descending](../../images/course_visualizations/Obj_Data_Table_Top_2.png)
 
-### Session Types
+## Session Types
 
 The Session Types visualization is laid out horizontally rather than in a pie chart like the Objectives visualization in the section above. In the example below, I am hovering over a specific Session Type to review the usage specific of that session type in this particular course.
 
@@ -57,7 +55,7 @@ Clicking the "Discussion, Small Group (<=12)" link on the horizontal bar chart w
 
 ![Session Types (lower level)](../../images/course_visualizations/voc_term_viz2.png)
 
-### Vocabularies
+## Vocabularies
 
 The Vocabularies visualization shows how the Vocabularies set up for your school have been using in tagging sessions with this selected Course.
 
@@ -71,7 +69,7 @@ After clicking on "UCSF 49", which is one of UCSF SOM school-specific Vocabulari
 
 In the example presented above, the mouse is hovering over one of the UCSF 49 Vocabulary terms (Bleeding Disorders). Displayed is the percentage of the total instructional time of the sessions that were tagged with UCSF 49 Vocabulary terms that were tagged with "Bleeding Disorders", along with the duration of these offerings and the listing of the associated Sessions.
 
-### Instructors
+## Instructors
 
 The Instructors visualization functions in a similar manner to Vocabularies. You do get a bit more information at the higher level though - a percentage of the total. After clicking on the Instructor's name, it takes you down into a view showing the Vocabulary Terms tagged on this Instructor's sessions along with another graph showing Session Types for this instructor's offerings. Another thing it offers, because it needs to in a complicated course, is the option to filter on the lower level (horizontal bar chart).
 

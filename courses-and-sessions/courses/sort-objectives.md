@@ -42,3 +42,5 @@ After click the green Save button, a progress update displays briefly as shown b
 
 ![refreshed list](../../images/course_objectives/refreshed_list.png)
 
+The objective moved from the bottom up to the top of the list now appears first in the list and will appear first to students or any Ilios user accessing the Course detail listing of Objectives.
+

@@ -48,7 +48,7 @@ To manage existing accounts and their roles, go to the **Management Console** an
 
 Accounts which appear to have a conflict with the registered data in the external directory will be listed in the alert panel; each will provide details including what points of data are in conflict.
 
-Choosing to **Disable** the account will freeze the account until further action is taken, preventing the user from accessing Ilios and removing them from select lists for further assignment, but will not change the historic Ilios record; selecting to Update will update the account with the information in the external directory. Selecting **Leave As Is** will remove the account from the alert list until the next ingest cycle; not selecting an option will leave the account on the alert list, waiting for reconciliation. You may also set an individual account to be ignored by the reconciliation process; this is done on the individual user account detail page by selecting the option of **"Exclude From Synch"**.
+Choosing to **Disable** the account will freeze the account until further action is taken, preventing the user from accessing Ilios and removing them from select lists for further assignment, but will not change the historic Ilios record; selecting to Update will update the account with the information in the external directory. Selecting **Leave As Is** will remove the account from the alert list until the next ingest cycle; not selecting an option will leave the account on the alert list, waiting for reconciliation. You may also set an individual account to be ignored by the reconciliation process; this is done on the individual user account detail page by selecting the option of **"Exclude From Sync"**.
 
 ### Assigning Student Accounts
 

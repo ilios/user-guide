@@ -62,13 +62,13 @@ This assigns students to a “primary” cohort, which will be their parent coho
 
 The **“disabling”** of an account is blocking the user’s access to Ilios. This means that a user who has been disabled will no longer be able to log in to the system, and instead will be alerted that their account has been disabled, and to contact the Ilios administrator for assistance. This is the default state for newly ingested student records until they have been assigned to a cohort. For Instructor and Director records, they will also be removed from the current selection lists in the system.
 
-To disable an existing Ilios Account, search for the user account in question, and select them from the results list. From the available actions, choose **“disable this account”** and click **continue**. The account is now disabled.
+To disable an existing Ilios Account, search for the user account in question, and select them from the results list. From the available actions, set **“Account Enabled** to the `False` value and click the Save green check box. The account is now disabled.
 
 Similarly, for managing existing account roles, simply find the desired account, select the desired active roles for the user in question and click continue.
 
-#### Ignoring Accounts for Directory Ingest and Reconciliation
+### Ignoring Accounts for Directory Ingest and Reconciliation
 
-An account may be set to be ignored by the reconciliation with external directory information; this provides for avoiding repeating alerts on accounts that may have information which is unavailable to the campus system, or which are specific to Ilios for any reason. Clicking the box labeled _**“Exclude this account from synchronization process”**_ will set the account to be ignored by the process.
+An account may be set to be ignored by the reconciliation with external directory information; this provides for avoiding repeating alerts on accounts that may have information which is unavailable to the campus system, or which are specific to Ilios for any reason. Clicking the box labeled **“Exclude this account from synchronization process”** will set the account to be ignored by the process.
 
 ### Account Creation
 
@@ -102,7 +102,7 @@ Both students and non-students may be assigned into any number of “secondary�
 
 To assign a user a secondary cohort, click the “edit” button beneath the user cohort information listing on their account information page. Select any available program cohort from the list provided in the picker, and save. The assignment will now be shown on the user’s page.
 
-## Access Control and Permissions
+### Access Control and Permissions
 
 Ilios provides a management interface to allow for the simple control of edit – level permissions for existing users and their access to curricular data. Combined with the option of joint program stewardship, these permissions provide an extremely powerful mechanism for creating and deploying interdisciplinary curricula.
 

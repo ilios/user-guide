@@ -7,6 +7,7 @@ Contact **support@iliosproject.org** for more information. Links below ...
 * [Alert and Email Templates](https://iliosproject.gitbook.io/ilios-user-guide/additional-information/alert-and-email-templates)
 * [License and Copyright](https://iliosproject.gitbook.io/ilios-user-guide/additional-information/license-and-copyright)
 * [Competencies and Objectives](https://iliosproject.gitbook.io/ilios-user-guide/additional-information/competencies-and-objectives)
+* [FAQ - frequently asked questions](https://github.com/ilios/ilios/wiki/FAQS)
 
 
 

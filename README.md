@@ -4,6 +4,8 @@ description: Ilios is a curriculum management platform for the Health Profession
 
 ## Welcome to Ilios
 
+![Ilios banner image](images/introduction/ilios_banner.png)
+
 Welcome to the official Ilios User Guide. Feel free to bookmark this page and refer to it with any Ilios questions you may have. You can send any email inquiries [here](mailto:support@iliosproject.org).
 
 ## Sign up for Updates
@@ -11,8 +13,6 @@ Welcome to the official Ilios User Guide. Feel free to bookmark this page and re
 For an introduction to Ilios and to sign up for newsletters and announcements, click [here](https://www.iliosproject.org/about/). Once on that page, click "Status Reports" and then "join our mailing list". A form will appear requiring that you enter your email address and first and last name. A confirmation email message will be sent to the email address entered. This is required to confirm your subscription. We highly recommend subscribing to get the latest news. Subscription options are shown below.
 
 ![sign up for updates](images/introduction/subscription_options.png)
-
-![Ilios banner image](images/introduction/ilios_banner.png)
 
 ## <mark style="color:blue;">User Guide Search</mark>
 

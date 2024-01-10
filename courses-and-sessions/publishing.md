@@ -36,7 +36,18 @@ In the **Course Level Only** workflow, the top-level (“course-level”) attrib
 
 The required fields for publishing a Course are indicated above. The others are desired fields. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Items” value on the Publish drop-down menu. If you choose to review the missing items, the Publish option will be available on the review screen. You are required to review the items before publishing the Course or select "Publish As Is".
 
-![Course Publication options](../images/publishing/course_publication_options.png)
+![course publication options](../images/publishing/course_publication_options.png)
+
+**Publication Options explained**
+
+Using the screen shot above as a guide, here are the options described.
+
+* publish the course with missing items (1) - completes the publishing action of the course without requiring review
+* review missing data and decide to publish or not - brings you to review and decide as shown below ...
+
+![missing items - course publication](../images/publishing/review_missing_crs_pub_data.png)
+
+* set the publication status of the course to "scheduled" - sets the course in a "to be determined" state - students will see "TBD" on calendar (if session is published) with details to be revealed when the course itself gets published. This is only available on Calendar not Week at a Glance.
 
 ## Publish a Session
 

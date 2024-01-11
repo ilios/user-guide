@@ -47,7 +47,7 @@ Using the screen shot above as a guide, here are the options described.
 
 ![missing items - course publication](../images/publishing/review_missing_crs_pub_data.png)
 
-* (3) set the publication status of the course to "scheduled" - sets the course in a "to be determined" state - students will see "TBD" on calendar (if session is published) with details to be revealed when the course itself gets published. This is only available on Calendar not Week at a Glance.
+* (3) set the publication status of the course to "scheduled" - sets the course in a "to be determined" state - students will see "TBD" on calendar (if session is published or if session also has a status of "scheduled") with details to be revealed when the course itself gets published. This is only available on Calendar not Week at a Glance.
 
 ## Publish a Session
 

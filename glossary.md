@@ -2,7 +2,7 @@
 
 ## Cohort
 
-A group of learners identified with the same graduating year, and thus having the same set of curricular, or graduation, requirements upon matriculation. Cohorts are usually identified by school/program and graduation year: "SOM Class of 2017." Within Ilios, the Cohort is the key associating factor between individuals (Instructors, Learners) and Courses, as well as defining the particular “Level” or “Levels” of a Course.
+A group of learners identified with the same graduating year, and thus having the same set of curricular, or graduation, requirements upon matriculation. Cohorts are usually identified by school/program and graduation year: "SOM Class of 2027." Within Ilios, the Cohort is the key associating factor between individuals (Instructors, Learners) and Courses, as well as defining the particular “Level” or “Levels” of a Course.
 
 ## Competency
 

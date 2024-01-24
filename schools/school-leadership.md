@@ -4,7 +4,7 @@ Leadership at the school level is easily maintained in Ilios. Ilios users can be
 
 ![View details](../images/schools/leadership/open_leadership_school_level.png)
 
-After expanding School Leadership, currently assigned Directors and Administrators are listed. 
+After clicking as shown in the screen shot above, leadership details are exposed showing currently assigned school-level Directors and Administrators. 
 
 ## Leadership Displayed
 

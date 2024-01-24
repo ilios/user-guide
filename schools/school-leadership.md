@@ -1,14 +1,18 @@
-# School Leadership
+Leadership at the school level is easily maintained in Ilios. Ilios users can be granted or revoked permission to be (or not to be) Administrator or Director at the School level. 
 
-School Leadership can be easily maintained in Ilios. Ilios users can be granted or revoked permission to be either Administrator or Director at the School level. 
+## Maintain Leadership
 
-![Maintain school leadership](../images/schools/leadership/maintain_school_leadership.jpg)
+![Maintain leadership](../images/schools/leadership/maintain_school_leadership.jpg)
 
 After expanding School Leadership, currently assigned Directors and Administrators are listed. 
 
-![Leadership members shown](../images/schools/leadership/leadership_members_shown.jpg)
+## Leadership Displayed
+
+![Leadership displayed](../images/schools/leadership/leadership_members_shown.jpg)
 
 After clicking Manage Leadership as shown above, Ilios users may be assigned into either (or both) Director and Administrator permissions.
+
+## Search to Add
 
 ![Search boxes](../images/schools/leadership/search_boxes.jpg)
 
@@ -21,6 +25,8 @@ Once they have been selected, the screen appears as shown below. Click the Green
 ![Save updates](../images/schools/leadership/save_updates.jpg)
 
 The screen refreshes to show the changes.
+
+## Screen Updated
 
 ![Screen updated](../images/schools/leadership/screen_updated.jpg)
 

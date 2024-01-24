@@ -6,9 +6,9 @@ Leadership at the school level is easily maintained in Ilios. Ilios users can be
 
 After clicking as shown in the screen shot above, leadership details are exposed showing currently assigned school-level Directors and Administrators. 
 
-## Leadership Displayed
+## Leadership details shown
 
-![Leadership displayed](../images/schools/leadership/leadership_members_shown.jpg)
+![Leadership displayed](../images/schools/leadership/leadership_expanded.png)
 
 After clicking Manage Leadership as shown above, Ilios users may be assigned into either (or both) Director and Administrator permissions.
 

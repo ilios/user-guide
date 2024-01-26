@@ -10,7 +10,7 @@ After clicking as shown in the screen shot above, leadership details are exposed
 
 ![Leadership displayed](../images/schools/leadership/leadership_expanded.png)
 
-After clicking Manage Leadership as shown above, Ilios users may be assigned into either (or both) Director and Administrator permissions.
+After clicking Manage Leadership as shown above, Ilios users may be assigned into either (or both) Director and Administrator permissions. Refer to the [permissions matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) for more information about these user roles. Permissions involved in both are very similar if not identical. It is a matter of properly determining the correct identification in the educational structure of the user being assigned. If they are going to be setting up courses and sessions in Ilios but are not technically considered as a director of the school, Administrator should be used rather than Director.
 
 ## Search to Add
 

@@ -14,7 +14,7 @@ After clicking Manage Leadership as shown above, Ilios users may be assigned int
 
 ## Search to Add
 
-![Search boxes](../images/schools/leadership/search_boxes.jpg)
+![Search boxes](../images/schools/leadership/search_for_leadership.png)
 
 While it is unlikely you would want to search for both at once, it is possible. The two Ilios users indicated below are selected as shown.
 

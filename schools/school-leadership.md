@@ -18,7 +18,7 @@ After clicking Manage Leadership as shown above, Ilios users may be assigned int
 
 While it is unlikely you would want to search for both at once, it is possible. The two Ilios users indicated below are selected as shown.
 
-![Searches performed](../images/schools/leadership/searches_performed.jpg)
+![Searches performed](../images/schools/leadership/searches_performed.png)
 
 Once they have been selected, the screen appears as shown below. Click the Green button to save this information.
 

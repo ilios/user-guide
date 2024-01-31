@@ -28,5 +28,5 @@ The screen refreshes to show the changes.
 
 ## Screen Updated
 
-![Screen updated](../images/schools/leadership/screen_updated.jpg)
+![Screen updated](../images/schools/leadership/screen_updated.png)
 

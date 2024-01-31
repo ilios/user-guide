@@ -22,7 +22,7 @@ While it is unlikely you would want to search for both at once, it is possible. 
 
 Once they have been selected, the screen appears as shown below. Click the Green button to save this information.
 
-![Save updates](../images/schools/leadership/save_updates.jpg)
+![Save updates](../images/schools/leadership/save_updates.png)
 
 The screen refreshes to show the changes.
 

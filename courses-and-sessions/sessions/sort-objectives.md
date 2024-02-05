@@ -6,7 +6,7 @@ To do this, pull up a Course and Session that already has Objectives ready to be
 
 * Click `Objectives(x)` to expand the Objectives as shown below.
 
-![Expand the list](../../images/sort_session_objectives/sort_sess_obj_1.jpg)
+![Expand the list](../../images/sort_session_objectives/click_for_details.png)
 
 * Now that the Objectives have been expanded, they can be dragged and dropped into the correct location. This location will determine the order in which they are presented to Students wherever Students access this information.
 

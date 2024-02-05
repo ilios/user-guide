@@ -10,7 +10,7 @@ To do this, pull up a Course and Session that already has Objectives ready to be
 
 * Now that the Objectives have been expanded, they can be dragged and dropped into the correct location. This location will determine the order in which they are presented to Students wherever Students access this information.
 
-![Click to activate Sort functionality](../../images/sort_session_objectives/sort_sess_obj_2.jpg)
+![Click to activate Sort functionality](../../images/sort_session_objectives/click_to_sort.png)
 
 After activating the functionality as shown below, the screen is expanded to allow for the re-ordering of the Session Objectives. For the sake of demonstration, it is desired that the Objective titled **"Define non-cardiogenic pulmonary edema."** be moved up to the number one position. Students will see this Session Objective at the top of the list, indicating its relative importance.
 

@@ -28,5 +28,5 @@ After click the green Save button, a splash screen like the following appears br
 
 ![Saving ...](../../images/sort_session_objectives/splash_screen.jpg)
 
-![top of list shown after update](../../images/sort_session_objectives/sort_sess_obj_6.jpg)
+![top of list shown after update](../../images/sort_session_objectives/after_update.png)
 

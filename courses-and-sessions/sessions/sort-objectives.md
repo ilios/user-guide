@@ -12,9 +12,9 @@ To do this, pull up a Course and Session that already has Objectives ready to be
 
 ![Click to activate Sort functionality](../../images/sort_session_objectives/click_to_sort.png)
 
-After activating the functionality as shown below, the screen is expanded to allow for the re-ordering of the Session Objectives. For the sake of demonstration, it is desired that the Objective titled **"Define non-cardiogenic pulmonary edema."** be moved up to the number one position. Students will see this Session Objective at the top of the list, indicating its relative importance.
+After activating the functionality as shown below, the screen is expanded to allow for the re-ordering of the Session Objectives. For the sake of demonstration, it is desired that the Objective titled **"Describe findings in oxygenation failure."** be moved up to the number one position. Students will see this Session Objective at the top of the list, indicating its relative importance.
 
-![list displayed](../../images/sort_session_objectives/sort_sess_obj_3.jpg)
+![list displayed](../../images/sort_session_objectives/list_displayed.png)
 
 To do this, select the second to last Objective we want to move to the top and drag it up to the first position. The Objective will appear ghosted out along with its destination. Let go of the mouse button when the Objective being moved \(re-prioritized\) is in position as shown below.
 

@@ -16,9 +16,9 @@ After activating the functionality as shown below, the screen is expanded to all
 
 ![list displayed](../../images/sort_session_objectives/list_displayed.png)
 
-To do this, select the second to last Objective we want to move to the top and drag it up to the first position. The Objective will appear ghosted out along with its destination. Let go of the mouse button when the Objective being moved \(re-prioritized\) is in position as shown below.
+To do this, select the second to last Objective we want to move to the top and drag it up to the first position. The Objective will appear ghosted out along with its destination. Let go of the mouse button when the Objective being moved (re-prioritized) is in position as shown below.
 
-![drag and drop](../../images/sort_session_objectives/sort_sess_obj_4.jpg)
+![moving objective](../../images/sort_session_objectives/moving_objective.png)
 
 After dropping the Objective, the list is re-sorted as shown below. Click `"Save"` to complete this process or `"Cancel"` to abort.
 

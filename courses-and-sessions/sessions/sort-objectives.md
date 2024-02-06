@@ -24,9 +24,7 @@ After dropping the Objective, the list is re-sorted as shown below. Click `"Save
 
 ![updated sort order](../../images/sort_session_objectives/updated_sort_order.png)
 
-After click the green Save button, a splash screen like the following appears briefly. After it disappears the screen will revert to its original expanded appearance.
-
-![Saving ...](../../images/sort_session_objectives/splash_screen.jpg)
+After click the green Save button, a quick percentage counter will appear. The screen will rapidly settle in on the newly applied session objective sort order. 
 
 ![top of list shown after update](../../images/sort_session_objectives/after_update.png)
 

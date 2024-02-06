@@ -22,7 +22,7 @@ To do this, select the second to last Objective we want to move to the top and d
 
 After dropping the Objective, the list is re-sorted as shown below. Click `"Save"` to complete this process or `"Cancel"` to abort.
 
-![updated sort order](../../images/sort_session_objectives/sort_sess_obj_5.jpg)
+![updated sort order](../../images/sort_session_objectives/updated_sort_order.png)
 
 After click the green Save button, a splash screen like the following appears briefly. After it disappears the screen will revert to its original expanded appearance.
 

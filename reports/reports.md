@@ -1,4 +1,7 @@
-### Reports
+## Reports
+
+### Run Saved Report
+
 Reports now live in their own large area rather than the compact My Reports of yesteryear. This allows for better visibility of results as well as inclusion of data tables and legends.
 
 This shows a typical user's saved reports.
@@ -26,3 +29,7 @@ In this report example, the .csv download includes the following fields ...
 * Session Objective (one per row)
 
 You can use a spreadsheet program (Excel, Google Sheets, Numbers etc.) of your choice to set up formatting and sort order of this exported output.
+
+### Create New Report
+
+It is now possible to run an "on the fly" report. You can choose to save it for future use or use it as a one-off report, opting to download the data or not.

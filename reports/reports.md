@@ -6,7 +6,7 @@ Reports now live in their own large area rather than the compact My Reports of y
 
 This shows a typical user's saved reports.
 
-![Saved reports](../images/reports/user_saved_reports.png)
+![Saved reports](../images/reports/saved_reports_start.png)
 
 Running any of the reports here is as easy as simply clicking on the link. This is shown below.
 

@@ -14,7 +14,7 @@ Running any of the reports here is as easy as simply clicking on the link. This 
 
 After clicking as shown above, the screen will refresh with the data outputted to the screen. 
 
-![Data displayed](../images/reports/report_with_data.png)
+![Data displayed](../images/reports/report_data_displayed.png)
 
 As shown above, there is a link available to download the report's output. After clicking as shown above (on a Mac anyway), the following dialog box appears. 
 

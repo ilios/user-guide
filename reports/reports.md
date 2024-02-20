@@ -38,6 +38,10 @@ Creating a new report can be easily done using the guidelines shown below. The c
 
 ![create new report - starting point](../images/reports/create_new_report.png)
 
+After clicking as shown above, the screen appears similar to the following screen shot. This only shows the first of several drop-down options to be choosing for new reports (to be saved or not).
+
+![first drop-down choice](../images/reports/first_drop_down_choice.png)
+
 ### Ad-hoc / View Only
 
 This workflow allows the useru to view and / or download the data from a newly created report but not save it for future use. This would be for situations when the data is only needed this one time.

@@ -34,6 +34,10 @@ You can use a spreadsheet program (Excel, Google Sheets, Numbers etc.) of your c
 
 It is now possible to run an "on the fly" report. You can choose to save it for future use or use it as a one-off report, opting to download the data or not.
 
+Creating a new report can be easily done using the guidelines shown below. The choice of whether to save the report or not is made after selecting the report's output.
+
+![create new report - starting point](../images/reports/create_new_report.png)
+
 ### Ad-hoc / View Only
 
 This workflow allows the useru to view and / or download the data from a newly created report but not save it for future use. This would be for situations when the data is only needed this one time.

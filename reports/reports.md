@@ -42,6 +42,12 @@ After clicking as shown above, the screen appears similar to the following scree
 
 ![first drop-down choice](../images/reports/first_drop_down_choice.png)
 
+Choose "Sessions" as the next selection option. This will ensure to retrieve a list of sessions that meet the speicifcations being selected.
+
+![choose sessions as report option](../images/reports/sessions_chosen.png)
+
+After choosing the value "Sessions" as shown above, we are now ready to select the next reporting option.
+
 ### Ad-hoc / View Only
 
 This workflow allows the useru to view and / or download the data from a newly created report but not save it for future use. This would be for situations when the data is only needed this one time.

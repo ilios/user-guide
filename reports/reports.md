@@ -40,6 +40,24 @@ Creating a new report can be easily done using the guidelines shown below. The c
 
 After clicking as shown above, the screen appears similar to the following screen shot. This only shows the first of several drop-down options to be choosing for new reports (to be saved or not).
 
+### Top-level Reporting Options
+
+The following options are available at this top level (after choosing School) ...
+
+* Courses (currently selected as default)
+* Sessions
+* Programs
+* Program Years
+* Instructors
+* Instructor Groups
+* Learning Materials
+* Competencies
+* MeSH Terms
+* Terms
+* Session Types
+
+The information being presented below will vary depending on which of these top-level reporting objects you select. The subsequent drop-downs are content driven in the sense that they will vary based on selection here.
+
 ![first drop-down choice](../images/reports/first_drop_down_choice.png)
 
 Choose "Sessions" as the next selection option. This will ensure to retrieve a list of sessions that meet the speicifcations being selected.

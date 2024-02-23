@@ -64,7 +64,29 @@ Choose "Sessions" as the next selection option. This will ensure to retrieve a l
 
 ![choose sessions as report option](../images/reports/sessions_chosen.png)
 
-After choosing the value "Sessions" as shown above, we are now ready to select the next reporting option.
+After choosing the value "Sessions" as shown above, we are now ready to select the next reporting option. 
+
+### Second Level Options
+
+The available options for drilling down below "Session" are ...
+
+* Anything (gives all sessions for specified school)
+* Course
+* Program 
+* Instructors
+* Instructor Groups
+* Learning Material
+* Competency
+* MeSH Term
+* Session Type
+* Term
+
+We will continue on to specify the data set we'd like to review. The screen refreshes as shown below after making the selection of "Term".
+
+It is worth keeping in mind that any school can have a number of different Vocabularies set up to be chosen under "Terms". In this case, we are selecting from the Vocabulary "Topics". The value chosen in this example is "Anatomy".
+
+![choose Topics > Anatomy as report option](../images/reports/anatomy_chosen.png)
+
 
 ### Ad-hoc / View Only
 

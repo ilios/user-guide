@@ -87,7 +87,7 @@ It is worth keeping in mind that any school can have a number of different Vocab
 
 ![choose Topics > Anatomy as report option](../images/reports/anatomy_chosen.png)
 
-## New Report Options
+### Report Options
 
 As shown in the previous steps, we have decided to run a Term based report which will display all Sessions assoicated with the Topic of "Anatomy". It can now be run immediately (and downloaded) or saved to run at any point in the future. Reports that are believed to be generally useful and informative throughout time should be saved, whereas one-off ad hoc style reports can be immediately run and not saved. Below is the screen showing these two options at this juncture. 
 

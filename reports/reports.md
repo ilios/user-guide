@@ -97,6 +97,8 @@ As shown in the previous steps, it has been decided to run a Term based report w
 
 This workflow allows the useru to view and / or download the data from a newly created report but not save it for future use. This would be for situations when the data is only needed this one time.
 
+If you want to download the outputted data, the report needs to be saved and then run again in order to get the download to be available for use.
+
 ### Save Report
 
 Under the same scenario as above, a report can be saved and run at any point in the future. The steps for running this type of reports are covered at the top of this page. This is helpful when the data continues to be useful over time.

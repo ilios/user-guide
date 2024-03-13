@@ -45,3 +45,10 @@ These activity check boxes will retain their state for the current user wherever
 ## Objective Lists
 
 There are sortable lists of objectives available here on the Event Detail screen which can be expanded (default for Session objective) or contracted (default for Course objectives). Both of these can be sorted as grouped by Competencies (the initial setting) or by Priority. The ordering of these sorted by priority is set in Courses and Sessions. Competency listings are sorted ascending (A to Z) with the associated objectives listed grouped inside the Competencies.
+
+### Default View
+
+The screen shot below shows a typical example of the screen's appearance upon a user initially clicking on a calendar event and opening up Event Detail in Ilios. The expansion / contraction arrow icons can be used to show or hide these details. Also, the sort order / groupings can be switched by clicking on the icons to the right of the arrows - this applies to both session and course objectives.
+
+![default event detail view](../images/event_detail/event_detail_defaults.png)
+

@@ -16,6 +16,8 @@ After clicking as shown above, the screen will refresh with the data outputted t
 
 ![Data displayed](../images/reports/report_data_displayed.png)
 
+### Download Report Data
+
 As shown above, there is a link available to download the report's output. After clicking as shown above (on a Mac anyway), the report file (.csv) is named automatically and saved in the user's "Downloads" folder.
 
 ![Download action shown](../images/reports/report_downloaded.png)

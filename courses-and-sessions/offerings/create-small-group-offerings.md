@@ -1,5 +1,7 @@
 # Small Group Offerings
 
+These are created when it is desired to have each group (sub-groups generally) attend an offering with only other members of the same learner group scheduled to attend. 
+
 ## Create Small Group Offerings
 
 The first step in this process is to search for and select the Session to which we will be adding these small group offerings.

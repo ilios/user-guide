@@ -1,5 +1,7 @@
 # Single Offering
 
+This refers to the creation of one learning event, which can be attended by any combination of one or more learner groups or individual learners.
+
 ## Create Single Offering
 
 The same process as the creation of Small Group Offerings can be performed in reverse where a number of sub-groups can all be invited to the same event. To demonstrate, we will use the same group as in the "Small Groups" example and create one event for them all to attend. This process is shown below.

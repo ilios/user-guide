@@ -1,6 +1,6 @@
 # Small Group Offerings
 
-These are created when it is desired to have each group (sub-groups generally) attend an offering with only other members of the same learner group scheduled to attend. 
+These are created when it is desired to have each group (sub-groups generally) attend an offering with only other members of the same learner group scheduled to attend. If a parent group has, for example, 24 sub-groups (children), all 24 offerings can be created at the same time.
 
 ## Create Small Group Offerings
 

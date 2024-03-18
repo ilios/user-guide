@@ -40,12 +40,3 @@ You can sort the output however you would it sorted as well as move columns arou
 **IMPORTANT NOTE:** These Program Years are based on Matriculation Year so if the year selected is 17-18 for example, the mappings are probably not complete yet for the later years of these students' educational experience. This is because the mappings may have not been completed yet in Ilios for Courses, Sessions, and Offerings which are scheduled to take place in the future.
 
 
-
-
-
-
-
-
-
-
-

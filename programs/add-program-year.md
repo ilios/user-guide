@@ -77,7 +77,7 @@ Below is a list of Program Year Objective attributes that can be edited or chang
 * **Vocabulary Terms**: Terms can be attached to Program Year Objectives in the same manner as they are to 
 Courses and [Sessions](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#manage-terms).
 * **MeSH Terms**: Same as with Vocabulary Terms but using MeSH instead
-* **Active**: The light bulb icon indicates if an Objective is currently active and can be selected at the Course level. Clicking on the light bulb will de-activate the Objective, not destroying any legacy data but making sure it can not be selected going forward. Historical data will appear read-only.
+* **Active**: The toggle provided here indicates if an Objective is currently active and can be selected at the Course level. Clicking on the toggle will de-activate the Objective, not destroying any legacy data but making sure it can not be selected going forward. Historical data will appear read-only.
 * **Trash**: The trash can will appear active if the selected Program Year has not been used as a Parent Objective for any Course Objective.
 
 

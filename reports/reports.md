@@ -91,7 +91,7 @@ It is worth keeping in mind that any school can have a number of different Vocab
 
 ### Report Options
 
-As shown in the previous steps, it has been decided to run a Term based report which will display all Sessions assoicated with the Topic of "Anatomy". It can now be run immediately (and downloaded) or saved to run at any point in the future. Reports that are believed to be generally useful and informative throughout time should be saved, whereas one-off ad hoc style reports can be immediately run and not saved. Below is the screen showing these two options at this juncture. 
+As shown in the previous steps, it has been decided to run a Term based report which will display all Sessions assoicated with the Topic of "Anatomy". It can now be run immediately or saved to run at any point in the future. Reports that are believed to be generally useful and informative throughout time should be saved, whereas one-off ad hoc style reports can be immediately run and not saved. Below is the screen showing these two options at this juncture. 
 
 ![report options - to save ... or not](../images/reports/to_save_or_not_to_save.png)
 

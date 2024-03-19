@@ -2,19 +2,19 @@
 
 The complete set of steps to edit a Course Objective are listed below.
 
-* Select a Course
+### Select a Course
 
 ![select a course](../../images/course_objectives/course_search.png)
 
-* Expand the Course Details
+### Expand Course Details
 
 ![show more](../../images/course_objectives/course_details_show.png)
 
-* Expand the Objective List
+### View the Objective List
 
 ![click to show the list](../../images/course_objectives/course_objectives_expand.png)
 
-* To edit a Course Objective's description (title), click on the description and you can edit it from there.
+To edit a Course Objective's description (title), click on the description and you can edit it from there.
 
 ![select objective to edit](../../images/course_objectives/course_objective_edit_1.png)
 

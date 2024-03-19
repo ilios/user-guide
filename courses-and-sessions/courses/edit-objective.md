@@ -1,6 +1,6 @@
-# Edit Objective
+## Edit Objective
 
-The complete set of steps to edit a Course Objective are listed below.
+The text value (description) of a Course Objective can be easily edited inline style here on the Course page. Also relationships to parent objectives, vocabulary terms, and MeSH terms can easily be maintained here as well. To do this ...
 
 ### Select a Course
 
@@ -18,7 +18,7 @@ To edit a Course Objective's description (title), click on the description and y
 
 ![select objective to edit](../../images/course_objectives/course_objective_edit_1.png)
 
-## Edit Description
+### Edit Description
 
 This is done in an inline editing style so you don't have to leave the page or lose the continuity of your work. This type of functionality is used in Ilios as much as possible for a more seamless interface experience.
 

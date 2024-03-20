@@ -1,14 +1,16 @@
 The text value (description) of a Course Objective can be easily edited inline style here on the Course page. Also relationships to parent objectives, vocabulary terms, and MeSH terms can easily be maintained here as well. To do this ...
 
-### Select a Course
+# Edit Objective - Steps
+
+## Select a Course
 
 ![select a course](../../images/course_objectives/course_search.png)
 
-### Expand Course Details
+## Expand Course Details
 
 ![show more](../../images/course_objectives/course_details_show.png)
 
-### View the Objective List
+## View the Objective List
 
 ![click to show the list](../../images/course_objectives/course_objectives_expand.png)
 
@@ -16,7 +18,7 @@ To edit a Course Objective's description (title), click on the description and y
 
 ![select objective to edit](../../images/course_objectives/course_objective_edit_1.png)
 
-### Edit Description
+## Edit Description
 
 This is done in an inline editing style so you don't have to leave the page or lose the continuity of your work. This type of functionality is used in Ilios as much as possible for a more seamless interface experience.
 
@@ -24,13 +26,15 @@ This is done in an inline editing style so you don't have to leave the page or l
 
 * To maintain MeSH Term\(s\) and / or Vocabulary Terms associated with the Course Objective, follow the actions outlined in the screen shot series and steps detailed in the two upcoming sections below.
 
-## Attach MeSH Term(s)
+# Attach MeSH Term(s)
 
 Once the Objectives link has been opened, the full list of Objectives associated with this Course is displayed. Click "Add New" to add one or more MeSH Terms to the Course Objective listed in the Description field.
 
 ![add MeSH](../../images/course_objectives/add_mesh1.png)
 
  After "Add New" has been clicked (as shown above), enter search criteria for MeSH and choose from the result set.
+
+ ## Search for MeSH
 
 ![click to select](../../images/course_objectives/add_mesh2.png)
 
@@ -42,13 +46,13 @@ Once the Save action is completed, the screen refreshes to show the MeSH Term no
 
 ![MeSH now attached to Course Objective](../../images/course_objectives/add_mesh4.png)
 
-## Add Vocabulary Terms 
+# Add Vocabulary Term(s) 
 
 This process is similar to the one detailed above attaching MeSH Terms to Course Objectives. Using the same Course Objective as in the previous section, this process is started as shown below.
 
 ![Click "Add New" to start the process](../../images/course_objectives/addvocab1.png)
 
-### Select Vocabulary
+## Select Vocabulary
 
 For this example, we would like to choose from the Vocabulary set "Topics". 
 
@@ -70,7 +74,7 @@ The screen adjusts to reflect this recent action. The newly added Term can be re
 
 After confirming the addition of the Term selected, both the MeSH Term added in the previous section and the Vocabulary Term recently added appear as shown below.
 
-### Review Recent Updates
+## Review Recent Updates
 
 ![course objective list updated](../../images/course_objectives/addvocab6.png)
 

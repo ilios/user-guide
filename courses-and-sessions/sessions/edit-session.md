@@ -107,7 +107,7 @@ Once confirmed in the step shown above, the Manage MeSH functional area closes (
 
 ![More MeSH maintenance](../../images/session_edit/add_mesh_to_session_4.jpg)
 
-### Manage Terms
+### Manage Term(s)
 
 Terms are selected a school-specific, pre-defined list of one or more Vocabularies. These can be attached at the Course level and / or at the Session level.
 
@@ -115,7 +115,7 @@ The first step is to pull up a Session to modify. That is covered elsewhere. Ter
 
 In the case below, two terms have already been selected for the Session.
 
-![expand Terms](../../images/session_edit/session_terms_1.jpg)
+![expand session term list](../../images/session_edit/expand_session_terms_list.png)
 
 Once expanded, click the `Manage Terms` button as shown below.
 

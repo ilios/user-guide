@@ -15,11 +15,11 @@ Once that has been done, it is necessary to find the session to modify as shown 
 * [Manage Session Attributes](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#special-session-attributes)
 * [Inline Editing](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#inline-editing)
 
-### Find Session
+## Find Session
 
 There are two easy and effective ways to find a session -- either by filtering or by sorting or a combination of both.
 
-#### Filtering
+### Filtering
 
 The screen shot below shows the screen before any search criteria has been entered. The following three fields can be searched:
 
@@ -33,7 +33,7 @@ It is even possible to use a combination search if you prefer.  This is shown be
 
 ![Search string entered](../../images/session_edit/find_session_string.png)
 
-#### Sorting
+### Sorting
 
 The Session output grid can be sorted by any of the column headers that have arrow or A-Z indicators. These include ...
 
@@ -47,7 +47,7 @@ Only one sort can be applied at any time.
 
 **Important Note:** The sorts **DO** retain their state when the user is returned to the list after reviewing a Session.
 
-### Session Description
+## Session Description
 
 Adding or editing a session's description is accomplished easily as shown below. Initially, a session will have "Click to Edit" link if nothing has been entered yet. After a session description exists, the text itself is clickable and the description can then be edited.
 
@@ -65,7 +65,7 @@ After saving in the scenario above, the screen changes to something similar to t
 
 The Description will get truncated in this view. Clicking on the ellipses or the information symbol will change the screen to display the rest of the session description if it is truncated due to being too lengthy. This will look the same as it looked earlier when editing the description.
 
-### Add URL
+## Add URL
 
 This applies to any text box in Ilios; but `Description` and `Instructional Notes` are both good examples of this. To add a URL to a Session `Description`, follow the steps shown below.
 
@@ -83,17 +83,17 @@ After being saved, the link appears as shown below in "display" (post-save) mode
 
 ![In "display" mode](../../images/session_edit/in_display_mode.png)
 
-### Instructional Notes
+## Instructional Notes
 
 The process for editing and entering Instructional Notes is basically identical to the process detailed above for session description. 
 
 **NOTE**: Session-level instructional notes do **not** appear on Event Detail or anywhere in the Calendar or feed. They are used internally and are accessible only through Courses and Sessions. These are notes that can be left by Course Administrators for instructors or other Administrative users to review.
 
-### Add MeSH
+## Add MeSH
 
 To add a MeSH Term to a Session, follow the steps below. The steps for adding MeSH are the same wherever MeSH (Medical Subject Headers) can be attached - Sessions, Courses, Learning Materials, and Objectives.
 
-![Click Manage MeSH to start](../../images/session_edit/add_mesh_to_session_1.jpg)
+![Click Manage MeSH to start](../../images/session_edit/click_to_manage_mesh.png.png)
 
 In the case of searching for MeSH, it is necessary to hit the Enter key on the keyboard to run the search. This is because there is a large data set of MeSH terms so it is necessary to run a special query in this manner.
 
@@ -107,7 +107,7 @@ Once confirmed in the step shown above, the Manage MeSH functional area closes (
 
 ![More MeSH maintenance](../../images/session_edit/add_mesh_to_session_4.jpg)
 
-### Manage Term(s)
+## Manage Term(s)
 
 Terms are selected a school-specific, pre-defined list of one or more Vocabularies. These can be attached at the Course level and / or at the Session level.
 
@@ -123,7 +123,7 @@ Once expanded, click the `Manage Terms` button as shown below.
 
 ![Details](../../images/session_edit/mngterms_rw_1.png)
 
-#### Add Session Term
+### Add Session Term
 
 It has been decided we need to add the Vocabulary Term "Renal System" to this Session. The session needs to be tagged with this term. "Renal System" is in the Vocabulary of "Topics". In the screen shot below, "Topics" has been chosen as the Vocabulary in which to search or select. The list has been filtered down by entering "ren" as search criteria to make it easier to find "Renal System".
 
@@ -137,7 +137,7 @@ After confirming the addition of the Term "Renal System" to the Session, it appe
 
 ![Confirm this action](../../images/session_edit/mngterms_rw_4.png)
 
-#### Special Session Attributes
+## Special Session Attributes
 
 It is possible to select additional session attributes to advise students about certain aspects of the upcoming (or past) learning activities.
 
@@ -149,7 +149,7 @@ For this example, all three will be selected for this session. An image that sho
 
 ![all toggled to "Yes"](../../images/session_edit/specsessattrib2.png)
 
-### Inline Editing
+## Inline Editing
 
 This refers to the ability to be able to edit sessions directly from the Session List. It is detailed below.
 

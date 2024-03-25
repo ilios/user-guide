@@ -47,7 +47,7 @@ Only one sort can be applied at any time.
 
 **Important Note:** The sorts **DO** retain their state when the user is returned to the list after reviewing a Session.
 
-### Session Description
+## Session Description
 
 Adding or editing a session's description is accomplished easily as shown below. Initially, a session will have "Click to Edit" link if nothing has been entered yet. After a session description exists, the text itself is clickable and the description can then be edited.
 
@@ -65,7 +65,7 @@ After saving in the scenario above, the screen changes to something similar to t
 
 The Description will get truncated in this view. Clicking on the ellipses or the information symbol will change the screen to display the rest of the session description if it is truncated due to being too lengthy. This will look the same as it looked earlier when editing the description.
 
-### Add URL
+## Add URL
 
 This applies to any text box in Ilios; but `Description` and `Instructional Notes` are both good examples of this. To add a URL to a Session `Description`, follow the steps shown below.
 
@@ -83,13 +83,13 @@ After being saved, the link appears as shown below in "display" (post-save) mode
 
 ![In "display" mode](../../images/session_edit/in_display_mode.png)
 
-### Instructional Notes
+## Instructional Notes
 
 The process for editing and entering Instructional Notes is basically identical to the process detailed above for session description. 
 
 **NOTE**: Session-level instructional notes do **not** appear on Event Detail or anywhere in the Calendar or feed. They are used internally and are accessible only through Courses and Sessions. These are notes that can be left by Course Administrators for instructors or other Administrative users to review.
 
-### Add MeSH
+## Add MeSH
 
 To add a MeSH Term to a Session, follow the steps below. The steps for adding MeSH are the same wherever MeSH (Medical Subject Headers) can be attached - Sessions, Courses, Learning Materials, and Objectives.
 
@@ -137,7 +137,7 @@ After confirming the addition of the Term "Renal System" to the Session, it appe
 
 ![Confirm this action](../../images/session_edit/mngterms_rw_4.png)
 
-### Special Session Attributes
+## Special Session Attributes
 
 It is possible to select additional session attributes to advise students about certain aspects of the upcoming (or past) learning activities.
 
@@ -149,7 +149,7 @@ For this example, all three will be selected for this session. An image that sho
 
 ![all toggled to "Yes"](../../images/session_edit/specsessattrib2.png)
 
-### Inline Editing
+## Inline Editing
 
 This refers to the ability to be able to edit sessions directly from the Session List. It is detailed below.
 

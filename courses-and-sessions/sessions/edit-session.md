@@ -99,9 +99,9 @@ In the case of searching for MeSH, it is necessary to hit the Enter key on the k
 
 In the example below, a search was performed for 'helmet'. The results of this query are listed. `Head Protective Devices` is selected.
 
-![Select MeSH](../../images/session_edit/select_MeSH_to_add_to_sess.png)
+![Select MeSH to add to session](../../images/session_edit/select_MeSH_to_add_to_sess.png)
 
-![MeSH added](../../images/session_edit/add_mesh_to_session_3.jpg)
+![MeSH added to session](../../images/session_edit/MeSH_added_to_session.png)
 
 Once confirmed in the step shown above, the Manage MeSH functional area closes (collapses) back up. If you need to make further additions or removals from Session MeSH terms, click Manage MeSH and repeat these steps. To remove a MeSH Terms, simply click on it to remove it and then confirm the delete action by saving the data.
 

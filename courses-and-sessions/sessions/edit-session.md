@@ -93,13 +93,13 @@ The process for editing and entering Instructional Notes is basically identical 
 
 To add a MeSH Term to a Session, follow the steps below. The steps for adding MeSH are the same wherever MeSH (Medical Subject Headers) can be attached - Sessions, Courses, Learning Materials, and Objectives.
 
-![Click Manage MeSH to start](../../images/session_edit/click_to_manage_mesh.png.png)
+![Click Manage MeSH to start](../../images/session_edit/click_to_manage_mesh.png)
 
 In the case of searching for MeSH, it is necessary to hit the Enter key on the keyboard to run the search. This is because there is a large data set of MeSH terms so it is necessary to run a special query in this manner.
 
 In the example below, a search was performed for 'helmet'. The results of this query are listed. `Head Protective Devices` is selected.
 
-![Select MeSH](../../images/session_edit/add_mesh_to_session_2.jpg)
+![Select MeSH](../../images/session_edit/select_MeSH_to_add_to_sess.png)
 
 ![MeSH added](../../images/session_edit/add_mesh_to_session_3.jpg)
 

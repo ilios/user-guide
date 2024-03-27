@@ -119,7 +119,7 @@ In the case below, two terms have already been selected for the Session.
 
 Once expanded, click the `Manage Terms` button as shown below.
 
-![Manage Terms](../../images/session_edit/session_terms_2.jpg)
+![manage terms](../../images/session_edit/click_to_add_or_remove_terms.png)
 
 ![Details](../../images/session_edit/mngterms_rw_1.png)
 

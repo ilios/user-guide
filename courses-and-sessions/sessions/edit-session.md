@@ -131,7 +131,7 @@ It has been decided we need to add the Vocabulary Term "Renal System" to this Se
 
 The selection list has been filtered down by entering "ren" as search criteria to make it easier to find "Renal System". The term can be added to the session as shown below.
 
-![click to save](../../images/session_edit/add_term_to_session.png)
+![add term to session](../../images/session_edit/add_term_to_session.png)
 
 After clicking as shown above ...
 

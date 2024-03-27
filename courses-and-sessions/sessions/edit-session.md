@@ -121,7 +121,7 @@ Once expanded, click the `Manage Terms` button as shown below.
 
 ![manage terms](../../images/session_edit/click_to_add_or_remove_terms.png)
 
-![Details](../../images/session_edit/mngterms_rw_1.png)
+![details](../../images/session_edit/manage_sess_terms_review.png)
 
 ### Add Session Term
 

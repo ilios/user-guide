@@ -125,7 +125,11 @@ Once expanded, click the `Manage Terms` button as shown below.
 
 ### Add Session Term
 
-It has been decided we need to add the Vocabulary Term "Renal System" to this Session. The session needs to be tagged with this term. "Renal System" is in the Vocabulary of "Topics". In the screen shot below, "Topics" has been chosen as the Vocabulary in which to search or select. The list has been filtered down by entering "ren" as search criteria to make it easier to find "Renal System".
+It has been decided we need to add the Vocabulary Term "Renal System" to this Session. The session needs to be tagged with this term. "Renal System" is in the Vocabulary of "Topics". In the screen shot below, "Topics" is being selected as the Vocabulary to use for Term selection. 
+
+![select vocabulary - topics](../../images/session_edit/select_vocabulary_topics.png)
+
+Second image: The list has been filtered down by entering "ren" as search criteria to make it easier to find "Renal System".
 
 ![Add to Session](../../images/session_edit/mngterms_rw_2.png)
 

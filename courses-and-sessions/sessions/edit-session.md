@@ -105,7 +105,7 @@ In the example below, a search was performed for 'helmet'. The results of this q
 
 Once confirmed in the step shown above, the Manage MeSH functional area closes (collapses) back up. If you need to make further additions or removals from Session MeSH terms, click Manage MeSH and repeat these steps. To remove a MeSH Terms, simply click on it to remove it and then confirm the delete action by saving the data.
 
-![More MeSH maintenance](../../images/session_edit/add_mesh_to_session_4.jpg)
+![More MeSH maintenance](../../images/session_edit/click_for_more_maintenance.png)
 
 ## Manage Term(s)
 

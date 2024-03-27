@@ -129,13 +129,13 @@ It has been decided we need to add the Vocabulary Term "Renal System" to this Se
 
 ![select vocabulary - topics](../../images/session_edit/select_vocabulary_topics.png)
 
-Second image: The list has been filtered down by entering "ren" as search criteria to make it easier to find "Renal System".
+The selection list has been filtered down by entering "ren" as search criteria to make it easier to find "Renal System". The term can be added to the session as shown below.
 
-![Add to Session](../../images/session_edit/mngterms_rw_2.png)
+![click to save](../../images/session_edit/add_term_to_session.png)
 
 After clicking as shown above ...
 
-![Added to Session](../../images/session_edit/mngterms_rw_3.png)
+![term added to session](../../images/session_edit/term_added_to_session.png)
 
 After confirming the addition of the Term "Renal System" to the Session, it appears in saved mode as shown below.
 

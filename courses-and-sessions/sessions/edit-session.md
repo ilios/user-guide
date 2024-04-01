@@ -139,7 +139,7 @@ After clicking as shown above ...
 
 After confirming the addition of the Term "Renal System" to the Session, it appears in saved mode as shown below.
 
-![Confirm this action](../../images/session_edit/mngterms_rw_4.png)
+![new session term added](../../images/session_edit/new_session_term_added.png)
 
 ## Special Session Attributes
 

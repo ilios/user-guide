@@ -25,12 +25,12 @@ These personal progress check boxes are included to help students determine whic
 
 ### Check Box States
 
-Not Started (default)
+Not Started (default) 
 
   <figure>
     <img src="../images/week_at_a_glance/activity_not_started.png" alt="Not Started">
       <figcaption>
-      <p>Not Started</p>
+      <p>not started yet</p>
       </figcaption>
   </figure>
 
@@ -39,7 +39,7 @@ In Progress (first click)
   <figure>
     <img src="../images/week_at_a_glance/activity_in_progress.png" alt="In Progress">
       <figcaption>
-      <p>Working on it</p>
+      <p>working on it</p>
       </figcaption>
   </figure>
 
@@ -48,7 +48,7 @@ Completed (second click)
   <figure>
     <img src="../images/week_at_a_glance/activity_completed.png" alt="Done">
       <figcaption>
-      <p>Complete</p>
+      <p>done</p>
       </figcaption>
   </figure>
 

@@ -42,12 +42,12 @@ Once the Course has been selected as shown above, the following Course-level att
 
 These are the lower level details of a Course that are displayed and can be modified once the "Show Details" tab button has been clicked. These are those items ...
 
-* [Course Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership) - add/remove Course Directors, Course Administrators, and Student Advisors
-* Course Objectives (and associated Parent Objectives, Vocabulary Terms, and MeSH Terms)
-* Course Learning Materials
+* [Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership) - add/remove Course Directors, Course Administrators, and Student Advisors
+* Objectives (and associated Parent Objectives, Vocabulary Terms, and MeSH Terms)
+* Learning Materials
 * [Competencies](https://iliosproject.gitbook.io/ilios-user-guide/schools/competencies) - set at School level
 * Terms - selected from one or more Vocabularies, which are configured at the School level
-* Course MeSH Terms
+* MeSH Terms
 * [Program Cohorts](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-course#program-cohorts)
 
 ### Course Objectives

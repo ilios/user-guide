@@ -19,38 +19,38 @@ ILM's that have been linked to an upcoming session are included as shown below i
 
 In situations where linked ILM's are assigned, the user can navigate to either the ILM that needs to be completed before the scheduled Offering or to the Event Detail screen of the Offering itself. Standard ILM's which have a Due Date will show up on the Week At A Glance displaying the associated Due Date. The ILM's are ordered with the rest of the student's Offerings in ascending chronological date and time order.
 
-### **Progress-Tracking Check Boxes**
+### Progress-Tracking Check Boxes
 
 These personal progress check boxes are included to help students determine which Learning Material activities they have already addressed. These are persistent and will retain the value (state) selected by the student any time Ilios is accessed. This is private and not shared or accessed by anyone but the learner themselves. Items which are part of linked ILM modules will display with a slightly lighter grey appearance. These require a further click-thru to the module itself for update.
 
-### **Check Box States**
+### Check Box States
 
-1.  Not Started (default)
+Not Started (default)
 
-    <figure>
+  <figure>
     <img src="../images/week_at_a_glance/activity_not_started.png" alt="Not Started">
       <figcaption>
       <p>Not Started</p>
       </figcaption>
-    </figure>
+  </figure>
 
-2.  In Progress (first click)
+In Progress (first click)
 
-    <figure>
+  <figure>
     <img src="../images/week_at_a_glance/activity_in_progress.png" alt="In Progress">
       <figcaption>
       <p>Working on it</p>
       </figcaption>
-    </figure>
+  </figure>
 
-3.  Completed (second click)
+Completed (second click)
 
-    <figure>
+  <figure>
     <img src="../images/week_at_a_glance/activity_completed.png" alt="Done">
       <figcaption>
       <p>Complete</p>
       </figcaption>
-    </figure>
+  </figure>
 
 ### Week at a Glance - Displayed
 

@@ -1,14 +1,14 @@
-## Start the Process
-
 Courses are unique to the academic year in which they are taught and the school within which they are created. To create a new course, click the **Add New** button, and provide a course name and select the appropriate year of instruction.
 
 The process of adding a new course to Ilios gets initiated from the Course list, which is the initial screen displayed after clicking `Courses and Sessions` from the Ilios flyout menu. This is shown below. 
+
+## Start the Process
 
 ![click to start process](../../images/course_images/add_new_course_start.png)
 
 **NOTE:** Just because "2023" is currently selected from the year drop-down does not mean the new course needs to be in the academic year "2023". This can be selected during the course creation process. 
 
-## Create New Course
+## Add New Course
 
 ![adding new course](../../images/course_images/add_new_course.png)
 

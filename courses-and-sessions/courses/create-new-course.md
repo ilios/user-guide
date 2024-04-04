@@ -2,7 +2,7 @@
 
 Courses are unique to the academic year in which they are taught and the school within which they are created. To create a new course, click the **Add New** button, and provide a course name and select the appropriate year of instruction.
 
-The process of adding a new course to Ilios gets initiated from the Courses list, which is the initial screen displayed after clicking `Courses and Sessions` from the Ilios flyout menu. This is shown below. 
+The process of adding a new course to Ilios gets initiated from the Course list, which is the initial screen displayed after clicking `Courses and Sessions` from the Ilios flyout menu. This is shown below. 
 
 ![click to start process](../../images/course_images/add_new_course_start.png)
 

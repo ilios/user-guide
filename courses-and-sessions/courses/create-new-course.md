@@ -1,10 +1,8 @@
-# New Course
-
-## Create New Course
+## New Course
 
 Courses are unique to the academic year in which they are taught and the school within which they are created. To create a new course, click the **Add New** button, and provide a course name and select the appropriate year of instruction.
 
-### Add New Course
+### Create New Course
 
 ![add new course](../../images/course_images/add_new_course.png)
 

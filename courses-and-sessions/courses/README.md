@@ -27,7 +27,6 @@ This refers to the other attributes of the course that can be maintained only af
 ### Session List
   - - **Sessions** a full list of all sessions in the course - many edits to sessions can be performed directly from here at the course level (in-line editing).
 
-
 ## Course Attributes
 
 * **Course Name:** Long title of the course, entered on course creation. 200 character max.

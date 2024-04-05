@@ -25,7 +25,7 @@ This refers to the other attributes of the course that can be maintained only af
   - - **MeSH:** maintain MeSH (Medical Subject Header) terms associated with this course at the course level 
   - - **Program Cohorts:** maintain / manage cohort(s) attached to this course 
 ### Session List
-  - - **Sessions** a full list of all sessions in the course - many edits to sessions can be performed directly from here at the course level (in-line editing).
+  - - **Sessions:** a full list of all sessions in the course - many edits to sessions can be performed directly from here at the course level (in-line editing).
 
 ## Course Attributes
 

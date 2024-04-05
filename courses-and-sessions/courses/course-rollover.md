@@ -1,12 +1,10 @@
-# Course Rollover
-
 Courses can be "rolled over" into a different (future) academic year or they can be rolled over into the current academic year. This could be if a Course is offered in the Fall and then again in the Spring, for example. They can also be rolled over into the previous academic year (one year back only).
 
 A Course that can be rolled over in Ilios will have the Course Rollover icon displayed. There is no need to activate or configure anything to perform Course rollovers. If you have proper permissions, and a Course is eligible for rollover (basically, it has sessions and offerings), the rollover button will be enabled and available for your use.
 
-A course will carry along with it all the basic course data: sessions and their objectives and attributes, including links to course objectives, the course definition and its attributes, all learning materials, assigned topics and MeSH terms, etc. A user has the option of replicating all the scheduled offerings from the original course, and placing them on the calendar for the new course. This is the default option; you may also choose to create the new course without scheduled offerings, retaining only the course and session curricular data. You also have the option of assigning a Cohort to the new Course. Course Rollover now includes the assignment of a new cohort, and along with it the inclusion of all links to objectives and competencies. There is no more need to re-link your Program Year objectives.
+A course will carry along with it all the basic course data: sessions and their objectives and attributes, including links to course objectives, the course definition and its attributes, all learning materials, assigned vocaulbary terms and MeSH terms, etc. A user has the option of replicating all the scheduled offerings from the original course, and placing them on the calendar for the new course. This is the default option; you may also choose to create the new course without scheduled offerings, retaining only the course and session curricular data. Course Rollover includes the option of the assignment of a new cohort, and along with it the inclusion of all links to program year objectives and competencies. 
 
-An example of a Course that can be rolled over is shown below.
+An example of a Course that can be rolled over is shown below. Course rollover functionality is contained within the Course Overview area.
 
 # Rollover Options
 

@@ -5,26 +5,27 @@ A Course is a Curricular object that defines the content and structure of a spec
 There are three main areas corresponding to Courses in Ilios.
 ## Sections
 
-- **Overview:** This refers to the upper area of the screen which is always visible. It provides the main details of the Course including ...
-  - link back to Course list 
-  - Title: can be edited here 
-  - Course ID (external ID) - short title basically 
-  - Clerkship Type - can be edited / specified here 
-  - Start: start date of course 
-  - End: end date of course
-  - Level: can be edited here
-  - Universal Locator: read-only descriptor field containing database ID
-- **Detail:** This refers to the other attributes of the course that can be maintained only after "Show Details" has been clicked ...
-  - Leadership: maintain course directors, administrators, and student advisors 
-  - Objectives: maintain objectives and their relationship to parent (program year) objectives, vocabulary terms, and MeSH terms
-  - Learning Materials: upload and / or link learning materials at the course level
-  - Competencies: read-only display of competencies that are linked to the associated program year objectives 
-  - Terms: maintain vocabulary terms associated with this course at the course level 
-  - MeSH: maintain MeSH (Medical Subject Header) terms associated with this course at the course level 
-  - Program Cohorts: maintain / manage cohort(s) attached to this course 
-- **Session List:** 
-  - a full list of all sessions in the course - many edits to sessions can be performed directly from here at the course level (in-line editing).
-
+### Overview
+This refers to the upper area of the screen which is always visible. It provides the main details of the Course including ...
+  - - **Back to Courses list:** link back to list of Courses 
+  - - **Title:** can be edited here 
+  - - **Course ID:** (external ID) - short title can be edited here
+  - - **Clerkship Type:** can be edited / specified here 
+  - - **Start:** start date for this course 
+  - - **End:** end date for this course
+  - - **Level:** course level - can be edited here
+  - - **Universal Locator:** read-only descriptor field containing database ID
+### Detail 
+This refers to the other attributes of the course that can be maintained only after "Show Details" has been clicked ...
+  - - **Leadership:** maintain course directors, administrators, and student advisors 
+  - - **Objectives:** maintain / manage objectives and their relationships to parent (program year) objectives, vocabulary terms, and MeSH terms
+  - - **Learning Materials:** upload and / or link learning materials at the course level
+  - - **Competencies:** read-only display of competencies that are linked to the associated program year objectives 
+  - - **Terms:** maintain vocabulary terms associated with this course at the course level 
+  - - **MeSH:** maintain MeSH (Medical Subject Header) terms associated with this course at the course level 
+  - - **Program Cohorts:** maintain / manage cohort(s) attached to this course 
+### Session List
+  - - **Sessions** a full list of all sessions in the course - many edits to sessions can be performed directly from here at the course level (in-line editing).
 
 ## Course Attributes
 

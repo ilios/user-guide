@@ -6,10 +6,23 @@ There are three main functional areas related to the maintenance and creation of
 
 ## Functional Areas
 
-### Overview
-This refers to the upper area of the screen which is always visible. It provides the main details of the Course including ...
+### Heading 
+
+This area appears at the top of the Course page. It includes everything listed below. 
+
   - - **Back to Courses list:** link back to list of Courses 
   - - **Title:** can be edited here 
+  - - **Publication Status:** This is a drop-down menu containing the options for publishing a course - listed below.
+    - - **Not Published:** initial status at course creation time - can be returned to this later by using **UnPublish**
+    - - **Publish** or **Publish As-Is:** publishes course 
+    - - **Review Missing Items:** takes user to area to review desired or required items for course publication
+    - - **Mark as Scheduled:** sets course to `Scheduled` status
+    - - **UnPublish:** only available if course has been published - reverts course to `Not Published` status 
+
+### Overview
+
+This refers to the upper area of the screen which is always visible. It provides the main details of the Course including everything listed below.
+
   - - **Course ID:** (external ID) - short title can be edited here
   - - **Clerkship Type:** can be edited / specified here 
   - - **Start:** start date for this course 

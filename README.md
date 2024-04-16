@@ -14,7 +14,7 @@ For an introduction to Ilios and to sign up for newsletters and announcements, c
 
 ![sign up for updates](images/introduction/subscription_options.png)
 
-## <mark style="color:blue;">User Guide Search</mark>
+## User Guide Search
 
 To perform a quick search to find any Ilios topic you may be hoping to find, the search box in the upper right portion of the screen can be used for this. Before entering criteria, it appears as shown below. The search process used in searching the User Guide is similar to the [Global Search](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search) functionality in Ilios. The starting point is shown below.
 
@@ -32,7 +32,7 @@ Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org)
 
 The user guide is configured to have high level chapters based on the flyout menu items in the application, to be followed by a quick guide explaining how to perform common tasks in Ilios.
 
-## <mark style="color:blue;">Navigation - On This Page</mark>
+## <mark style="color:green;">Navigation - On This Page</mark>
 
 All pages within the guide that have bookmarks added by the author will have clickable links in an area on the right side of the screen called "ON THIS PAGE". An example of this is shown below.
 

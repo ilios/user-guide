@@ -10,7 +10,7 @@ There are four main functional areas related to the maintenance and creation of 
 
 This area appears at the top of the Course page. It includes everything listed below. 
 
-  - ** * Back to Courses list:** link back to list of Courses 
+  - **Back to Courses list:** link back to list of Courses 
   - **Title:** can be edited here - refers to full title (name) of the course, entered on course creation - 200 character maximum
   - **Publication Status:** This is a drop-down menu containing the options for publishing a course - listed below.
     - **Not Published:** initial status at course creation time - can be returned to this later by using **UnPublish**

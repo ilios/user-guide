@@ -23,12 +23,13 @@ This area appears at the top of the Course page. It includes everything listed b
 
 This refers to the upper area of the screen which is always visible. It provides the main details of the Course including everything listed below.
 
-  - - **Course ID:** (external ID) - short title can be edited here
-  - - **Clerkship Type:** can be edited / specified here 
-  - - **Start:** start date for this course 
-  - - **End:** end date for this course
-  - - **Level:** course level - can be edited here
-  - - **Universal Locator:** read-only descriptor field containing database ID
+  - **Course ID:** (external ID) - short title can be edited here
+  - **Clerkship Type:** can be edited / specified here 
+  - **Start:** start date for this course 
+  - **End:** end date for this course
+  - **Level:** course level - can be edited here
+  - **Universal Locator:** read-only descriptor field containing database ID
+
 ### Detail 
 This refers to the other attributes of the course that can be maintained only after "Show Details" has been clicked ...
   - - **Leadership:** maintain course directors, administrators, and student advisors 
@@ -43,7 +44,7 @@ This refers to the other attributes of the course that can be maintained only af
 
 ## Course Attributes
 
-* **Course Name:** Long title of the course, entered on course creation. 200 character max.
+* **Course Name:** Long title of the course, entered on course creation. 200 character max - screen location: [Heading](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#heading).
 * **Course ID:** Field allowing any internal or external ID up to 18 characters to be entered.
 * **Course Year:** Academic year during which instruction will take place. This is set at the creation of the Course. This field cannot be modified using the interface once it is saved.
 * **Course Level:** The options for this are set at the [Program](https://iliosproject.gitbook.io/ilios-user-guide/programs#program-attributes) Level. The program duration can be anywhere between 1 and 10. The Course level identifies what point in the curriculum trajectory the course is meant to be addressed by learners, but is not a constraint.

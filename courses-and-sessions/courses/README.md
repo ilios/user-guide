@@ -45,7 +45,7 @@ This refers to the other attributes of the course that can be maintained only af
 ## Course Attributes
 
 * **Course Name:** Long title of the course, entered on course creation - 200 character maximum ([Heading](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#heading)).
-* **Course ID:** Field allowing any internal or external ID up to 255 characters maximum ([Heading](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#heading)).
+* **Course ID:** Field allowing any internal or external ID up to 255 characters maximum ([Overview](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#overview)).
 * **Course Year:** Academic year during which instruction will take place. This is set at the creation of the Course. This field cannot be modified using the interface once it is saved.
 * **Course Level:** The options for this are set at the [Program](https://iliosproject.gitbook.io/ilios-user-guide/programs#program-attributes) Level. The program duration can be anywhere between 1 and 10. The Course level identifies what point in the curriculum trajectory the course is meant to be addressed by learners, but is not a constraint.
 * **Clerkship Type:** A course may be identified explicitly as a clerkship using this attribute. The available selections are Block clerkship, Integrated clerkship, or Longitudinal clerkship. These may be modified as necessary in the `"course_clerkship_type"` table. The default value for all courses on creation is “not a clerkship”.

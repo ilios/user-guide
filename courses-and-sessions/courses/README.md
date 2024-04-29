@@ -31,7 +31,8 @@ This refers to the upper area of the screen which is always visible. It provides
   - **Universal Locator:** read-only descriptor field containing database ID
 
 ### Detail 
-This refers to the other attributes of the course that can be maintained only after "Show Details" has been clicked ...
+This refers to the other listed attributes of the course that can be maintained only after "Show Details" has been clicked.
+
   - - **Leadership:** maintain course directors, administrators, and student advisors 
   - - **Objectives:** maintain / manage objectives and their relationships to parent (program year) objectives, vocabulary terms, and MeSH terms
   - - **Learning Materials:** upload and / or link learning materials at the course level

@@ -61,7 +61,7 @@ This refers to the other course attributes listed below that can be maintained o
 * **Leadership:** Selected from list of available names. The list is populated with users identified and tagged as having any of these three roles assigned in Ilios: “Director”, "Administrator", or "Stufdent Adviser". All three of these can be reviewed and maintained here ([Details](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#details)).
 * **Terms:** Selected from a school-specific, pre-defined list. These are grouped by Vocabularies, which are collections of Terms (school-specific categories of learning) that can be selected and attached (tagged) to many curricular objects within Ilios ([Details](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#details)).
 * **MeSH Terms:** Selected by searching the [MeSH](https://iliosproject.gitbook.io/ilios-user-guide/glossary#mesh) database ([Details](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#details)).
-* **Learning Materials:** Course level learning materials are available to all Sessions of a Course, and are entered using the Learning Materials search/upload tools.
+* **Learning Materials:** Course level learning materials are available to all Sessions of a Course, and are entered using the Learning Materials search/upload tools ([Details](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#details)).
 
 ## Screen Elements
 

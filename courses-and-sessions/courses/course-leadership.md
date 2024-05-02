@@ -16,9 +16,9 @@ Clicking on Course Leadership opens up the details for this Course and allows mo
 
 ![click to manage](../../images/course_leadership/crs_ldrshp2.png)
 
-To remove Course Directors, Administrators, or Student Advisors, simply click the red "X" to remove the users from the list and then save using the green Save button in the upper right corner (or Cancel).
-
 # Remove Leadership
+
+To remove Course Directors, Administrators, or Student Advisors, simply click the red "X" to remove the users from the list and then save using the green Save button in the upper right corner (or Cancel).
 
 ![click to remove](../../images/course_leadership/crs_ldrshp3.png)
 

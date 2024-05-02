@@ -19,7 +19,7 @@
   * [Courses](courses-and-sessions/courses/README.md)
     * [Create New Course](courses-and-sessions/courses/create-new-course.md)
     * [Edit Course](courses-and-sessions/courses/edit-course.md)
-    * [Course Leadership](courses-and-sessions/courses/course-leadership.md)
+    * [Leadership](courses-and-sessions/courses/course-leadership.md)
     * [Add Objective](courses-and-sessions/courses/add-objective.md)
     * [Edit Objective](courses-and-sessions/courses/edit-objective.md)
     * [Attach Parent Objective](courses-and-sessions/courses/add-parent-objective.md)

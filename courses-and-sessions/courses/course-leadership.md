@@ -12,7 +12,7 @@ Refer to the [permissions matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilio
 
 Clicking on Course Leadership opens up the details for this Course and allows modification of this leadership. As shown below, click **Manage Leadership** to add or remove Course Leadership - Directors, Administrators, and / or Student Advisors.
 
-# Manage Course Leadership
+# Click to Manage
 
 ![click to manage](../../images/course_leadership/crs_ldrshp2.png)
 

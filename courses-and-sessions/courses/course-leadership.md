@@ -1,8 +1,6 @@
-# Course Leadership
+## Leadership
 
-## Course Leadership
-
-Course Leadership is part of the new permissions model. Course Directors, Course Administrators, and Student Advisors are added here. Course **Directors** and **Administrators**  have similar rights - to maintain any and all aspects of this Course. It is a matter of specifying whether the user is an administrative user using Ilios to maintain the Course or if the user is actually a Director. 
+Leadership is part of the permissions model. At the course level, Directors, Administrators, and Student Advisors are added here. Course **Directors** and **Administrators**  have similar rights - to maintain any and all aspects of this Course. It is a matter of specifying whether the user is an administrative user using Ilios to maintain the Course or if the user is actually a Director. Student Advisors are explained below.
 
 ### Student Advisors
 

@@ -5,7 +5,7 @@ Ilios has an incorporated a version of the search-able MeSH (Medical Subject Hea
 [MeSH Terms](https://www.ncbi.nlm.nih.gov/mesh) can be added to any of the following curricular objects within Ilios.
 
 * Course
-* Course Objective
+* [Course Objective](https://iliosproject.gitbook.io/ilios-user-guide/additional-information/mesh/add-mesh-to-course-objective)
 * Session
 * Session Objective
 * Program Year Objective

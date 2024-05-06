@@ -7,7 +7,7 @@ Ilios has an incorporated a version of the search-able MeSH (Medical Subject Hea
 * Course
 * [Course Objective](https://iliosproject.gitbook.io/ilios-user-guide/additional-information/mesh/add-mesh-to-course-objective)
 * Session
-* Session Objective
+* [Session Objective](https://iliosproject.gitbook.io/ilios-user-guide/additional-information/mesh/add-mesh-to-session-objective)
 * Program Year Objective
 * Learning Material
 

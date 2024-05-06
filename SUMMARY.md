@@ -102,6 +102,7 @@
   * [SQL Queries (API v2 vs v3)](additional-information/sql-queries-api-v2-vs-v3.md)
   * [MeSH](additional-information/mesh/README.md)
     * [Add MeSH to Course Objective](additional-information/mesh/add-mesh-to-course-objective.md)
+    * [Add MeSH to Session Objective](additional-information/mesh/add-mesh-to-session-objective.md)
   * [Alert and Email Templates](additional-information/alert-and-email-templates.md)
   * [License and Copyright](additional-information/license-and-copyright.md)
   * [Competencies and Objectives](additional-information/competencies-and-objectives.md)

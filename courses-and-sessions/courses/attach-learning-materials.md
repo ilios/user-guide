@@ -1,12 +1,8 @@
----
-description: Learning Materials may be attached to courses or sessions. In order to be used with Ilios, materials must be tagged with certain additional information. This is covered below.
----
-
-The first step is to select a Course and also to click "Show Details" to reveal the Course Details - of which Learning Materials is one. These steps are covered in other parts of the guide.
-
 # Attach Existing Learning Material
 
-Before uploading a potential duplicate Learning Material file, link, or citation, you should search to if it already exists in the system. The key thing to remember here is that with Learning Materials, the relationship between the Learning Material and the Course is what is being created here. The same Learning Material can be attached to any number of Courses or Sessions.
+The first step is to select a Course and also to click "Show Details" to reveal the Course Details - of which Learning Materials is one. These steps are covered in other parts of the guide and may be linked here soon as well.
+
+Before accidentally uploading a potential duplicate Learning Material file, link, or citation, you should search to if it already exists in the system. The key thing to remember here is that with Learning Materials, the relationship between the Learning Material and the Course is what is being created here. The same Learning Material can be attached to any number of Courses or Sessions.
 
 ## Perform Search
 

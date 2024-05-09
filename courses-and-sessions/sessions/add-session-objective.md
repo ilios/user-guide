@@ -1,4 +1,4 @@
-Objectives are the desired learning or teaching outcomes for a given curricular object. These may be general Program level Objectives (also referred to as graduation requirements), Course level learning Objectives, or Session level teaching Objectives. Objectives may be associated with Competencies; however, only one higher level competency can be associated with each Learning Objective at the Session level.
+Objectives are the desired learning or teaching outcomes for a given curricular object. These may be general Program level objectives (also referred to as graduation requirements), Course level learning objectives, or Session level teaching objectives. Objectives may be associated with Competencies via the relationship to Program Year objectives.
 
 # Add New Objective
 

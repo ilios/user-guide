@@ -30,6 +30,8 @@ To enter a Session level Objective, follow the steps detailed below.
 
 ![Enter Objective text](../../images/add_session_objective/enter_text.png)
 
+**7. Save New Objective**
+
 Once the save has been processed, the Objective counter is incremented to include the Objective that was just entered. The new Objective is appended to the bottom of the list.
 
 ![Adds one to the counter](../../images/add_session_objective/counter_adjusted.png)

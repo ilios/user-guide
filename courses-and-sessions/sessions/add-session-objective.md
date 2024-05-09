@@ -18,7 +18,7 @@ To enter a Session level Objective, follow the steps detailed below.
 
 ## View Existing Objectives
 
-![xpand session objective list](../../images/add_session_objective/expand_obj_list.png)
+![expand session objective list](../../images/add_session_objective/expand_obj_list.png)
 
 ## Add New Objective
 

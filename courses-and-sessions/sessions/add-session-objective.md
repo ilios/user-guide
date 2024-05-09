@@ -6,7 +6,7 @@ To enter a Session level Objective, follow the steps detailed below.
 
 ## Open Courses and Sessions
 
-![Open courses and sessions](../../images/add_session_objective/open_courses_and_sessions.png)
+![open courses and sessions](../../images/add_session_objective/open_courses_and_sessions.png)
 
 ## Select Course
 
@@ -14,7 +14,7 @@ To enter a Session level Objective, follow the steps detailed below.
 
 ## Select Session
 
-![Select Session](../../images/add_session_objective/select_session.png)
+![select session](../../images/add_session_objective/select_session.png)
 
 ## View Existing Objectives
 

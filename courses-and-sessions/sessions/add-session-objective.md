@@ -6,11 +6,11 @@ To enter a Session level Objective, follow the steps detailed below.
 
 ## Open Courses and Sessions
 
-![Open Courses and Sessions](../../images/add_session_objective/open_courses_and_sessions.png)
+![Open courses and sessions](../../images/add_session_objective/open_courses_and_sessions.png)
 
 ## Select Course
 
-![Select Course](../../images/add_session_objective/select_course.png)
+![select and open course](../../images/add_session_objective/select_course.png)
 
 ## Select Session
 

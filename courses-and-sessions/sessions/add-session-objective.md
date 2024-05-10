@@ -22,7 +22,7 @@ To enter a Session level Objective, follow the steps detailed below.
 
 ## Add New Objective
 
-![Add new Session Objective](../../images/add_session_objective/add_sess_obj.png)
+![add objective](../../images/add_session_objective/add_sess_obj.png)
 
 ## Enter Details
 

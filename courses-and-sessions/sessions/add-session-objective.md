@@ -26,7 +26,7 @@ To enter a Session level Objective, follow the steps detailed below.
 
 ## Enter Details
 
-![Enter Objective text](../../images/add_session_objective/enter_text.png)
+![enter objective text details](../../images/add_session_objective/enter_text.png)
 
 ## Save Objective
 

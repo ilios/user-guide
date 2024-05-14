@@ -81,7 +81,7 @@ This shows the Course detail screen (once a Course has been selected and Details
 7. **Clerkship Type**: edited here
 8. **Start Date**: edited here
 9. **Learning Materials Summary**: opens up Learning Materials summary
-10. [**Print Course Summary**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-summary): displays a printable summary overview of the selected course
+10. [**Course Summary**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-summary): displays a printable summary overview of the selected course
 11. **Rollover Course**: starts the process of rolling this Course over
 12. **Course Visualizations**: opens up Visualizations (Graphs) for this Course
 13. **End Date**: edited as shown

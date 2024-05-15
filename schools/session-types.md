@@ -46,7 +46,7 @@ De-activate a Session Type if it is no longer in use. This does not change the l
 
 ![Session type - de-activate](../images/schools/session_types/session_type_deactivate.png)
 
-**NOTE:** When a Session Type gets de-activated, it is sent to the bottom of this list. The phrase "(disabled)" will be appended after the text description of the session type.
+**NOTE:** When a Session Type gets de-activated, it is sent to the bottom of this list. The phrase "(disabled)" will be appended to the text description (name) of the session type.
 
 ### Remove Session Type
 

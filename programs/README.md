@@ -26,5 +26,5 @@ A newly-entered Program will need to have Program Year(s) set up in order to ass
 
 ### [Competency Map Download](https://iliosproject.gitbook.io/ilios-user-guide/programs/competency-map-download)
 
-### [Program Year Objective Visualization](https://iliosproject.gitbook.io/ilios-user-guide/programs/program-year-objective-map-visualization)
+### [Program Year Objectives Visualization](https://iliosproject.gitbook.io/ilios-user-guide/programs/program-year-objective-map-visualization)
 

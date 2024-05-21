@@ -102,7 +102,7 @@ Both students and non-students may be assigned into any number of “secondary�
 
 To assign a user a secondary cohort, click the “edit” button beneath the user cohort information listing on their account information page. Select any available program cohort from the list provided in the picker, and save. The assignment will now be shown on the user’s page.
 
-**NOTE:** Adding a cohort to any user's profile will result in the newly added cohort being added as a secondary cohort. This applies whether or not the user has been assigned a primary cohort. If one of these secondary cohorts needs to be selected as the primary cohort, this can here as described elsewhere in this section. The newly promoted cohort will simply replace any previously assigned primary cohort. The previous primary will become a secondary cohort.
+**NOTE:** Adding a cohort to any user's profile will result in the newly added cohort being added as a secondary cohort. This applies whether or not the user has been assigned a primary cohort. If one of these secondary cohorts needs to be promoted to be the primary cohort, this can be done here as described elsewhere in this section. The newly promoted cohort will simply replace any previously assigned primary cohort. The previous primary cohort will become a secondary cohort.
 
 ### Access Control and Permissions
 

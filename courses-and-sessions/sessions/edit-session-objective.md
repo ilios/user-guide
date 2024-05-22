@@ -2,11 +2,11 @@
 
 Editing an Objective is easily accomplished following the the steps listed below.
 
-* Select a Course
+**Select a Course**
 
 ![Click on the Course Title link to open it](../../images/edit_session_objective/select_course.png)
 
-* Select a Session
+**Select a Session**
 
 ![Click on the Session Title link to open it](../../images/edit_session_objective/select_session.png)
 

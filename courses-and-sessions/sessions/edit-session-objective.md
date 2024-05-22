@@ -12,7 +12,7 @@ Editing an Objective is easily accomplished following the the steps listed below
 
 * Expand the Objectives: Objectives are displayed in a collapsed detail view initially.
 
-### Expand objective List
+### Expand objective list
 
 ![Expand the list](../../images/edit_session_objective/expand_list.png)
 
@@ -31,7 +31,7 @@ Editing an Objective is easily accomplished following the the steps listed below
 
 ![Update saved](../../images/edit_session_objective/updated_record.png)
 
-### Add MeSH Terms / Vocabulary Terms
+### Add MeSH / Vocabulary terms
 
 Since the process of adding these at a Session level is identical to how it is accomplished at the Course level, please refer to the following links for reference.
 

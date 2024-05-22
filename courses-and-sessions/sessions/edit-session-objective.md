@@ -1,26 +1,26 @@
-## Edit Objective
+## Edit objective
 
 Editing an Objective is easily accomplished following the the steps listed below.
 
-### Select a Course
+### Select course
 
 ![Click on the Course Title link to open it](../../images/edit_session_objective/select_course.png)
 
-### Select a Session
+### Select session
 
 ![Click on the Session Title link to open it](../../images/edit_session_objective/select_session.png)
 
 * Expand the Objectives: Objectives are displayed in a collapsed detail view initially.
 
-### Expand Objective List
+### Expand objective List
 
 ![Expand the list](../../images/edit_session_objective/expand_list.png)
 
-### Select the Objective
+### Select objective
 
 ![Select Objective](../../images/edit_session_objective/select_sess_obj.png)
 
-### Edit the Objective
+### Edit objective
 * Click the Green "Save" button as indicated once the text editing is complete. Alternatively, you can cancel out of this action by click the Red "Cancel" button.
 
 ![Save changes?](../../images/edit_session_objective/save_changes.png)

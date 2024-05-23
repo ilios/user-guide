@@ -10,7 +10,7 @@ Editing an Objective is easily accomplished following the the steps listed below
 
 ![Click on the Session Title link to open it](../../images/edit_session_objective/select_session.png)
 
-* Expand the Objectives: Objectives are displayed in a collapsed detail view initially.
+**Expand the Objectives:** Objectives are displayed in a collapsed detail view initially.
 
 ### Expand objective list
 
@@ -18,16 +18,17 @@ Editing an Objective is easily accomplished following the the steps listed below
 
 ### Select objective
 
-![Select Objective](../../images/edit_session_objective/select_session_obj.png)
+![Select objective](../../images/edit_session_objective/select_session_obj.png)
 
 ### Edit objective
-* Click the Green "Save" button as indicated once the text editing is complete. Alternatively, you can cancel out of this action by click the Red "Cancel" button.
+
+Click the Green "Save" button as indicated once the text editing is complete. Alternatively, you can cancel out of this action by click the Red "Cancel" button.
 
 ![Save changes?](../../images/edit_session_objective/save_changes.png)
 
 ### Save changes
 
-* The screen refreshes and reflects the change.
+The screen refreshes and reflects the change.
 
 ![Update saved](../../images/edit_session_objective/updated_record.png)
 

@@ -18,7 +18,7 @@ Editing an Objective is easily accomplished following the the steps listed below
 
 ### Select objective
 
-![Select Objective](../../images/edit_session_objective/select_sess_obj.png)
+![Select Objective](../../images/edit_session_objective/select_session_obj.png)
 
 ### Edit objective
 * Click the Green "Save" button as indicated once the text editing is complete. Alternatively, you can cancel out of this action by click the Red "Cancel" button.

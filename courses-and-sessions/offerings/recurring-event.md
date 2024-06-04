@@ -6,7 +6,7 @@ Recurring events are session offerings (events) that occur at the same time and 
 
 ## Create Event
 
-To create a recurring event ...
+To create a recurring event, follow the steps listed below.
 
 ### Select the Session
 

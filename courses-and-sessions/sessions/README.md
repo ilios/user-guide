@@ -51,7 +51,7 @@ The screen shot below shows the Courses and Sessions screen with the list of ass
 
 ![Session - list](../../images/sessions_main_page/session_list1.png)
 
-The screen shot above points out the icons indicating both the existence of pre-work learning events and instructional notes. The independent study session "A Video About Drugs" is due before the calendared session "Drug Taper".
+The screen shot above points out the icons indicating both the existence of prerequisite (formerly pre-work) learning events and instructional notes. The independent study session "A Video About Drugs" is due before the calendared session "Drug Taper". As such, it is considered a prerequisite learning activity.
 
 It is easy to expand the Session List to allow for the maintenance of an Offering's room (location) right from this screen. Any Session's Title is a hyperlink and can be clicked to performance to a Session's attributes. After the list has been expanded, links to make changes to the attributes of an Offerings (other than location) right from the expanded Session List become available.
 

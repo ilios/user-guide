@@ -1,6 +1,6 @@
 # Sessions
 
-**DESCRIPTION** (see [Glossary](https://iliosproject.gitbook.io/ilios-user-guide/glossary#session)): A session refers to a section or unit of a course with specific attributes of type and content. Sessions may be represented as multiple or singular time and place "Offerings," or as Independent Learning units with an estimated duration of educational time. Sessions (generally Independent Learning Modules (ILM's) can be associated with a follow-up Session. This is known as "pre-work", since the first learning activities should be completed before the follow-up takes place.
+**DESCRIPTION** (see [Glossary](https://iliosproject.gitbook.io/ilios-user-guide/glossary#session)): A session refers to a section or unit of a course with specific attributes of type and content. Sessions may be represented as multiple or singular time and place Offerings or as Independent Learning units with an estimated duration of educational time. Sessions (generally Independent Learning Modules (ILM's)) can be associated with a follow-up Session. These learning activities should be completed before the follow-up takes place, or by a specified Due Date and time.
 
 ### Session Attributes (all session types)
 

@@ -4,7 +4,7 @@ Click as shown below to start the process of adding a new [session](https://ilio
 
 ![first step - click to start](../../images/add_new_session/add_new_session_start.png)
 
-The entry fields now become enabled and visible. Enter the title and select the session type for the new session as shown below.
+After clicking as shown above (`first step`), the entry fields for the skeleton of a new sssion become enabled and visible. Enter the title and select the session type for the new session as shown below.
 
 ![add title and save](../../images/add_new_session/add_title.png)
 

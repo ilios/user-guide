@@ -1,6 +1,6 @@
 ## Create New Session
 
-Click as shown below to start the process of adding a new session.
+Click as shown below to start the process of adding a new [session](https://iliosproject.gitbook.io/ilios-user-guide/glossary#session).
 
 ![first step - click to start](../../images/add_new_session/add_new_session_start.png)
 

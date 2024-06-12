@@ -1,6 +1,6 @@
 # Add Instructor Group
 
-Click the (+) icon as shown below to start the process of adding an Instructor Group.
+Click the (+) icon as shown below to start the process of adding an Instructor Group. It is necessary to select a school for the instructor group. They are assigned at the school level.
 
 <figure>
     <img src="../images/instructor_groups_all_images/activate_process.png" 

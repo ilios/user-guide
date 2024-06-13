@@ -29,7 +29,7 @@ A session refers to a section or unit of a course with specific attributes of ty
 * **Special Equipment Required**: flags the content as noted. Special instructions or details should be entered in the Session Description field.
 * **Attendance Required**: flags the content as noted. Attendance is not optional.
 
-**NOTE:** Your school can use completely different Optional Session Attributes since as these are configured at the School level.
+**NOTE:** Your school can use completely different optional session attributes since these are configured at the School level.
 
 ### Screen Shots with Field Descriptions
 

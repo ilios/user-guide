@@ -14,22 +14,24 @@ A session refers to a section or unit of a course with specific attributes of ty
 * **Objectives**: Free-text entry field. Each Objective entered at the Session level may be associated with any number of the parent course’s Course-level Objectives. Session Objectives may also be assigned their own MeSH terms.
 * **Prerequisites**: If a Session has one or more prerequisites (formerly known as pre-work) associated with it, there will be an icon displayed on the Session list. This is demonstrated [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions#session-list).
 
-### Session Attributes (additional for ILM)
+### Additional ILM Session Attributes
 
-* **Expected instructional hours**: Numeric entry of the total time in hours allotted for the activities associated with the session.
+These apply only to Independent Learning Modules (ILM's)
+
+* **Expected instructional hours**: Numeric entry of the estimated total required time in hours allotted for the activities associated with the session.
 * **Due Date**: Date by which time the activities are expected to be completed. If "Due Prior To" is not used, a Due Date can be used.
 * **Due Prior To**: Offering to which this ILM is linked. The learner should accomplish the activities outlined in this independent learning activity before attending the session offering. If this is NOT used, a Due Date for the ILM should be specified.
 * **Assigned Learner Groups**: Since there are no calendared offerings for ILM, groups are associated directly to the session.
 * **Assigned Instructors**: Since there are no calendared offerings for ILM, the responsible instructors of record are associated directly to the session.
 
-### Optional Session Attributes (usage assigned at School level)
+### Optional Session Attributes
+
+These [Session Attributes](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-attributes) are customizable and can be set at the School level.
 
 * **Core/Supplemental**: Allows for the flagging of elective vs. required curriculum units.
 * **Special Attire Required**: flags the content as noted. Special instructions or details should be entered in the Session Description field.
 * **Special Equipment Required**: flags the content as noted. Special instructions or details should be entered in the Session Description field.
 * **Attendance Required**: flags the content as noted. Attendance is not optional.
-
-**NOTE:** Your school can use completely different optional session attributes since these are configured at the School level.
 
 ### Screen Shots with Field Descriptions
 

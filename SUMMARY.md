@@ -97,7 +97,7 @@
 * [Reports](reports/reports.md)
 * [Admin](admin/README.md)
   * [View All](admin/view-all.md)
-  * [Add Ilios User](admin/create-new-user.md)
+  * [Add New User](admin/create-new-user.md)
   * [Maintain User Record](admin/maintain-user-record.md)
   * [Add Learners to Cohort](admin/add-learners-to-cohort.md)
   * [Fix User Account Discrepancies](admin/fix-user-account-discrepancies.md)

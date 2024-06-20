@@ -44,7 +44,7 @@ description: >-
 
 **NOTE**: Mousing over the informational icon as it pertains to user name will provide the campus name of record. An example is shown below (from the Admin Console) after pulling up the user record. The user's name was originally "Nicholas Ann Gutierrez" rather than what it currently is in Ilios "Dabney Gutierrez".
 
-![Name in Ilios](../images/icons_explained/name_in_ilios.png.png)
+![Name in Ilios](../images/icons_explained/name_in_ilios.png)
 
 ![Pre-work attached (Session can't be deleted when this is the case)](../images/icons_explained/pre_work_icon.png)
 

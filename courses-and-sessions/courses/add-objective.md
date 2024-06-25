@@ -20,7 +20,7 @@ To enter a Course level Objective ...
 
 ![add objective](../../images/course_objectives/add_course_objective.png)
 
-## Enter Objective details
+## Add details
 
 Course Objectives are created at the top level of each course, and may be associated with any of the available Program Objectives from the Program(s) associated to that course.
 
@@ -32,8 +32,8 @@ While all course level Objective information is directly associated with the cou
 
 ![Enter text for new Course Objective](../../images/course_objectives/new_objective_description.png)
 
-## Updated Course Objective Counter
+## Objective count - updated
 
-The newly added Course Objective gets appended to the list and the Objectives counter gets incremented by one to reflect the fact that this new one has been added.
+The newly added Course objective gets appended to the list and the Objectives counter gets incremented by one to reflect the fact that this new one has been added.
 
 ![Objectives Counter Updated](../../images/course_objectives/updated_obj_count.png)

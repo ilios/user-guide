@@ -4,19 +4,23 @@ Objectives are the desired learning or teaching outcomes for a given curricular 
 
 To enter a Course level Objective ...
 
+## Select course
+
 * Select a Course and open up the details.
 
 ![show details](../../images/course_objectives/show_details.png)
 
 * Expand the Course Objectives list.
 
+## Expand Objectives list
+
 ![objectives - collapsed](../../images/course_objectives/course_obj_collapsed.png)
 
-## Click to Add Objective
+## Click to add Objective
 
 ![add objective](../../images/course_objectives/add_course_objective.png)
 
-## Enter Details
+## Enter Objective details
 
 Course Objectives are created at the top level of each course, and may be associated with any of the available Program Objectives from the Program(s) associated to that course.
 

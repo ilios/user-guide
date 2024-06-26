@@ -15,7 +15,7 @@ To edit a program's Title, all that is needed to do is to click on the Title its
 
 After clicking on the Program's title "Doctor Of Spine Therapy", the field becomes editable and appears as shown below. 
 
-![Program - in edit mode](../images/programs/edit_program/program_in_edit_mode.png)
+![Program - in edit mode](../images/programs/edit_program/program_title_edit_mode.png)
 
 The text will be changed to "Spine Doctor" and confirmed.
 

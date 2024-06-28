@@ -4,7 +4,7 @@ description: Ilios is a curriculum management platform for the Health Profession
 
 # Welcome to Ilios
 
-![Ilios banner image](images/introduction/ilios_banner.png)
+![](images/introduction/ilios_banner.png)
 
 Welcome to the official Ilios User Guide. Feel free to bookmark this page and refer to it with any Ilios questions you may have. You can send any email inquiries [here](mailto:support@iliosproject.org).
 

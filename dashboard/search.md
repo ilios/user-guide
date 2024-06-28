@@ -1,7 +1,6 @@
 ---
 description: 
-  Global search functionality is available from any of the main screens in
-  Ilios. An example showing its location on the Dashboard is shown below.
+  Global search functionality is available for advanced-permission Ilios users at the top of any of the screens in Ilios. Dashboard location is shown below.
 ---
 
 # Global Search

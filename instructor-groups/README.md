@@ -22,7 +22,7 @@ To access this functionality, click on the Instructor Groups menu item from the 
     </figcaption>
 </figure>
 
-This is the screen that appears (see comments). These Instructor Groups can be sorted by "Instructor Group Title" or by "Members" (member count). There is also a text box available in the upper right which allows for filter by text string search. A School Switcher is also available for the rare administrative users that have advanced privileges over more than one school.
+This is the screen that appears (see image comments for details). These Instructor Groups can be sorted by "Instructor Group Title" or by "Members" (member count). There is also a text box available in the upper right which allows for filter by text string search. A school switcher is also available for the rare administrative users that have advanced privileges over more than one school.
 
 <figure>
     <img src="../images/instructor_groups_all_images/instructor_group_list.png" alt="Instructor group list">

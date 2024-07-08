@@ -38,7 +38,7 @@ In a similar manner to editing account properties, the editing of user roles and
 
 ![Update other properties](../images/admin_console/maintain_user_record/update_other_properties.png)
 
-The permissions/fields that can be selected or un-selected (meaning yes or no) are ...
+The permissions/fields that can be selected or un-selected (meaning yes or no selected either by user or by system) are ...
 
 ### Former Student (Student Role):
 

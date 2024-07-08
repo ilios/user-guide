@@ -1,6 +1,6 @@
 # Maintain User Record
 
-## Search for and Find User Record to Modify
+## Select User Record to Modify
 
 You can perform a search and select an existing Ilios user record to modify as shown below.
 

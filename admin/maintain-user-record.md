@@ -42,11 +42,11 @@ The permissions/fields that can be selected or un-selected (meaning yes or no se
 
 ### Former Student (Student Role):
 
-This gets flagged when a Student has graduated if a user directory is set up to sync with Ilios. It can be set manually if desired.
+This gets flagged by the system when a Student has graduated if a user directory is set up to sync with Ilios. It can be set manually if desired.
 
 ### Account Enabled (Any User):
 
-If this is not selected, the user will not be able to log in.
+If this is not selected, the user will not be able to log in. Checking this box will active the user's login account.
 
 ### Exclude From Sync (Any User):
 

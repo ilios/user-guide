@@ -1,6 +1,6 @@
 # Maintain User Record
 
-### Search for and Find User Record to Modify
+## Select User Record to Modify
 
 You can perform a search and select an existing Ilios user record to modify as shown below.
 
@@ -18,7 +18,7 @@ The example below shows the scenario when there is no Campus Directory. Any fiel
 
 ![Without campous directory](../images/admin_console/maintain_user_record/without_campus_directory.png)
 
-#### Fields and Functionality Described
+### Fields and Functionality Described
 
 **First Name, Last Name, Campus ID, Username:** These values are either brought in from your campus directory (LDAP or other) or can be edited manually.
 
@@ -38,21 +38,21 @@ In a similar manner to editing account properties, the editing of user roles and
 
 ![Update other properties](../images/admin_console/maintain_user_record/update_other_properties.png)
 
-The permissions/fields that can be selected or un-selected (meaning yes or no) are ...
+The permissions/fields that can be selected or un-selected (meaning yes or no selected either by user or by system) are ...
 
-#### Former Student (Student Role):
+### Former Student (Student Role):
 
-This gets flagged when a Student has graduated if a user directory is set up to sync with Ilios. It can be set manually if desired.
+This gets flagged by the system when a Student has graduated if a user directory is set up to sync with Ilios. It can be set manually if desired.
 
-#### Account Enabled (Any User):
+### Account Enabled (Any User):
 
-If this is not selected, the user will not be able to log in.
+If this is not selected, the user will not be able to log in. Checking this box will activate or re-activate the user's login account.
 
-#### Exclude From Sync (Any User):
+### Exclude From Sync (Any User):
 
 If you would prefer to keep the user account settings as they are (alternate email address etc.) and do not want to receive updates from the Campus Directory, this should be selected.
 
-### Edit Primary and / or Secondary Cohort Assignments
+## Update Cohort Assignments
 
 Continuing down the page, we get to the Cohort Assignment tool as well as the .ics feed maintenance area. After clicking as shown below, the Cohort Assignment tool becomes available for use. Initially, it appears as shown below.
 

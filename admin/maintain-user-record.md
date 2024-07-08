@@ -46,7 +46,7 @@ This gets flagged by the system when a Student has graduated if a user directory
 
 ### Account Enabled (Any User):
 
-If this is not selected, the user will not be able to log in. Checking this box will active the user's login account.
+If this is not selected, the user will not be able to log in. Checking this box will activate or re-activate the user's login account.
 
 ### Exclude From Sync (Any User):
 

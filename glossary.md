@@ -78,7 +78,7 @@ The final, accessible version of curricular material that is delivered to learne
 
 ## Scheduled
 
-An intermediate state of a Session or Course where some required elements are missing; but you wish to have the students block off this time for the Session Offerings. These offerings show up on the Students’ calendars at “TBA”.
+An intermediate state of a Session or Course where some required elements are missing; but you wish to have the students block off this time for the Session Offerings. These offerings show up on the Students’ calendars as “TBA”.
 
 ## Session
 

@@ -86,7 +86,7 @@ A session refers to a section or unit of a course with specific attributes of ty
 
 ## Vocabularies
 
-Vocabularies are categories or collections of Terms (school-specific categories of learning) that can be selected and attached (tagged) to many curricular objects within Ilios. In previous versions of Ilios, these were known as Topics and even further into the past, Disciplines.
+Vocabularies are categories or collections of Terms (school-specific categories of learning) that can be selected and attached (tagged) to many curricular objects within Ilios. In previous versions of Ilios, these were known as Topics, which have been converted into one of the standard Vocabularies.
 
 ## Week at a Glance
 

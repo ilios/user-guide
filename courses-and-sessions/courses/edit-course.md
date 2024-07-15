@@ -30,7 +30,7 @@ Once the Course has been selected as shown above, the following Course-level att
 4. **Learning Materials Summary**: opens up [**Learning Materials Summary**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/learning-materials-summary)
 5. **Course Summary**: opens up the all-inclusive [**Course Summary**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-summary)
 6. [**Course Rollover**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_actions/course-rollover): starts the process of rolling this Course over
-7. **Course Visualizations**: opens up Visualizations (Graphs) for this Course
+7. [**Course Visualizations**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations): opens up Visualizations (Graphs) for this Course
 8. **Course ID**: The Course ID field can be edited by clicking as shown.
 9. **Clerkship Type**: edited here
 10. **Start Date**: edited here

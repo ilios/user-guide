@@ -38,13 +38,13 @@ Once the Course has been selected as shown above, the following Course-level att
 12. **Level**: edited here
 13. **Show Details**: opens up the rest of the Course Details.
 
-## [Course Details](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#screen-elements)
+## [Course Details](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#details)
 
 These are the lower level details of a Course that are displayed and can be modified once the "Show Details" tab button has been clicked. These are those items ...
 
 * [Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership) - add/remove Course Directors, Course Administrators, and Student Advisors
-* Objectives (and associated Parent Objectives, Vocabulary Terms, and MeSH Terms)
-* Learning Materials
+* [Objectives](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_objectives) (and associated Parent Objectives, Vocabulary Terms, and MeSH Terms)
+* [Learning Materials](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/learning_materials)
 * [Competencies](https://iliosproject.gitbook.io/ilios-user-guide/schools/competencies) - set at School level
 * Terms - selected from one or more Vocabularies, which are configured at the School level
 * MeSH Terms

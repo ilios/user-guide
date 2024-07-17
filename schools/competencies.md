@@ -11,7 +11,7 @@ Competency Domains can managed within the Ilios application. To access this func
 
 ![Click "Schools"](../images/schools/competencies/click_schools.png)
 
-![Select School to edit](../images/schools/competencies/select_school.jpg)
+![click school title to view/edit](../images/schools/competencies/select_school.png)
 
 Now that the School of Medicine has been selected, Competencies can be maintained using the following interface and commands.
 

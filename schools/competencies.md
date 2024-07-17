@@ -13,7 +13,11 @@ Competency Domains can managed within the Ilios application. To access this func
 
 ![click school title to view/edit](../images/schools/competencies/select_school.png)
 
-Now that the School of Medicine has been selected, Competencies can be maintained using the following interface and commands.
+Now that the School of Medicine has been selected, Competencies can be maintained using the following interface and commands. An oveview of the Schools screen is shown below. Maintaining email addresses and now defunct Curriculum Inventory information is not shown in the screen shot. Aside from those, the screen shot is complete.
+
+### School Screen Overview
+
+![school screen overview](../images/schools/competencies/school_screen_overview.png)
 
 The highest level Domains are shown initially with the count of associated Competencies displayed underneath the Summary column header. Click the Competencies(x) link to open up the detail screen, shown below. This breaks out into a visual representation to show the details of the competencies counted up under the Summary header. This gives a more detailed viewpoint as shown below.
 

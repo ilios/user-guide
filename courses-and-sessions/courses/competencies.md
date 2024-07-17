@@ -1,0 +1,1 @@
+Competencies are configured at the School level in Ilios but assigned at the Program Year level. They are in read-only mode at the Course level. The screen shot for this along with links and more discussion will be coming soon.

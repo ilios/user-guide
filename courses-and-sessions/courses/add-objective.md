@@ -37,3 +37,11 @@ While all course level Objective information is directly associated with the cou
 The newly added Course objective gets appended to the list and the Objectives counter gets incremented by one to reflect the fact that this new one has been added.
 
 ![Objectives Counter Updated](../../images/course_objectives/updated_obj_count.png)
+
+## Objective Visualization link
+
+There is a quick link directly to the course objective visualization available here as shown below. This is identical to navigating to Visualizations and clicking on the Objectives graph - in other words, it's the same visualization provided here for convenience.
+
+![quick link to visualization](../../images/course_objectives/course_obj_level_visualization.png)
+
+

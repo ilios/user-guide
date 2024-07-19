@@ -5,3 +5,5 @@ Setting up compentencies a the school level for use in Ilios is covered [here](h
 ### Course Competency List
 
 ![displayed list](../../images/course_competencies/course_competency_list.png)
+
+This list displays the competencies that have been configured for the cohort assigned to this course. The commpetencies are set up at the program year level.

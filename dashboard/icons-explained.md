@@ -23,9 +23,6 @@ description: >-
 
 **NOTE:** The actual URL is available to the left of the icon shown above. It is titled "Virtual Session Link". This link is also available further down in the Event Detail as well with the full URL written out.
 
-### Learning Material - Not Available Yet
-![Learning Material - Not Available Yet](../images/icons_explained/not_avail_yet.png)
-
 ### More Information available
 ![More Information - click to see](../images/icons_explained/more_info.png)
 
@@ -38,6 +35,9 @@ description: >-
 
 ![Learning Material - required (won't appear if optional)](../images/icons_explained/lm_reqd.png)
 
+![Learning Material - Not Available Yet](../images/icons_explained/not_avail_yet.png)
+
+### Recently updated
 ![Learning Event - recently updated](../images/icons_explained/recently_updated.png)
 
 ### Instructional Notes 

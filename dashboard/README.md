@@ -22,7 +22,7 @@ The view below is of the Ilios flyout menu on a relatively large screen. This is
 When the Ilios application is not being viewed at full size or is being viewed using a device with a smaller screen surface area, the toolbar spans across the top of the screen as shown below.
 
 <figure>
-  <img src="../images/dashboard/top_menu_view.png" alt="Top Menu View">
+  <img src="../images/dashboard/small_screen_view_contracted.png" alt="Top Menu View">
   <figcaption>
     <p>Ilios Menu - small size (contracted)</p>
   </figcaption>

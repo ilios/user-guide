@@ -28,7 +28,7 @@ When the Ilios application is not being viewed at full size or is being viewed u
   </figcaption>
 </figure>
 
-The **Ilios Menu expander** is only available in the smaller view of the toolbar. It is not needed in full-size mode.
+The **Ilios Menu expander** is only available in the smaller view of the toolbar. It is not needed in full-size mode. The **Help Link** is always available and takes the user directly to this very guide.
 
 ### Small Screen View - expanded
 

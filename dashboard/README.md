@@ -73,14 +73,24 @@ These Dashboard View Options are ...
 * [**Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view)
 * [**Calendar**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view)
 
-Also available ...
+### Also available ...
 
 * [**Global Search**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search)
 
-Also available in the upper right corner underneath the logged in user's name are the following ...
+Also available in the upper right corner underneath the logged in user's name are the following menu items ...
 
 * [**My Profile**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-profile)
 * **Logout** -- exits the application
+
+* **Help link**
+Even further over to the right of the screen is a "Help" link to this very user guide. This is available in any screen size and from any screen within Ilios. 
+
+<figure>
+  <img src="../images/icons_explained/user_guide_link.png" alt="Help link">
+  <figcaption>
+      <p>Help - link to user guide</p>
+  </figcaption>
+</figure>
 
 To the left of the drop-down explained above is the Language Selector drop-down menu.
 

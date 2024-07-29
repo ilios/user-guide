@@ -82,8 +82,9 @@ Also available in the upper right corner underneath the logged in user's name ar
 * [**My Profile**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-profile)
 * **Logout** -- exits the application
 
-* **Help link**
-Even further over to the right of the screen is a "Help" link to this very user guide. This is available in any screen size and from any screen within Ilios. 
+-----------------------------------------
+
+* **Help link** -- link to this user guide - Even further over to the right of the screen is a "Help" link to this very user guide. This is available in any screen size and from any screen within Ilios. 
 
 <figure>
   <img src="../images/icons_explained/user_guide_link.png" alt="Help link">

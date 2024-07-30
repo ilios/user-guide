@@ -77,10 +77,19 @@ These Dashboard View Options are ...
 
 * [**Global Search**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search)
 
-Also available in the upper right corner underneath the logged in user's name are the following menu items ...
+------------------------------------------
+
+Menu actions available underneath the logged in user's name ...
 
 * [**My Profile**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-profile)
 * **Logout** -- exits the application
+
+<figure>
+  <img src="../images/dashboard/user_name_menu_items.png" alt="Menu Items">
+  <figcaption>
+      <p>Available under user name</p>
+  </figcaption>
+</figure>
 
 -----------------------------------------
 

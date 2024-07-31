@@ -73,14 +73,18 @@ These Dashboard View Options are ...
 * [**Materials**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view)
 * [**Calendar**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view)
 
-### Also available ...
+### High Level Options
+
+These are available from anywhere in Ilios at the top of the screen.
 
 * [**Global Search**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search)
 * [**Language Selector**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector)
 
 ------------------------------------------
 
-Menu actions available underneath the logged in user's name ...
+### User Menu Options
+
+These refere to menu actions available underneath the logged in user's name and are also available from anywhere in Ilios.
 
 * [**My Profile**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/my-profile)
 * **Logout** -- exits the application

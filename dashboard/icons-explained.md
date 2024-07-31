@@ -56,7 +56,7 @@ The link to the Ilios Help Guide is available to all Ilios users. It is always a
 ### Link to .ics feed
 ![Copy My ICS Link](../images/icons_explained/ics_feed_link.png)
 
-This button is now located just to the right of the "Calendar" button. This is for copying the .ics feed for use in online calendars including Outlook and Google - click for [More Information](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view/calendar-feed-options).
+This button is conveniently located just to the right of the "Calendar" button. This is for copying the .ics feed for use in online calendars including Outlook and Google - click for [More Information](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view/calendar-feed-options).
 
 ## Non-learner Facing Icons
 

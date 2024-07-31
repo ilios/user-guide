@@ -47,7 +47,7 @@ The view of Ilios as seen from a mobile phone or device is very similar to the w
 
 For more details, review [Mobile Device View](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/mobile-devices).
 
-### Ilios Menu Items (all views)
+### Flyout Menu Items (all views)
 
 These menu items available in all views include:
 

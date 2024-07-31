@@ -76,6 +76,7 @@ These Dashboard View Options are ...
 ### Also available ...
 
 * [**Global Search**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search)
+* [**Language Selector**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector)
 
 ------------------------------------------
 
@@ -102,6 +103,4 @@ Menu actions available underneath the logged in user's name ...
   </figcaption>
 </figure>
 
-To the left of the drop-down explained above is the Language Selector drop-down menu.
 
-* [**Language Selector**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector)

@@ -43,7 +43,7 @@ To perform the full search (which we will do in this example), press the "Enter"
 
 ## Search Results
 
-![Search Results](../images/global_search/global_search_results.png)
+![search results](../images/global_search/global_search_results.png)
 
 ## Show More
 

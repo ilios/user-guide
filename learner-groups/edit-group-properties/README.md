@@ -19,13 +19,13 @@ The first ten Learner Groups (A-Z) are shown in the screen shot. Many more exist
 
 ![List displayed](../../images/edit_learner_group/list_displayed.png)
 
-### Filter for Group
+### Filter by Group Title
 
 The ability to filter by Learner Group Title makes it easy to find and select a group to modify. Any characters (1 or more) can be entered. The result set is updated to return only Learner Groups that contain that search string in their Learner Group Title.
 
 In this example, the Learner Group and / or Subgroups to be modified is called "IDS 122B". Enter "ids" (not case-sensitive) in the filter box as shown below.
 
-![Filter for group](../../images/edit_learner_group/filter_for_group.png)
+![Filter by group title](../../images/edit_learner_group/filter_for_group.png)
 
 ### Edit Group Attributes
 

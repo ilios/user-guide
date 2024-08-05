@@ -42,9 +42,7 @@ To search for anything related to "brain", enter that into the search field prov
 To perform the full search (which we will do in this example), press the "Enter" key on the keyboard to perform the search.
 
 ## Search Results
-
-The results of running a search are demonstrated below.
-
+The results of running a search for "brain" are demonstrated below.
 ![search results](../images/global_search/global_search_results.png)
 
 ## Show More

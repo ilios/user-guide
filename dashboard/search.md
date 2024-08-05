@@ -43,6 +43,8 @@ To perform the full search (which we will do in this example), press the "Enter"
 
 ## Search Results
 
+The results of running a search are demonstrated below.
+
 ![search results](../images/global_search/global_search_results.png)
 
 ## Show More

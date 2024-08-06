@@ -17,11 +17,11 @@ At this level, you can see the following fields ...
 * Subgroups -- A count of all of the subgroups for this higher-level group
 * Action menu -- Delete or Copy
 
-### Filter by Group Title
+### Filter by Group title
 
-The ability to filter by Learner Group Title makes it easy to find and select a group to modify. Any characters (1 or more) can be entered. The result set is updated to return only Learner Groups that contain that search string in their Learner Group Title.
+The ability to filter by learner group Title makes it easy to find and select a group to modify. Any characters (1 or more) can be entered. The result set is updated to return only Learner Groups that contain that search string in their Learner Group Title.
 
-In this example, the Learner Group and / or Subgroups to be modified is called "IDS 122B". Enter "ids" (not case-sensitive) in the filter box as shown below.
+In this example, the Learner Group and / or Subgroups to be modified is called "SET Class of 2028". Enter "se" (not case-sensitive) in the filter box as shown below.
 
 ![Filter by group title](../../images/edit_learner_group/filter_for_group.png)
 

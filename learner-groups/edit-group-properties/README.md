@@ -6,11 +6,11 @@ The first step in the editing and review process is to select a School, Program,
 
 The School Selector is the first drop-down menu available and visible on the page. It is shown below with Medicine already chosen as the School.
 
-![Select attributes](../../images/edit_learner_group/select_attributes.png)
+![select attributes](../../images/edit_learner_group/select_attributes.png)
 
-Now that Medicine has been selected, a Program "Doctor of Medicine - BRIDGES" has been selected as shown above. The Cohort "Class of 2022" has also been selected.
+Now that Medicine has been selected, a Program "Doctor of Medicine - BRIDGES" has been selected as shown above. The Cohort "Class of 2028" has also been selected.
 
-The first ten Learner Groups (A-Z) are shown in the screen shot. Many more exist but cannot be shown on this one screen shot. Scroll down or filter to see the remaining. At this level, you can see the following fields ...
+At this level, you can see the following fields ...
 
 * Learner Group Title -- The title for this Learner Group (can be filtered)
 * Members -- A count of the total of group and subgroup members

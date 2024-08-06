@@ -1,14 +1,14 @@
 # Edit Learner Group
 
-The first step in the editing and review process is to select a School, Program, and a Cohort. The drop-down boxes on the top of the screen are used to do this as shown below.
+The first step in the editing and review process is to select school, program, and cohort. The drop-down boxes on the top of the screen are used to do this as shown below.
 
-## Select School, Program, and Cohort
+## select school, program, and cohort
 
-The School Selector is the first drop-down menu available and visible on the page. It is shown below with Medicine already chosen as the School.
+The school selector is the first drop-down menu available and visible on the page. It is shown below with Medicine already chosen as the School.
 
 ![select attributes](../../images/edit_learner_group/select_attributes.png)
 
-Now that Medicine has been selected, a Program "Doctor of Medicine - BRIDGES" has been selected as shown above. The Cohort "Class of 2028" has also been selected.
+Now that Medicine has been selected, a program "Doctor of Medicine - BRIDGES" has been selected as shown above. The cohort "Class of 2028" has also been selected.
 
 At this level, you can see the following fields ...
 
@@ -16,8 +16,6 @@ At this level, you can see the following fields ...
 * Members -- A count of the total of group and subgroup members
 * Subgroups -- A count of all of the subgroups for this higher-level group
 * Action menu -- Delete or Copy
-
-![List displayed](../../images/edit_learner_group/list_displayed.png)
 
 ### Filter by Group Title
 

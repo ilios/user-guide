@@ -20,8 +20,6 @@ Learner Group Management is a method of tagging, grouping and managing the learn
 
 The groups in Ilios are persistent data containers, which exist outside the context of a course or session. Each Group belongs to a specific program cohort; the members of that cohort may be added or removed from any of its groups. A Cohort is created each time a new Program Year is added to a Program; essentially, this means that for any year in which a Program is active and a Program Year has been added in Ilios, there is automatically created a Learner Cohort for “The Class of 20XX”. A group may be attached any number of times to any number of sessions in any number of courses. Groups may also be subdivided into any number of smaller groups. Groups are associated to courses and sessions via calendared offerings of sessions and independent learning units; the groups of any learner cohort will be available for association to a session once that cohort is attached to the course in question.
 
-For learners to be associated with curricular material in Ilios, they must be associated with a learner group.
-
 ### Hierarchical by Design
 
 **Learner Groups are Hierarchical**

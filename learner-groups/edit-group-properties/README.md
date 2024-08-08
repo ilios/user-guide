@@ -33,13 +33,13 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
 ### Edit Group Membership
 
-**Important Note**: The focus of editing Group Membership is the Group itself and not the Learner.
+**Important Note**: The focus of editing group membership is the group itself rather than any given learner.
 
 The first thing to remember is to always navigate to the Learner Group to which you wish to add or remove Learners.
 
-This is a long screen so it will be described in the guide in separate screen shots. The top part of the screen displays the list of the Learners currently enrolled in this group.
+The list of the learners currently enrolled in this group is shown below.
 
-![Top screen](../../images/edit_learner_group/lg_top_screen.jpg)
+![list of members](../../images/edit_learner_group/lg_member_list.png)
 
 ### Screen Elements
 

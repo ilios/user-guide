@@ -27,9 +27,9 @@ In this example, the Learner Group and / or Subgroups to be modified is called "
 
 ### Edit Group Attributes
 
-To edit a Group's attributes, click as shown above. The group's name is a hyperlink used to edit it or view its attributes / membership. In this example "IDS 122B" has been selected. The top part of the screen appears as shown below with new features highlighted on the screen shot.
+To edit a Group's attributes, click as shown above. The group's name is a hyperlink used to edit it or view its attributes / membership. In this example "SET Class of 2028" has been selected. The top part of the screen appears as shown below with selected features highlighted in the screen shot.
 
-![Top selected](../../images/edit_learner_group/lg_top_selected.jpg)
+![Top selected](../../images/edit_learner_group/lg_top_selected.png)
 
 ### Edit Group Membership
 

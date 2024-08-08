@@ -31,16 +31,6 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
 ![Top selected](../../images/edit_learner_group/lg_top_selected.png)
 
-### Edit Group Membership
-
-**Important Note**: The focus of editing group membership is the group itself rather than any given learner.
-
-The first thing to remember is to always navigate to the Learner Group to which you wish to add or remove Learners.
-
-The list of the learners currently enrolled in this group is shown below.
-
-![list of members](../../images/edit_learner_group/lg_member_list.png)
-
 ### Screen Elements
 
 **Title:** Can be modified by clicking on it, making changes, and confirming.
@@ -53,9 +43,11 @@ The list of the learners currently enrolled in this group is shown below.
 
 **Default Instructor:** Same as with location.
 
-****[**Default Virtual Learning Link**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-virtual-learning-link): Same as with location.
+[**Default Virtual Learning Link:**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-virtual-learning-link) Same as with location.
 
-**Needs Accommodation**: This is set to affirmative by sliding the toggle as shown below. This is for virtual learning. The learner group has at least one member who requires accommodation like closed captions or something else in a virtual learning setting.
+[**Learner Group Calendar:**]{https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/calendar} Display or hide calendar of events associated with this learner group and / or sub groups.
+
+**Needs Accommodation:** This is set to affirmative by sliding the toggle as shown below. This is for virtual learning. The learner group has at least one member who requires accommodation like closed captions or something else in a virtual learning setting.
 
         Before ...
 
@@ -66,3 +58,14 @@ The list of the learners currently enrolled in this group is shown below.
 ![Accomodation required - post-selection](../../images/edit_learner_group/accommodation_req_post.png)
 
 **Associated Courses:** Read-only list of Courses that have this Learner Group attached to one or more Session Offerings.
+
+### Edit Group Membership
+
+**Important Note**: The focus of editing group membership is the group itself rather than any given learner.
+
+The first thing to remember is to always navigate to the Learner Group to which you wish to add or remove Learners.
+
+The list of the learners currently enrolled in this group is shown below.
+
+![list of members](../../images/edit_learner_group/lg_member_list.png)
+

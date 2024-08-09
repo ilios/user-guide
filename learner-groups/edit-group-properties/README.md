@@ -37,7 +37,7 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
 **Manage:** Switched on or off by clicking the button. When "Manage" is turned on, the group assignment can be edited. The learners who need to be added to "Prologue Entire Class" can be found by searching and sorting. The learners who are not currently in the group appear in the lower part of the output grid.
 
-**Learner List:** Any of these students can be assigned either into this group or back up to the cohort level only.
+**Learner List:** Any of these students can be assigned either into this group,back up to the cohort level or they can be moved into another group by navigating to the other group first.
 
 **Default Location:** If a Room Number (Location) is not specified for a specific Offering, this default location is attached instead. This applies to Small Group offerings but not to Lectures.
 
@@ -45,7 +45,7 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
 [**Default Virtual Learning Link:**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-virtual-learning-link) Same as with location.
 
-[**Learner Group Calendar:**]{https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/calendar} Display or hide calendar of events associated with this learner group and / or sub groups.
+[**Learner Group Calendar:**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/calendar) Display or hide calendar of events associated with this learner group and / or sub groups.
 
 **Needs Accommodation:** This is set to affirmative by sliding the toggle as shown below. This is for virtual learning. The learner group has at least one member who requires accommodation like closed captions or something else in a virtual learning setting.
 

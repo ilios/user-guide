@@ -59,7 +59,7 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
 **Associated Courses:** Read-only list of Courses that have this Learner Group attached to one or more Session Offerings.
 
-### Edit Group Membership
+### Group Members Listed
 
 **Important Note**: The focus of editing group membership is the group itself rather than any given learner.
 

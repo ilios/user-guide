@@ -4,7 +4,7 @@
 
 In this example, there are no Learners in the group "Demonstration Group 05". The learner "Lawrence Alvarez" needs to be added to the group. This can be accomplished as shown below.
 
-![No learners yet](../../images/edit_learner_group/group_membership/no_learners_yet.jpg)
+![No learners yet](../../images/edit_learner_group/group_membership/no_learners_yet.png)
 
 Once the green (+) has been clicked to add "Lawrence Alvarez" to the sub group "Demonstration Group 05", the screen updates to what is shown below and it is easy to verify the learner's enrollment in the group.
 

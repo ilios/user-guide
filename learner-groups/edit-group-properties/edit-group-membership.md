@@ -12,9 +12,11 @@ Once the green (+) has been clicked to add "Lawrence Alvarez" to the sub group "
 
 ## Add Multiple Learners to Group
 
-In this example the filtering functionality was not used; but it is evident that five Learners were selected using the check boxes provided and can now be moved into the Learner Group "Demonstration Group 05" with one button click.
+Users will need to scroll down to the lower part of the screen to access the area where Cohort members who have not been added to Demonstration Group or any of its sub groups is located.
 
-![Add multiple learners](../../images/edit_learner_group/group_membership/add_multiple_learners.jpg)
+In this example the filtering functionality was not used; but it is evident that five Learners have been selected using the check boxes provided and can now be moved into the learner group "Demonstration Group 5" with one button click.
+
+![Add multiple learners](../../images/edit_learner_group/group_membership/add_multiple_learners.png)
 
 ## Removing One or More Learners from Group
 

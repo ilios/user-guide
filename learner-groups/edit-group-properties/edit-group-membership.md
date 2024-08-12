@@ -16,8 +16,8 @@ Users will need to scroll down to the lower part of the screen to access the are
 
 In this example the filtering functionality was not used; but it is evident that five Learners have been selected using the check boxes provided and can now be moved into the learner group "Demonstration Group 5" with one button click.
 
-![Add multiple learners](../../images/edit_learner_group/group_membership/add_multiple_learners.png)
+![Add multiple learners](../../images/edit_learner_group/group_membership/add_multiple_Learners.png)
 
-## Removing One or More Learners from Group
+## Remove One or More Learners from Group
 
 ![Remove learners](../../images/edit_learner_group/group_membership/remove_multiple_learners.jpg)

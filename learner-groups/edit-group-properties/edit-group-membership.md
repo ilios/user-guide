@@ -18,6 +18,13 @@ In this example the filtering functionality was not used; but it is evident that
 
 ![Add multiple learners](../../images/edit_learner_group/group_membership/add_multiple_Learners.png)
 
-## Remove One or More Learners from Group
+## Remove Learners from Group
+
+### Remove One Learner
+Below is a screen shot depicting a learner group in "Manage" mode. Before any learners have been selected using the check boxes on the left, there are red indicators available to remove any one learner immediately. This happens without confirmation. As an example, the learner "Ann Cheryl Rose" will be removed from the learner group as soon as the red line is clicked.
+
+![Remove one learner](../../images/edit_learner_group/group_membership/remove_one_learner.png)
+
+It is necessary as in the "add" actions performed above to click "Manage" after navigating to the correct learner group/sub group to perform maintenance.
 
 ![Remove learners](../../images/edit_learner_group/group_membership/remove_multiple_learners.jpg)

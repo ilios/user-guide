@@ -25,6 +25,17 @@ Below is a screen shot depicting a learner group in "Manage" mode. Before any le
 
 ![Remove one learner](../../images/edit_learner_group/group_membership/remove_one_learner.png)
 
-It is necessary as in the "add" actions performed above to click "Manage" after navigating to the correct learner group/sub group to perform maintenance.
+It is necessary (as in the "add" actions performed above) to click "Manage" after navigating to the correct learner group/sub group to perform maintenance.
 
-![Remove learners](../../images/edit_learner_group/group_membership/remove_multiple_learners.jpg)
+### Remove Multiple Learners
+
+Once one or more learners have been selected for removal using the provided check boxes, the red "instant remove" action items disappear. We are now in multi-edit mode. 
+
+Three learners have been selected to be removed from this learner group. This is accompished by clicking on the check boxes as shwon below.
+
+Learners to be removed ...
+* "Anne Debra Armstrong"
+* "Kathy Jason Frazier"
+* "Keith Virginia Stewart"
+
+![Remove multiple learners](../../images/edit_learner_group/group_membership/remove_multiple_learners.png)

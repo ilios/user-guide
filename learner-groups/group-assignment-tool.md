@@ -10,7 +10,7 @@ While it is a requirement that users have to exist in Ilios and be students in t
 
 To start this process, click as shown below.
 
-![Click to activate](../images/learner_group_assignment_tool/click_to_activate.png)
+![click to activate](../images/learner_group_assignment_tool/click_to_activate_lg_cal.png)
 
 The group created for this example is called "Gold Team Exam Group". As indicated in the screen shot above, there are 12 Sub Groups already created to hold the incoming Learners contained in the delimited file that will be uploaded.
 

@@ -37,7 +37,7 @@ The file in this case has been titled "SampleUserUploadNewSubs2.tsv". It is a ta
 
 ### Attach Upload File
 
-The first step here is to navigate to the higher level Learner Group with the title "New". As shown below, this Learner Group has 9 Sub Groups. Three of the 12 Learner Groups will be created for demonstration purposes.
+The first step here is to navigate to the higher level Learner Group with the title "Gold Team Exam Group". As shown below, this Learner Group has 9 Sub Groups. Three of the 12 Learner Groups will be created for demonstration purposes.
 
 ![New groups created](../images/learner_group_assignment_tool/new_groups_created.png)
 

@@ -45,6 +45,16 @@ After clicking the **"Upload Group Assignments"** button and then **"Choose File
 
 ![File dialog box shown](../images/learner_group_assignment_tool/file_dialog_box.png)
 
+### In Case of Errors
+
+**NOTE**: The "Start Over" button can be used if there are issues with the information contained in the upload file. This stops the process and allows the the upload file to be fixed berore trying again. 
+
+Using the "Close" button in the above-referenced scenario will close this "Upload Group Assigments" functionality. 
+
+![Errors present - try again](../images/learner_group_assignment_tool/start_over.png)
+
+### Ready to Process
+
 Now that the correct file has been selected, click Open and see the results as shown below. The label indicates there are 24 valid users to be assigned into the Learner Groups.
 
 ![Review results](../images/learner_group_assignment_tool/review_results.png)

@@ -79,9 +79,7 @@ The results of this action are shown below. All groups from the file (Uploaded G
 
 ### Final Results
 
-Scroll down below here to find a section entitled "Final Results". This shows the pairings of the Learners and the Learner Groups into which they will be assigned.
-
-The top of the screen is shown below.
+Scroll down below here to find a section entitled "Final Results". This shows the pairings of the learners and the groups into which they will be assigned.
 
 ![Final results](../images/learner_group_assignment_tool/final_results.png)
 
@@ -89,11 +87,11 @@ At the bottom part of the screen (may require a bit of scrolling depending on ho
 
 ### Verify Results
 
-After clicking **Save** as shown above, the Learners will all be placed in their corresponding Sub Groups.
+After clicking **Save** as shown above, the learners will all be placed in their assigned sub groups.
 
-Below is a high level view of the fact that each of the Sub Groups now contains two members. This is what is expected given the upload file that was used.
+Below is a high level view of the fact that each of the sub groups now contains two members. This is what is expected given the upload file that was used.
 
-Click on any of the Sub Groups to review and confirm group membership.
+Click on any of the sub groups to review and confirm group membership.
 
 ![Confirm group membership](../images/learner_group_assignment_tool/confirm_group_membership.png)
 

@@ -53,11 +53,13 @@ Using the "Close" button in the above-referenced scenario will close this "Uploa
 
 ![Errors present - try again](../images/learner_group_assignment_tool/start_over.png)
 
+Records with issues (such as not being part of the cohort or incorrect ID) are displayed at the top of the output with the valid records being displayed below. 
+
 ### Ready to Process
 
-Now that the correct file has been selected, click Open and see the results as shown below. The label indicates there are 24 valid users to be assigned into the Learner Groups.
+Now that the correct file has been selected and any and all errors have been corrected, click Open and see the results as shown below. The label indicates there are 24 valid users to be assigned into the Learner Groups.
 
-![Review results](../images/learner_group_assignment_tool/review_results.png)
+![review results](../images/learner_group_assignment_tool/review_results.png)
 
 Scroll to the bottom of the screen and click as shown below to continue.
 

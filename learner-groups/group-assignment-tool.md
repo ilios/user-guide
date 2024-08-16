@@ -87,8 +87,6 @@ The top of the screen is shown below.
 
 At the bottom part of the screen (may require a bit of scrolling depending on how many Learners are being assigned), the **"Save"** button is available to process the group assignment and make the save to the database.
 
-![Save this assignment](../images/learner_group_assignment_tool/save_assignment.png)
-
 ### Verify Results
 
 After clicking **Save** as shown above, the Learners will all be placed in their corresponding Sub Groups.
@@ -97,5 +95,5 @@ Below is a high level view of the fact that each of the Sub Groups now contains 
 
 Click on any of the Sub Groups to review and confirm group membership.
 
-![Confirm group membership](../images/learner_group_assignment_tool/confrim_group_membership.png)
+![Confirm group membership](../images/learner_group_assignment_tool/confirm_group_membership.png)
 

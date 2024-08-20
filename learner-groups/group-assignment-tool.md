@@ -87,7 +87,7 @@ At the bottom part of the screen (may require a bit of scrolling depending on ho
 
 ### Verify Results
 
-After clicking **Save** as shown above, the learners will all be placed in their assigned sub groups.
+After clicking **Save** as shown above in the previous section, the learners will all be placed in their assigned sub groups.
 
 Below is a high level view of the fact that each of the sub groups now contains two members. This is what is expected given the upload file that was used.
 

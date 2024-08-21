@@ -36,6 +36,6 @@ To add learners to any of these sub groups, first the sub group needs to be sele
 
 See below how the screen appears after selecting "Demonstration Group 05".
 
-![Sub group selected](../images/sub_groups/sub_group_selected.jpg)
+![Sub group selected](../images/sub_groups/sub_group_selected.png)
 
 The check boxes on the left should be used in cases where you want to add multiple people to a group or sub group. In the case where you just want to add one individual person, the green (+) buttons on the right should be utilized.

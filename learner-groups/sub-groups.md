@@ -22,17 +22,17 @@ Once added, the newly created sub group (Demo Sub 1) appears as shown below. It 
 
 ### Add Multiple Sub Groups
 
-Any number of sub groups can be added automatically as well. The names will increment based on the number of sub groups desired. In this case since the Parent Group is called Demonstration, the sub groups will be named Demonstration 1 through Demonstration 12.
+Any number of sub groups can be added automatically as well. The names will increment based on the number of sub groups desired. In this case since the Parent Group is called Demonstration, the sub groups will be named Demonstration 01 through Demonstration 12.
 
-![Options displayed](../images/sub_groups/options_displayed.png)
+![options displayed](../images/sub_groups/options_displayed.png)
 
 After completing this action, the newly created (and automatically named) sub groups appear as shown below. Any of the newly created sub groups can be edited in the following ways ...
 
 ### Add Learners
 
-To add learner to any of these sub groups, first the sub group needs to be selected.
+To add learners to any of these sub groups, first the sub group needs to be selected.
 
-![Select sub group](../images/sub_groups/select_sub_group.jpg)
+![select sub group](../images/sub_groups/select_sub_group.png)
 
 See below how the screen appears after selecting "Demonstration Group 05".
 

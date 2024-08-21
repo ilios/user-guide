@@ -39,3 +39,5 @@ See below how the screen appears after selecting "Demonstration Group 05".
 ![Sub group selected](../images/sub_groups/sub_group_selected.png)
 
 The check boxes on the left should be used in cases where you want to add multiple people to a group or sub group. In the case where you just want to add one individual person, the green (+) buttons on the right should be utilized.
+
+Click [here](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/edit-group-properties/edit-group-membership) for more information on editing learner group membership.

@@ -1,8 +1,8 @@
-# Edit Membership
+## Add Learners to Group
 
-## Add Individual Learner to Group
+### Individual Learner
 
-In this example, there are no Learners in the group "Demonstration Group 05". The learner "Lawrence Alvarez" needs to be added to the group. This can be accomplished as shown below.
+In this example, there are no Learners in the group "Demonstration Group 5". The learner "Lawrence Alvarez" needs to be added to the group. This can be accomplished as shown below.
 
 ![No learners yet](../../images/edit_learner_group/group_membership/no_learners_yet.png)
 
@@ -10,7 +10,7 @@ Once the green (+) has been clicked to add "Lawrence Alvarez" to the sub group "
 
 ![Added to the Learner Group](../../images/edit_learner_group/group_membership/learner_added.png)
 
-## Add Multiple Learners to Group
+### Multiple Learners
 
 Users will need to scroll down to the lower part of the screen to access the area where Cohort members who have not been added to Demonstration Group or any of its sub groups is located.
 

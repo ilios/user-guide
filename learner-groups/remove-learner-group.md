@@ -6,7 +6,7 @@ If you have been assigned permissions to delete Learner Groups, the trash can ic
 
 ![learner groups can be deleted / removed](../images/delete_learner_group/can_be_deleted_learner_groups.png)
 
-**IMPORTANT NOTE:** Learner Groups can only be deleted if they have not been associated with any Learning Events (ILM's or Offerings), even if members are included or those sessions or course are not published. This is true even if the learner group has sub groups underneath it and those sub groups have learners attached. All that matter is that there are no offerings or ILM's associated with the learner group or any sub groups.
+**IMPORTANT NOTE:** Learner Groups can only be deleted if they have not been associated with any Learning Events (ILM's or Offerings), even if members are included or those sessions or course are not published. This is true even if the learner group has sub groups underneath it and those sub groups have learners attached. All that matter is that there are no offerings or ILM's associated with the learner group or any sub groups. Sub groups will be deleted / removed as well if a parent is removed.
 
 ### Remove Members From Learner Group
 

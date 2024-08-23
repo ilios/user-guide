@@ -12,7 +12,7 @@ If you have been assigned permissions to delete Learner Groups, the trash can ic
 
 As pointed out above, it is not required to remove learners from a learner group before deleting the group from Ilios. You may still want to do that though for reporting and accuracy purposes. Removing all members from a Learner Group can be done in bulk. A test group is shown below. Members can also be removed individually as shown below by the red arrow.
 
-![Remove individual members](../images/delete_learner_group/remove_individual_members.png)
+![remove individual members](../images/delete_learner_group/remove_individual_members.png)
 
 Once the check box has selected as shown by the action indicated by the blue arrow above, the process of removing all of the members of the current Learner Group continues as demonstrated below. 
 

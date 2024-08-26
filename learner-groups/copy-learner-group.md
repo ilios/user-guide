@@ -8,9 +8,11 @@ To copy a Learner Group, the "Copy" icon (the same icon is also used in Copy Ses
 
 Once the Copy button has been pressed (as shown above), you can either create a copy of an existing group (and any sub groups) with the same Learner membership as the one you are copying or empty to be populated later.
 
+The learner group being copied here is called "IDS 121A". Per the instructions below, the new group (post-copy) will be called "IDS 121A (copy)". It can be changed after creation.
+
 ![Copy options displayed](../images/copy_learner_group/copy_options.png)
 
-The newly created group will initially be named the same as the predecessor + \(Copy\). If you copy "Learner Group A", the new group will be called "Learner Group A \(Copy\)". After the new group is created, it may be useful to change the group's name to something else completely.
+The newly created group will initially be named the same as the predecessor + (Copy). If you copy "Learner Group A", the new group will be called "Learner Group A (Copy)". After the new group is created, it may be useful to change the group's name to something else completely.
 
 ![Learner group - copied](../images/copy_learner_group/learner_group_copied.png)
 

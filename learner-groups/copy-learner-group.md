@@ -14,7 +14,7 @@ The learner group being copied here is called "IDS 121A". Per the instructions b
 
 The newly created group will initially be named the same as the predecessor + (Copy). If you copy "Learner Group A", the new group will be called "Learner Group A (Copy)". After the new group is created, it may be useful to change the group's name to something else completely. In this example, the option to copy with learners was selected.
 
-A splash screen briefly presents itself indicating work in progress and then the newly copied learner group appears as shown below with a confirmation message appearing at the top of the learner group list.
+A splash screen briefly presents itself indicating work is in progress. Afterwards, the newly copied learner group appears as shown below with a confirmation message appearing at the top of the learner group list.
 
 ![learner group - copied](../images/copy_learner_group/new_copied_learner_group.png)
 

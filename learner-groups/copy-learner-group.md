@@ -2,11 +2,11 @@
 
 Ilios allows Learner Groups to be copied either with or without the learners. 
 
-To copy a Learner Group, the "Copy" icon (the same icon is also used in Copy Session) is used to start the process. The arrow in the screen shot below shows this icon within Learner Groups.
+To copy a Learner Group, the "Copy" icon (the same icon is also used in Copy Session) is used to start the process. The arrow in the screen shot below shows this icon within Learner Groups. Any learner group can be copied. None of the associated education activities assigned to the original group are copied - only the members if selected.
 
-![Click to copy](../images/copy_learner_group/click_to_copy.jpg)
+![click to copy](../images/copy_learner_group/click_to_copy.png)
 
-Once the Copy button has been pressed \(as shown above\), you can either create a copy of an existing group \(and any sub groups\) with the same Learner membership as the one you are copying or empty to be populated later.
+Once the Copy button has been pressed (as shown above), you can either create a copy of an existing group (and any sub groups) with the same Learner membership as the one you are copying or empty to be populated later.
 
 ![Copy options displayed](../images/copy_learner_group/copy_options.png)
 

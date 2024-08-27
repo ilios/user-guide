@@ -17,7 +17,7 @@ To specify a default location for a small group offering to take place, the foll
 
 * Select the Learner Group to modify and click "Click to edit" or if there already is a default location, it will be hyperlinked. Clicking on the text value of the default location will open the editing pane.
 
-![Default location - start](../images/learner_group_defaults/default_location_start.png)
+![default location - start](../images/learner_group_defaults/default_location_start.png)
 
 * After following the step indicated above, the "Click to edit" Default Location field changes into a text box allowing the default location to be entered manually. This is shown below. The default location has been entered for this Learner Group "HSW 322".
 
@@ -33,7 +33,7 @@ Now that it has been saved, "HSW 322" appears as a clickable hyperlink in case c
 
 The process for adding default instructor(s) is similar with the exception being you can add more than one Instructor or Instructor Group as the default.
 
-#### Add Default Instructor(s)
+### Add Default Instructor(s)
 
 **Step One**
 

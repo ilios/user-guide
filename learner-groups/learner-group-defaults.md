@@ -7,8 +7,6 @@ description: >-
 
 # Learner Group Defaults
 
-****
-
 **NOTE**: Default values for small group offerings are applied when the offerings are first created. Offerings that were saved previously will **NOT** get updated if / when the defaults are changed. The offerings retain the original values that were in place for the Learner Group default values when they were created.
 
 ## Default Location

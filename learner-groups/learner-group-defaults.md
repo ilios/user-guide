@@ -19,13 +19,13 @@ To specify a default location for a small group offering to take place, the foll
 
 * After following the step indicated above, the "Click to edit" Default Location field changes into a text box allowing the default location to be entered manually. This is shown below. The default location has been entered for this Learner Group "HSW 322".
 
-![Enter default location](../images/learner_group_defaults/enter_default_location.png)
+![enter default location](../images/learner_group_defaults/enter_default_location.png)
 
 * Click the green check box or press Enter on the keyboard to save this specification.
 
 Now that it has been saved, "HSW 322" appears as a clickable hyperlink in case changes need to be made. Small Group offerings that get created going forward will obtain this value as the Offering's location. This will not affect or update previous small group offerings associated with this learner group.
 
-![Edit default location](../images/learner_group_defaults/edit_default_location.png)
+![edit default location](../images/learner_group_defaults/edit_default_location.png)
 
 ## Default Instructor(s)
 

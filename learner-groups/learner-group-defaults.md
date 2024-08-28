@@ -35,7 +35,7 @@ The process for adding default instructor(s) is similar with the exception being
 
 **Step One**
 
-![Default instructor start - Click "Manage"](../images/learner_group_defaults/default_instructor_start.png)
+![default instructor start - click "Manage"](../images/learner_group_defaults/default_instructor_start.png)
 
 **Step Two**
 

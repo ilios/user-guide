@@ -53,7 +53,7 @@ After performing the action shown above, all 7 members of the "BMB Anatomy Lab F
 
 After confirming by clicking the check box button ...
 
-![All Default Instructors are listed - review default instructors](../images/learner_group_defaults/default_instructor_review.png)
+![default instructors listed for review](../images/learner_group_defaults/default_instructor_review.png)
 
 ## Default Virtual Learning Link
 

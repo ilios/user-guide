@@ -29,7 +29,7 @@ Now that it has been saved, "HSW 322" appears as a clickable hyperlink in case c
 
 ## Default Instructor(s)
 
-The process for adding default instructor(s) is similar with the exception being you can add more than one Instructor or Instructor Group as the default.
+The process for adding default instructor(s) is similar to adding the other default values for learner groups with the exception being you can add more than one Instructor or Instructor Group as the default. This fields allows for multiple values to be entered.
 
 ### Add Default Instructor(s)
 

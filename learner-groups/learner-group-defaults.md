@@ -61,11 +61,11 @@ After confirming by clicking as shown above in the "select default instructors" 
 
 This is used to set a default virtual learning link for this small group. Remote learning has made this important in recent years. The value can be pasted or entered as shown in an updated screen shots shown below.
 
-![Default link - add](../images/learner_group_defaults/default_link_add.png)
+![default link - add](../images/learner_group_defaults/default_link_add.png)
 
-![Default link - paste](../images/learner_group_defaults/default_link_paste.png)
+![default link - paste](../images/learner_group_defaults/default_link_paste.png)
 
-![Default link - after paste](../.gitbook/assets/dvll3.png)
+![default link - after paste](../images/learner_group_defaults/default_link_pasted.png)
 
 To finish the process, click the green confirmation button or press enter on the keyboard. Members of "Anatomy Lab Groups 01" will see the default virtual learning link in the offering detail. Every small group offering for this group will obtain these very useful default values.
 

@@ -75,7 +75,7 @@ To finish the process, click the green confirmation button or press enter on the
 
 This is used when one or more learners in a learner group require accommodations to successfully participate in remote learning activities.
 
-### Default - No
+### Default - Set to No
 
 Initially (before being set), the toggle appears as shown below. The default for any learner group is "No".
 

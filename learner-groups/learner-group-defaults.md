@@ -83,9 +83,9 @@ Initially (before being set), the toggle appears as shown below. The default for
 
 Slide the toggle over to the right by clicking it.
 
-### Set to Yes
+### Slide to Set to Yes
 
-![Needs accommodation - slide to set to "Yes"](../images/learner_group_defaults/needs_accom_set_to_yes.png)
+![needs accommodation - slide to set to "Yes"](../images/learner_group_defaults/needs_accom_set_to_yes.png)
 
 You can review and verify which learner groups have had this value set. Refer to the arrows in the screen shot below.
 

@@ -81,9 +81,9 @@ Initially (before being set), the toggle appears as shown below. The default for
 
 ![needs accommodation - default "No"](../images/learner_group_defaults/needs_accom_default_no.png)
 
-Slide the toggle over to the right by clicking it.
+Slide the toggle over to the right by clicking it as shown below.
 
-### Slide to Set to Yes
+### Slide to Set to Needs Accomodation
 
 ![needs accommodation - slide to set to "Yes"](../images/learner_group_defaults/needs_accom_set_to_yes.png)
 

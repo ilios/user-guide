@@ -61,6 +61,8 @@ After confirming by clicking as shown above in the "select default instructors" 
 
 This is used to set a default virtual learning link for this small group. Remote learning has made this important in recent years. The value can be pasted or entered as shown in an updated screen shots shown below.
 
+### Add Link
+
 ![default link - add](../images/learner_group_defaults/default_link_add.png)
 
 ![default link - paste](../images/learner_group_defaults/default_link_paste.png)
@@ -73,11 +75,15 @@ To finish the process, click the green confirmation button or press enter on the
 
 This is used when one or more learners in a learner group require accommodations to successfully participate in remote learning activities.
 
-Initially (before being set), the toggle appears as shown below. The default for any learner group is "No"
+### Default - Set to No
 
-![Needs accommodation - default "No"](../images/learner_group_defaults/needs_accom_default_no.png)
+Initially (before being set), the toggle appears as shown below. The default for any learner group is "No".
+
+![needs accommodation - default "No"](../images/learner_group_defaults/needs_accom_default_no.png)
 
 Slide the toggle over to the right by clicking it.
+
+### Set to Yes
 
 ![Needs accommodation - slide to set to "Yes"](../images/learner_group_defaults/needs_accom_set_to_yes.png)
 

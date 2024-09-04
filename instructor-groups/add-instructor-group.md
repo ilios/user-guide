@@ -42,7 +42,7 @@ After clicking the link as shown above ...
 
 For the sake of demonstration, instructors have been added to the newly created instructor group and appear as badges. They can be removed easily by simply clicking anywhere on the corresponding badge.
 
-#### Add Instructor(s)
+## Add Instructor(s)
 
 <figure>
     <img src="../images/instructor_groups_all_images/add_instructors.png" 

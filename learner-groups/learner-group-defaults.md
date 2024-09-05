@@ -89,10 +89,10 @@ Slide the toggle over to the right by clicking it as shown below.
 
 You can review and verify which learner groups have had this value set. Refer to the arrows in the screen shot below.
 
-![Needs accommodation - review](../images/learner_group_defaults/needs_accom_indicated.png)
+![needs accommodation - subgroups shown](../images/learner_group_defaults/needs_accomm_subgroups_indicated.png)
 
 These groups are subgroups. From the parent group (one level up), this is how these designations appear.
 
-![Needs accommodation - sub groups indicated](../images/learner_group_defaults/needs_accom_sub_groups.png)
+![Needs accommodation - parent group indicated](../images/learner_group_defaults/needs_accom_sub_groups.png)
 
 Learners in these groups will NOT see this anywhere in the offering view on calendar or Week at a Glance. This is only for administrative purposes.

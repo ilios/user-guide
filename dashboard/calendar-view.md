@@ -14,15 +14,15 @@ The scheduling and review of offerings can be accomplished by selecting "Courses
 
 ![click the event on the calendar](../images/calendar_view_images/calendar_event_click.png)
 
+### Event Detail View
+
+After performing the click event shown above, the [event detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) view appears.
+
 ### Multiday Events
 
 Multiday Events (those that start and end on a different day) are displayed below the calendar. Below is an example of a Thanksgiving holiday break. This appears at the bottom of the Calendar in Week or Month view.
 
 ![multi-day event displayed](../images/calendar_view_images/multi_day_event_example.png)
-
-### Event Detail View
-
-After performing the click event shown above, the [event detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) view appears.
 
 ### Additional Details
 

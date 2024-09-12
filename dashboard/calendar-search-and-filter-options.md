@@ -4,7 +4,7 @@
 
 This functionality is available to all users in all modes of view. It provides the ability to review and filter the curriculum that has been published to the calendar in a number of different ways.
 
-The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" and "Hide Filters" are the two selections made by default. Also advanced-permission users (Directors and Administrators) will initially see all of their teaching events, learning events, as well as overseen events (events in Courses and Sessions for which they have been assigned adanced roles)
+The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" and "Hide Filters" are the two selections made by default. Also advanced-permission users (Directors and Administrators) will initially see all of their teaching events, learning events, as well as overseen events (events in Courses and Sessions for which they have been assigned adanced roles). This can be changed using the buttons provided. 
 
 ### All Events 
 

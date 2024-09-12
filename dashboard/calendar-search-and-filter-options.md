@@ -4,13 +4,19 @@
 
 This functionality is available to all users in all modes of view. It provides the ability to review and filter the curriculum that has been published to the calendar in a number of different ways.
 
-The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" and "Hide Filters" are the two selections made by default.
+The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" and "Hide Filters" are the two selections made by default. Also advanced-permission users (Directors and Administrators) will initially see all of their teaching events, learning events, as well as overseen events (events in Courses and Sessions for which they have been assigned adanced roles). This can be changed using the buttons provided. 
 
-**All Events** will search and display results from the entire curriculum of the given school from any academic year.
+### All Events 
 
-**My Schedule** will display only those results which are available within the user’s current schedule. This is the default view. To get to "All Events" click the My Schedule toggle to change it to All Events as shown below. The My Schedule view will display all of the learning events to which the logged in user is associated. Learners (students) will see only the offerings that they are scheduled to attend. The view an Instructors will see is only the Offerings they are assigned as Instructor to teach.
+This will search and display results from the entire curriculum of the given school from any academic year (school events).
 
-**Important Note:** Course Directors will see all of the Offerings for the Courses they assigned to as Course Directors; however Course Administrators and Student Advisors will **NOT** see all of the Offerings initially. They are encouraged to use the filters and / or Courses and Sessions screen to review the Offerings in the Course(s) for which they have been assigned the Course Administrator or Student Advisor role.
+### My Schedule
+
+This displays only those results which are available within the user’s current schedule. This is the default view. To get to "All Events" click the My Schedule toggle to change it to All Events as shown below. The My Schedule view will display all of the learning events to which the logged in user is associated. Learners (students) will see only the offerings that they are scheduled to attend. The view an Instructors will see is only the Offerings they are assigned as Instructor to teach.
+
+**Important Note:** Course Directors and Course Administrators can choose between seeing all of the Offerings for the Courses they are assigned to as Course Directors or Administrators and seeing only the offerings for which they have been assigned as an Instructor.
+
+Student Advisors will **NOT** see all of the Offerings initially. They are encouraged to use the filters and / or Courses and Sessions screen to review the Offerings in the Course(s) for which they have been assigned the Student Advisor role.
 
 ![Select Calendar](../images/calendar_srch_images/dashboard.png)
 

@@ -4,7 +4,7 @@ Beyond the filtering options mentioned in the previous section, there are three 
 
 The Day, Week, and Month indicators (shown below) are used to switch between these time-based views.
 
-![Calendar Duration View Switcher](../images/calendar_view_images/duration_switcher.png)
+![calendar duration view switcher](../images/calendar_view_images/duration_switcher.png)
 
 ## Day View
 

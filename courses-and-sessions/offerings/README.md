@@ -2,6 +2,8 @@
 
 Offerings represent the scheduled (time and place) representation or event of a Session or teaching unit, represented on the calendar: in other words, when the curriculum for a particular session is “offered”. Offerings represent the final step for Students to see the actual time and place where they need to be in order to learn what is being offering in the Session. They also have full access to the Learning Materials for the session and course along with any other learning activities associated with the session.
 
+
+
 ## Offering Attributes
 
 The attributes of an Offering are listed and described here. For more information on using the interface to change these values, please refer to [Edit Offering](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/edit-offering).
@@ -19,10 +21,12 @@ The attributes of an Offering are listed and described here. For more informatio
   * **Selected Learner Groups**: This frame will be populated with any and all Learner Groups associated with the Offering.
   * **Available Learner Groups**: Learner Groups that are not associated with the Offering are available for selection here.
 
+## Offering Options
+
 Offerings can be created as ...
 
-* [**Single Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/create-single-offering)**:**  A single (or even multiple) event(s) for one or more Learner Groups to attend at the same time, in the same place and with the same Instructors.
-* [**Small Group Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/create-small-group-offerings)**:**  A single event or a series of events for a number of smaller Learner Groups that can be offered at the same time (or a different time) but with each individual Learner Group meeting in a different location. 
+* [**Single Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/create-single-offering)**:**  A single (or even multiple) event(s) for one or more Learner Groups to attend at the same time, in the same place and with the same Instructors. Single offerings can be saved without specifying the learner group. This information can be added later or individual learners may be added to any offering.
+* [**Small Group Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/create-small-group-offerings)**:**  A single event or a series of events for a number of smaller Learner Groups that can be offered at the same time (or a different time) but with each individual Learner Group meeting in a different location. Learner group attachment is required for small group offerings because default attributes are applied based on the groups selected. This can also be modified later.
 * [**Recurring Event**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/recurring-event)**:**  A recurring event that occurs multiple times for a specified number of weeks.  This is activated by utilizing the "Make Recurring" slider to toggle this functionality to the "On" position.
 * [**Multi-Day Event**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/multi-day-offerings)**:** Offerings that start on one day and continue on until the next or a future day are considered multi-day offerings. They are tracked in a slightly different manner than other offerings in Ilios.
 

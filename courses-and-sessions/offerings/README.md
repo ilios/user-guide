@@ -2,8 +2,6 @@
 
 Offerings represent the scheduled (time and place) representation or event of a Session or teaching unit, represented on the calendar: in other words, when the curriculum for a particular session is “offered”. Offerings represent the final step for Students to see the actual time and place where they need to be in order to learn what is being offering in the Session. They also have full access to the Learning Materials for the session and course along with any other learning activities associated with the session.
 
-
-
 ## Offering Attributes
 
 The attributes of an Offering are listed and described here. For more information on using the interface to change these values, please refer to [Edit Offering](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/edit-offering).

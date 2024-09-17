@@ -4,11 +4,16 @@
 
 This functionality is available to all users in all modes of view. It provides the ability to review and filter the curriculum that has been published to the calendar in a number of different ways.
 
-The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" and "Hide Filters" are the two selections made by default. Also advanced-permission users (Directors and Administrators) will initially see all of their teaching events, learning events, as well as overseen events (events in Courses and Sessions for which they have been assigned adanced roles). This can be changed using the buttons provided. 
+The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" and "Hide Filters" are the two selections made by default. Also advanced-permission users (Directors and Administrators) can select which events that pertain to them they want to see at any given time. The following options can be chosen but only in "My Activities" view ...
+
+**Instructing:** This will display only the events for which the logged-in user has been added as an instructor.
+**Learning:** This will display only the events for which the logged-in user has been assigned a role of "learner" either by membership in a learner group or by being assigned as an individual learner.
+**Admin:** This view will show all of the events in any course or session for which the user has been assigned a role of "Director" or "Administrator".
+**All Three (at once):** It is also possible to have all three buttons selected at the same time. This will show everything to which the logged-in user had any combination of the three roles listed above.
 
 ### All Events 
 
-This will search and display results from the entire curriculum of the given school from any academic year (school events). To get to different years which might even overlap, switch to "Month" view and scroll backwards or forwards in time using the scroll buttons provided.
+This will search and display results from the entire curriculum of the given school from any academic year (school events). To get to different years which might even overlap, switch to "Month" view and scroll backwards or forwards in time using the buttons provided.
 
 Below is a screenshot from a typical day showing the full School of Medicine schedule in each of the three duration views.
 

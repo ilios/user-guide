@@ -23,6 +23,7 @@ As seen below, "All Events" is now selected.
 **Note about Buttons:** The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a Toggle will switch the toggle to another setting. The slider could be on either side.
 
 Regardless of whether you are displaying All Events of My Schedule, there are two methods of searching (**“Search By Topic/Detail”** and **“Search By Course”**).
+
 Switching from one to the other is accomplished by clicking the correct button. The text of the toggle switches back and forth depending on which search is currently active.
 
 #### Week View

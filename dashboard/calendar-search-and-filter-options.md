@@ -8,7 +8,7 @@ The calendar is populated based on the choice made by the user choosing between 
 
 ### All Events 
 
-This will search and display results from the entire curriculum of the given school from any academic year (school events).
+This will search and display results from the entire curriculum of the given school from any academic year (school events). To get to different years which might even overlap, switch to "Month" view and scroll backwards or forwards in time using the scroll buttons provided.
 
 Below is a screenshot from a typical day showing the full School of Medicine schedule in each of the three duration views.
 

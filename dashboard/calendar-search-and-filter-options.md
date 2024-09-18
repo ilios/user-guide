@@ -98,9 +98,11 @@ In order to see all of the Lectures (Session Type) for the Class of 2024 Doctor 
 
 ![Program Detail View](../images/calendar_srch_images/program_detail_view.png)
 
-### Load Filters Based On Academic Year & School
+### Load Filters Based On School
 
-The Course List and Program/Cohort List in the filters are associated with the selection in the Academic Year Selector shown below. The lists may also be determined by the School Selector (if applicable), which is to the right of the Academic Year Selector. Only the courses or program/cohorts associated with the selected Academic Year (and School) will be available for filtering selection. This does not necessarily mean that the Course doesn't extend forward or backwards into a different Calendar or Educational year. This drop-down only and specifically controls the lists of courses and cohorts available for filtering --- not the display of information on the calendar itself, which will always show events for all available stretches of time.
+The Course List and Program/Cohort List in the filters is determined by the value selected in the School Selector drop-down (if applicable), which is available only in "All Events" mode and only if you have access to more than one school. 
+
+In "My Schedule" mode, there is no need to use this because your schedule will appear with events displayed from any applicable school. Only the courses or program/cohorts associated with the selected School will be available for filtering selection. 
 
 **Flexibility:** It is possible to select a Course or Session Type from any selected year and then go select one from another Academic Year or School if that is what you want to do.
 

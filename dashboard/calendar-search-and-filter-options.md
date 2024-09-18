@@ -106,11 +106,9 @@ In "My Schedule" mode, there is no need to use this because your schedule will a
 
 **Flexibility:** It is possible to select a Course from any selected year along with other selecatable criteria and then go select one or more courses from another Academic Year or School if that is what you want to do. All results will be displayed on the calendar for review.
 
-Detailed information is available for all search results on the calendar, however: learning materials for which the user does not already have access privileges will be visible (file name and info) but will not be downloadable.
+Detailed information is available for all search results on the calendar, however: learning materials for which the user does not already have access privileges will be visible (file name and info) but will not be downloadable. Click on any calendared event to get to ![Event Detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) to review any of the offerings or ILM's.
 
-The detail panel provides access to offering details of time, place, date, and instructor; course and session Objectives, associated learning materials, and the session description. Clicking on the Show Course Summary link at the upper right of the detail panel will open a complete listing of all sessions and their details for the entire course, including learning materials.
-
-The option is available to provide visual change alerts for calendar events. If activated in the Ilios configurations file for an institution, the alerts add a small icon to the upper left of any calendar event (day and week view only), as well as to its agenda list item listing whenever there has been an addition or update for that event. The icon would display for a set number of days after the change (configurable value, currently set to 3 days; system default was 7 days). After that, the event display returns to normal.
+The detail panel displayed in Event Detail provides access to offering details of time, place, date, and instructor; course and session Objectives, associated learning materials, and the session description. 
 
 ### Hiding the Filters
 

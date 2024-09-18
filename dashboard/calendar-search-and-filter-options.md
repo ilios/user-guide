@@ -104,7 +104,7 @@ The Course List and Program/Cohort List in the filters is determined by the valu
 
 In "My Schedule" mode, there is no need to use this because your schedule will appear with events displayed from any applicable school. Only the courses or program/cohorts associated with the selected School will be available for filtering selection. 
 
-**Flexibility:** It is possible to select a Course or Session Type from any selected year and then go select one from another Academic Year or School if that is what you want to do.
+**Flexibility:** It is possible to select a Course from any selected year along with other selecatable criteria and then go select one or more courses from another Academic Year or School if that is what you want to do. All results will be displayed on the calendar for review.
 
 Detailed information is available for all search results on the calendar, however: learning materials for which the user does not already have access privileges will be visible (file name and info) but will not be downloadable.
 

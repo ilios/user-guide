@@ -18,12 +18,11 @@ Please note: the title header of the email is auto-generated from the date of th
 
 ## Calendar Icon Notification
 
-For instructors and students, a visual alert icon on the calendar will appear when an item on the above list for a scheduled and published session has changed. The icon will remain visible for a set number of days \(the number of days may be set in the configurations file, and the default is 7\).
+A visual alert icon on the calendar will appear when an item on the above list for a scheduled and published session has changed. The icon will remain visible for a set number of days (the number of days may be set in the configurations file, and the default is 7).
 
-An example of this is shown below as an example \(indicated by the black arrows\).
+An example of this is shown below as an example (indicated by the blue arrow as an example). All of the events in the screen shot have been recently updated but to avoid visual confusion, only one arrow is provided.
 
-![Review the Update Alerts on the Calendar](../.gitbook/assets/update_icons.jpg)
-
+![recently updated alerts](../images/alerts_and_templates/updated_icons_calendar.png)
 ## Customizing Email Templates
 
 Ilios provides the ability to override email notification templates on an instance-wide as well as school-scoped basis.

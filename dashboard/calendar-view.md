@@ -10,45 +10,40 @@ The Ilios calendar displays all items in Ilios with which you are directly assoc
 
 The scheduling and review of offerings can be accomplished by selecting "Courses and Sessions" from the Ilios menu. Although the scheduling of the offerings / events occurs on this screen, the event itself will appear on the Calendar at the corresponding date / time. These events will also be displayed in any linked calendars.
 
-## Calendar View
 
 ![click the event on the calendar](../images/calendar_view_images/calendar_event_click.png)
 
-### Event Detail View
+## Event Detail View
 
 After performing the click event shown above, the [event detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) view appears.
 
-### Multiday Events
+## Multiday Events
 
 Multiday Events (those that start and end on a different day) are displayed below the calendar. Below is an example of a Thanksgiving holiday break. This appears at the bottom of the Calendar in Week or Month view.
 
 ![multi-day event displayed](../images/calendar_view_images/multi_day_event_example.png)
 
-### Additional Details
+## Additional Details
 
 You can also hover over an event with your mouse to retrieve and display more details pertaining to that event without having to leave the Calendar.
 
 ![Hover Over for Details](../images/calendar_view_images/calendar_hover.png)
 
-### Color Coding
+## Color Coding
 
 The Calendar display presents Session Offerings with different background colors. These colors indicate the type of learning activity for the Offering. These colors can be customized in Ilios. They are configurable at the school level.
 
 [Session Types](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types) can be customized.
 
-### Non-Learner Calendar View
+## Non-Learner Calendar View
 
-It is important to note that non-students Ilios users **WILL** see offerings for their courses / sessions that have not been published yet. Students will **never** see these unless they happen to perform a non-student function such as being an Instructor, Course Administrator / Director, Session Administrator, or School Administrators / Director. These users will see the "Not Published" session offerings. Below is an example showing this view.
+It is important to note that non-students Ilios users with advanced permissions such as session or course administrator or director **WILL** see offerings for their courses / sessions that have not been published yet. Students will **never** see these unless they happen to perform a non-student function such as being an Instructor, Course Administrator / Director, Session Administrator, or School Administrators / Director. These users will see the "Not Published" session offerings. Below is an example showing this view.
 
 Icon indicating "Not Published" status: 
 
 ![Unpublished Icon](../images/calendar_view_images/unpublished.png)
 
 ![A few tips ...](../images/calendar_view_images/calendar_tips.png)
-
-### CSS Override
-
-With the advent of Ilios 3.x, the application is served up from the front end. This means that overriding the CSS and performing CSS customizations is not currently supported but may be at a later date.
 
 ## Accessing Learning Materials via Calendar Feed
 

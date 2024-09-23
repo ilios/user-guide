@@ -10,6 +10,7 @@
   * [Calendar View](dashboard/calendar-view.md)
     * [Duration Options](dashboard/calendar-view-options.md)
     * [Search & Filter Options](dashboard/calendar-search-and-filter-options.md)
+    * [All Events](dashboard/all_events.md)
   * [Event Detail](dashboard/event-detail-view.md)
   * [My Profile](dashboard/my-profile.md)
   * [Language Selector](dashboard/language-selector.md)

@@ -16,15 +16,23 @@ This toolbar appears for Ilios users who are involved with activities other than
 There are a total of four different combinations of selections on these so-called "event context buttons". The selection here determines which events appear on the calendar. In a nutshell, the options are as follows ...
  
 ## Instructing
+
 Choosing this option means that only the events for which the logged-in user is attached as an instructor will appear on the calendar indicating their instructional schedule.
 
+This is shown below. Only the events associated with the logged-in user as the instructor are shown. Any other events are hidden in this context. 
+
+!["Instructing" selected](../images/calendar_view_images/context_instructing.png)
+
 ## Learning
+
 This option will display all of the events in this user's learning schedule. This means all of the offerings or ILM's for which they are included in an associated learner group appear on their calendar along with any offerings or ILM's to which they have been added as an Individual learner (not as a member of any group).
 
 ## Admin
+
 Choosing "Admin" results in all "overseen" offerings or ILM's to be displayed. This is mainly for course directors or administrators but it also applies to session administrators if assigned at that level. The "Admin" view is shown below.
 
 !["Admin" selected](../images/calendar_view_images/event_context_buttons.png)
 
 ## All Three Selected
+
 It is possible (and easy) to have all three of the above buttons selected at the same time. All three of the activities for the logged-in user appear when this is the case (Instructing, Learning, and Admin). If any one button is selected, click on the same button again. The result of this action will be that all three buttons are now selected. Click any one button again and that will have that one now be selection.

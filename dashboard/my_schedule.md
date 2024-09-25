@@ -11,6 +11,8 @@ The screen shot below shows what a typical student would see after clicking "Cal
 
 ## Event Context Buttons
 
+This toolbar appears for Ilios users who are involved with activities other than learning. This includes being attached as an instructor to offerings or ILM's, as an administrator or director of a course, or administrator of one or more sessions. The toolbar containing these event context buttons is shown below with the "Admin" button selected. 
+
 There are a total of four different combinations of selections on these so-called "event context buttons". The selection here determines which events appear on the calendar. In a nutshell, the options are as follows ...
  
 ### Instructing
@@ -20,11 +22,9 @@ Choosing this option means that only the events for which the logged-in user is 
 This option will display all of the events in this user's learning schedule. This means all of the offerings or ILM's for which they are included in an associated learner group appear on their calendar along with any offerings or ILM's to which they have been added as an Individual learner (not as a member of any group).
 
 ### Admin
-Choosing "Admin" results in all "overseen" offerings or ILM's to be displayed. This is mainly for course directors or administrators but it also applies to session administrators if assigned at that level.
+Choosing "Admin" results in all "overseen" offerings or ILM's to be displayed. This is mainly for course directors or administrators but it also applies to session administrators if assigned at that level. The "Admin" view is shown below.
+
+!["Admin" selected](../images/calendar_view_images/event_context_buttons.png)
 
 ### All Three at Once
 It is possible (and easy) to have all three of the above buttons selected at the same time. All three of the activities for the logged-in user appear when this is the case (Instructing, Learning, and Admin). If any one button is selected, click on the same button again. The result of this action will be that all three buttons are now selected. Click any one button again and that will have that one now be selection.
-
-This toolbar appears for Ilios users who are involved with activities other than learning. This includes being attached as an instructor to offerings or ILM's, as an administrator or director of a course, or administrator of one or more sessions. The toolbar containing these event context buttons is shown below with the "Admin" button selected. 
-
-!["Admin" selected](../images/calendar_view_images/event_context_buttons.png)

@@ -38,3 +38,11 @@ Choosing "Admin" results in all "overseen" offerings or ILM's to be displayed. T
 ## All Three Selected
 
 It is possible (and easy) to have all three of the above buttons selected at the same time. All three of the activities for the logged-in user appear when this is the case (Instructing, Learning, and Admin). If any one button is selected, click on the same button again. The result of this action will be that all three buttons are now selected. Click any one button again and that will have that one now be selection.
+
+After clicking a second time on "Admin" or any of the other individual options if selected, all three buttons appear selected at the same time. This is true. The events from all three in any combination will all appear together on the Calendar.
+
+Look closely and it is evident all three of the previous views have been combined into one event. It is possible to be both an instructor and course director. Events of this nature will not be duplicated on the calendar screen and will be displayed only once.
+
+Here is the view with all three buttons selected. 
+
+![all three buttons selected](../images/calendar_view_images/context_all_selected.png)

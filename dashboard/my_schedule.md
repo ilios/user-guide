@@ -27,6 +27,8 @@ This is shown below. Only the events associated with the logged-in user as the i
 
 This option will display all of the events in this user's learning schedule. This means all of the offerings or ILM's for which they are included in an associated learner group appear on their calendar along with any offerings or ILM's to which they have been added as an Individual learner (not as a member of any group).
 
+!["Learning" selected](../images/calendar_view_images/context_learning.png)
+
 ## Admin
 
 Choosing "Admin" results in all "overseen" offerings or ILM's to be displayed. This is mainly for course directors or administrators but it also applies to session administrators if assigned at that level. The "Admin" view is shown below.

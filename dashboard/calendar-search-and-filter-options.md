@@ -1,50 +1,21 @@
-# Calendar Search & Filter Options
+---
+description: >-
+  This functionality is available to all users in all modes of view. It provides
+  many calendar viewing options.
+---
 
 ## Calendar Search/Filter
 
-This functionality is available to all users in all modes of view. It provides the ability to review and filter the curriculum that has been published to the calendar in a number of different ways.
-
-The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" and "Hide Filters" are the two selections made by default. Also advanced-permission users (Directors and Administrators) can select which events that pertain to them they want to see at any given time. The following options can be chosen but only in "My Activities" view ...
-
-**Instructing:** This will display only the events for which the logged-in user has been added as an instructor.
-**Learning:** This will display only the events for which the logged-in user has been assigned a role of "learner" either by membership in a learner group or by being assigned as an individual learner.
-**Admin:** This view will show all of the events in any course or session for which the user has been assigned a role of "Director" or "Administrator".
-**All Three (at once):** It is also possible to have all three buttons selected at the same time. This will show everything to which the logged-in user had any combination of the three roles listed above.
-
-### All Events 
-
-This will search and display results from the entire curriculum of the given school from any academic year (school events). To get to different years which might even overlap, switch to "Month" view and scroll backwards or forwards in time using the buttons provided.
-
-Below is a screenshot from a typical day showing the full School of Medicine schedule in each of the three duration views.
-
-To switch to "All Events", click as shown below.
-
-![Swich to All Events](../images/calendar_srch_images/all_events_click_demo.png)
-
-As seen below, "All Events" is now selected.
-
-![All Events selected](../images/calendar_srch_images/all_events_view_demo.png)
+The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" and "Hide Filters" are the two selections made by default. This can be easily switched to "All Events" to see all activity in the selected school.
 
 **Note about Buttons:** The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a Toggle will switch the toggle to another setting. The slider could be on either side.
 
-Regardless of whether you are displaying All Events of My Schedule, there are two methods of searching (**“Search By Topic/Detail”** and **“Search By Course”**).
+Regardless of whether you are displaying All Events or My Schedule, there are two methods of searching (**“Search By Topic/Detail”** and **“Search By Course”**).
 
 Switching from one to the other is accomplished by clicking the correct button. The text of the toggle switches back and forth depending on which search is currently active.
 
-#### Week View
 
-Since this is the default view, let's show this one first: 
-
-Options selected here ...
-
-Option One - `All Events` 
-Option Two - `Hide Filters` 
-Option Three - School of Medicine has been selected from the drop-down. If you (like many Ilios users) have access to only one school, your school will be there automatically and the drop-down will not appear.
-
-![All Events - Week View](../images/calendar_srch_images/all_school_events_week_view.png)
-
-
-### My Schedule
+## My Schedule
 
 This displays only those results which are available within the user’s current schedule. This is the default view. To get to "All Events" click the My Schedule toggle to change it to All Events as shown below. The My Schedule view will display all of the learning events to which the logged in user is associated. Learners (students) will see only the offerings that they are scheduled to attend. The view an Instructors will see is only the Offerings they are assigned as Instructor to teach.
 
@@ -119,3 +90,19 @@ The detail panel displayed in Event Detail provides access to offering details o
 ### Expert Tip
 
 It is also possible to combine filters between the two filter types. In other words, you can use the "Course / Type" filter, add one or more criteria, and then use the "Details" filter, adding more criteria from there. You can do a combination filter from both filter types.
+
+## Duration Options
+
+You can specify that a calendar be displayed in Day, Week, or Month viewing modes.
+
+### Week View
+
+Since this is the default view, let's show this one first: 
+
+Options selected here ...
+
+Option One - `All Events` 
+Option Two - `Hide Filters` 
+Option Three - School of Medicine has been selected from the drop-down. If you (like many Ilios users) have access to only one school, your school will be there automatically and the drop-down will not appear.
+
+![All Events - Week View](../images/calendar_srch_images/all_school_events_week_view.png)

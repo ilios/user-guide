@@ -11,6 +11,8 @@ The screen shot below shows what a typical student would see after clicking "Cal
 
 # Event Context Buttons
 
+Users with multiple roles in Ilios can select which events that pertain to them they want to see at any given time. This is accomplished using the Event Context buttons detailed below. 
+
 This toolbar appears for Ilios users who are involved with activities other than learning. This includes being attached as an instructor to offerings or ILM's, as an administrator or director of a course, or administrator of one or more sessions. The toolbar containing these event context buttons is shown below with the "Admin" button selected. 
 
 There are a total of four different combinations of selections on these so-called "event context buttons". The selection here determines which events appear on the calendar. In a nutshell, the options are as follows ...

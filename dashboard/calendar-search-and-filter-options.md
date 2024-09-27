@@ -1,10 +1,6 @@
----
-description: >-
-  This functionality is available to all users in all modes of view. It provides
-  many calendar viewing options.
----
+# Calendar Search/Filter
 
-## Calendar Search/Filter
+This functionality is available to all users in all modes of view. It provides many calendar viewing options.
 
 The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" and "Hide Filters" are the two selections made by default. This can be easily switched to "All Events" to see all activity in the selected school.
 
@@ -13,7 +9,6 @@ The calendar is populated based on the choice made by the user choosing between 
 Regardless of whether you are displaying All Events or My Schedule, there are two methods of searching (**“Search By Topic/Detail”** and **“Search By Course”**).
 
 Switching from one to the other is accomplished by clicking the correct button. The text of the toggle switches back and forth depending on which search is currently active and which is not being used.
-
 
 ## My Schedule
 
@@ -39,7 +34,7 @@ The toggles now appear as shown below with the filters activated and visible.
 
 ![Filters Activated](../images/calendar_srch_images/filters_displayed.png)
 
-### Search By Course / Session Type
+### By Course / Session Type
 
 This search option allows the user to search and display all of the activities for any course in the selected academic year and school. That course selection can be further filtered for specific session types.
 
@@ -55,7 +50,7 @@ In order to see all of the Sessions related to the Airways, Blood, and Circulati
 
 In any of these search modes, a search is automatically performed once the corresponding check boxes have been selected. The Calendar will reload with the results.
 
-### Search By Program Detail
+### By Program Detail
 
 Switch to a "Program Detail" search as shown below.
 

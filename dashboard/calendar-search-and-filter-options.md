@@ -12,7 +12,7 @@ The calendar is populated based on the choice made by the user choosing between 
 
 Regardless of whether you are displaying All Events or My Schedule, there are two methods of searching (**“Search By Topic/Detail”** and **“Search By Course”**).
 
-Switching from one to the other is accomplished by clicking the correct button. The text of the toggle switches back and forth depending on which search is currently active.
+Switching from one to the other is accomplished by clicking the correct button. The text of the toggle switches back and forth depending on which search is currently active and which is not being used.
 
 
 ## My Schedule

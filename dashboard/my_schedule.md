@@ -33,7 +33,7 @@ This option will display all of the events in this user's learning schedule. Thi
 
 Choosing "Admin" results in all "overseen" offerings or ILM's to be displayed. This is mainly for course directors or administrators but it also applies to session administrators if assigned at that level. The "Admin" view is shown below.
 
-!["Admin" selected](../images/calendar_view_images/event_context_buttons.png)
+!["Admin" selected](../images/calendar_view_images/context_admin.png)
 
 ## All Three Selected
 

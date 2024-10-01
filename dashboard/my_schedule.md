@@ -3,6 +3,16 @@ description: >-
   This section shows all of the options available on the calendar when "My Schedule" (the default) is selected.
 ---
 
+# My Schedule
+
+This displays only those results which are available within the user’s current schedule. This is the default view. To get to "All Events" click the My Schedule toggle to change it to All Events as shown below. The My Schedule view will display all of the learning events to which the logged in user is associated. Learners (students) will see only the offerings that they are scheduled to attend. The view an Instructors will see is only the Offerings they are assigned as Instructor to teach.
+
+**Important Note:** Course Directors and Course Administrators can choose between seeing all of the Offerings for the Courses they are assigned to as Course Directors or Administrators and seeing only the offerings for which they have been assigned as an Instructor or Learner.
+
+Student Advisors will **NOT** see all of the Offerings initially. They are encouraged to use the filters and / or Courses and Sessions screen to review the Offerings in the Course(s) for which they have been assigned the Student Advisor role.
+
+![Select Calendar](../images/calendar_srch_images/dashboard.png)
+
 # Student-Only View 
 
 The screen shot below shows what a typical student would see after clicking "Calendar" from the Dashboard. "My Schedule" is the default when any Ilios user accesses the Calendar. This student has not been assigned any teaching or administrative roles in Ilios yet. If their record were to be retrieved from the Admin Console by a user with more advanced privileges, the "Performs Non-Learner Functions" would be set to "No" by the system. They do not see the Ilios flyout menu or the Event View Settings toolbar until they have been assigned non-learner activities in Ilios. 

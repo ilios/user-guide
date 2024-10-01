@@ -3,11 +3,9 @@ description: >-
   This section shows all of the options available on the calendar when "My Schedule" (the default) is selected.
 ---
 
-# My Schedule
+My Schedule displays only those results which are available within the user’s current schedule. This is the default view. To get to "All Events" click the My Schedule toggle to change it to All Events as shown below. The My Schedule view will display all of the learning events to which the logged in user is associated. Learners (students) will see only the offerings that they are scheduled to attend. The view an Instructors will see is only the Offerings they are assigned as Instructor to teach.
 
-This displays only those results which are available within the user’s current schedule. This is the default view. To get to "All Events" click the My Schedule toggle to change it to All Events as shown below. The My Schedule view will display all of the learning events to which the logged in user is associated. Learners (students) will see only the offerings that they are scheduled to attend. The view an Instructors will see is only the Offerings they are assigned as Instructor to teach.
-
-**Important Note:** Course Directors and Course Administrators can choose between seeing all of the Offerings for the Courses they are assigned to as Course Directors or Administrators and seeing only the offerings for which they have been assigned as an Instructor or Learner.
+**Important Note:** Course Directors and Course Administrators can choose between seeing all of the Offerings for the Courses they are assigned to as leadership and seeing only the offerings for which they have been assigned as an Instructor or Learner or all three options at once. These event context buttons are detailed [here](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view/my_schedule#event-context-buttons).
 
 Student Advisors will **NOT** see all of the Offerings initially. They are encouraged to use the filters and / or Courses and Sessions screen to review the Offerings in the Course(s) for which they have been assigned the Student Advisor role.
 

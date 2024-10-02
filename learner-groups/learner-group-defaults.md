@@ -95,4 +95,4 @@ These groups are subgroups. From the parent group (one level up), this is how th
 
 ![Needs accommodation - parent group indicated](../images/learner_group_defaults/needs_accomm_parent_group.png)
 
-Learners in these groups will NOT see this anywhere in the offering view on calendar or Week at a Glance. This is only for administrative purposes.
+Learners in these groups will NOT see this anywhere in the offering view on any calendar view, Week at a Glance, or by calendar feed. This is only for administrative purposes.

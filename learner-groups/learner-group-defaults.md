@@ -89,10 +89,16 @@ Slide the toggle over to the right by clicking it as shown below.
 
 You can review and verify which learner groups have had this value set. Refer to the arrows in the screen shot below.
 
-![needs accommodation - subgroups shown](../images/learner_group_defaults/needs_accomm_subgroups_indicated.png)
+![needs accommodation - subgroups shown](../images/learner_group_defaults/needs_accom_subgroups_indicated.png)
 
 These groups are subgroups. From the parent group (one level up), this is how these designations appear.
 
-![Needs accommodation - parent group indicated](../images/learner_group_defaults/needs_accomm_parent_group.png)
+![Needs accommodation - parent group view](../images/learner_group_defaults/mouse_over_callout.png)
 
 Learners in these groups will NOT see this anywhere in the offering view on any calendar view, Week at a Glance, or by calendar feed. This is only for administrative purposes.
+
+### Mouse-over Details
+
+Using the mouse to hover over the sub groups listing and "needs accommodation" icon will reveal a callout box detailing which sub groups need accommodation. This is shown below. 
+
+![sub groups shown](../images/learner_group_defaults/callout_details.png)

@@ -20,9 +20,9 @@ Clicking further down at each level will reveal the appropriate detail.
 
 ![Competency Domain Level (Medical Knowledge)](../images/programs/objective_map_visualization/competency_domain_level.png)
 
-![Program Year Objective Level (MK1)](../images/programs/objective_map_visualization/program_year_objective_level.png)
+![program year objective level (MK1)](../images/programs/objective_map_visualization/program_year_objective_level.png)
 
 It is also possible to go down to the Course Objective level, which is the lowest level of this visualization. 
 
-![Course objective level](../images/programs/objective_map_visualization/course_objective_level.png)
+![course objective level](../images/programs/objective_map_visualization/course_objective_level.png)
 

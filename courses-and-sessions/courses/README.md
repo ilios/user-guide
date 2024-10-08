@@ -99,7 +99,7 @@ This shows the Course detail screen (once a Course has been selected and Details
 ### Lower part of screen
 
 1. **Competencies**: opens up the list of Competencies associated with this Course
-2. **Terms**: opens up Terms for this Course
+2. **Terms**: opens up the screen to be used for the maintenance of Vocabulary Terms associated with this Course
 3. **Manage MeSH**: opens up MeSH Manager for this Course
 4. **Manage Cohorts**: to add or remove Cohorts from the Course
 5. **Hide Details**: hides all Course Details with the exception of the [Course Summary Details](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-course#course-summary-details)

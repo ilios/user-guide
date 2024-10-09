@@ -20,9 +20,9 @@ The first step is to find a user whose schedule you would like to view. This pro
 
 ### Select User
 
-![Select user](../images/admin_console/calendar_preview/select_user.jpg)
+![Select user](../images/admin_console/calendar_preview/select_user.png)
 
-Once this user "Dabney Orton" has been selected, his calendar can be shown right here on the Admin Console screen. Click as shown below to get the calendar to become displayed here. 
+Once this user "Walter Stephanie Powell" has been selected, this individual's calendar can be displayed right here on the Admin Console screen. Click as shown below to get the calendar displayed. 
 
 ### Display Calendar
 

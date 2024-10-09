@@ -36,6 +36,6 @@ The calendar for the user "Walter Stephanie Powell" is displayed below.
 
 ![sample calendar](../images/admin_console/calendar_preview/sample_calendar.png)
 
-You can scroll using the forward and backward buttons to any week. Only week view is available at this time. Also, mousing over the events will produce a call out with the details of the event. It does NOT link to Event Detail like the Dashboard Calendar does.
+You can scroll using the forward and backward buttons to any week. Only week view is available at this time in the Admin Console calendar. Also, mousing over the events will produce a call out with the details of the event. It does NOT link to Event Detail like the Dashboard Calendar does.
 
-![Mouse-over](../images/admin_console/calendar_preview/mouse_over.jpg)
+![mouse-over for details](../images/admin_console/calendar_preview/mouse_over.png)

@@ -32,7 +32,9 @@ The intial setting in this view is "Hide Calendar". After clicking as shown belo
 
 ### Sample Calendar
 
-![Sample calendar](../images/admin_console/calendar_preview/sample_calendar.jpg)
+The calendar for the user "Walter Stephanie Powell" is displayed below.
+
+![sample calendar](../images/admin_console/calendar_preview/sample_calendar.png)
 
 You can scroll using the forward and backward buttons to any week. Only week view is available at this time. Also, mousing over the events will produce a call out with the details of the event. It does NOT link to Event Detail like the Dashboard Calendar does.
 

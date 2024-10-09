@@ -26,7 +26,9 @@ Once this user "Walter Stephanie Powell" has been selected, this individual's ca
 
 ### Display Calendar
 
-![Display calendar](../images/admin_console/calendar_preview/click_to_display_calendar.png)
+The intial setting in this view is "Hide Calendar". After clicking as shown below, the calendar for the selected user will be displayed. 
+
+![display calendar](../images/admin_console/calendar_preview/display_calendar.png)
 
 ### Sample Calendar
 

@@ -1,4 +1,6 @@
-Courses can be "rolled over" into a different (future) academic year or they can be rolled over into the current academic year. This could be if a Course is offered in the Fall and then again in the Spring, for example. They can also be rolled over into the previous academic year (one year back only).
+Courses can be "rolled over" into a different (future) academic year, into the same academic year, or even into the previous academic year (one year back only). An example of rolling a course over into the same year could be if a Course is offered in the Fall and then again in the Spring.
+
+The concept of "rolling" a Course over is basically making a copy of it with the intent of using the structure (with or without offerings) again. This eliminates the need to re-enter all of this information, saving time and effort.
 
 A Course that can be rolled over in Ilios will have the Course Rollover icon displayed. 
 

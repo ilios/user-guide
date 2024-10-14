@@ -2,7 +2,7 @@ Courses can be "rolled over" into a different (future) academic year, into the s
 
 The concept of "rolling" a Course over is basically making a copy of it with the intent of using the structure (with or without offerings) again. This eliminates the need to re-enter all of this information, saving time and effort.
 
-A Course that can be rolled over in Ilios will have the Course Rollover icon displayed. 
+A Course that can be rolled over in Ilios will have the Course Rollover icon displayed. The location and appearance of this is shown below.
 
 ![course rollover icon location](../../images/course_rollover/course_rollover_button.png)
 

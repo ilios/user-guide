@@ -6,17 +6,19 @@ Before accidentally uploading a potential duplicate Learning Material file, link
 
 ## Perform Search
 
-The screen shot below shows the Learning Material section for a Course. A search was performed for the value 'ground school obj'.
+The screen shot below shows the Learning Material section for a Course. A search was performed for the value 'ground school obj'. The course "Ground School" in the 2024 academic year has been selected and opened along with "Show Details" in order to get to Learning Material maintenance at the course level.
 
-Just select one of the results and it will be attached to the Course. The process of attaching existing Learning Materials or uploading new Learning Materials at the Session level is very similar to doing this at the Course level.
+### Enter Search Criteria
 
-**Search for LM**
+![Search for LM](../../images/course_learning_materials/enter_search_criteria_lm.png)
 
-![Search for LM](../../images/course_learning_materials/search_for_course_lm.jpg)
+Select one of the results to be attached to the Course. The process of attaching existing Learning Materials or uploading new Learning Materials at the Session level is very similar to doing this at the Course level.
 
 ## Attach File
 
-**Select File to Attach**
+After performing the search as shown in the preceding section, click anywhere indicated by the shading to select the learning material file or link to attach at the course level.
+
+### Select File to Attach
 
 ![Select LM](../../images/course_learning_materials/search\_for\_course\_lm\_2.jpg)
 

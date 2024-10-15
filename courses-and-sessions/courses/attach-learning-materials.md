@@ -14,13 +14,15 @@ The screen shot below shows the Learning Material section for a Course. A search
 
 Select one of the results to be attached to the Course. The process of attaching existing Learning Materials or uploading new Learning Materials at the Session level is very similar to doing this at the Course level.
 
-## Attach File
+## Attach Existing File
 
-After performing the search as shown in the preceding section, click anywhere indicated by the shading to select the learning material file or link to attach at the course level.
+After performing the search as shown in the preceding section, click anywhere indicated by the shading to select the existing (already used or uploaded) learning material object to attach at the course level.
 
 ### Select File to Attach
 
 ![select LM](../../images/course_learning_materials/select_course_lm.png)
+
+**NOTE:** The above steps are for adding an existing (already uploaded or used) learning material object. There is no need to access the "Add >" drop-down. Use the "Add >" drop-down only when new (not uploaded or used yet) learning material objects needs to be attached to the course. 
 
 ## Update Meta-Data
 

@@ -10,7 +10,7 @@ The screen shot below shows the Learning Material section for a Course. A search
 
 ### Enter Search Criteria
 
-![Search for LM](../../images/course_learning_materials/enter_search_criteria_lm.png)
+![search for LM](../../images/course_learning_materials/enter_search_criteria_lm.png)
 
 Select one of the results to be attached to the Course. The process of attaching existing Learning Materials or uploading new Learning Materials at the Session level is very similar to doing this at the Course level.
 
@@ -20,7 +20,7 @@ After performing the search as shown in the preceding section, click anywhere in
 
 ### Select File to Attach
 
-![Select LM](../../images/course_learning_materials/search\_for\_course\_lm\_2.jpg)
+![select LM](../../images/course_learning_materials/select_course_lm.png)
 
 ## Update Meta-Data
 

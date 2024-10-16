@@ -8,9 +8,9 @@ If you are certain that a Learning Material object does not exist in the reposit
 
 ## Show Course Details
 
-If a Course is not already in the expanded view, click "Show Details" to expand the Course's details (Learning Materials is one of these details).
+By default a course is not initially displayed in the expanded view. Click "Show Details" to expand the course's details (Learning Materials is one of these details).
 
-![Show Details](../../images/course_learning_materials/show_details.jpg)
+![show details](../../images/course_learning_materials/show_course_details.png)
 
 Scroll down to the Learning Materials section of the page. Click the Add button to select which type of Learning Material will be attached to the Course.
 

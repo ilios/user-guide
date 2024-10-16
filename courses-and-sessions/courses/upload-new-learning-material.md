@@ -1,6 +1,6 @@
 # Upload New Learning Material
 
-If you are certain that a Learning Material object does not exist in the repository, Ilios allows simple and easy uploading of new Learning Material\(s\). To upload a new Learning Material object to a Session or Course, the following steps should prove to be helpful.
+If you are certain that a Learning Material object does not exist in the repository since the file or link is newly created or updated, Ilios allows simple and easy uploading of new Learning Material(s). 
 
 ## Select a Course
 

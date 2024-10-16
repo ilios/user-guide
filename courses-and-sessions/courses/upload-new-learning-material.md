@@ -4,11 +4,11 @@ If you are certain that a Learning Material object does not exist in the reposit
 
 ## Select a Course
 
-![Select Course](../../images/course_learning_materials/learning_material_add_1.jpg)
+![select course](../../images/course_learning_materials/select_course_for_lm_attach.png)
 
 ## Show Course Details
 
-If a Course is not already in the expanded view, click "Show Details" to expand the Course's details \(Learning Materials is one of these details\).
+If a Course is not already in the expanded view, click "Show Details" to expand the Course's details (Learning Materials is one of these details).
 
 ![Show Details](../../images/course_learning_materials/show_details.jpg)
 

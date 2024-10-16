@@ -18,7 +18,7 @@ Scroll down to the Learning Materials section of the page. Click the Add button 
 
 After selecting the Learning Material type, when "File" is selected, the screen appears as follows allowing the user to enter and or select some initial data attributes about the file being selected.
 
-![Add initial data](../../images/course_learning_materials/add_lm_2.jpg)
+![add initial data](../../images/course_learning_materials/add_lm_2.jpg)
 
 ## Enter Learning Material Meta-Data
 

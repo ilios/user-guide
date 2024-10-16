@@ -14,7 +14,7 @@ By default a course is not initially displayed in the expanded view. Click "Show
 
 Scroll down to the Learning Materials section of the page. Click the Add button to select which type of Learning Material will be attached to the Course.
 
-![Select LM type](../../images/course_learning_materials/add_lm_1.jpg)
+![select LM type](../../images/course_learning_materials/add_course_lm_file_selected.png)
 
 After selecting the Learning Material type, when "File" is selected, the screen appears as follows allowing the user to enter and or select some initial data attributes about the file being selected.
 

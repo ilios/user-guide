@@ -33,9 +33,11 @@ description: >-
 
 ![Learning Material - citation](../images/icons_explained/lm_citation.png)
 
-![Learning Material - required (won't appear if optional)](../images/icons_explained/lm_reqd.png)
+![Learning Material - required](../images/icons_explained/lm_reqd.png)
 
-![Learning Material - Not Available Yet](../images/icons_explained/not_avail_yet.png)
+The icon above will not appear if the learning material's usage is optional - not required.
+
+![Learning Material - not available yet](../images/icons_explained/not_avail_yet.png)
 
 ### Recently updated
 ![Learning Event - recently updated](../images/icons_explained/recently_updated.png)

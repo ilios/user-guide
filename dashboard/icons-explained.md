@@ -61,7 +61,9 @@ This button is conveniently located just to the right of the "Calendar" button. 
 ## Non-learner Facing Icons
 
 ### Name Record Icons
-![Campus Name of Record - if different from Ilios user name, this icon appears.](../images/icons_explained/campus_name.png)
+![Campus Name of Record](../images/icons_explained/campus_name.png)
+
+The above icon appears if the campus name of record is different from the Ilios user name. See below for more information.
 
 **NOTE**: Mousing over the informational icon as it pertains to user name will provide the campus name of record. An example is shown below (from the Admin Console) after pulling up the user record. The user's name was originally "Nicholas Ann Gutierrez" rather than what it currently is in Ilios "Dabney Gutierrez".
 

@@ -72,5 +72,5 @@ This button is conveniently located just to the right of the "Calendar" button. 
 
 The icon below is displayed on the Calendar when an offering has not yet been published. Only Ilios users with non-student user roles will see these on the Calendar. Students only see published offerings.
 
-### Not published Offering
+### Unpublished Offering
 ![Unpublished Offering on Calendar](../images/icons_explained/unpubiished_icon.png)

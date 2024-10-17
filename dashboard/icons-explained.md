@@ -61,16 +61,18 @@ This button is conveniently located just to the right of the "Calendar" button. 
 ## Non-learner Facing Icons
 
 ### Name Record Icons
-![Campus Name of Record](../images/icons_explained/campus_name.png)
+![campus name of record](../images/icons_explained/campus_name.png)
 
 The above icon appears if the campus name of record is different from the Ilios user name. See below for more information.
 
 **NOTE**: Mousing over the informational icon as it pertains to user name will provide the campus name of record. An example is shown below (from the Admin Console) after pulling up the user record. The user's name was originally "Nicholas Ann Gutierrez" rather than what it currently is in Ilios "Dabney Gutierrez".
 
-![Name in Ilios](../images/icons_explained/name_in_ilios.png)
+![name in Ilios](../images/icons_explained/name_in_ilios.png)
 
 ### Pre-work attached
-![Pre-work attached (Session can't be deleted when this is the case)](../images/icons_explained/pre_work_icon.png)
+![Pre-work attached](../images/icons_explained/pre_work_icon.png)
+
+Sessions can't be deleted when this is the case.
 
 The icon below is displayed on the Calendar when an offering has not yet been published. Only Ilios users with non-student user roles will see these on the Calendar. Students only see published offerings.
 

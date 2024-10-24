@@ -1,13 +1,13 @@
-# Add Parent Objective\(s\)
+# Add Parent Objective(s)
 
-As mentioned before, Session Objectives can have one or more Parent Objectives. Session Objectives are linked to Course Objectives, which in turn are linked to Program Year Competencies (which may include Competency Domains).
+As mentioned before, Session Objectives can have one or more Parent Objectives. Session Objectives are linked to Course Objectives, which in turn should be linked to Program Year Competencies (which may include Competency Domains).
 
-To add Parent Objectives to Session Objectives ...
+To add one or more parent (Course) Objectives to Session Objectives ...
 
-* Pull up and select a Session and review the list of Session Objectives.
+* Pull up and select a Session and review the list of Session Objectives
 * Expand the Objectives to display the list.  
 
-![Get Details](../../images/add_session_obj_parent/get_details.jpg)
+![get details](../../images/add_session_obj_parent/get_details.png)
 
 Once the list has been expanded, select the Session Objective that needs to have a Parent Objective associated to it. In the case shown below, the second Session Objective is lacking a Parent Objective.
 

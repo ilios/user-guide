@@ -14,13 +14,13 @@ Course objectives can have one or more associations with parent (program year) o
 
 ### Change Parent Objective
 
-To **Change** the Parent Objective ...
+To **Change** the Parent Objective, follow the steps below starting with "select a different parent / program year objective" and concluding with "click to confirm and process the save".
 
 ![select new parent / program year objective](../../images/course_objectives/select_new_parent.png)
 
 ### Remove Parent Objective 
 
-To **Remove** the Parent Objective association ...
+To **Remove** the Parent Objective association, follow the steps detailed in the screen shot below starting with "click to de-select the parent / program year obective" and concluding with "click to confirm and save".
 
 ![Remove Parent Objective](../../images/course_objectives/remove_parent_objective.png)
 

@@ -20,7 +20,7 @@ To **Change** the Parent Objective, follow the steps below starting with "select
 
 ### Remove Parent Objective 
 
-To **Remove** the Parent Objective association ...
+To **Remove** the Parent Objective association, follow the steps detailed in the screen shot below starting with "click to de-select the parent / program year obective" and concluding with "click to confirm and save".
 
 ![Remove Parent Objective](../../images/course_objectives/remove_parent_objective.png)
 

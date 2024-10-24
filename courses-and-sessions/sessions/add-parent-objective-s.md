@@ -11,11 +11,11 @@ To add one or more parent (Course) Objectives to Session Objectives ...
 
 Once the list has been expanded, select the Session Objective that needs to have a Parent Objective associated to it. In the case shown below, the second Session Objective is lacking a Parent Objective.
 
-![Add new parent](../../images/add_session_obj_parent/add_new_parent.jpg)
+![add parent objective](../../images/add_session_obj_parent/add_parent_objective.png)
 
 Once "Add New" has been clicked, the screen changes its appearance and allow for the Parent Objectives to be selected and saved.
 
-![Select parent Objective](../../images/add_session_obj_parent/select_parent_obj.jpg)
+![select parent objective](../../images/add_session_obj_parent/select_parent_obj.jpg)
 
 After the Save has been completed, we can now see the Parent Objectives now attached to the Session Objective.
 

@@ -26,7 +26,7 @@ Of the 24 course objectives ...
 * 4 have associated Vocabulary terms (also orange)
 * 0 have associated MeSH terms (red x)
 
-If any of these relationships were in place for all objectives, the dot would be green rather than orange (some with terms attached) or red (no objectives with attached terms) in color.
+If any of these relationships were in place for all objectives, the dot would be green rather than orange (some with terms attached) or red (none with terms attached) in color.
 
 ### Objective Review
 

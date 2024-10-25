@@ -16,5 +16,5 @@ Now after processing the save, only one Parent (Course) Objective remains attach
 
 ## View Results
 
-![view results](../../images/edit_session_obj_parent/after_removal.jpg)
+![view results](../../images/edit_session_obj_parent/view_results.png)
 

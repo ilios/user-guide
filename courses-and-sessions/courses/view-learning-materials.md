@@ -2,7 +2,7 @@
 
 There are three options available when viewing a Learning Material in Ilios. These instructions also apply to Session Learning Materials. These rules also apply to accessing the Learning Materials using the calendar feed (.ics), on a smart phone, computer, or tablet.
 
-### 1. View Inline (.pdf files, web links, and citations)
+## View Inline (.pdf files, web links, and citations)
 
 Web links can be followed with a click of the mouse. Citations can be viewed right on the screen in Ilios. However Adobe Acrobat .pdf files can be viewed right in the browser, not requiring a download. Online .pdf files have this option at this time. This is shown using the Calendar below.
 
@@ -14,15 +14,15 @@ Web links can be followed with a click of the mouse. Citations can be viewed rig
 
 ![Options shown](../../images/course_learning_materials/lm_view_2.jpg)
 
-**Icons Explained**
+### Icons Explained
 
 ![Icons](../../images/course_learning_materials/lm_icons.jpg)
 
-### 2. Download File (available for any file)
+## Download File (available for any file)
 
 In the past, this was the default behavior for all files. Now .pdf files have been configured so they can be viewed in an "inline" manner without requiring the file to be downloaded. Any file can be downloaded as shown above by the orange arrow.
 
-### 3. Copy Link (available for any Learning Material)
+## Copy Link (available for any Learning Material)
 
 This is only for users with advanced permissions over the Course or Session associated with this Learning Material object. The link to any Learning Material (file or not) can be copied to the user's clipboard and used elsewhere. Please refer to the [Permissions Matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) for more information on user roles.
 

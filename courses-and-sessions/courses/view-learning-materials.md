@@ -8,9 +8,11 @@ Web links can be followed with a click of the mouse. Citations can be viewed rig
 
 * Click on the Calendared event as shown below to go to Event Detail.
 
-![Click on the Calendar event](../../images/course_learning_materials/lm_view_1.jpg)
+![click on the calendar event](../../images/course_learning_materials/lm_view_1.jpg)
 
-* The viewing options are shown below. The .pdf file can be downloaded or viewed inline; whereas the Web Link can only be followed and viewed in the browser.
+### Viewing Options
+
+The viewing options are shown below. The .pdf file can be downloaded or viewed inline; whereas the Web Link can only be followed and viewed in the browser.
 
 ![Options shown](../../images/course_learning_materials/lm_view_2.jpg)
 

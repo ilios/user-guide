@@ -6,13 +6,19 @@ There are three options available when viewing a Learning Material in Ilios. The
 
 Web links can be followed with a click of the mouse. Citations can be viewed right on the screen in Ilios. However Adobe Acrobat .pdf files can be viewed right in the browser, not requiring a download. Online .pdf files have this option at this time. This is shown using the Calendar below.
 
-* Click on the Calendared event as shown below to go to Event Detail.
+* Click on the calendared event as shown below to go to Event Detail. The mouse-over is shown below revealing details about the session offering in the callout.
 
-![click on the calendar event](../../images/course_learning_materials/lm_view_1.jpg)
+![click on the calendared event](../../images/course_learning_materials/calendar_mouse_over.png)
+
+### View Course Materials
+
+After clicking on the event, the following appears. The learning materials for the session are initially expanded and labeled as "Materials". Scroll to expand course materials as shown.
+
+![expand to show course materials](../../images/course_learning_materials/open_course_materials.png)
 
 ### Viewing Options
 
-The viewing options are shown below. The .pdf file can be downloaded or viewed inline; whereas the Web Link can only be followed and viewed in the browser.
+A viewing option sample from an older session materials screen shot is shown below. While the interface has changed and will be updated here, the logic and links are similar so this is still applicable until it gets replaced. The .pdf file can be downloaded or viewed inline; whereas the Web Link can only be followed and viewed in the browser.
 
 ![Options shown](../../images/course_learning_materials/lm_view_2.jpg)
 

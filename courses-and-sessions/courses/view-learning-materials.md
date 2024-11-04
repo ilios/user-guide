@@ -14,7 +14,7 @@ Web links can be followed with a click of the mouse. Citations can be viewed rig
 
 ![Options shown](../../images/course_learning_materials/lm_view_2.jpg)
 
-**Icons Explained**
+### Icons Explained
 
 ![Icons](../../images/course_learning_materials/lm_icons.jpg)
 

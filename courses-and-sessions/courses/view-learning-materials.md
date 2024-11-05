@@ -12,7 +12,7 @@ Web links can be followed with a click of the mouse. Citations can be viewed rig
 
 ### View Course Materials
 
-After clicking on the event, the following appears. The learning materials for the session are initially expanded and labeled as "Materials". Scroll to expand course materials as shown.
+After clicking on the event, the following appears. The learning materials for the session are initially expanded and labeled as "Materials". Scroll to expand course materials as shown. This full screen view is shown below.
 
 ![expand to show course materials](../../images/course_learning_materials/full_screen_view.png)
 

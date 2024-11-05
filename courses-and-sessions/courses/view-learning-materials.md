@@ -28,7 +28,7 @@ A viewing option sample from an older session materials screen shot is shown bel
 
 ## Download File (available for any file)
 
-In the past, this was the default behavior for all files. Now .pdf files have been configured so they can be viewed in an "inline" manner without requiring the file to be downloaded. Any file can be downloaded as shown above by the orange arrow.
+In the past, this was the default behavior for all files. Now .pdf files have been configured so they can be viewed in an "inline" manner without requiring the file to be downloaded. One thing to consider doing this is that if the window gets closed after viewing a .pdf file, you will have to log back in to Ilios as this action closes that application. Any file can be downloaded as shown above by the orange arrow. With .pdf files, they will open up for viewing and be downloaded to your storage device's default.
 
 ## Copy Link (available for any Learning Material)
 

@@ -20,7 +20,7 @@ After clicking on the event, the following appears. The learning materials for t
 
 A viewing option sample from an older session materials screen shot is shown below. While the interface has changed and will be updated here, the logic and links are similar so this is still applicable until it gets replaced. The .pdf file can be downloaded or viewed inline; whereas the Web Link can only be followed and viewed in the browser.
 
-![Options shown](../../images/course_learning_materials/lm_view_2.jpg)
+![options shown](../../images/course_learning_materials/lm_view_2.jpg)
 
 ### Icons Explained
 

@@ -24,19 +24,21 @@ A viewing option sample from an older session materials screen shot is shown bel
 
 ### Icons Explained
 
-![Icons](../../images/course_learning_materials/lm_icons.jpg)
+![icons](../../images/course_learning_materials/lm_icons.jpg)
 
 ## Download File (available for any file)
 
-In the past, this was the default behavior for all files. Now .pdf files have been configured so they can be viewed in an "inline" manner without requiring the file to be downloaded. One thing to consider doing this is that if the window gets closed after viewing a .pdf file, you will have to log back in to Ilios as this action closes that application. Any file can be downloaded as shown above by the orange arrow. With .pdf files, they will open up for viewing and be downloaded to your storage device's default.
+Any file can be downloaded.
+
+Acrobat .pdf files have been configured so they can be viewed in an "inline" manner without requiring the file to be downloaded. One thing to consider doing this is that if the window gets closed after viewing a .pdf file, you will have to log back in to Ilios as this action closes that application. Any file can be downloaded as shown above by the orange arrow. With .pdf files, they will open up for viewing and be downloaded to your storage device's default.
 
 ## Copy Link (available for any Learning Material)
 
 This is only for users with advanced permissions over the Course or Session associated with this Learning Material object. The link to any Learning Material (file or not) can be copied to the user's clipboard and used elsewhere. Please refer to the [Permissions Matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) for more information on user roles.
 
-![Click to select](../../images/course_learning_materials/lm_view1.png)
+![click to select](../../images/course_learning_materials/lm_view1.png)
 
-![View details](../../images/course_learning_materials/lm_view2.png)
+![view details](../../images/course_learning_materials/lm_view2.png)
 
 The link is now available to be pasted either by menu item (where available) or keyboard command (ctrl-C / cmd-C).
 

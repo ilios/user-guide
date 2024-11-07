@@ -28,9 +28,9 @@ A viewing option sample from an older session materials screen shot is shown bel
 
 ## Download File (available for any file)
 
-Any file can be downloaded.
+Any file can be downloaded as shown above by the orange arrow. 
 
-Acrobat .pdf files have been configured so they can be viewed in an "inline" manner without requiring the file to be downloaded. One thing to consider doing this is that if the window gets closed after viewing a .pdf file, you will have to log back in to Ilios as this action closes that application. Any file can be downloaded as shown above by the orange arrow. With .pdf files, they will open up for viewing and be downloaded to your storage device's default.
+It is worth noting that .pdf files have been configured so they can be viewed in an "inline" manner without requiring the file to be downloaded. One thing to consider doing this is that if the window gets closed after viewing and not downloading a .pdf file, you will have to log back in to Ilios as this action closes the application. Use the back button on the broswer to return to the previous location in Ilios after viewing, but not downloading, a file.
 
 ## Copy Link (available for any Learning Material)
 

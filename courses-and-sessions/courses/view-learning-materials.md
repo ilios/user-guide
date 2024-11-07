@@ -10,15 +10,15 @@ Web links can be followed with a click of the mouse. Citations can be viewed rig
 
 ![click on the calendared event](../../images/course_learning_materials/calendar_mouse_over.png)
 
-### View Course Materials
+### Course Materials
 
 After clicking on the event, the following appears. The learning materials for the session are initially expanded and labeled as "Materials". Scroll to expand course materials as shown. This full screen view is shown below.
 
 ![expand to show course materials](../../images/course_learning_materials/full_screen_view.png)
 
-### Viewing Options
+### Materials View - expanded
 
-A viewing option sample from an older session materials screen shot is shown below. While the interface has changed and will be updated here, the logic and links are similar so this is still applicable until it gets replaced. The .pdf file can be downloaded or viewed inline; whereas the Web Link can only be followed and viewed in the browser.
+An expanded view of the course learning materials is shown below. This sample contains .pdf files only.
 
 ![options shown](../../images/course_learning_materials/course_materials.png)
 

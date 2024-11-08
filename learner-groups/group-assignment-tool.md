@@ -1,6 +1,6 @@
 # Group Assignment Tool
 
-This tool accepts a comma or tab delimited file to define Ilios users to be uploaded or assigned into the Learner Groups \(Sub Groups\) of which they need to be assigned as members.
+This tool accepts a comma or tab delimited file to define Ilios users to be uploaded or assigned into the Learner Groups (Sub Groups) of which they need to be assigned as members.
 
 While it is a requirement that users have to exist in Ilios and be students in the correct Cohort, the term "upload" is still correct in the sense that a document (.csv, .tsv, .txt) that exists outside of Ilios needs to be "uploaded" into Ilios to process the Learner Group assignments specified in the document.
 
@@ -19,6 +19,8 @@ The group created for this example is called "Gold Team Exam Group". As indicate
 Clicking the **"Sample File"** link will cause a file called "SampleUserUpload.tsv" to be downloaded to your computer. Open this file in Excel to view its contents. It will initially be stored in your "Downloads" folder. The screen shot below is from the sample .tsv file opened in Excel. It contains no data but indicates the four fields that need to be included in any .tsv, .csv, or .txt file to be uploaded.
 
 ![sample shown](../images/learner_group_assignment_tool/sample_shown.png)
+
+### Required Fields
 
 * **First:** Learner's first name.
 * **Second:** Learner's last name.

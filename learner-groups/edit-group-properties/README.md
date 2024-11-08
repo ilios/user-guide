@@ -2,7 +2,7 @@
 
 The first step in the editing and review process is to select school, program, and cohort. The drop-down boxes on the top of the screen are used to do this as shown below.
 
-## select school, program, and cohort
+## Select School, Program, and Cohort
 
 The school selector is the first drop-down menu available and visible on the page. It is shown below with Medicine already chosen as the School.
 

@@ -20,7 +20,7 @@ Clicking the **"Sample File"** link will cause a file called "SampleUserUpload.t
 
 ![sample shown](../images/learner_group_assignment_tool/sample_shown.png)
 
-### Required Fields
+### Fields Explained
 
 * **First:** Learner's first name.
 * **Second:** Learner's last name.

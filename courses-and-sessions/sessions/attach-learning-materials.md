@@ -4,15 +4,15 @@ Learning Materials can be attached at either the Course or Session level. Sessio
 
 The first step is to select a Course and Session. These steps are covered in other parts of the guide.
 
-### Attach Existing Learning Material to a Session
+## Attach Existing Learning Material to a Session
 
 Before uploading a potential duplicate Learning Material file, link, or citation, you should search to ascertain if it already exists in the system. The key thing to remember here is that with Learning Materials, the relationship between the Learning Material and the Session is what is being created here. The same Learning Material can be attached to any number of Courses or Sessions.
 
-#### Search for Learning Material (LM)
+### Search for Learning Material (LM)
 
-In this example, a search was performed for "Anatomy". Any of the resulting LM's can be attached to the Session by clicking anywhere in the area corresponding to the LM. 
+In this example, a search was performed for "snatomy". Any of the resulting LM's can be attached to the Session by clicking anywhere in the area corresponding to the LM. 
 
-![Search for "Anatomy"](../../images/attach_session_learning_material/search_for_session_lm.jpg)
+![search for "anatomy"](../../images/attach_session_learning_material/search_for_session_lm.jpg)
 
 After selecting the one as indicated above, it has now become attached to this Session as shown below.
 
@@ -80,9 +80,9 @@ In order to save a learning material in connection with a session or course, tha
 
 For lectures and other similar media, where the likely method of delivery is streaming/viewing from the server, rather than downloading, materials should be stored elsewhere, and the links to them should be the resources saved in Ilios.
 
-#### Additional Fields (modified once the inital upload has been completed)
+### Additional Fields (modified once the inital upload has been completed)
 
-* _**Status:**_ Options for this are Final (appears to students as long there is no start or end date), Revised (same as Final for display purposes), and Draft (will not be displayed to students even if the current date lies between the start and end date (if it exists)).
+* **Status:** Options for this are Final (appears to students as long there is no start or end date), Revised (same as Final for display purposes), and Draft (will not be displayed to students even if the current date lies between the start and end date (if it exists)).
 * _**Required:**_ Identifies required vs. recommended materials in the context of use. Requirement is unique to a given instance of use for any Learning Material.
 * _**Instructional Notes:**_ Free-text entry field to allow commentary and instruction for the Learning Materials. Notes may be set to be visible to all users including learners (students), or set as visible only to instructional faculty/staff. Notes provided are unique to a given instance of use for any Learning Materials. They are added after the Learning Material object has been selected or added.
 * _**Show Notes to Students:**_ Indicates whether or not the optional notes entered in the Instructional Notes field (described above) are displayed to students or not.

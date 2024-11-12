@@ -18,7 +18,7 @@ Point in educational time / progress within a given program for an individual or
 
 ## Curricular Object
 
-A Program, Course, Session, or Offering.
+A Program, Course, Session, Offering, Independent Learning Module (ILM), or any other object tracked in Ilios as part of the medical school curriculum.
 
 ## Designation
 

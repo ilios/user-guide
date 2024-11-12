@@ -6,7 +6,7 @@ The first step is to select a Course and Session. These steps are covered in oth
 
 ## Attach Existing Learning Material to a Session
 
-Before uploading a potential duplicate Learning Material file, link, or citation, you should search to ascertain if it already exists in the system. The key thing to remember here is that with Learning Materials, the relationship between the Learning Material and the Session is what is being created here. The same Learning Material can be attached to any number of Courses or Sessions.
+Before uploading a potential duplicate Learning Material file, link, or citation, you should search to ascertain if it already exists in the system. The key thing to remember here is that with Learning Materials, the relationship between the Learning Material and the Session is what is being created here. Any given Learning Material object can be attached to any number of Courses or Sessions. It can be used in other years or programs as a result or this relationship.
 
 ### Search for Learning Material (LM)
 

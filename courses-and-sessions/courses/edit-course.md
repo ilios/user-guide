@@ -47,7 +47,7 @@ These are the lower level details of a Course that are displayed and can be modi
 * [Learning Materials](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/learning_materials)
 * [Competencies](https://iliosproject.gitbook.io/ilios-user-guide/schools/competencies) - set at School level
 * Terms - selected from one or more Vocabularies, which are configured at the School level
-* MeSH Terms
+* [MeSH](https://iliosproject.gitbook.io/ilios-user-guide/additional-information/mesh) terms - searchable database
 * [Program Cohorts](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-course#program-cohorts)
 
 ### Course Objectives

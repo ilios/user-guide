@@ -85,8 +85,6 @@ After being saved, the link appears as shown below in "display" (post-save) mode
 
 ![In "display" mode](../../images/session_edit/in_display_mode.png)
 
-
-
 ## Instructional Notes
 
 The process for editing and entering Instructional Notes is basically identical to the process detailed above for session description. 

@@ -73,17 +73,17 @@ This applies to any text box in Ilios; but `Description` and `Instructional Note
 
 After clicking as shown above, the entry area appears to add a URL, displayed to the user as the "Text" value entered here. There is a check box available if you would like the link to appear in a new tab (or not if left in un-checked state).
 
-![Enter text and link](../../images/session_edit/enter_text_and_link.png)
+![enter text and link](../../images/session_edit/enter_text_and_link.png)
 
 This is how it appears when entered as shown above. In this case, the "Open in new tab" check box has been left unselected. This means that the link will open in the same tab as Ilios. As mentioned with .pdf viewing in learning materials, the user will also close Ilios and be required to log back in if they close the tab when this is set as shown.
 
 Alternatively, this can be set to true, which will result in a new tab being opened to display the link.
 
-![In "edit" mode](../../images/session_edit/in_edit_mode.png)
+![in "edit" mode](../../images/session_edit/in_edit_mode.png)
 
 After being saved, the link appears as shown below in "display" (post-save) mode.
 
-![In "display" mode](../../images/session_edit/in_display_mode.png)
+![in "display" mode](../../images/session_edit/in_display_mode.png)
 
 ### Edit Link Settings
 

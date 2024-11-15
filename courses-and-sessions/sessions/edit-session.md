@@ -75,7 +75,7 @@ After clicking as shown above, the entry area appears to add a URL, displayed to
 
 ![Enter text and link](../../images/session_edit/enter_text_and_link.png)
 
-This is how it appears when entered as shown above. In this case, the "Open in new tab" check box is left unselected. This means that the link will open in the same tab as Ilios. As mentioned with .pdf viewing in learning materials, the user will also close Ilios and be required to log back in if they close the tab when this is set to false.
+This is how it appears when entered as shown above. In this case, the "Open in new tab" check box has been left unselected. This means that the link will open in the same tab as Ilios. As mentioned with .pdf viewing in learning materials, the user will also close Ilios and be required to log back in if they close the tab when this is set as shown.
 
 Alternatively, this can be set to true, which will result in a new tab being opened to display the link.
 
@@ -84,6 +84,29 @@ Alternatively, this can be set to true, which will result in a new tab being ope
 After being saved, the link appears as shown below in "display" (post-save) mode.
 
 ![In "display" mode](../../images/session_edit/in_display_mode.png)
+
+### Edit Link Settings
+
+Below is an example using the same link entered above but using a different description. It is in read-only (pre-edit) mode now. 
+
+![pre-edit](../../images/session_edit/read_only_mode.png)
+
+Click anywhere (except the link itself) to enter edit mode. The screen changes to the following. Now in edit mode, clicking on the link itself will display two options ...
+
+![edit mode](../../images/session_edit/edit_mode.png)
+
+After clicking as shown above, the options below are displayed.
+
+1. Edit link - edit link and / or link properties 
+2. Unlink - text remains but the active link is removed
+
+![edit options](../../images/session_edit/edit_options_shown.png)
+
+Assuming we do want to edit / review the link properties and have chosen option #1 shown above, the screen changes to allow editing of the URL properties as shown below. 
+
+Clicking as shown below will set the behavior so that the link will open in a new tab. This may be beneficial in situations where it is not optimal for the user to accidentally close and log out of Ilios after following and reviewing the linked information. To process this save, the keyboard "Return" or "Enter" can be used or the "Update" link can be clicked.
+
+![update properties](../../images/session_edit/update_properties.png)
 
 ## Instructional Notes
 
@@ -109,7 +132,7 @@ Once confirmed in the step shown above, the Manage MeSH functional area closes (
 
 ![More MeSH maintenance](../../images/session_edit/click_for_more_maintenance.png)
 
-## Manage Term(s)
+## Manage Session Term(s)
 
 Terms are selected a school-specific, pre-defined list of one or more Vocabularies. These can be attached at the Course level and / or at the Session level.
 
@@ -125,7 +148,7 @@ Once expanded, click the `Manage Terms` button as shown below.
 
 ![details](../../images/session_edit/manage_sess_terms_review.png)
 
-### Add Session Term
+### Add Term
 
 It has been decided we need to add the Vocabulary Term "Renal System" to this Session. The session needs to be tagged with this term. "Renal System" is in the Vocabulary of "Topics". In the screen shot below, "Topics" is being selected as the Vocabulary to use for Term selection. 
 

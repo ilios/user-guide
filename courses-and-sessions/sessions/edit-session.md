@@ -75,13 +75,17 @@ After clicking as shown above, the entry area appears to add a URL, displayed to
 
 ![Enter text and link](../../images/session_edit/enter_text_and_link.png)
 
-This is how it appears when entered as shown above.
+This is how it appears when entered as shown above. In this case, the "Open in new tab" check box is left unselected. This means that the link will open in the same tab as Ilios. As mentioned with .pdf viewing in learning materials, the user will also close Ilios and be required to log back in if they close the tab when this is set to false.
+
+Alternatively, this can be set to true, which will result in a new tab being opened to display the link.
 
 ![In "edit" mode](../../images/session_edit/in_edit_mode.png)
 
 After being saved, the link appears as shown below in "display" (post-save) mode.
 
 ![In "display" mode](../../images/session_edit/in_display_mode.png)
+
+
 
 ## Instructional Notes
 

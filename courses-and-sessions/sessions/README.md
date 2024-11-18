@@ -8,8 +8,8 @@ A session refers to a section or unit of a course with specific attributes of ty
 * **Session Type**: Selected from a predefined list of instructional and assessment methods, loaded into the system at implementation. Click [here](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types) for more information on Session Types.
 * **Description**: Free-text entry allowing for detailed information, instruction, and description of the Session curriculum and activities.
 * **Instructional Notes**: These are internal notes specifically used by Course Coordinators to share information about the session. They are not visible to Students.
-* **Terms**: Selected from a school-specific, pre-defined list of one or more Vocabularies.
-* **MeSH Terms**: Selected by searching the MeSH database.
+* **Terms**: Selected from a school-specific, pre-defined list of one or more Vocabularies
+* **MeSH Terms**: Selected by searching the MeSH database
 * **Learning Materials**: Session-level learning materials are available only to the specific Session to which they belong.
 * **Objectives**: Free-text entry field. Each Objective entered at the Session level may be associated with any number of the parent course’s Course-level Objectives. Session Objectives may also be assigned their own MeSH terms.
 * **Prerequisites**: If a Session has one or more prerequisites (formerly known as pre-work) associated with it, there will be an icon displayed on the Session list. This is demonstrated [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions#session-list).

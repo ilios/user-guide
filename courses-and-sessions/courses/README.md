@@ -94,13 +94,13 @@ This shows the Course detail screen (once a Course has been selected and Details
 20. **Edit Learning Material**: allows for the changing of Learning Material attributes
 21. **Delete Learning Material**: if available, allows for the deletion of Learning Material objects
 
-![Course Detail Lower](../../images/course_images/course_lower.png)
+![course detail - lower](../../images/course_images/course_lower.png)
 
 ### Lower part of screen
 
 1. **Competencies**: opens up the list of Competencies associated with this Course
 2. **Terms**: opens up the screen to be used for the maintenance of Vocabulary Terms associated with this Course
-3. **Manage MeSH**: opens up MeSH Manager for this Course
+3. **Manage MeSH**: allows user to manage MeSH associated with this course
 4. **Manage Cohorts**: to add or remove Cohorts from the Course
 5. **Hide Details**: hides all Course Details with the exception of the [Course Summary Details](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-course#course-summary-details)
 

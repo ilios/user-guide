@@ -23,7 +23,7 @@ This area appears at the top of the Course page. It includes everything listed b
 
 This refers to the upper area of the screen which is always visible. It provides the main details of the Course including everything listed below.
 
-  - **Course ID:** (external ID) - short title can be edited here
+  - **Course ID:** (external ID) - short title - can be edited here
   - **Clerkship Type:** can be edited / specified here 
   - **Start:** start date for this course 
   - **End:** end date for this course

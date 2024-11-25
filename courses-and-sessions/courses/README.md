@@ -40,7 +40,7 @@ This refers to the other course attributes listed below that can be maintained o
   - **[Competencies](https://iliosproject.gitbook.io/ilios-user-guide/schools/competencies):** read-only display of competencies that are linked to the associated program year objectives 
   - **[Terms](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies):** maintain vocabulary terms associated with this course
   - **[MeSH](https://iliosproject.gitbook.io/ilios-user-guide/additional-information/mesh):** maintain MeSH (Medical Subject Header) terms associated with this course
-  - **Program Cohorts:** maintain / manage cohort(s) attached to this course
+  - **[Program Cohorts](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_actions/edit-course#program-cohorts):** maintain / manage cohort(s) attached to this course
 
 ### Session List
 

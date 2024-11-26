@@ -117,10 +117,21 @@ This display can be sorted by the following fields in addition to being filtered
 * **End Date**
 * **Status**
 
+To apply any sort order, simply click on the column header to select the sort preference.
+
+The sort order currently applied can be viewed by reviewing the arrow icons and description to the right of the column title. The default sort order is shown below using the 2024 School of Medicine course listing.
+
+<figure>
+  <img src="../../images/course_images/default_sort_order.png" alt="default sort order">
+    <figcaption>
+      <p>Courses List (All Courses)</p>
+    </figcaption>
+</figure>
+
 **TIP:** It can be helpful to sort by **"Status"** when you want to find out which Courses may not have been published yet. The Courses with the Status of "Not Published" will appear first in the list.
 
 <figure>
-  <img src="../../images/course_images/course_list.png" alt="">
+  <img src="../../images/course_images/course_list.png" alt="course list shown">
     <figcaption>
       <p>Courses List (All Courses)</p>
     </figcaption>

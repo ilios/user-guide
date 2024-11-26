@@ -98,7 +98,7 @@ This shows the Course detail screen (once a Course has been selected and Details
 
 ### Lower part of screen
 
-1. **Competencies**: opens up the list of Competencies associated with this Course
+1. **Competencies**: opens up the read-only listing of Competencies associated with this Course
 2. **Terms**: opens up the screen to be used for the maintenance of Vocabulary Terms associated with this Course
 3. **Manage MeSH**: allows user to manage MeSH associated with this course
 4. **Manage Cohorts**: to add or remove Cohorts from the Course

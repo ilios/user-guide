@@ -106,9 +106,9 @@ This shows the Course detail screen (once a Course has been selected and Details
 
 ## All Courses (default view)
 
-When first visiting this screen during an Ilios session, the default view is **"ALL COURSES"**, which is shown below. You can limit the number of Courses displayed on the screen by filtering on Course Title.
+When first visiting this screen during an Ilios session, the default view is **"All Courses"**, which is shown below. You can limit the number of Courses displayed on the screen by filtering on Course title.
 
-This display can be sorted by the following fields in addition to being filtered by Course Title.
+This display can be sorted by the following fields in addition to being filtered by Course title.
 
 ### Sort Options ...
 

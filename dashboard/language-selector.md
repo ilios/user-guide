@@ -14,6 +14,6 @@ For the sake of illustration and demonstration, here is what happens when the op
 <figure>
   <img src="../images/language_selector/week_at_a_glance_esp.png" alt="Dashboard (Tablero)">
   <figcaption>
-    <p>dashboard after switching to Spanish</p>
+    <p>dashboard - after switching to Spanish language</p>
   </figcaption>
 </figure>

@@ -112,6 +112,7 @@ This display can be sorted by the following fields in addition to being filtered
 
 ### Sort Options ...
 
+* **Title** - default sort order
 * **Level**
 * **Start Date**
 * **End Date**

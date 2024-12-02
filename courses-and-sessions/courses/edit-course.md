@@ -40,7 +40,7 @@ Once the Course has been selected as shown above, the following Course-level att
 
 ## [Course Details](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#details)
 
-These are the lower level details of a Course that are displayed and can be modified once the "Show Details" tab button has been clicked. These are those items ...
+These are the lower level details of a Course that are displayed and can be modified once the "Show Details" tab button has been clicked. 
 
 * [Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership) - add/remove Course Directors, Course Administrators, and Student Advisors
 * [Objectives](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_objectives) (and associated Parent Objectives, Vocabulary Terms, and MeSH Terms)

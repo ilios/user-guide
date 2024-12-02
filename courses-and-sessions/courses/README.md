@@ -35,7 +35,7 @@ This refers to the upper area of the screen which is always visible. It provides
 This refers to the other course attributes listed below that can be maintained only after "Show Details" has been clicked.
 
   - **[Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership):** maintain course directors, administrators, and student advisors 
-  - **Objectives:** maintain / manage objectives and their relationships to parent (program year) objectives, vocabulary terms, and MeSH terms
+  - **[Objectives](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_objectives):** maintain / manage objectives and their relationships to parent (program year) objectives, vocabulary terms, and MeSH terms
   - **Learning Materials:** upload and / or link learning materials at the course level
   - **[Competencies](https://iliosproject.gitbook.io/ilios-user-guide/schools/competencies):** read-only display of competencies that are linked to the associated program year objectives 
   - **[Terms](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies):** maintain vocabulary terms associated with this course

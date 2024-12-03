@@ -22,10 +22,10 @@ Once the Course has been selected as shown above, the following Course-level att
 
 ![Course Summary Details](../../images/course_images/course_summary_details.png)
 
-### Links and Functionality By The Numbers ...
+### Links and Functionality by the Numbers ...
 
 1. **Back to Courses List**: takes the user back to the list of Courses
-2. **Edit Course Title**: The title can be edited by clicking as shown.
+2. **Edit Course Title**: provides fucntionality to edit the title of the course by clicking as shown
 3. [**Publication Status**](../publishing.md): The Course's publication status can be changed here.
 4. **Learning Materials Summary**: opens up [**Learning Materials Summary**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/learning-materials-summary)
 5. **Course Summary**: opens up the all-inclusive [**Course Summary**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-summary)

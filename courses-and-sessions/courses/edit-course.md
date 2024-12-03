@@ -59,7 +59,7 @@ Follow the links below for more specific information related to Course Objective
 * [Add Parent Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/add-parent-objective)
 * [Edit Parent Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-parent-objective)
 
-### Program Cohorts
+## Program Cohorts
 
 For courses which are given more than once in an academic year, the course name or Course ID should identify this: for example Intersession 1 (2023-24), Intersession 2 (2023-24), Intersession 3 (2023-24), IDS 33A, IDS 33B, etc. Creating multiple instances of a course within an academic year is handled using the [Course Rollover](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-rollover) feature. For courses that are given more than once in an academic year, the listings are in chronological order according to start date.
 

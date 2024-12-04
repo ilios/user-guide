@@ -13,7 +13,7 @@ This shift impacts how users are able to interact with Ilios data as administrat
 
 ## Setting Permissions
 
-Each section where Permissions can be modified is covered in detail in the section of the User Guide that pertains to that aspect of Ilios.
+Each section where Permissions can be modified is covered in detail in the section of the User Guide that pertains to that functional area of Ilios.
 
 ## Links
 

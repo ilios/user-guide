@@ -20,3 +20,4 @@ Each section where Permissions can be modified is covered in detail in the secti
 * [Course Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership)
 * [Session Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/session-leadership)
 * [Program Leadership](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#update-leadership)
+* [School Leadership](https://iliosproject.gitbook.io/ilios-user-guide/schools/school-leadership)

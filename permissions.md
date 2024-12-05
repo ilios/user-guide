@@ -15,9 +15,10 @@ This shift impacts how users are able to interact with Ilios data as administrat
 
 Each section where Permissions can be modified is covered in detail in the section of the User Guide that pertains to that functional area of Ilios.
 
-## Links
+## Leadership Links
 
-* [Course Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership)
-* [Session Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/session-leadership)
-* [Program Leadership](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#update-leadership)
-* [School Leadership](https://iliosproject.gitbook.io/ilios-user-guide/schools/school-leadership)
+* [Course](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership)
+* [Session](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/session-leadership)
+* [Program](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#update-leadership)
+* [Program Year](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#update-leadership)
+* [School](https://iliosproject.gitbook.io/ilios-user-guide/schools/school-leadership)

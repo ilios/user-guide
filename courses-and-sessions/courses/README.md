@@ -110,7 +110,9 @@ When first visiting this screen during an Ilios session, the default view is **"
 
 This display can be sorted by the following fields in addition to being filtered by Course title.
 
-### Sort Options ...
+### Sort Options
+
+The following columns can be sorted (one at a time) - choose ascending or descending order.
 
 * **Title** - default sort order
 * **Level**

@@ -48,7 +48,7 @@ This refers to the other course attributes listed below that can be maintained o
 
 ## Course Attributes
 
-* **Course Name:** Long title of the course, entered on course creation - 200 character maximum ([Heading](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#heading)).
+* **Title:** Long title (name) of the course, entered on course creation - 200 character maximum ([Heading](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#heading)).
 * **Course ID:** Field allowing any internal or external ID up to 255 characters maximum ([Overview](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#overview)).
 * **Course Year:** Academic year during which instruction will take place. This is set at the creation of the Course. This field cannot be modified using the interface once it is saved.
 * **Course Level:** The options for this are set at the [Program](https://iliosproject.gitbook.io/ilios-user-guide/programs#program-attributes) Level. The program duration can be anywhere between 1 and 10. The Course level identifies what point in the curriculum trajectory the course is meant to be addressed by learners, but is not a constraint ([Overview](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#overview)).

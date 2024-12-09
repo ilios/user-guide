@@ -1,6 +1,6 @@
 # Sort Learning Materials
 
-Once Learning Materials have been associated with a Course (or a Session), they can be sorted in order to specify the order in which they will be presented to students.
+Once Learning Materials have been associated with a Course (or a Session), they can be sorted to specify the order in which they will be presented to students.
 
 The process starts as follows.
 

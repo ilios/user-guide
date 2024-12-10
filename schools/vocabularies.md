@@ -13,7 +13,7 @@ Managing Vocabularies and Terms at the School level is performed using the Schoo
 
 After clicking as shown above the Vocabularies become available to edit as shown below. For Schools that have not added additional categories beyond the original Topics mapping, the only Vocabulary that will appear in the screen as shown above will be Topics. In other words, Terms (formerly) have been converted into Topics.
 
-![Expanded vocabularies](../images/schools/vocabularies/expanded_vocabularies.jpg)
+![expanded vocabularies](../images/schools/vocabularies/expanded_vocabularies.jpg)
 
 ## Add New Term
 

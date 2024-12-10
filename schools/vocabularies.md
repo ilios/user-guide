@@ -4,12 +4,12 @@ Vocabularies are categories or collections of **Terms** (school-specific categor
 
 Managing Vocabularies and Terms at the School level is performed using the Schools tab as well. Vocabulary Terms can be used in the tagging of the following curricular objects within Ilios ...
 
-* ****[**Session**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions)****
-* ****[**Course**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses)****
-* ****[**Objective**](https://iliosproject.gitbook.io/ilios-user-guide/glossary#objective) (Course, Session, Program Year)****
-* ****[**Program Year**](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year)****
+* **[**Session**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions)**
+* **[**Course**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses)**
+* **[**Objective**](https://iliosproject.gitbook.io/ilios-user-guide/glossary#objective) (Course, Session, Program Year)**
+* **[**Program Year**](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year)**
 
-![Expand vocabularies](../images/schools/vocabularies/expand_vocabularies.jpg)
+![expand vocabularies](../images/schools/vocabularies/expand_vocabularies.png)
 
 After clicking as shown above the Vocabularies become available to edit as shown below. For Schools that have not added additional categories beyond the original Topics mapping, the only Vocabulary that will appear in the screen as shown above will be Topics. In other words, Terms (formerly) have been converted into Topics.
 

@@ -4,12 +4,12 @@ Vocabularies are categories or collections of **Terms** (school-specific categor
 
 Managing Vocabularies and Terms at the School level is performed using the Schools tab as well. Vocabulary Terms can be used in the tagging of the following curricular objects within Ilios ...
 
-* ****[**Session**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions)****
-* ****[**Course**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses)****
-* ****[**Objective**](https://iliosproject.gitbook.io/ilios-user-guide/glossary#objective) (Course, Session, Program Year)****
-* ****[**Program Year**](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year)****
+* **[**Session**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions)**
+* **[**Course**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses)**
+* **[**Objective**](https://iliosproject.gitbook.io/ilios-user-guide/glossary#objective) (Course, Session, Program Year)**
+* **[**Program Year**](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year)**
 
-![Expand vocabularies](../images/schools/vocabularies/expand_vocabularies.jpg)
+![expand vocabularies](../images/schools/vocabularies/expand_vocabularies.png)
 
 After clicking as shown above the Vocabularies become available to edit as shown below. For Schools that have not added additional categories beyond the original Topics mapping, the only Vocabulary that will appear in the screen as shown above will be Topics. In other words, Terms (formerly) have been converted into Topics.
 
@@ -19,11 +19,11 @@ After clicking as shown above the Vocabularies become available to edit as shown
 
 In this example, `UCSF 49`, one of the Vocabularies for UCSF, has been selected. A new Term "Autism and Related Issues" has been entered.
 
-![Add new term](../images/schools/vocabularies/add_new_term.jpg)
+![add new term](../images/schools/vocabularies/add_new_term.jpg)
 
 Now that "Add" has been clicked, the new Term has been added as shown below.
 
-![New term added](../images/schools/vocabularies/new_term_added.jpg)
+![new term added](../images/schools/vocabularies/new_term_added.jpg)
 
 These Vocabulary Terms can be nested in the sense that there can be one or terms nested one or more levels lower than "Autism and Related Issues".
 

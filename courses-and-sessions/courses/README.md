@@ -78,26 +78,28 @@ This shows the Course detail screen (once a Course has been selected and Details
 ### Upper part of screen
 
 1. **Back to Courses List**: takes the user back to the list of Courses
-2. **Language Switcher**: currently can be switched to French, Spanish, or English
-3. **Profile Dropdown**: available here -- My Profile, Logout
-4. **Edit Course Title**: The title can be edited by clicking as shown.
-5. **Published Status**: The Course's publication status can be changed here.
-6. **Course ID**: The Course ID field can be edited by clicking as shown.
-7. **Clerkship Type**: edited here
-8. **Start Date**: edited here
-9. **Learning Materials Summary**: opens up Learning Materials summary
-10. [**Course Summary**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-summary): displays a printable summary overview of the selected course
-11. **Rollover Course**: starts the process of rolling this Course over
-12. **Course Visualizations**: opens up Visualizations (Graphs) for this Course
-13. **End Date**: edited as shown
-14. **Level**: edited here
-15. **Course Leadership**: expands to assign Course Directors and / or Administrators
-16. **Course Objectives**: expands and opens up the Objective editor
-17. **Search For Learning Material**: to find existing Learning Material
-18. **Add Learning Material**: If Learning Material is not found, new ones can be uploaded
-19. **Sort Materials**: to change the order in which Learning Materials are displayed to students
-20. **Edit Learning Material**: allows for the changing of Learning Material attributes
-21. **Delete Learning Material**: if available, allows for the deletion of Learning Material objects
+2. **Global Search**: search for anything in Ilios
+3. **Language Switcher**: currently can be switched to French, Spanish, or English
+4. **Profile Dropdown**: available here -- My Profile, Logout
+5. **Help**: link to this guide available anywhere in Ilios
+6. **Edit Course Title**: The title can be edited by clicking as shown.
+7. **Published Status**: The Course's publication status can be changed here.
+8. **Course ID**: The Course ID field can be edited by clicking as shown.
+9. **Clerkship Type**: edited here
+10. **Start Date**: edited here
+11. **Learning Materials Summary**: opens up Learning Materials summary
+12. [**Course Summary**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-summary): displays a printable summary overview of the selected course
+13. **Rollover Course**: starts the process of rolling this Course over
+14. **Course Visualizations**: opens up Visualizations (Graphs) for this Course
+15. **End Date**: edited as shown
+16. **Level**: edited here
+17. **Leadership**: expands to assign Course Directors Administrators, and/or Student Advisors
+18. **Objectives**: expands and opens up course objective details / editor
+19. **Search For Learning Material**: to find existing Learning Material
+20. **Add Learning Material**: If Learning Material is not found, new ones can be uploaded
+21. **Sort Materials**: to change the order in which Learning Materials are displayed to students
+22. **Edit Learning Material**: allows for viewing or changing selected Learning Material attributes
+23. **Delete Learning Material**: if available, allows for the deletion of Learning Material objects
 
 ![course detail - lower](../../images/course_images/course_lower.png)
 

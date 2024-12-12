@@ -67,7 +67,7 @@ This refers to the other course attributes listed below that can be maintained o
 
 This shows the Course detail screen (once a Course has been selected and Details have been expanded).
 
-![Course Detail - Top](<../../images/course_images/course_top.png>)
+![course detail - top](<../../images/course_images/course_top.png>)
 
 ## Functionality and Links
 ### Upper part of screen

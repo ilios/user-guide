@@ -94,9 +94,9 @@ This shows the Course detail screen (once a Course has been selected and Details
 15. **End Date**: edited as shown
 16. **Level**: edited here
 17. **Leadership**: expands to assign Course Directors Administrators, and/or Student Advisors
-18. **Objectives**: expands and opens up course objective details / editor
+18. **Objectives**: expands and opens up course objective details and provides access to allow editing of objective text (based on permissions of logged in user)
 19. **Search For Learning Material**: to find existing Learning Material
-20. **Add Learning Material**: If Learning Material is not found, new ones can be uploaded
+20. **Add Learning Material**: If Learning Material is not found, new ones can be uploaded or attached
 21. **Sort Materials**: to change the order in which Learning Materials are displayed to students
 22. **Edit Learning Material**: allows for viewing or changing selected Learning Material attributes
 23. **Delete Learning Material**: if available, allows for the deletion of Learning Material objects

@@ -1,6 +1,6 @@
 # Courses and Sessions
 
-Clicking on the Courses and Sessions menu item pulls up the screen for maintaining both Courses and Sessions in Ilios. The interface allows for a great deal of information to be displayed and editable at the top level. Please refer to the following sections for more information. Courses are displayed initially. You can drill down into Sessions and related Offerings and Independent Learning Modules, and can update Publishing status of both Courses and Sessions.
+Clicking on the Courses and Sessions menu item pulls up the screen for maintaining both Courses and Sessions in Ilios. The interface allows for a great deal of information to be displayed and editable at the top level. Please refer to the following sections for more information. Courses are displayed initially. You can drill down into Sessions and related Offerings and Independent Learning Modules, and can update publication status of both Courses and Sessions - see [Publishing](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/publishing) for reference.
 
 ## [Courses](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses)
 

@@ -101,9 +101,9 @@ This shows the Course detail screen (once a Course has been selected and Details
 22. **Edit Learning Material**: allows for viewing or changing selected Learning Material attributes
 23. **Delete Learning Material**: if available, allows for the deletion of Learning Material objects
 
-![course detail - lower](../../images/course_images/course_lower.png)
-
 ### Lower part of screen
+
+![course detail - lower](../../images/course_images/course_lower.png)
 
 1. **Competencies**: opens up the read-only listing of Competencies associated with this Course
 2. **Terms**: opens up the screen to be used for the maintenance of Vocabulary Terms associated with this Course

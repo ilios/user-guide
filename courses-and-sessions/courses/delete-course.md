@@ -14,7 +14,7 @@ After clicking the trash can, you will be presented with a warning message as sh
 
 **NOTE:** It is never possible to delete a Course that has been rolled over. These "ancestor" Courses cannot be removed using the interface.
 
-As shown below, the "Pathogens & Host Defenses" course is no longer included in the Courses and Sessions list (filter by "Status" ascending). The Course count has been updated to reflect the current count (51). It has been completely removed from the system.
+As shown below, the "Pathogens & Host Defenses" course is no longer included in the Courses and Sessions list (sort by "Status" ascending). The Course count has been updated to reflect the current count (52). It has been completely removed from the system.
 
-![Delete completed](../../images/delete_course/crs_delete3.png)
+![deletion complete](../../images/delete_course/deletion_complete.png)
 

@@ -6,7 +6,7 @@ When an Academic Year is over and a Course should no longer be modified, it is a
 
 ![course list - pre-lock](../../images/lock_course/course_list_pre_lock.png)
 
-This is a very straightforward process. All that you need to do is to click the Lock icon as shown above. Then, as you see below the Course has been locked.
+This is a very straightforward process. All thats need to be done is to click the Lock icon as shown above. As you can see below, the course has now been locked.
 
 ### Course List (after locking course)
 

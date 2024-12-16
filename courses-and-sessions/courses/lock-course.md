@@ -2,13 +2,13 @@
 
 When an Academic Year is over and a Course should no longer be modified, it is advisable to lock these Courses. No changes can be made to a Course that has been locked.
 
-### Course \(pre-lock\)
+### Course List (pre-lock)
 
-![Pre-lock](../../images/lock_course/lock_crs1.png)
+![course list - pre-lock](../../images/lock_course/course_list_pre_lock.png)
 
 This is a very straightforward process. All that you need to do is to click the Lock icon as shown above. Then, as you see below the Course has been locked.
 
-### Course \(post-lock\)
+### Course (post-lock)
 
 ![Post-lock](../../images/lock_course/lock_crs2.png)
 

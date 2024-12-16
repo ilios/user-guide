@@ -16,5 +16,5 @@ This is a very straightforward process. All that you need to do is to click the 
 
 Clicking on the Course again to review the details indicates every Course-related detail is now in read-only mode and cannot be modified as long as the Course is locked.
 
-![Read-only mode](../../images/lock_course/lock_crs3.png)
+![locked course - read-only mode](../../images/lock_course/locked_course.png)
 

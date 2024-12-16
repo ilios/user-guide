@@ -138,7 +138,7 @@ The sort order currently applied can be viewed by reviewing the arrow icons and 
     </figcaption>
 </figure>
 
-**TIP:** It can be helpful to sort by **"Status"** when you want to find out which Courses may not have been published yet. The Courses with the Status of "Not Published" will appear first in the list.
+**TIP:** It can be helpful to sort by **"Status"** when you want to find out which Courses may not have been published yet. Courses with the status of "Not Published" will appear in the list before "Published" courses based on the A-Z sort order applied here.
 
 <figure>
   <img src="../../images/course_images/course_list.png" alt="course list shown">

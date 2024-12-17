@@ -12,9 +12,9 @@ Each of the above functional links are detailed in upcoming sections.
 
 ## Not Using Campus Directory
 
-## Functionality by the Numbers
-
 ![without campus directory](../images/admin_console/README/without_campus_directory.png)
+
+## Functionality by the Numbers
 
 ### 1. [View All](https://iliosproject.gitbook.io/ilios-user-guide/admin/view-all)
 

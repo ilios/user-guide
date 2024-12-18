@@ -20,7 +20,7 @@ Since multiple cohorts can be added to any course, even if the additional cohort
 
 ![new course saved](../../images/course_images/new_course_saved.png)
 
-After clicking the link as shown above, the screen appears as follows with the New Course being appropriately titled **Drugs And Side Effects 101**. The Course is initially saved with a state of **Not Published** since it has no Sessions or Offerings at this point. Since the act of publishing is essentially the equivalent of populating student calendars with their corresponding offerings, there is nothing to publish at this time.
+After clicking the link as shown above, the screen appears as follows with the new course being appropriately titled **Drugs And Side Effects 101**. The Course is initially saved with a state of **Not Published** since it has no Sessions or Offerings at this point. Since the act of publishing is essentially the equivalent of populating student calendars with their corresponding offerings, there is nothing to publish at this time.
 
 ## New Course Details
 

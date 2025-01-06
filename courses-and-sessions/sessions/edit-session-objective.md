@@ -32,13 +32,13 @@ The screen refreshes and reflects the change.
 
 ![update saved](../../images/edit_session_objective/updated_record.png)
 
-### Add MeSH / Vocabulary terms
+### Add MeSH / Vocabulary Terms
 
 Since the process of adding these at a Session level is identical to how it is accomplished at the Course level, please refer to the following links for reference.
 
-[add MeSH Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-objective#attach-mesh-term-s)
+[Add MeSH Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-objective#attach-mesh-term-s)
 
-[add Vocabulary Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-objective#add-vocabulary-terms)
+[Add Vocabulary Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-objective#add-vocabulary-terms)
 
 
 

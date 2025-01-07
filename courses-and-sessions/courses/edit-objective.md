@@ -24,33 +24,13 @@ This is done in an inline editing style so you don't have to leave the page or l
 
 ![make changes](../../images/course_objectives/course_objective_edit_2.png)
 
-* To maintain MeSH Term\(s\) and / or Vocabulary Terms associated with the Course Objective, follow the actions outlined in the screen shot series and steps detailed in the two upcoming sections below.
-
-# Attach MeSH Term(s)
-
-Once the Objectives link has been opened, the full list of Objectives associated with this Course is displayed. Click "Add New" to add one or more MeSH Terms to the Course Objective listed in the Description field.
-
-![add MeSH](../../images/course_objectives/add_mesh1.png)
-
- After "Add New" has been clicked (as shown above), enter search criteria for MeSH and choose from the result set.
-
- ## Search for MeSH
-
-![click to select](../../images/course_objectives/add_mesh2.png)
-
- Now that "Head Protective Devices" has been chosen, the screen appears as follows with the selected item being moved above the results grid in a badge-type display. Clicking the green "Save" button will complete the process.
-
-![MeSH - added](../../images/course_objectives/add_mesh3.png)
-
-Once the Save action is completed, the screen refreshes to show the MeSH Term now associated with the Course Objective.
-
-![MeSH now attached to Course Objective](../../images/course_objectives/add_mesh4.png)
+* To maintain MeSH Term(s) and / or Vocabulary Terms associated with the Course Objective, follow the actions outlined in the screen shot series and steps detailed in the two upcoming sections below.
 
 # Add Vocabulary Term(s) 
 
 This process is similar to the one detailed above attaching MeSH Terms to Course Objectives. Using the same Course Objective as in the previous section, this process is started as shown below.
 
-![Click "Add New" to start the process](../../images/course_objectives/addvocab1.png)
+![click "Add New" to start the process](../../images/course_objectives/addvocab1.png)
 
 ## Select Vocabulary
 
@@ -72,9 +52,29 @@ The screen adjusts to reflect this recent action. The newly added Term can be re
 
 ![list updated](../../images/course_objectives/addvocab5.png)
 
-After confirming the addition of the Term selected, both the MeSH Term added in the previous section and the Vocabulary Term recently added appear as shown below.
+# Attach MeSH Term(s)
+
+Once the Objectives link has been opened, the full list of Objectives associated with this Course is displayed. Click "Add New" to add one or more MeSH Terms to the Course Objective listed in the Description field.
+
+![add MeSH](../../images/course_objectives/add_mesh1.png)
+
+ After "Add New" has been clicked (as shown above), enter search criteria for MeSH and choose from the result set.
+
+ ## Search for MeSH
+
+![click to select](../../images/course_objectives/add_mesh2.png)
+
+ Now that "Head Protective Devices" has been chosen, the screen appears as follows with the selected item being moved above the results grid in a badge-type display. Clicking the green "Save" button will complete the process.
+
+![MeSH - added](../../images/course_objectives/add_mesh3.png)
+
+Once the Save action is completed, the screen refreshes to show the MeSH Term now associated with the Course Objective.
+
+![MeSH now attached to Course Objective](../../images/course_objectives/add_mesh4.png)
 
 ## Review Recent Updates
+
+After confirming the addition of the MeSH Term selected, both the Vocabulary Term added in the previous section and the MeSH Term recently added appear as shown below.
 
 ![course objective list updated](../../images/course_objectives/addvocab6.png)
 

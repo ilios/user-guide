@@ -2,17 +2,19 @@
 
 Once logged in, you will be presented with the “Dashboard” or landing page, which will display the events for the current week for the logged-in user ([Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance)). Other options available at the Dashboard level are [Materials](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view) and [Calendar](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view) (along with the associated [Calendar Feed](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-feed-options) button).
 
-The Dashboard is designed to provide quick access to common sets of information and simple task and activity tracking. Navigation is performed by using the Ilios Menu, which appears on the upper left part of the screen. It is a fly away menu that expands once it has been clicked and is available even if you have scrolled down the page. If your screen has enough viewable area, the **Ilios Menu** will appear automatically as shown below. 
+The Dashboard is designed to provide quick access to common sets of information and simple task and activity tracking. Navigation is performed by using the Ilios Menu, which appears on the upper left part of the screen. It is a fly away menu that expands once it has been clicked and is available even if you have scrolled down the page. If your screen has enough viewable area, the **Ilios Navigation Menu** will appear automatically as shown below. 
 
 **NOTE:** Ilios users who do not perform non-learner activities (i.e. students who have not been assigned the role of Instructor, Course Director, Course Administrator, Student Advisor, or any one of the other advanced user roles) will not see the Ilios Menu shown below.
 
-## Ilios Flyout Menu
+## Ilios Navigation Menu
+
+This refers to the menu found on the left of the screen in full screen viewing mode. Not all users will see this (explained below). Its appearance varies with different screen sizes or devices. The navigational elements and destinations remain the same regardless of the user's view.
 
 ### Large Screen View
-The view below is of the Ilios flyout menu on a relatively large screen. This is how it will appear for Admin users unless they use a smaller screen, tablet, or smart phone.
+The view below is of the Ilios navigation menu on a relatively large screen. This is how it will appear for Admin users unless they use a smaller screen, tablet, or smart phone.
 
 <figure>
-  <img src="../images/dashboard/flyout_menu.png" alt="Flyout Menu">
+  <img src="../images/dashboard/flyout_menu.png" alt="Navigation Menu">
   <figcaption>
       <p>Ilios Menu - full size</p>
   </figcaption>

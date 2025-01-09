@@ -4,7 +4,7 @@ Once logged in, you will be presented with the “Dashboard” or landing page, 
 
 The Dashboard is designed to provide quick access to common sets of information and simple task and activity tracking. Navigation is performed by using the Ilios Menu, which appears on the upper left part of the screen. It is a fly away menu that expands once it has been clicked and is available even if you have scrolled down the page. If your screen has enough viewable area, the **Ilios Menu** will appear automatically as shown below. 
 
-**NOTE:** Ilios users who do not perform non-learner activities (i.e. students who have not been assigned the role of Instructor, Course Director, Course Administrator, Student Advisors or any one of the other advanced user roles) will not see the Ilios Menu shown below.
+**NOTE:** Ilios users who do not perform non-learner activities (i.e. students who have not been assigned the role of Instructor, Course Director, Course Administrator, Student Advisor, or any one of the other advanced user roles) will not see the Ilios Menu shown below.
 
 ## Ilios Flyout Menu
 

@@ -2,7 +2,7 @@
 description: Ilios is a curriculum management platform for the Health Professions educational community. It is a robust web application used to collect, manage, and deliver curricular information.
 ---
 
-# Welcome to Ilios
+## Welcome to Ilios
 
 ![Ilios](images/introduction/ilios_banner.png)
 
@@ -59,23 +59,23 @@ This application is web-based, meaning it must be accessed through web-browsing 
 
 Stick with the most recent releases in any of the browsers listed above, and Ilios will perform as expected. It can also be used on mobile phone browsers and most tablets.
 
-## Saving Work
+### Saving Work
 
 Work processed in Ilios is presented and collected in real-time, but is only saved to the system when a save event occurs. Much of the saving activity takes place automatically in real-time using in line editing or other user-friendly editing areas. This guide describes in detail how the save process occurs (ie. when you will need to manually save and when it takes place automatically). When there is work that is unsaved, action buttons will become active and should be used to process the save event before navigating away.
 
-## Top-level Search
+### Top-level Search
 
 Ilios is designed to provide as much information as possible in a single display page. Ilios screens (Courses, Sessions etc.) allow for real-time text searching on multiple fields to make it easy to find the information you need.
 
-## Optimal Viewing
+### Optimal Viewing
 
 Your primary view is that of an editor and content creator. In order to facilitate this complex view, the system currently works best on a high-resolution display monitor. Other views such as Learner views, and other non-content creation views, are usable at lower resolution, and can be viewed on smart phones and other handheld devices.
 
-## Course Calendar
+### Course Calendar
 
 Ilios is built explicitly on the concept of user-centric information, rather than course-centric information. What this means is that the default view for a user entering the system is not an individual course, but the aggregate of all courses with which they are associated. As a course developer/ director, the maintenance of a single course and its sessions and offerings can easily be performed by selecting “Courses and Sessions” from the Ilios Menu.
 
-## Ilios Workflow
+### Ilios Workflow
 
 The Ilios workflow is based on a curriculum structure which incorporates several interconnected levels (displayed below starting with a school's highest level -- program):
 
@@ -89,6 +89,6 @@ The Ilios workflow is based on a curriculum structure which incorporates several
 * Each session or unit is "offered" at a specific time and location, or given a specific due date. These "offerings" are expressed as events on the calendar display, which provides access to detail information for users of the system.
 * When working in Ilios, each of the levels maintains its state and changes do not cascade up or down.  This is so work can be done on each level independently and is a result of our wanting to provide as much information as possible on one screen.
 
-## Logging In
+### Logging In
 
 Ilios allows for either native or enterprise authentication. Whether your institution uses Shibboleth authentication, basic LDAP, or CAS, Ilios provides configuration for this. If not, you may either modify the configuration of the authentication files to meet the needs of your system, or implement the native Ilios username/password authentication system.

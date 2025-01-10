@@ -33,11 +33,14 @@ Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org)
 The user guide is configured to have high level chapters based on the flyout menu items in the application, to be followed by a quick guide explaining how to perform common tasks in Ilios.
 
 # Navigation 
-## On This Page
 
-All pages within the guide that have bookmarks added by the author will have clickable links in an area on the right side of the screen called "ON THIS PAGE". An example of this is shown below.
+The User Guide can be navigated like most other websites. The back and forward browser buttons can be used along with many internal controls and links that are described in this guide.
 
-![On this page](images/introduction/on_this_page.png)
+## Page Links
+
+All pages within the guide that have bookmarks added by the author will have clickable links in an area on the right side of the screen. An example of this is shown below.
+
+![links on this page](images/introduction/on_this_page.png)
 
 ## Breadcrumbs
 

@@ -44,7 +44,9 @@ All pages within the guide that have bookmarks added by the author will have cli
 
 ## Breadcrumbs
 
-Breadcrumbs are available in the User Guide just as they are in many locations within the Ilios application itself. If you are on the parent or root level of a page, they won't appear since there are no breadcrumbs to follow. In the following screenshot, I have navigated to the "Course Rollover" section of the guide, which is a sub page or chapter inside the "Courses" section, which in turn is a subsidiary of "Courses and Sessions". 
+Breadcrumbs are available in the User Guide just as they are in many locations within the Ilios application itself. If you are on the parent or root level of a page, or if a page does not have subsidiary pages, breadcrumbs won't appear since is no navigation flow to follow. 
+
+In the following screenshot, I have navigated to the "Course Rollover" section of the guide, which is a sub page or chapter inside the "Courses" section, which in turn is a subsidiary of "Courses and Sessions". 
 
 ![breadcrumbs](images/introduction/guide_breadcrumbs.png)
 
@@ -53,7 +55,15 @@ Breadcrumbs explained ...
 * COURSES: navigates up two levels to "Courses" page 
 * COURSES AND SESSIONS: navigates up three levels back to the root of "Courses and Sessions"
 
-These breadcrumbs it should be noted only appear at the top of a page that is a subsidiary page of higher level pages or chapters.
+Breadcrumbs only appear at the top of pages that are subsidiary pages of higher level pages or chapters.
+
+## Clickable Images
+
+In this guide, if you wish to see any image in greater detail, simply click on the image. A magnifying glass icon (depends on browser) will appear allowing for this action to occur. This will open the image pop-up style on the browser window allowing for a much closer viewing experience of the selected (clicked upon) image.
+
+
+
+
 
 # Working with Ilios
 

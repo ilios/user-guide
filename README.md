@@ -80,7 +80,7 @@ Stick with the most recent releases in any of the browsers listed above, and Ili
 
 ## Saving Work
 
-Work processed in Ilios is presented and collected in real-time, but is only saved to the system when a save event occurs. Much of the saving activity takes place automatically in real-time using in line editing or other user-friendly editing areas. This guide describes in detail how the save process occurs (ie. when you will need to manually save and when it takes place automatically). When there is work that is unsaved, action buttons will become active and should be used to process the save event before navigating away.
+Work processed in Ilios is presented and collected in real-time, but is only saved to the system when a save event occurs. Much of the saving activity can take place in real-time using inline editing or other user-friendly editing areas. When there is work that is unsaved, action buttons will become active and should be used to process the save event before navigating away. This guide explains when, where, and how to save your work.
 
 ## Top-level Search
 

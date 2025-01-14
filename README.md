@@ -88,7 +88,7 @@ Ilios is designed to provide as much information as possible in a single display
 
 ## Optimal Viewing
 
-If your primary user role and view is that of an editor and content creator, it may be optimal to use a high-resolution display monitor in order to facilitate this complex view. This, and all other views such as Learner views, and other non-content creation views, are usable at lower resolution, and can be viewed on smart phones and other handheld devices. 
+If your primary user role and view is that of an editor and content creator, it may be optimal to use a high-resolution display monitor in order to facilitate this complex view. This, and all other views such as Learner views, and other non-content creation views, are usable at lower resolution, and can be viewed on smart phones and other handheld devices. See [Mobile Devices](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/mobile-devices) for more information.
 
 ## Course Calendar
 

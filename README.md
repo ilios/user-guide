@@ -32,9 +32,9 @@ As the search criteria is further refined, the results returned will be fewer. T
 
 Clicking on any return value from search will route you to that location in the guide. To return, the browser's back navigation button can be used. 
 
-## Dismiss Search 
+## Cancel Search 
 
-Using the escape key on your keyboard will dismiss the user guide search results window and return you to your previous location. 
+Using the escape key on your keyboard will cancel the search effort and close the search results window to return you to your previous location. 
 
 # Contact Info 
 

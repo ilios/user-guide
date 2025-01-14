@@ -18,15 +18,25 @@ For an introduction to Ilios and to sign up for newsletters and announcements, c
 
 To perform a quick search to find any Ilios topic you may be hoping to find, the search box in the upper right portion of the screen can be used for this. Before entering criteria, it appears as shown below. The search process used in searching the User Guide is similar to the [Global Search](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search) functionality in Ilios. The starting point is shown below.
 
-![Click to search](images/introduction/click_to_search.png)
+![click to search](images/introduction/click_to_search.png)
 
 ---------
 
-![User guide search](images/introduction/user_guide_search.png)
+![user guide search](images/introduction/user_guide_search.png)
 
 In the example shown above, the search term entered is "Add Session". You can see that many results were returned from that search. "Add New Session" is the first of the results returned. The others can located by scrolling down the page. The highest likelihood (best match) appears towards the top of the screen decreasing further down the page.
 
 As the search criteria is further refined, the results returned will be fewer. The more specific the search criteria is, the fewer results you will have to scroll through to find what you want. They are sorted by best match. Click on any of the links to pull up the exact topic in detail.
+
+## Utilize Search Results 
+
+Clicking on any value returned by performing a search will route you to that location in the guide. To return to your previous location after navigating to a search result's location in the guide, the browser's back navigation button can be used. 
+
+## Cancel Search 
+
+Using the escape key on your keyboard will cancel the search effort and close the search results window to return you to your previous location. 
+
+# Contact Info 
 
 Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org) with any comments or suggestions you may have regarding this User Guide or about Ilios functionality in general.
 
@@ -35,6 +45,10 @@ The user guide is configured to have high level chapters based on the flyout men
 # Navigation 
 
 The User Guide can be navigated like most other websites. The back and forward browser buttons can be used along with many internal controls and links that are described in this guide.
+
+## Browser Buttons
+
+The back and forward navigation buttons in the User Guide can be used to navigate to the following or previous section in the guide.
 
 ## Page Links
 

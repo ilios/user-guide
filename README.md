@@ -30,7 +30,7 @@ As the search criteria is further refined, the results returned will be fewer. T
 
 ## Utilize Search Results 
 
-Clicking on any value returned by performing a search will route you to that location in the guide. To return, the browser's back navigation button can be used. 
+Clicking on any value returned by performing a search will route you to that location in the guide. To return to your previous location after navigating to a search result's location in the guide, the browser's back navigation button can be used. 
 
 ## Cancel Search 
 

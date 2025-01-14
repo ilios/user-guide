@@ -61,9 +61,14 @@ Breadcrumbs only appear at the top of pages that are subsidiary pages of higher 
 
 In this guide, if you wish to see any image in greater detail, simply click on the image. A magnifying glass icon (depends on browser) will appear allowing for this action to occur. This will open the image pop-up style on the browser window allowing for a much closer viewing experience of the selected (clicked upon) image.
 
+Anywhere you hover over on any image will present the "plus" icon shown below. The mouse's pointer becomes the "plus" icon. This is shown below. Click anywhere on the original image to zoom in for a closer view.
 
-
-
+<figure>
+  <img src="/images/introduction/click_for_more.png" alt="click to zoom in">
+  <figcaption>
+      <p>Click to zoom in on image</p>
+  </figcaption>
+</figure>
 
 # Working with Ilios
 

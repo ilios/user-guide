@@ -48,7 +48,7 @@ Clicking the Ilios Menu expander (or contractor if already expanded) reveals in 
 
 The view of Ilios as seen from a mobile phone or device is very similar to the way it is described above in the Smaller Screen View sections (expanded or contracted).
 
-For more details, review [Mobile Device View](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/mobile-devices).
+For more details, review [Mobile Devices](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/mobile-devices).
 
 ### Menu Items (all views)
 

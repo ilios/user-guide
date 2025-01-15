@@ -20,7 +20,7 @@ The view below is of the Ilios navigation menu on a relatively large screen. Thi
   </figcaption>
 </figure>
 
-### Small Screen View - contracted
+### Smaller Screen View - contracted
 
 When the Ilios application is not being viewed at full size or is being viewed using a device with a smaller screen surface area, the toolbar spans across the top of the screen as shown below.
 
@@ -33,7 +33,7 @@ When the Ilios application is not being viewed at full size or is being viewed u
 
 The **Ilios Menu expander** is only available in the smaller view of the toolbar. It is not needed in full-size mode. The **Help Link** is always available and takes the user directly to this very guide.
 
-### Small Screen View - expanded
+### Smaller Screen View - expanded
 
 Clicking the Ilios Menu expander (or contractor if already expanded) reveals in greater detail the available menu options or reduces them to their previous size if already expanded. You can see this display below after clicking to expand the menu.
 
@@ -44,7 +44,7 @@ Clicking the Ilios Menu expander (or contractor if already expanded) reveals in 
   </figcaption>
 </figure>
 
-### Mobile View
+### Mobile Screen View
 
 The view of Ilios as seen from a mobile phone or device is very similar to the way it is described above in Small Screen View.
 

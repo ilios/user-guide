@@ -21,3 +21,17 @@ After clicking the Ilios home button as shown above, you will be returned to the
         <p>Week at a Glance - Dashboard</p>
     </figcaption>
 </figure>
+
+## Mouse-Over
+
+Although this is pointed out in the screen shot at the top of this page, it is worth noting that this action (mouse-over) can be performed all over Ilios if you are wondering what an icon or link means and where you will end up if you click that link. 
+
+**NAVIGATION TIP**
+The mouse-over presents the destination (target link) of any clickable link. This can be a very helpful navigational aid.
+
+<figure>
+    <img src="../images/dashboard_home/mouse_over_destination.png" alt="mouse over showing target link destination">
+    <figcaption>
+        <p>Mouse-over link target shown</p>
+    </figcaption>
+</figure>

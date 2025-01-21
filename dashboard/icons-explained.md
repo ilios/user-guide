@@ -45,10 +45,11 @@ The icon above will not appear if the learning material's usage is optional - no
 ### Instructional Notes 
 ![Instructional Notes - for students to see](../images/icons_explained/inst_notes.png)
 
-**NOTE:** There is also an "Attendance Required" icon that is used by the School of Pharmacy at UCSF. It is possible to create custom icons and activate them on a school level. The screen shot of this icon is shown below.
-
 ### Attendance Required
 ![Attendance Required](../images/icons_explained/att_req.png)
+
+**NOTE:** There is also an "Attendance Required" icon that is used by the School of Pharmacy at UCSF. It is possible to create custom icons and activate them on a school level. The screen shot of this icon is shown below.
+
 
 ### User Guide Link
 ![User Guide (Help link)](../images/icons_explained/user_guide_link.png)
@@ -72,11 +73,12 @@ The above icon appears if the campus name of record is different from the Ilios 
 ![name in Ilios](../images/icons_explained/name_in_ilios.png)
 
 ### Pre-work attached
+Sessions can't be deleted when this is the case since more than one other session depends on the existence of this one. 
+
 ![Pre-work attached](../images/icons_explained/pre_work_icon.png)
 
-Sessions can't be deleted when this is the case.
-
-The icon below is displayed on the Calendar when an offering has not yet been published. Only Ilios users with non-student user roles will see these on the Calendar. Students only see published offerings.
-
 ### Unpublished Offering
+The icon below is displayed on the Calendar when an offering has not yet been published. Only Ilios users with non-student user roles will see these on the Calendar. Students only see published offerings. These have been thought of in the past as having been in "Draft" status.
+
 ![Unpublished Offering on Calendar](../images/icons_explained/unpubiished_icon.png)
+

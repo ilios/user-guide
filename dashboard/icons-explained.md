@@ -8,6 +8,15 @@ description: >-
 
 ## Student Facing Icons
 
+### Materials Link
+![Link to learning materials](../images/icons_explained/materials_link_image.png)
+
+This is a zoomed-in close up of the image that appears on the Event Detail screen. Clicking on this image will route the user to [Materials View](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view) where all learning materials pertaining to this student can be retrieved and/or viewed.
+
+Here it is below in a bit better context on the [Event Detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) screen.
+
+![Materials link shown](../images/icons_explained/materials_link.png)
+
 ### Special Attire Required
 ![Special Attire Required](../images/icons_explained/spec_attire_req.png)
 

@@ -11,7 +11,9 @@ description: >-
 ### Materials Link
 ![Link to learning materials](../images/icons_explained/materials_link_image.png)
 
-This is a zoomed-in close up of the image that appears on the Event Detail screen. Clicking on this image will route the user to [Materials View](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view) where all learning materials pertaining to this student can be retrieved and/or viewed.
+This is a zoomed-in close up of the image that appears on the Event Detail screen. Clicking on this image will route the user to [Materials View](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view) where all learning materials pertaining to this student can be retrieved and/or viewed. The course drop-down will have the current course selected. The current course refers to the one pertaining to the current session.
+
+**TIP:** Select "All Courses" from the drop-down if it is desired to see all materials from all courses. 
 
 Here it is below in a bit better context on the [Event Detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) screen.
 

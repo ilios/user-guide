@@ -28,7 +28,7 @@ Here it is below in a bit better context on the [Event Detail](https://iliosproj
 ### Supplemental Curriculum
 ![Supplemental Curriculum](../images/icons_explained/supp_curriculum.png)
 
-The three icons shown above (Special Attire, Special Equipment, and Supplemental Curriculum) will appear up on the Event Detail page when they have been set to "true". Hovering any of these icons over using a mouse will cause a description of the icon to become visible.
+The three icons shown above (Special Attire, Special Equipment, and Supplemental Curriculum) will appear up on Week at a Glance and Event Detail when they have been set to "true". Hovering any of these icons over using a mouse will cause a description of the icon to become visible.
 
 ### Virtual Meeting Link
 

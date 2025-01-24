@@ -30,6 +30,10 @@ Here it is below in a bit better context on the [Event Detail](https://iliosproj
 
 The three icons shown above (Special Attire, Special Equipment, and Supplemental Curriculum) will appear up on Week at a Glance and Event Detail when they have been set to "true". Hovering any of these icons over using a mouse will cause a description of the icon to appear hovering above the icon.
 
+The image belows shows the appearance of all three of the above icons on Week at  Glance ...
+
+![Week at a glance](../images/icons_explained/waag_icons.png)
+
 ### Virtual Meeting Link
 
 ![Copy Virtual Meeting Link to Clipboard](../images/icons_explained/copy_to_clipboard.png)

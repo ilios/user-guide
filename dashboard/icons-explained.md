@@ -28,6 +28,8 @@ Here it is below in a bit better context on the [Event Detail](https://iliosproj
 ### Supplemental Curriculum
 ![Supplemental Curriculum](../images/icons_explained/supp_curriculum.png)
 
+The three icons shown above (Special Attire, Special Equipment, and Supplemental Curriculum) will shown up on the Event Detail page when they have been set to "true". Also, hovering over with the mouse will cause a description of the icon to become visible with the mouse in that position.
+
 ### Virtual Meeting Link
 
 ![Copy Virtual Meeting Link to Clipboard](../images/icons_explained/copy_to_clipboard.png)

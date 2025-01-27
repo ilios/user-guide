@@ -1,6 +1,6 @@
 ---
 description: >-
-  This section of the guide is designed to describe many icons seen within the Ilios application.
+  This section of the guide has been designed to describe the appearance and functionality of icons seen within Ilios.
 ---
 
 # Icons Explained

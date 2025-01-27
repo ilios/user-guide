@@ -1,7 +1,6 @@
 ---
 description: >-
-  This section of the guide is designed for Learners (students) to help explain
-  icons you will see within the Ilios application as you use it.
+  This section of the guide is designed to describe many icons seen within the Ilios application.
 ---
 
 # Icons Explained
@@ -38,7 +37,7 @@ The image belows shows the appearance of all three of the above icons on Week at
 
 ![Copy Virtual Meeting Link to Clipboard](../images/icons_explained/copy_to_clipboard.png)
 
-**NOTE:** The actual URL is available to the left of the icon shown above. It is titled "Virtual Session Link". This link is also available further down in the Event Detail as well with the full URL written out.
+**NOTE:** The actual URL is available to the left of the icon shown above. It is titled "Virtual Session Link". This link is also available in Event Detail as well with the full URL available on mouse-over.
 
 ### More Information available
 ![More Information - click to see](../images/icons_explained/more_info.png)

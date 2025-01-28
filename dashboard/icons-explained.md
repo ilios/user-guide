@@ -25,7 +25,7 @@ Here it is below in a bit better context on the [Event Detail](https://iliosproj
 ![Special Equipment Required](../images/icons_explained/spec_equip_needed.png)
 
 ### Supplemental Curriculum
-![Supplemental Curriculum](../images/icons_explained/supp_curriculum.png)
+![Supplemental Curriculum](../images/icons_explained/supplemental_curriculum.png)
 
 The three icons shown above (Special Attire, Special Equipment, and Supplemental Curriculum) will appear up on Week at a Glance and Event Detail when they have been set to "true". Hovering any of these icons over using a mouse will cause a description of the icon to appear hovering above the icon.
 

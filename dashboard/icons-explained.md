@@ -64,7 +64,7 @@ The icon above will not appear if the learning material's usage is optional - no
 ### Attendance Required
 ![Attendance Required](../images/icons_explained/att_req.png)
 
-**NOTE:** There is also an "Attendance Required" icon that is used by the School of Pharmacy at UCSF. It is possible to create custom icons and activate them on a school level. The screen shot of this icon is shown below.
+**NOTE:** There is also an "Attendance Required" icon that is used by the School of Pharmacy at UCSF. It is possible to create custom icons and activate them on a school level. The screen shot of this icon is shown above.
 
 
 ### User Guide Link

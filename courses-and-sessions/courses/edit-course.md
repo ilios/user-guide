@@ -6,7 +6,9 @@ To manage and edit an existing course, enter part of the course’s title into t
 
 ### Courses Pre-filter
 
-![Before Filtering](../../images/course_images/courses_pre_filter.png)
+In this first screen shot, no filters have been applied. All courses are displayed.
+
+![before filtering](../../images/course_images/courses_pre_filter.png)
 
 ### Courses Post-Filter
 

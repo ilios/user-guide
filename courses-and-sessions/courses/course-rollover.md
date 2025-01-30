@@ -72,5 +72,5 @@ You will be routed automatically to the new Course.
 
 ## Previous Year
 
-It is possible to roll a course "over" back into the previous academic year. The process is the same as depicted in the above sections. The name must be unique to the year. You will notice the previous year (one year only) is available in the year selector drop-down.
+It is possible to roll a course "over" back into the previous academic year. The process is the same as depicted in the above sections. The name must be unique to the year. You will notice the previous year (one year only) is available in the year selector drop-down. This is based on the current academic year. One year previous to the current academic year is available in the drop-down and for course rollover.
 

@@ -39,6 +39,3 @@ Since the process of adding these at a Session level is identical to how it is a
 [Add MeSH Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-objective#attach-mesh-term-s)
 
 [Add Vocabulary Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-objective#add-vocabulary-terms)
-
-
-

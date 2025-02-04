@@ -38,7 +38,7 @@ Using the escape (`esc`) key on your keyboard will cancel the search effort and 
 
 # Contact Info 
 
-Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org) with any comments or suggestions you may have regarding this User Guide or about Ilios functionality in general.
+Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org) with any comments or suggestions you may have regarding the user guide or about Ilios functionality in general.
 
 The user guide is configured to have high level chapters based on the flyout menu items in the application, to be followed by a quick guide explaining how to perform common tasks in Ilios.
 

@@ -84,6 +84,17 @@ Anywhere you hover over on any image will present the "plus" icon shown below. T
   </figcaption>
 </figure>
 
+## Home Button 
+
+The user guide itself (like Ilios) has a "home" button. You can be anywhere in the guide and get taken back to the beginning of the guide ([home](https://iliosproject.gitbook.io/ilios-user-guide))by clicking the button shown below. 
+
+<figure>
+  <img src="/images/introduction/user_guide_home_button.png" alt="Home button - displayed">
+  <figcaption>
+      <p>Click to return to starting point in user guide (Home)</p>
+  </figcaption>
+</figure>
+
 # Working with Ilios
 
 One important thing to remember: **Ilios is a web application.**

@@ -34,7 +34,7 @@ Clicking on any value returned by performing a search will route you to that loc
 
 ## Cancel Search 
 
-Using the escape `esc` key on your keyboard will cancel the search effort and close the search results window to return you to your previous location. 
+Using the escape (`esc`) key on your keyboard will cancel the search effort and close the search results window to return you to your previous location. 
 
 # Contact Info 
 

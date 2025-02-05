@@ -1,12 +1,14 @@
 # My Profile
 
+## Open My Profile
+
 The My Profile screen is a useful way to troubleshoot issues in Ilios. Any Ilios user can access this information by clicking as shown below. This is on the Dashboard - upper right portion of the screen.
 
-In this case, "Nicholas Ann Gutierrez" is the logged-in user, and also the user whose Profile will be displayed. This is also a good example of a student's view into the Ilios system with a populated populated Week at a Glance (WaaG) view.
+In this case, "Nicholas Ann Gutierrez" is the logged-in user, and also the user whose profile will be displayed. 
 
-![Select from Menu](../images/my_profile/select_my_profile.png)
+![select from menu](../images/my_profile/select_my_profile.png)
 
-## My Profile (details)
+## My Profile Details
 
 After clicking My Profile, as shown above, the details regarding your logged-in account are displayed as shown below.
 

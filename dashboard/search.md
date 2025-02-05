@@ -47,6 +47,10 @@ The results of running a search for "brain" are demonstrated below.
 
 ![search results](../images/global_search/global_search_results.png)
 
+### Cancel Search
+
+To cancel any search after entering criteria but before pressing "Enter" or accepting a suggested search option, the keyboard's "escape" key (`esc`) can be utilized to clear out the search box value and return to your previous Ilios session.
+
 ## Show More
 
 Search results are grouped by Course, and then by Session. In the case above, the top three sessions that match (in order of match accuracy) are displayed. Clicking the "**Show More**" link, which appears at below the first three results for each Course, will open up and show the rest of the sessions within that course that match. For example, after the first "**Show More**" link located under the session link for "Defining the Mind", the screen now displays the rest of the sessions in the course called "Brain, Mind, and Behavior".

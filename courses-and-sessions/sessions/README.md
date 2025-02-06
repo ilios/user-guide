@@ -57,13 +57,15 @@ The screen shot above points out the icons indicating both the existence of prer
 
 It is easy to expand the Session List to allow for the maintenance of an Offering's room (location) right from this screen. Any Session's Title is a hyperlink and can be clicked to performance to a Session's attributes. After the list has been expanded, links to make changes to the attributes of an Offerings (other than location) right from the expanded Session List become available.
 
-![Session list - options](../../images/sessions_main_page/session_list_exp_options.png)
+### Options
+
+The options shown below can be used to either expand individual (one or more) sessions or all of the sessions (non-ILM's with one or more offerings) at the same time.
+
+![session list - options](../../images/sessions_main_page/session_list_exp_options.png)
 
 ### Expand All Sessions
 
-![click to expand all](../../images/sessions_main_page/click_to_expand_all.png)
-
-Expanding all Sessions for a Course as shown above results in the screen changing to something similar to what is shown below. A spinner will appear briefly while the list is being expanded.
+Expanding all Sessions for a Course as shown above following "Click to Expand all Sessions at once" in "Options" results in the screen changing to something similar to what is shown below. A spinner will appear briefly while the list is being expanded.
 
 ![all sessions expanded](../../images/sessions_main_page/session_list_exp_all.png)
 
@@ -71,14 +73,20 @@ Expanding all Sessions for a Course as shown above results in the screen changin
 
 Any single (or multiple) session can be expanded if you choose to keep the remainder of the list in a non-expanded state. Only "ABC1 Exam Viewing" has been expanded in the screen shot shown below.
 
-![Single Session Expanded](../../images/sessions_main_page/session_list_exp_one.png)
+![single session expanded](../../images/sessions_main_page/session_list_exp_one.png)
 
 **IMPORTANT NOTE:** Sessions which have been selected to be an ILM (Independent Learning Module) are not expandable in this context because all information is already displayed.
 
+### Fixed Column Headers
+
+In this view, the column headers stay fixed in position as you scroll down the screen. This is helpful in reviewing the content of each session in the list. In this example, the user has scrolled through 50 or so sessions (sorted by title A-Z) but still can review the data column headers. 
+
+![fixed column headers](../../images/sessions_main_page/fixed_column_headers.png)
+
 ## Session Detail
 
-The session detail screen is very lengthy so in this situation, the top part is shown in the screen shot below.
+The session detail screen is very lengthy so in this situation, the top part is shown in the screen shot below. Clicking on the hyperlinked title of any session will route you to the session detail screen for that session - detailed briefly below.
 
-![Session detail - top](../../images/sessions_main_page/sess_update_1.png)
+![session detail - top](../../images/sessions_main_page/sess_update_1.png)
 
 Once a course has been saved, Sessions may be added to the course. A Session is a discrete instructional unit of curricular material or activity within a course. To add a new session, click “Add New”. This will create an empty Session, ready to be populated with the Session's attributes, listed [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions#session-attributes-all-session-types).

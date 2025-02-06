@@ -1,8 +1,8 @@
-## Sessions
+# Sessions
 
 A session refers to a section or unit of a course with specific attributes of type and content. Sessions may be represented as multiple or singular time and place Offerings or as Independent Learning units with an estimated duration of educational time. Sessions (generally Independent Learning Modules (ILM's)) can be associated with a follow-up Session. These learning activities should be completed before the follow-up takes place, or by a specified Due Date and time.
 
-### Session Attributes (all session types)
+## Session Attributes (all session types)
 
 * **Associated Groups**: (Currently displays only in aggregate at the course level.) Display only. Shows a list by name of the Learner Groups currently associated with the Session.
 * **Session Type**: Selected from a predefined list of instructional and assessment methods, loaded into the system at implementation. Click [here](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types) for more information on Session Types.
@@ -33,15 +33,15 @@ These [Session Attributes](https://iliosproject.gitbook.io/ilios-user-guide/scho
 * **Special Equipment Required**: flags the content as noted. Special instructions or details should be entered in the Session Description field.
 * **Attendance Required**: flags the content as noted. Attendance is not optional.
 
-### Screen Shots with Field Descriptions
+## Screen Shots with Field Descriptions
 
 This had to be split into upper and lower portions to allow space to display the entire screen.
 
-#### Upper Portion
+### Upper Portion
 
 ![Session - upper](../../images/sessions_main_page/session_upper.png)
 
-#### Lower Portion
+### Lower Portion
 
 ![Session - lower](../../images/sessions_main_page/session_lower.png)
 
@@ -49,7 +49,7 @@ This had to be split into upper and lower portions to allow space to display the
 
 The screen shot below shows the Courses and Sessions screen with the list of associated Sessions for a course.
 
-### Session List
+## Session List
 
 ![Session - list](../../images/sessions_main_page/session_list1.png)
 
@@ -73,7 +73,7 @@ Any single (or multiple) session can be expanded if you choose to keep the remai
 
 **IMPORTANT NOTE:** Sessions which have been selected to be an ILM (Independent Learning Module) are not expandable in this context because all information is already displayed.
 
-### Session Detail
+## Session Detail
 
 The session detail screen is very lengthy so in this situation, the top part is shown in the screen shot below.
 

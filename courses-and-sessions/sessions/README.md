@@ -61,9 +61,11 @@ It is easy to expand the Session List to allow for the maintenance of an Offerin
 
 ### Expand All Sessions
 
+![click to expand all](../../images/sessions_main_page/click_to_expand_all.png)
+
 Expanding all Sessions for a Course as shown above results in the screen changing to something similar to what is shown below. A spinner will appear briefly while the list is being expanded.
 
-![All Sessions Expanded](../../images/sessions_main_page/session_list_exp_all.png)
+![all sessions expanded](../../images/sessions_main_page/session_list_exp_all.png)
 
 ### Expand Single Session
 

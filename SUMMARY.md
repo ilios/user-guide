@@ -41,6 +41,7 @@
       * [Learning Materials Summary](courses-and-sessions/courses/learning-materials-summary.md)
       * [Sort Learning Materials](courses-and-sessions/courses/sort-learning-materials.md)
       * [View Learning Materials](courses-and-sessions/courses/view-learning-materials.md)
+    * [Vocabulary Terms](courses-and-sessions/courses/vocabulary_terms.md)
   * [Sessions](courses-and-sessions/sessions/README.md)
     * [Session Actions](courses-and-sessions/sessions/session_actions.md)
       * [Add New Session](courses-and-sessions/sessions/add-new-session.md)

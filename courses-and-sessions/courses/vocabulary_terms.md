@@ -15,3 +15,9 @@ The course has been selected (Airways, Blood and Circulation - 2024). The [Edit 
 When a course is selected initially, the course details are hidden. Click "Show Details" as shown below to reveal these other field maintenance areas.
 
 ![show details](../../images/course_vocabulary/show_details.png)
+
+Scrolling down the page past Leadership, Objectives, Learning Materials, and Competencies, you will find the Term maintenance area. Activating this functionality is accomplished by the clicking "Manage Terms" as shown below. 
+
+## Manage Terms
+
+![manage terms](../../images/course_vocabulary/manage_terms.png)

@@ -132,7 +132,7 @@ Once confirmed in the step shown above, the Manage MeSH functional area closes (
 
 ![More MeSH maintenance](../../images/session_edit/click_for_more_maintenance.png)
 
-## Manage Session Term(s)
+## Manage Vocabulary Terms
 
 Terms are selected a school-specific, pre-defined list of one or more Vocabularies. These can be attached at the Course level and / or at the Session level.
 

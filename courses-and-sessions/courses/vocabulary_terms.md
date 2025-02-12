@@ -21,3 +21,7 @@ Scrolling down the page past Leadership, Objectives, Learning Materials, and Com
 ## Manage Terms
 
 ![manage terms](../../images/course_vocabulary/manage_terms.png)
+
+After clicking as shown above, the screen appears as follows. These terms and vocabularies are configured at the school level. The term maintenance area appears as shown below.
+
+![term maintenance area](../../images/course_vocabulary/term_maintenance_area.png)

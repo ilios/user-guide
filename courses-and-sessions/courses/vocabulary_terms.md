@@ -39,3 +39,13 @@ Now that "Topics" has been chosen as the vocabulary selected, the terms availabl
 There is also filtering available allowing for the terms in any selected vocabulary to be searched and made easier to find for attachment to this course.
 
 ![topics displayed](../../images/course_vocabulary/topics_displayed.png)
+
+## Select Term
+
+The selection process is straightforward. You can search to limit the result set or scroll to find the correct one to add to this course. In the example, we are selecting "Health Care Financing" to be added as a term (from the "Topics" vocabulary). 
+
+![select term to add](../../images/course_vocabulary/select_term_to_add.png)
+
+The details about this term are included to show that the mouse-over pop-up reveals the term's description. This is from the Schools >> Vocabularies section of Ilios.
+
+![term details](../../images/course_vocabulary/term_details.png)

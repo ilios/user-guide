@@ -25,3 +25,17 @@ Scrolling down the page past Leadership, Objectives, Learning Materials, and Com
 After clicking as shown above, the screen appears as follows. These terms and vocabularies are configured at the school level. The term maintenance area appears as shown below.
 
 ![term maintenance area](../../images/course_vocabulary/term_maintenance_area.png)
+
+## Switch Vocabulary 
+
+Using the vocabulary swticher, a different vocabulary can be selected. In this case, we are chosing "Topics". 
+
+![switch to topics](../../images/course_vocabulary/switch_to_topics.png)
+
+Now that "Topics" has been chosen as the vocabulary selected, the terms available for selection will reflect this choice. Only terms from the vocabulary "Topics" will be available.
+
+## Updated Vocabulary 
+
+There is also filtering available allowing for the terms in any selected vocabulary to be searched and made easier to find for attachment to this course.
+
+![topics displayed](../../images/course_vocabulary/topics_displayed.png)

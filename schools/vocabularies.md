@@ -19,9 +19,9 @@ Once the school has been chosen, expanding the list to reveal the vocabularies i
 
 ![expand vocabularies](../images/schools/vocabularies/expand_vocabularies.png)
 
-After clicking as shown above the Vocabularies become available to edit as shown below. For Schools that have not added additional categories beyond the original Topics mapping, the only Vocabulary that will appear in the screen as shown above will be Topics. In other words, Terms (formerly) have been converted into Topics.
+After clicking as shown above the Vocabularies become available to edit as shown below. For Schools that have not added additional categories beyond the original Topics mapping, the only Vocabulary that will appear in the screen as shown above will be Topics. 
 
-![expanded vocabularies](../images/schools/vocabularies/expanded_vocabularies.jpg)
+![expanded vocabularies](../images/schools/vocabularies/expanded_vocabularies.png)
 
 ## Add New Term
 

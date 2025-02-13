@@ -27,13 +27,17 @@ After clicking as shown above the Vocabularies become available to edit as shown
 
 The addition of a new vocabulary is accomplished here in the Schools maitenance area as well. For the sake of demonstration, it has been decided that a new vocabulary called "Audio Aids" should be added to the School of Medicine. This new vocabulary will later have terms added as well. 
 
-### Click to Add 
+### Click to Add - Start
 
 The screen shot below shows the first step in adding a vocabulary to your school.
 
 ![new vocabulary - click to start process](../images/schools/vocabularies/new_vocabulary_start.png)
 
+### Enter New Vocabulary Value
 
+The next step is to simply enter the name of the vocabulary to be used. The phrase "Audio Aids" is added in the provided field for demonstration purposes. Pressing "Done" as shown will complete the saving and addtion of this new vocabulary.
+
+![add text value - new vocabulary](../images/schools/vocabularies/enter_new_vocab_value.png)
 
 ## Add New Term
 

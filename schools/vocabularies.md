@@ -9,6 +9,14 @@ Managing Vocabularies and Terms at the School level is performed using the Schoo
 * **[**Objective**](https://iliosproject.gitbook.io/ilios-user-guide/glossary#objective) (Course, Session, Program Year)**
 * **[**Program Year**](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year)**
 
+## Choose School
+
+The first step in this process is to choose the school for which you wish to maintain these Vocabulary Terms. This is shown below.
+
+![choose school](../images/schools/vocabularies/choose_school.png)
+
+Once the school has been chosen, expanding the list to reveal the vocabularies is the next suggested step.
+
 ![expand vocabularies](../images/schools/vocabularies/expand_vocabularies.png)
 
 After clicking as shown above the Vocabularies become available to edit as shown below. For Schools that have not added additional categories beyond the original Topics mapping, the only Vocabulary that will appear in the screen as shown above will be Topics. In other words, Terms (formerly) have been converted into Topics.

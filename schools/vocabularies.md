@@ -27,7 +27,7 @@ After clicking as shown above the Vocabularies become available to edit as shown
 
 The addition of a new vocabulary is accomplished here in the Schools maitenance area as well. For the sake of demonstration, it has been decided that a new vocabulary called "Audio Aids" should be added to the School of Medicine. This new vocabulary will later have terms added as well. 
 
-### Click to Add - Start
+### Click to Add
 
 The screen shot below shows the first step in adding a vocabulary to your school.
 

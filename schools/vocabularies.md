@@ -33,11 +33,17 @@ The screen shot below shows the first step in adding a vocabulary to your school
 
 ![new vocabulary - click to start process](../images/schools/vocabularies/new_vocabulary_start.png)
 
-### Enter New Vocabulary Value
+### Enter Vocabulary Title
 
 The next step is to simply enter the name of the vocabulary to be used. The phrase "Audio Aids" is added in the provided field for demonstration purposes. Pressing "Done" as shown will complete the saving and addtion of this new vocabulary.
 
 ![add text value - new vocabulary](../images/schools/vocabularies/enter_new_vocab_value.png)
+
+### New Vocabulary Added 
+
+The list refreshes to include the newly added vocabulary.
+
+![new vocabulary added](../images/schools/vocabularies/new_vocabulary_added.png)
 
 ## Add New Term
 

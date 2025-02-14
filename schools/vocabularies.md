@@ -45,7 +45,7 @@ The list refreshes to include the newly added vocabulary.
 
 ![new vocabulary added](../images/schools/vocabularies/new_vocabulary_added.png)
 
-## Add New Term
+## Add Term
 
 In this example, `UCSF 49`, one of the Vocabularies for UCSF, has been selected. A new Term "Autism and Related Issues" has been entered.
 
@@ -71,11 +71,11 @@ These Vocabulary Terms can be nested in the sense that there can be one or terms
 
 To add a Sub Term, click on "Autism and Related Issues". The term being added here will be nested below "Autism and Related Issues". For this reason, it is considered to be a "Sub Term" of "Autism and Related Issues".
 
-![Add sub term](../images/schools/vocabularies/add_sub_term.jpg)
+![add sub term](../images/schools/vocabularies/add_sub_term.png)
 
 "Level 2 Diagnosis" has now been added as a lower level Sub-Term of "Autism And Related Issues". The results of this action are shown below.
 
-![Sub term added](../images/schools/vocabularies/sub_term_added.jpg)
+![Sub term added](../images/schools/vocabularies/sub_term_added.png)
 
 ## Activate / Deactivate Vocabulary Terms
 

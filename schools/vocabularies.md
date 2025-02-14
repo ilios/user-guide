@@ -49,11 +49,21 @@ The list refreshes to include the newly added vocabulary.
 
 In this example, `UCSF 49`, one of the Vocabularies for UCSF, has been selected. A new Term "Autism and Related Issues" has been entered.
 
-![add new term](../images/schools/vocabularies/add_new_term.jpg)
+![add new term](../images/schools/vocabularies/add_new_term.png)
 
 Now that "Add" has been clicked, the new Term has been added as shown below.
 
-![new term added](../images/schools/vocabularies/new_term_added.jpg)
+### Confirmation Message
+
+After adding the new term, a message confirming the addition of the new term appears.
+
+![confirmation message](../images/schools/vocabularies/confirmation_message.png)
+
+### Term List Refreshed
+
+The newly added term gets added to the list of terms in the associated vocabulary. The asterisks (*) that appear to the right of the other terms indicates the existence of sub-terms (covered later).
+
+![list refreshed](../images/schools/vocabularies/list_refreshed.png)
 
 These Vocabulary Terms can be nested in the sense that there can be one or terms nested one or more levels lower than "Autism and Related Issues".
 

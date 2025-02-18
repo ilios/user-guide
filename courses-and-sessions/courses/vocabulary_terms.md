@@ -49,3 +49,11 @@ The selection process is straightforward. You can search to limit the result set
 The details about this term are included to show that the mouse-over pop-up reveals the term's description. This is from the Schools >> Vocabularies section of Ilios.
 
 ![term details](../../images/course_vocabulary/term_details.png)
+
+## Term - Selected for Course
+
+![term selected to be added to course](../../images/course_vocabulary/term_added_to_course.png)
+
+After performing the suggested "save" action, the term added in the previous is now saved to the database and is attached to this course. It can be removed if need be. "Manage Terms" can be opened to perform this action.
+
+![term added and saved](../../images/course_vocabulary/term_saved_to_course.png)

@@ -40,7 +40,7 @@ There is also filtering available allowing for the terms in any selected vocabul
 
 ![topics displayed](../../images/course_vocabulary/topics_displayed.png)
 
-## Select Term
+## Term - Search and Select
 
 The selection process is straightforward. You can search to limit the result set or scroll to find the correct one to add to this course. In the example, we are selecting "Health Care Financing" to be added as a term (from the "Topics" vocabulary). 
 

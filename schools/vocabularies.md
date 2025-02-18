@@ -75,7 +75,7 @@ To add a Sub Term, click on "Autism and Related Issues". The term being added he
 
 "Level 2 Diagnosis" has now been added as a lower level Sub-Term of "Autism And Related Issues". The results of this action are shown below.
 
-![Sub term added](../images/schools/vocabularies/sub_term_added.png)
+![sub term added](../images/schools/vocabularies/sub_term_added.png)
 
 ## Activate / Deactivate Vocabulary Terms
 
@@ -85,15 +85,15 @@ By default, they are saved in an "Active" state so they can be used immediately 
 
 To set the "Active" status on a Term, expand the Vocabularies functional area on the Schools tab as shown below.
 
-![Expand vocabulary details](../images/schools/vocabularies/expand_vocabulary_details.png)
+![expand vocabulary details](../images/schools/vocabularies/expand_vocabulary_details.png)
 
-![Click link](../images/schools/vocabularies/click_link.png)
+![click link](../images/schools/vocabularies/click_link.png)
 
-![Select new](../images/schools/vocabularies/select_new.png)
+![select new](../images/schools/vocabularies/select_new.png)
 
-![Set to active](../images/schools/vocabularies/set_to_active.png)
+![set to active](../images/schools/vocabularies/set_to_active.png)
 
-![Not active shown](../images/schools/vocabularies/not_active_shown.png)
+![not active shown](../images/schools/vocabularies/not_active_shown.png)
 
 ### What does it all mean?
 

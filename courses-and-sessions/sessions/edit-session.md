@@ -166,6 +166,26 @@ After confirming the addition of the Term "Renal System" to the Session, it appe
 
 ![new session term added](../../images/session_edit/new_session_term_added.png)
 
+### Remove Term
+
+The process for removing a term from a session is basically the same as what is listed above but in reverse. Clicking on an already-attached term will remove it from being associated with that session. This action does require a save event to occur in order to complete the process.
+
+In this case, we are going to remove the Term that was selected, and erroneously attached, to the session shown below. This is the one from "UCSF 49". 
+
+![Show session term list](../../images/session_edit/session_term_list.png)
+
+After expanding as shown above, we see there are two Vocabularies that have been used and terms within have been attached to this session. 
+
+![Session term list details](../../images/session_edit/session_term_list_details.png)
+
+![remove term](../../images/session_edit/remove_term.png)
+
+![process term removal](../../images/session_edit/save_term_removal.png)
+
+After performing the steps above, the list will refresh verifying the removal of the "UCSF 49" term.
+
+![list refreshed](../../images/session_edit/list_refreshed.png)
+
 ## Special Session Attributes
 
 It is possible to select additional session attributes to advise students about certain aspects of the upcoming (or past) learning activities.

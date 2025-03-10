@@ -2,6 +2,8 @@ Courses can be "rolled over" into a different (future) academic year, into the s
 
 The concept of "rolling" a Course over is basically making a copy of it with the intent of re-using the structure (with or without offerings). This eliminates the need to enter all of this information another time, saving time and effort.
 
+All course-level attributes including, but not limited to, Vocabulary Terms, MeSH Terms, Leadership, Objectives, Learning Materials, and Competencies are copied over to the new course which gets created during the rollover process.
+
 All courses in Ilios have the Course Rollover icon displayed. The location and appearance of this is shown below.
 
 ![course rollover icon location](../../images/course_rollover/course_rollover_button.png)

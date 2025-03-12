@@ -32,7 +32,14 @@ As the search criteria is further refined, the results returned will be fewer. T
 
 Clicking on any value returned by performing a search will route you to that location in the guide. To return to your previous location after navigating to a search result's location in the guide, the browser's back navigation button can be used. You can also press "enter" or "return" on your keyboard to navigate to the highlighted value.
 
-An example is shown
+An example is shown below with navigation options included.
+
+<figure>
+  <img src="/images/introduction/user_guide_search_results.png" alt="navigation options - user guide search results">
+  <figcaption>
+      <p>Navigate to results after performing a user guide search</p>
+  </figcaption>
+</figure>
 
 ## Cancel Search 
 

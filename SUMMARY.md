@@ -99,6 +99,8 @@
   * [Competency Map Download](programs/competency-map-download.md)
   * [Objectives Visualization](programs/program-year-objective-map-visualization.md)
 * [Reports](reports/reports.md)
+  * [Subject Reports](reports/subject_reports.md)
+  * [Curriculum Reports](reports/curriculum_reports.md)
 * [Admin](admin/README.md)
   * [View All](admin/view-all.md)
   * [Add New User](admin/create-new-user.md)

@@ -6,15 +6,15 @@ Reports now live in their own large area rather than the compact My Reports of y
 
 This shows a typical user's saved reports.
 
-![Saved reports](../images/reports/saved_reports_start.png)
+![saved reports](../images/reports/saved_reports_start.png)
 
 Running any of the reports here is as easy as simply clicking on the link. This is shown below.
 
-![Run any report](../images/reports/run_selected_report.png)
+![run a report](../images/reports/run_selected_report.png)
 
 After clicking as shown above, the screen will refresh with the data outputted to the screen. 
 
-![Data displayed](../images/reports/report_data_displayed.png)
+![data displayed](../images/reports/report_data_displayed.png)
 
 ### Download Report Data
 

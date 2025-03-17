@@ -39,8 +39,6 @@ The "copy link" button remains in this view, along with a "close" button just to
 
 ### Download Results
 
-![results summary](../images/reports/results_summary.png)
-
 If the download button is utilized, the user will be prompted like any other downloaded file as to where the .csv output is to be stored.
 
 The files will be downloaded with the following names ("objectives.csv" or "learner-groups.csv"). It is recommended to change the file names after downloading the data in order to keep everything straightened out. The names will download with file names such as "objectives(1).csv" and then "objectives(2)csv" if this is not done. This is for an output of the Objectives reports as an example. 

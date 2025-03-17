@@ -1,4 +1,4 @@
-##Select Courses 
+# Select Courses 
 
 The first step in generating a report using the new self-service "Curriculum Reports" interface is to select one or more courses to be included in the output.
 

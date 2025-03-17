@@ -12,7 +12,7 @@ In the screen shot below, two courses have been chosen.
 
 ### Options
 
-Currently (in March 2024), we are offering two options for report output. More will be offered soon. 
+Currently (as of March 2025), we are offering two options for report output. More will be offered soon. 
 
 1.  Session Objectives 
 2.  Learner Groups

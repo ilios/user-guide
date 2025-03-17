@@ -1,3 +1,5 @@
+Curriculum Reports allow for data sets to be summarized on-screen and downloaded. These are created at run-time for quick access.
+
 # Select Courses 
 
 The first step in generating a report using the new self-service "Curriculum Reports" interface is to select one or more courses to be included in the output.
@@ -46,3 +48,34 @@ The files will be downloaded with the following names ("objectives.csv" or "lear
 # Output Fields 
 
 The Results Summary displays some informational summaries - rolled up data corresponding to the results of running the report. The downloaded .csv files, which can be opened and modified in Excel or other programs contains the detailed information at a much more granular level.
+
+The two types of reports currently available contain the following fields included in the downloaded .csv files. When finished reviewing and / or downloading data, click "Close" to return to Curriculum Reports to run another or navigate elsewhere. You can keep the same selection previously applied as far as courses are concerned or clear all values by clicking 
+
+**NOTE:** One or more courses need to be selected before selecting one of the two reports- the outputs of which are detailed below.
+
+The following fields are included in the output on the .csv download file (initially called objectives.csv).
+
+## Session Objectives Report
+
+* Course
+* Session 
+* Session Type
+* Objective - session objective - one per row
+* Instructors - combined into one field and row per session
+* First Offering - date of first offering for any given session
+* Hours - duration of offering if applicable
+* Web Link - full URL to the session in Ilios
+
+## Learner Groups Report
+
+* ID - refers to the `course_id` value in the database
+* Course 
+* Year - academic year of instruction
+* Session 
+* First Offering - date of first offering for any given session
+* Instructors - combined into one field and row per session 
+* Learner Group - name / title of attached learner group
+* Web Link - full URL to the session in Ilios
+
+
+

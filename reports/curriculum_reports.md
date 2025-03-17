@@ -49,7 +49,7 @@ The files will be downloaded with the following names ("objectives.csv" or "lear
 
 The Results Summary displays some informational summaries - rolled up data corresponding to the results of running the report. The downloaded .csv files, which can be opened and modified in Excel or other programs contains the detailed information at a much more granular level.
 
-The two types of reports currently available contain the following fields included in the downloaded .csv files. When finished reviewing and / or downloading data, click "Close" to return to Curriculum Reports to run another or navigate elsewhere. You can keep the same selection previously applied as far as courses are concerned or clear all values by clicking 
+The two types of reports currently available contain the following fields included in the downloaded .csv files. When finished reviewing and / or downloading data, click "Close" to return to Curriculum Reports to run another or navigate elsewhere. You can keep the same selection previously applied as far as courses are concerned or clear all values by clicking "Select All or None" twice (if some are selected) until the check box has been cleared of value.
 
 **NOTE:** One or more courses need to be selected before selecting one of the two reports- the outputs of which are detailed below.
 

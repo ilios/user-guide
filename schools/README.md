@@ -30,6 +30,6 @@ The attributes listed above for the selected School can be configured once the S
 
 ![school list](../images/schools/README/school_list.png)
 
-After clicking as shown above, detailed information pertaining to this school appears. From here, the remaining configurable School attributes can be entered.
+After clicking as shown above, detailed information pertaining to this school appears. From here, the remaining configurable attributes can be entered.
 
 ![school details](../images/schools/README/school_details.png)

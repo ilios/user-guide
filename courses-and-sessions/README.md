@@ -6,7 +6,7 @@ Clicking on the Courses and Sessions menu item pulls up the screen for maintaini
 
 * [Create New Course](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/create-new-course)
 * [Edit Course](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/edit-course)
-* [Course Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership)
+* [Leadership](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership)
 * [Add Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/add-session-objective)
 * [Edit Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session-objective)
 * [Add Parent Objective](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/add-parent-objective)

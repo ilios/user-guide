@@ -8,17 +8,17 @@ A program year is essentially a year of instructional activity for any given pro
 
 **NOTE** If program years have already been added to your program, creating a new program year will use the attributes assigned to the previous year, in essence "rolling over" the previous program year - saving work effort. Each program year can then be individually modified.
 
-![Add program year - start](../images/programs/program_years/add_program_year_start.png)
+![add program year - start](../images/programs/program_years/add_program_year_start.png)
 
-**Step 2:** Select the Academic Year.
+**Step 2:** Select the Academic Year from the provided drop-down menu. Only academic years that have not already been associated with a program year will appear available for selection. Each academic year can be assoicated with one program year. 
 
-![Select academic year](../images/programs/program_years/select_academic_year.png)
+![select academic year](../images/programs/program_years/select_academic_year.png)
 
 Save when done by clicking the "Done" button as shown below.
 
 ![click to save](../images/programs/program_years/click_to_save.png)
 
-![Program year added](../images/programs/program_years/program_year_added.png)
+![srogram year added](../images/programs/program_years/program_year_added.png)
 
 Indicators are provided when Program Year information is missing. Click on the provided link to further modify the Program Year. The following Program Year Attributes can be edited.
 

@@ -74,9 +74,11 @@ In the following screenshot, I have navigated to the "Course Rollover" section o
 ![breadcrumbs](images/introduction/guide_breadcrumbs.png)
 
 Breadcrumbs explained ...
-* COURSE ACTIONS: navigates up one level to "Course Actions" page
-* COURSES: navigates up two levels to "Courses" page 
-* COURSES AND SESSIONS: navigates up three levels back to the root of "Courses and Sessions"
+
+* <span style="color:orange">**COURSE ACTIONS:** navigates up one level to "Course Actions" page</span>
+* **COURSE ACTIONS:** navigates up one level to "Course Actions" page
+* **COURSES:** navigates up two levels to "Courses" page 
+* **COURSES AND SESSIONS:** navigates up three levels back to the root of "Courses and Sessions"
 
 Breadcrumbs only appear at the top of pages that are subsidiary pages of higher level pages or chapters.
 

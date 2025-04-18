@@ -75,8 +75,7 @@ In the following screenshot, I have navigated to the "Course Rollover" section o
 
 Breadcrumbs explained ...
 
-* <span style="color:orange">**COURSE ACTIONS:** navigates up one level to "Course Actions" page</span>
-* **COURSE ACTIONS:** navigates up one level to "Course Actions" page
+* <span style="color:red">**COURSE ACTIONS:** navigates up one level to "Course Actions" page</span>
 * **COURSES:** navigates up two levels to "Courses" page 
 * **COURSES AND SESSIONS:** navigates up three levels back to the root of "Courses and Sessions"
 

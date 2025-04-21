@@ -14,7 +14,7 @@ After clicking as shown above, the screen will refresh with the data outputted t
 
 ![data displayed](../images/reports/report_data_displayed.png)
 
-**NOTE:** In the output shown above, the part of the linked data to the left will take ythe user to the course level, whereas the part of the linked data farther to the right will route to the course AND the session. For the fourth output record, if the link `"Brain, Movement and Behavior"` is clicked, the user will be routed to that course. If the right part is clicked, the user will be taken directly to that session `"Neurobiology of Bias"`, which is a session in the course "Brain, Movement and Behavior".
+**NOTE:** In the output shown above, the part of the linked data to the left will take ythe user to the course level, whereas the part of the linked data farther to the right will route to the course AND the session. For the fourth output record, if the link `"Brain, Movement and Behavior"` is clicked, the user will be routed to that course but not to the referenced session. If the right part is clicked, the user will be taken directly to that session `"Neurobiology of Bias"`, which is a session in the course "Brain, Movement and Behavior".
 
 ### Download Report Data
 

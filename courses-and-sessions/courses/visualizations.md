@@ -6,8 +6,6 @@ description: >-
 
 Visualization are graphs and charted information intended to help make informed decisions about how Ilios is being used and how this use could be improved.
 
-One of the available charts displays the usage of Objectives and how frequently they are utilized in a Course ... or more importantly let you know when they are not being used.
-
 ![access course visualizations](../../images/course_visualizations/crs_vw_1.png)
 
 After clicking on the graph icon as shown above, you will see a screen similar to the following with (at the time of update) four different visualizations available to review.
@@ -24,6 +22,8 @@ Course Visualizations available ...
 ![Visualization - starting point](../../images/course_visualizations/crs_visualizations1.png)
 
 ## Objectives
+
+One of the available charts displays the usage of Objectives and how frequently they are utilized in a Course ... or more importantly let you know when they are not being used.
 
 The example below is from a user clicking on the **Objectives** visualization (the one in the upper left corner). It is displayed as shown below.
 

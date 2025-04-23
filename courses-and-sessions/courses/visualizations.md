@@ -6,7 +6,7 @@ description: >-
 
 Visualization are graphs and charted information intended to help make informed decisions about how Ilios is being used and how this use could be improved.
 
-![access course visualizations](../../images/course_visualizations/crs_vw_1.png)
+![access course visualizations](../../images/course_visualizations/access_course_visualizations.png)
 
 After clicking on the graph icon as shown above, you will see a screen similar to the following with (at the time of update) four different visualizations available to review.
 

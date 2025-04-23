@@ -29,7 +29,7 @@ The example below is from a user clicking on the **Objectives** visualization (t
 
 Mousing over any of the Objectives will display the full text of the Objective as well as the names of the Sessions to which it has been attached. Unused Objectives are simply listed for reference and are not included in the chart.
 
-![Mouse-over demonstrated](../../images/course_visualizations/obj_vis1.png)
+![mouse-over demonstrated](../../images/course_visualizations/mouse_over_demonstrated.png)
 
 ## Data Table
 

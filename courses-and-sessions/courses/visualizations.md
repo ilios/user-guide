@@ -23,7 +23,7 @@ Course Visualizations available ...
 
 # Objectives
 
-One of the available charts displays the usage of Objectives and how frequently they are utilized in a Course ... or more importantly let you know when they are not being used.
+One of the available charts displays the usage of Objectives and how frequently they are utilized in a Course by having been mapped/linked to session objectives. It is also important (and displayed here) to know when course objectives have not been mapped to session objectives.
 
 The example below is from a user clicking on the **Objectives** visualization (the one in the upper left corner). It is displayed below.
 

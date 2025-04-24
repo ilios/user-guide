@@ -25,13 +25,13 @@ Course Visualizations available ...
 
 One of the available charts displays the usage of Objectives and how frequently they are utilized in a Course ... or more importantly let you know when they are not being used.
 
-The example below is from a user clicking on the **Objectives** visualization (the one in the upper left corner). It is displayed as shown below.
+The example below is from a user clicking on the **Objectives** visualization (the one in the upper left corner). It is displayed below.
 
 Mousing over any of the Objectives will display the full text of the Objective as well as the names of the Sessions to which it has been attached. Unused Objectives are simply listed for reference and are not included in the chart.
 
 ![mouse-over demonstrated](../../images/course_visualizations/mouse_over_demonstrated.png)
 
-## Data Table
+## Data Table View
 
 The Objectives visualization includes a data table to review the information presented in graphical format as a table. This can be quite a long table given how many sessions can exist in a large course. The top portion of the data table for the selected course is shown below using two different sort orders. The data can be sorted by any of the output columns (ascending or descending).
 

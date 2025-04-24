@@ -37,11 +37,11 @@ The Objectives visualization includes a data table to review the information pre
 
 **Sort Order One - Percentage (Descending)**
 
-![sort by percentage descending](../../images/course_visualizations/obj_data_table_top_1.png)
+![sort by percentage descending](../../images/course_visualizations/sort_by_percentage_desc.png)
 
 **Sort Order Two - Competency (Ascending)**
 
-![sort by competency ascending](../../images/course_visualizations/obj_data_table_top_2.png)
+![sort by competency ascending](../../images/course_visualizations/sort_by_competency_asc.png)
 
 # Session Types
 

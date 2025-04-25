@@ -31,7 +31,7 @@ Mousing over any of the Objectives will display the full text of the Objective a
 
 ![mouse-over demonstrated](../../images/course_visualizations/mouse_over_demonstrated.png)
 
-## Data Table View
+## Data Table - view
 
 The Objectives visualization includes a data table to review the information presented in graphical format as a table. This can be quite a long table given how many sessions can exist in a large course. The top portion of the data table for the selected course is shown below using two different sort orders. The data can be sorted by any of the output columns (ascending or descending).
 
@@ -42,6 +42,12 @@ The Objectives visualization includes a data table to review the information pre
 **Sort Order Two - Competency (Ascending)**
 
 ![sort by competency ascending](../../images/course_visualizations/sort_by_competency_asc.png)
+
+## Data Table - download 
+
+Downloading the raw data (to .csv file) is easily accomplished using the button indicated in the screen shot below.
+
+![click to download data table](../../images/course_visualizations/click_to_download_data_table.png)
 
 # Session Types
 

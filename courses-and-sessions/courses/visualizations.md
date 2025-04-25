@@ -49,6 +49,10 @@ Downloading the raw data (to .csv file) is easily accomplished using the button 
 
 ![click to download data table](../../images/course_visualizations/click_to_download_data_table.png)
 
+After clicking as shown above, on a Mac at least, you will see a confirmation message similar to the one shown below. The .csv file is automatically named and added to the user's default download folder. If a file is downloaded more than one time, and the previous downloads have not been renamed, the file name will include a numberical reference to this duplicate such as (in the example used) `"ilios-course-2224-objectives(x).csv"` where "x" represents the updated number of times this file has been downloaded. Your author recommends renaming the file to avoid these incremental file names, which can lead to more confusion. Moving it to a folder of your choice so it can be manipulated using Excel and saved as a ".xlsx" type is recommended by me.
+
+![download cofirmation](../../images/course_visualizations/download_confirmation.png)
+
 # Session Types
 
 The Session Types visualization is laid out horizontally rather than in a pie chart like the Objectives visualization in the section above. In the example below, I am hovering over a specific Session Type to review the usage specific of that session type in this particular course.

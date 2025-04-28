@@ -53,6 +53,14 @@ After clicking as shown above, on a Mac at least, you will see a confirmation me
 
 ![download cofirmation](../../images/course_visualizations/download_confirmation.png)
 
+The following fields are included in the output ...
+
+* Percentage (of total instructional time)
+* Course Objective (text value of course objective)
+* Competencies (domains - left blank if not mapped)
+* Sessions (list of all sessions mapped to the course objective listed)
+* Minutes (of total instructional time)
+
 # Session Types
 
 The Session Types visualization is laid out horizontally rather than in a pie chart like the Objectives visualization in the section above. In the example below, I am hovering over a specific Session Type to review the usage specific of that session type in this particular course.

@@ -51,7 +51,7 @@ Downloading the raw data (to .csv file) is easily accomplished using the button 
 
 After clicking as shown above, on a Mac at least, you will see a confirmation message similar to the one shown below. The .csv file is automatically named and added to the user's default download folder. If a file is downloaded more than one time, and the previous downloads have not been renamed, the file name will include a numberical reference to this duplicate such as (in the example used) `"ilios-course-2224-objectives(x).csv"` where "x" represents the updated number of times this file has been downloaded. Your author recommends renaming the file to avoid these incremental file names, which can lead to more confusion. Moving it to a folder of your choice so it can be manipulated using Excel and saved as a ".xlsx" type is recommended by me.
 
-![download cofirmation](../../images/course_visualizations/download_confirmation.png)
+![download confirmation](../../images/course_visualizations/download_confirmation.png)
 
 The following fields are included in the output ...
 
@@ -60,6 +60,10 @@ The following fields are included in the output ...
 * Competencies (domains - left blank if not mapped)
 * Sessions (list of all sessions mapped to the course objective listed)
 * Minutes (of total instructional time)
+
+After locating the file in the download location on your computer, it is recommended to "Open with" and then choose "Excel" if that is not already your default. There will be a message indicating possible data loss. Simply perform a "save as" and select ".xlsx". This is shown as it appears on a Mac in the screen shot below.
+
+![update file format](../../images/course_visualizations/update_file_format.png)
 
 # Session Types
 

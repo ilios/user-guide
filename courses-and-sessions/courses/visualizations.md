@@ -69,7 +69,11 @@ After locating the file in the download location on your computer, it is recomme
 
 The Session Types visualization is laid out horizontally rather than in a pie chart like the Objectives visualization in the section above. In the example below, I am hovering over a specific Session Type to review the usage specific of that session type in this particular course.
 
-![Session Types (higher level)](../../images/course_visualizations/sess_type_viz1.png)
+Click as shown below to access the visualization.
+
+![click for session types](../../images/course_visualizations/click_for_session_types.png)
+
+![session types (higher level)](../../images/course_visualizations/sess_type_viz1.png)
 
 Clicking the "Discussion, Small Group (<=12)" link on the horizontal bar chart will guide you into additional details regarding those sessions. You can review Vocabulary Terms associated with the specified Session Type.
 

@@ -81,7 +81,11 @@ The Vocabularies visualization shows how the Vocabularies set up for your school
 
 Initially the visualization displays all of the used Vocabulary libraries for this course. To get to the details, it is necessary to click on the Vocabulary to be reviewed.
 
-![Vocabulary Visualization (top level)](../../images/course_visualizations/vocab_viz1.png)
+The location of the visualization showing the detailed usage of vocabularies at the course level is shown below.
+
+![click for vocabularies](../../images/course_visualizations/click_for_vocabularies.png)
+
+![Vocabulary visualization (top level)](../../images/course_visualizations/vocab_viz1.png)
 
 After clicking on "UCSF 49", which is one of UCSF SOM school-specific Vocabularies, you can drill down into the results.
 

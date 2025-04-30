@@ -77,7 +77,7 @@ Clicking the "Discussion, Small Group (<=12)" link on the horizontal bar chart w
 
 # Vocabularies
 
-The Vocabularies visualization shows how the Vocabularies set up for your school have been using in tagging sessions with this selected Course.
+The Vocabularies visualization shows how the Vocabularies set up for your school have been used in tagging sessions with the selected course.
 
 Initially the visualization displays all of the used Vocabulary libraries for this course. To get to the details, it is necessary to click on the Vocabulary to be reviewed.
 

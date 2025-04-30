@@ -89,9 +89,9 @@ The location of the visualization showing the detailed usage of vocabularies at 
 
 After clicking on "Resource Types", which is one of UCSF SOM school-specific Vocabularies, you can drill down into the results.
 
-![Vocabulary Visualization (lower level)](../../images/course_visualizations/vocab_viz2.png)
+![resource types detail](../../images/course_visualizations/resource_types_detail.png)
 
-In the example presented above, the mouse is hovering over one of the UCSF 49 Vocabulary terms (Bleeding Disorders). Displayed is the percentage of the total instructional time of the sessions that were tagged with UCSF 49 Vocabulary terms that were tagged with "Bleeding Disorders", along with the duration of these offerings and the listing of the associated Sessions.
+As shown above, mousing over any of the Resource Types listed will display the total educational time devoted to sessions that have been utilized that specific resource type (Cadaver, Audio, Video etc.), along with the duration of these offerings and the listing of the associated Sessions. Clicking into any of the resource types listed will display the total educational time of the session types associated with that resource type along with session names (available on mouse-over and data table).
 
 # Instructors
 

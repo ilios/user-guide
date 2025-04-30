@@ -85,9 +85,9 @@ The location of the visualization showing the detailed usage of vocabularies at 
 
 ![click for vocabularies](../../images/course_visualizations/click_for_vocabularies.png)
 
-![Vocabulary visualization (top level)](../../images/course_visualizations/vocab_viz1.png)
+![mouse over resource types](../../images/course_visualizations/mouse_over_resource_types.png)
 
-After clicking on "UCSF 49", which is one of UCSF SOM school-specific Vocabularies, you can drill down into the results.
+After clicking on "Resource Types", which is one of UCSF SOM school-specific Vocabularies, you can drill down into the results.
 
 ![Vocabulary Visualization (lower level)](../../images/course_visualizations/vocab_viz2.png)
 

@@ -105,9 +105,17 @@ In the situation shown above, the bar in the chart which contains the data for t
 
 This data (even as a sub-set) can be downloaded as well. The display is shown below.
 
-**top part of screen**
+**Upper part of screen**
 
 ![film/video details shown](../../images/course_visualizations/film_video_details_shown.png)
+
+## Download Detailed Data
+
+**Lower part of screen**
+
+The lower part of the screen allows for the downloading of this very granular data. You can download only the data which pertains to the which session types are associated with sessions that have used the Resource Type of "Film/Video", which is one of the Vocabularies set up for this school.
+
+![click to download film/video data](../../images/course_visualizations/click_to_download_film_video_data.png)
 
 # Instructors
 

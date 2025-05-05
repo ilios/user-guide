@@ -4,7 +4,7 @@ description: >-
   level in Ilios.
 ---
 
-Visualization are graphs and charted information intended to help make informed decisions about how Ilios is being used and how this use could be improved.
+Visualization are graphs and charted information intended to help make informed decisions about how Ilios is being used, especially as far as tagging of curricular objects is concerned, and how this use could be improved.
 
 ![access course visualizations](../../images/course_visualizations/access_course_visualizations.png)
 

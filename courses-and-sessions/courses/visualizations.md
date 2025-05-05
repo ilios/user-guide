@@ -95,7 +95,19 @@ As shown above, mousing over any of the Resource Types listed will display the t
 
 An example of putting the mouse over one of display elements of the bar chart is shown below. 
 
+## Mouse-over for Information
+
 ![mouse over film/video](../../images/course_visualizations/mouse_over_film_video.png)
+
+In the situation shown above, the bar in the chart which contains the data for the "Resource Type" of "Film/Video" can be clicked on for even more detail.
+
+## Click for More Details
+
+This data (even as a sub-set) can be downloaded as well. The display is shown below.
+
+**top part of screen**
+
+![film/video details shown](../../images/course_visualizations/film_video_details_shown.png)
 
 # Instructors
 

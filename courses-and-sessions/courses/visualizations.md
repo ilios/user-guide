@@ -93,6 +93,10 @@ After clicking on "Resource Types", which is one of UCSF SOM school-specific Voc
 
 As shown above, mousing over any of the Resource Types listed will display the total educational time devoted to sessions that have been utilized that specific resource type (Cadaver, Audio, Video etc.), along with the duration of these offerings and the listing of the associated Sessions. Clicking into any of the resource types listed will display the total educational time of the session types associated with that resource type along with session names (available on mouse-over and data table).
 
+An example of putting the mouse over one of display elements of the bar chart is shown below. 
+
+![mouse over film/video](../../images/course_visualizations/mouse_over_film_video.png)
+
 # Instructors
 
 The Instructors visualization functions in a similar manner to Vocabularies. You do get a bit more information at the higher level though - a percentage of the total. After clicking on the Instructor's name, it takes you down into a view showing the Vocabulary Terms tagged on this Instructor's sessions along with another graph showing Session Types for this instructor's offerings. Another thing it offers, because it needs to in a complicated course, is the option to filter on the lower level (horizontal bar chart).

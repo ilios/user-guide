@@ -125,7 +125,7 @@ Here is the top level view of the Instructors Visualization in a course that has
 
 ![instructors visualization (top level)](../../images/course_visualizations/instructor_viz_top_level.png)
 
-After clicking the donut chart above, the bar chart appears as shown below. In this example, the user is hovering over the data for "Julie Christina Lewis", however the bar representing the data pertaining to her teaching activity would be very hard to find given how many instructors performed instructional duties in this course.
+After clicking the chart shown above, the bar chart appears as shown below. In this example, the user is hovering over the data for "Julie Christina Lewis", however the bar representing the data pertaining to her teaching activity would be very hard to find given how many instructors performed instructional duties in this course and are included in this visualization.
 
 ![Instructors Visualization (lower level)](../../images/course_visualizations/instr_low_lvl.png)
 

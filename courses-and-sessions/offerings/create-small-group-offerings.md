@@ -24,13 +24,13 @@ The default selection for adding offerings is "Small Groups". The Start Date (an
 
 Search for and choose "Demo Group" from the "Available Learner Groups" grid as shown below.
 
-![Select the parent group](../../images/create_small_group_offerings/select_parent_group.png)
+![select parent group](../../images/create_small_group_offerings/select_parent_group.png)
 
 Once the higher level "Demo Group" group has been selected, all of its sub-groups are now in the "Selected" column and are ready to have the small group session events created. Also there is a yellow badge to indicate the higher level Group that is being used as well as a separate container for each high level Group.
 
-![Learner Groups added](../../images/create_small_group_offerings/learner_groups_added.png)
+![learner groups added](../../images/create_small_group_offerings/learner_groups_added.png)
 
-Now we are in the position to create a separate event for each of the eight groups in the "Selected" pane.
+Now we are in the position to create a separate event for each of the eight sub-groups in the "Selected" pane.
 
 ![Save - create the events](../../images/create_small_group_offerings/save_to_create_events.png)
 

@@ -6,7 +6,7 @@ These are created when it is desired to have each group (sub-groups generally) a
 
 The first step in this process is to search for and select the Session to which we will be adding these small group offerings.
 
-![Select the Session](../../images/create_small_group_offerings/select_session.png)
+![select session](../../images/create_small_group_offerings/select_session.png)
 
 After clicking the (+) button to start the process, the screen refreshes as shown below. Data elements that can be set in the top area of the screen include ...
 
@@ -16,7 +16,7 @@ After clicking the (+) button to start the process, the screen refreshes as show
 * **Duration** - Enter a value in the hours field and minutes field
 * **End (Time)** - This gets selected based on the choices made above
 * **Timezone** - This can be selected as well - useful if you have multiple campuses in different time zones
-* **[Make Recurring]**(https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/recurring-event) - Used when you wish for an offering to be repeated a specified number of times.
+* **[Make Recurring](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/recurring-event)** - Used when you wish for an offering to be repeated a specified number of times.
 
 ![Offering Editor - top part](../../images/create_small_group_offerings/offering_editor_top.png)
 

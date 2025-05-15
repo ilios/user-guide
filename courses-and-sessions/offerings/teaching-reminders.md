@@ -1,6 +1,6 @@
 # Teaching Reminders
 
-### Teaching Reminders
+## Teaching Reminders
 
 These are email messages sent out (as configured at UCSF) so that all instructors receive the reminder 7 days prior to the teaching event.
 

@@ -77,6 +77,10 @@ To add a Sub Term, click on "Autism and Related Issues". The term being added he
 
 ![sub term added](../images/schools/vocabularies/sub_term_added.png)
 
+### No Duplicates Allowed
+
+Ilios has this type of messaging in many places other than term management. If you try to add a term that is already in that vocabulary, an error message will appear advising of this fact. 
+
 ## Activate / Deactivate Vocabulary Terms
 
 It is now possible in Ilios to deactivate any Vocabulary Term that may no longer be in use.

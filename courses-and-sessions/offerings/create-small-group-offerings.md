@@ -6,9 +6,15 @@ These are created when it is desired to have each group (sub-groups generally) a
 
 The first step in this process is to search for and select the Session to which we will be adding these small group offerings.
 
+### Select Session
+
 ![select session](../../images/create_small_group_offerings/select_session.png)
 
-After clicking the (+) button to start the process, the screen refreshes as shown below. Data elements that can be set in the top area of the screen include ...
+### Start the Process
+
+![start the process](../../images/create_small_group_offerings/start_the_process.png)
+
+After clicking the (+) button as shown above to start the process, the screen refreshes as shown below. Data elements that can be set in the top area of the screen include ...
 
 
 * **Start Date** - Calendar picker is provided to enter this

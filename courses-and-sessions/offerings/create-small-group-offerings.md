@@ -22,11 +22,11 @@ After clicking the (+) button as shown above to start the process, the screen re
 * **Duration** - Enter a value in the hours field and minutes field
 * **End (Time)** - This gets selected based on the choices made above
 * **Timezone** - This can be selected as well - useful if you have multiple campuses in different time zones
-* **[Make Recurring](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/recurring-event)** - Used when you wish for an offering to be repeated a specified number of times.
+* **[Make Recurring](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/recurring-event)** - Used when an offering is to be repeated a specified number of times.
 
-![Offering Editor - top part](../../images/create_small_group_offerings/offering_editor_top.png)
+![offering editor - top part](../../images/create_small_group_offerings/offering_editor_top.png)
 
-The default selection for adding offerings is "Small Groups". The Start Date (and End Date since it is a single day event) has been set to "12/13/2021" and the event Start and End Time has been set to 9:00 AM -10:00 AM.
+The default selection for adding offerings is "Small Groups". The Start Date (and End Date since it is a single day event) has been set to "5/21/2025" and the event's start and end time have been set to 9:00 AM -10:00 AM. The event's end time is set by specifying the duration.
 
 Search for and choose "Demo Group" from the "Available Learner Groups" grid as shown below.
 

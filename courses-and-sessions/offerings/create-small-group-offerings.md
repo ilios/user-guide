@@ -38,7 +38,7 @@ Once the higher level "Demo Group" group has been selected, all of its sub-group
 
 Now we are in the position to create a separate event for each of the eight sub-groups in the "Selected" pane.
 
-![Save - create the events](../../images/create_small_group_offerings/save_to_create_events.png)
+![save - create the events](../../images/create_small_group_offerings/save_to_create_events.png)
 
 The Small Group Offerings are created once the "Save" button shown above has been clicked. If there are default Instructors and / or Locations for any of these Small Groups, those values will be automatically entered here by the system. They can be overwritten manually. If there is no default for either of those, the offers appear as shown below with no value for Location and no Instructors entered yet. The Edit and Delete buttons are pointed out in the screen shot below.
 

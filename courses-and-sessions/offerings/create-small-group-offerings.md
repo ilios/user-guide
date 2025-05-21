@@ -26,7 +26,7 @@ After clicking the (+) button as shown above to start the process, the screen re
 
 ![offering editor - top part](../../images/create_small_group_offerings/offering_editor_top.png)
 
-The default selection for adding offerings is "Small Groups". The Start Date (and End Date since it is a single day event) has been set to "5/21/2025" and the event's start and end time have been set to 9:00 AM -10:00 AM. The event's end time is set by specifying the duration.
+The default selection for adding offerings is "Small Groups". The start date (and end date since it is a single day event) has been set to "5/21/2025" and the event's start and end time have been set to 9:00 AM -10:00 AM. The event's end time is set by specifying the duration, in this case 1 hour and 0 minutes.
 
 Search for and choose "Demo Group" from the "Available Learner Groups" grid as shown below.
 

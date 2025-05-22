@@ -74,6 +74,17 @@ The session with the title of "Sexually Transmitted Infections" has had all four
   </figcaption>
 </figure>
 
+### Detail View 
+
+This image depicts a closer view of WaaG and the icons which make up session special attribute selections. All four (of the currently in use) are shown.
+
+<figure>
+<img src="../images/week_at_a_glance/detail_view.png" alt="Detail View">
+  <figcaption>
+    <p>Week at a Glance (detail view)</p>
+  </figcaption>
+</figure>
+
 ## All Weeks
 
 Another great feature of Ilios is that you can review any week's activity, whether it is in the future or has occurred in the past. To access this functionality, click as shown in the screen shot below.

@@ -76,7 +76,7 @@ The session with the title of "Sexually Transmitted Infections" has had all four
 
 ### Detail View 
 
-This image depicts a closer view of WaaG and the icons which make up session special attribute selections. All four (of the currently in use) are shown.
+This image depicts a closer view of WaaG and the icons which make up session special attribute selections. This shows the appearance of a session in Week at a Glance when all four currently available session attributes have been assigned to a session and how a student sees these.
 
 <figure>
 <img src="../images/week_at_a_glance/detail_view.png" alt="Detail View">

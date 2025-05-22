@@ -61,6 +61,19 @@ These personal progress check boxes are included to help students determine whic
   </figcaption>
 </figure>
 
+## Session Attributes
+
+The following screen shot shows Week at a Glance as a student would see it. 
+
+The session with the title of "Sexually Transmitted Infections" has had all four optional session attributes activated (set to "Yes"). The arrow points to the session for reference. Mousing over any of those icons will provide a call-out advising what the icon means. 
+
+<figure>
+<img src="../images/week_at_a_glance/WaaG_list_view.png" alt="Student View">
+  <figcaption>
+    <p>Week at a Glance (high-level list view)</p>
+  </figcaption>
+</figure>
+
 ## All Weeks
 
 Another great feature of Ilios is that you can review any week's activity, whether it is in the future or has occurred in the past. To access this functionality, click as shown in the screen shot below.

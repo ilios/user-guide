@@ -8,7 +8,7 @@ This is the default when a user logs in. As shown [below](https://iliosproject.g
 
 ## Linked ILM Work
 
-ILM's that have been linked to an upcoming session are included as shown below in Week at a Glance. They are displayed similarly in Event Detail. The linked Session icon is shown below. Learning Materials associated with these session can be selected as completed or in process. The caveat is that this must be done by following the link to associated ILM.
+ILM's that have been linked to an upcoming session are included as shown below in Week at a Glance. They are displayed similarly in Event Detail. The linked Session icon is shown below. Learning Materials associated with these session can be selected as not started, completed or in process. The caveat is that this must be done by following the link to the associated ILM.
 
 <figure>
   <img src="../images/week_at_a_glance/linked_activity_icon.png" alt="">

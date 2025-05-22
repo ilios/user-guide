@@ -16,7 +16,7 @@ This is a zoomed-in close up of the image that appears on the Event Detail scree
 
 Here it is below in a bit better context on the [Event Detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view) screen.
 
-![Materials link shown](../images/icons_explained/materials_link.png)
+![materials link](../images/icons_explained/materials_link.png)
 
 ### Special Attire Required
 ![Special Attire Required](../images/icons_explained/spec_attire_req.png)
@@ -27,7 +27,12 @@ Here it is below in a bit better context on the [Event Detail](https://iliosproj
 ### Supplemental Curriculum
 ![Supplemental Curriculum](../images/icons_explained/supplemental_curriculum.png)
 
-The three icons shown above (Special Attire, Special Equipment, and Supplemental Curriculum) will appear up on Week at a Glance and Event Detail when they have been set to "true". Hovering any of these icons over using a mouse will cause a description of the icon to appear hovering above the icon.
+### Attendance Required
+![Attendance Required](../images/icons_explained/attendance_required.png)
+
+**NOTE:** It is possible to create custom icons and activate them on a school level. 
+
+The four icons shown above (Special Attire, Special Equipment, Supplemental Curriculum, and Attendance Required) will appear up on Week at a Glance and Event Detail when they have been set to "true". Hovering any of these icons over using a mouse will cause a description of the icon to appear hovering above the icon.
 
 The image belows shows the appearance of all three of the above icons on Week at a Glance ...
 
@@ -60,11 +65,6 @@ The icon above will not appear if the learning material's usage is optional - no
 
 ### Instructional Notes 
 ![Instructional Notes - for students to see](../images/icons_explained/inst_notes.png)
-
-### Attendance Required
-![Attendance Required](../images/icons_explained/attendance_required.png)
-
-**NOTE:** There is also an "Attendance Required" icon that is used by the School of Pharmacy at UCSF. It is possible to create custom icons and activate them on a school level. The screen shot of this icon is shown above.
 
 ### User Guide Link
 ![User Guide (Help link)](../images/icons_explained/user_guide_link.png)

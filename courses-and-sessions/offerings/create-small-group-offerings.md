@@ -32,7 +32,7 @@ Search for and choose "Demo Group" from the "Available Learner Groups" grid as s
 
 ![select parent group](../../images/create_small_group_offerings/select_parent_group.png)
 
-Once the higher level "Demo Group" group has been selected, all of its sub-groups are now in the "Selected" column and are ready to have the small group session events created. Also there is a yellow badge to indicate the higher level Group that is being used as well as a separate container for each high level Group.
+Once the higher level "Demo Group" group has been selected, all of its sub-groups are now in the "Selected" column and are ready to have the small group session events created. Also there is a badge to indicate the higher level, parent group `"Demo Group (89)"` where 89 represents the total learner count of all subgroups combined. Each subgroup also has a similar badge with member count included.
 
 ![learner groups added](../../images/create_small_group_offerings/learner_groups_added.png)
 

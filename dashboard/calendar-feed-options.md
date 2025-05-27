@@ -85,11 +85,11 @@ This will be demonstrated showing the web version of Outlook from the Microsoft 
 * Log in to the Office 365 Outlook web client
 * Click as shown below to start this process
 
-![Process started](../images/calendar_feed_options/add_cal1.png)
+![process started](../images/calendar_feed_options/add_cal1.png)
 
 * Click to subscribe to the calendar from the web
 
-![SDubscribe from web](../images/calendar_feed_options/add_cal2.png)
+![subscribe from web](../images/calendar_feed_options/add_cal2.png)
 
 * This next step assumes that you already have the .ics feed copied up to your clipboard. Do this if you have not done so already.
 * Paste the .ics feed into the provided field as shown below.

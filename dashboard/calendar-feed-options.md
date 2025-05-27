@@ -109,6 +109,14 @@ The process for adding the Calendar feed to a Google (or other) mail account is 
 
 You may wish to email the URL to yourself if you want to set this up using your smart phone instead of a computer.
 
+### Event Detail 
+
+Event Detail is available from the calendar feed (well it's linked anyway). Clicking on an event inside your calendar feed brings up a screen similar to the following. In this case, one of the optional session attributes (Attendance Required) has been selected for this event. Any user (but especially for students) viewing and using their calendar feed will be alerted of the fact that they are required to attend this event. This information is contained in the Description section located directly below the Session Type.
+
+![event from calendar feed](../images/calendar_feed_options/event_from_calendar_feed.png)
+
+
+
 ## LTI Integration
 
 LTI refers to "Learning Tools Interoperability", a standard being rapidly adopted around the world to allow edTech systems to work together better.

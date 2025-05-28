@@ -34,7 +34,7 @@ Here it is below in a bit better context on the [Event Detail](https://iliosproj
 
 The four icons shown above (Special Attire, Special Equipment, Supplemental Curriculum, and Attendance Required) will appear up on Week at a Glance and Event Detail when they have been set to "true". Hovering any of these icons over using a mouse will cause a description of the icon to appear hovering above the icon.
 
-The image belows shows the appearance of all four of the above icons on Week at a Glance ...
+The image belows shows the appearance of all four of the above optional session atttribute icons on Week at a Glance, detailed in the inset included with the image.
 
 ![week at a glance](../images/icons_explained/waag_icons.png)
 

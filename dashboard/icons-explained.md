@@ -32,15 +32,17 @@ Here it is below in a bit better context on the [Event Detail](https://iliosproj
 
 **NOTE:** It is possible to create custom icons and activate them on a school level. 
 
-The four icons shown above (Special Attire, Special Equipment, Supplemental Curriculum, and Attendance Required) will appear up on Week at a Glance and Event Detail when they have been set to "true". Hovering any of these icons over using a mouse will cause a description of the icon to appear hovering above the icon.
+### Optional Session Attributes Displayed
+
+The four icons shown above (Special Attire, Special Equipment, Supplemental Curriculum, and Attendance Required) appear up on Week at a Glance and Event Detail if and when they have been set to "true". Hovering any of these icons over using a mouse will cause a description of the icon to appear hovering above the icon.
 
 The image belows shows the appearance of all four of the above optional session atttribute icons on Week at a Glance, detailed in the inset included with the image.
 
 ![week at a glance](../images/icons_explained/waag_icons.png)
 
-### Virtual Meeting Link
+### Copy Virtual Meeting Link to Clipboard
 
-![Copy Virtual Meeting Link to Clipboard](../images/icons_explained/copy_to_clipboard.png)
+![copy virtual meeting link to clipboard](../images/icons_explained/copy_to_clipboard.png)
 
 **NOTE:** The actual URL is available to the left of the icon shown above. It is titled "Virtual Session Link". This link is also available in Event Detail as well with the full URL available on mouse-over.
 

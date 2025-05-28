@@ -19,24 +19,24 @@ Here it is below in a bit better context on the [Event Detail](https://iliosproj
 ![materials link](../images/icons_explained/materials_link.png)
 
 ### Special Attire Required
-![Special Attire Required](../images/icons_explained/spec_attire_req.png)
+![special attire required](../images/icons_explained/spec_attire_req.png)
 
 ### Special Equipment Required
-![Special Equipment Required](../images/icons_explained/spec_equip_needed.png)
+![special equipment required](../images/icons_explained/spec_equip_needed.png)
 
 ### Supplemental Curriculum
-![Supplemental Curriculum](../images/icons_explained/supplemental_curriculum.png)
+![supplemental curriculum](../images/icons_explained/supplemental_curriculum.png)
 
 ### Attendance Required
-![Attendance Required](../images/icons_explained/attendance_required.png)
+![attendance required](../images/icons_explained/attendance_required.png)
 
 **NOTE:** It is possible to create custom icons and activate them on a school level. 
 
 The four icons shown above (Special Attire, Special Equipment, Supplemental Curriculum, and Attendance Required) will appear up on Week at a Glance and Event Detail when they have been set to "true". Hovering any of these icons over using a mouse will cause a description of the icon to appear hovering above the icon.
 
-The image belows shows the appearance of all three of the above icons on Week at a Glance ...
+The image belows shows the appearance of all four of the above icons on Week at a Glance ...
 
-![Week at a glance](../images/icons_explained/waag_icons.png)
+![week at a glance](../images/icons_explained/waag_icons.png)
 
 ### Virtual Meeting Link
 

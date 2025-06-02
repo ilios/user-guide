@@ -8,7 +8,7 @@ After clicking as shown above (`first step`), the entry fields for the skeleton 
 
 ![add title and save](../../images/add_new_session/add_title.png)
 
-Once a session is saved by clicking the Done button shown above,
+Once a session is saved by clicking the Done button shown above, 
 [offerings](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings) for that session can be added.
 
 ## Independent Learning Modules

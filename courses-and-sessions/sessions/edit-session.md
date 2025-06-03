@@ -194,7 +194,7 @@ There are four options, none of which have been selected yet. These session attr
 
 ![additional attributes shown](../../images/session_edit/specsessattrib1.png)
 
-For this example, all three will be selected for this session. An image that shows the screen once this action has been taken is shown below for reference. Simply slide the toggle to the right to put it into use.
+For this example, all four will be selected for this session. An image that shows the screen once this action has been taken is shown below for reference. Simply slide the toggle to the right to put it into use.
 
 ![all toggled to "Yes"](../../images/session_edit/specsessattrib2.png)
 

@@ -192,7 +192,7 @@ It is possible to select additional session attributes to advise students about 
 
 There are four options, none of which have been selected yet. These session attributes are configurable at the [School](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-attributes) level.
 
-![special attributes shown](../../images/session_edit/specsessattrib1.png)
+![special attributes shown](../../images/session_edit/special_attributes_shown.png)
 
 For this example, all four will be selected for this session. An image that shows the screen once this action has been taken is shown below for reference. Simply slide the toggle to the right to put it into use.
 

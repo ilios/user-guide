@@ -190,9 +190,9 @@ After performing the steps above, the list will refresh verifying the removal of
 
 It is possible to select additional session attributes to advise students about certain aspects of the upcoming (or past) learning activities.
 
-There are three options, none of which have been selected yet. There is also another attribute this particular school has decided not to use. This is "Attendance Required". These session attributes are configurable at the [School](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-attributes) level.
+There are four options, none of which have been selected yet. These session attributes are configurable at the [School](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-attributes) level.
 
-![Addition attributes shown](../../images/session_edit/specsessattrib1.png)
+![additional attributes shown](../../images/session_edit/specsessattrib1.png)
 
 For this example, all three will be selected for this session. An image that shows the screen once this action has been taken is shown below for reference. Simply slide the toggle to the right to put it into use.
 

@@ -35,6 +35,18 @@ Results are labeled according to the location of the match and listed with inter
 
 After performing a search, all of the areas listed above are scanned for matches. Suggestions are also provided.
 
+### Learning Material Contents
+
+The newest addition to global search is described in detail below.
+
+The Ilios global search tool now scans the complete text content of all Learning Materials in the system, along with curriculum data and metadata.
+
+When you enter a search, the search results will be based not only on titles, terms, descriptions, and objectives in the curriculum; they will also take into account the complete text of associated learning materials, in order to provide a more robust and accurate results set.
+
+Since content can often provide significantly more effective definition of learning focus, results which take this into account allow for a much more realistic analysis of the curriculum. Additionally, if descriptions of learning, or objectives for learning have begun to diverge from actual didactic activity, including LM content allows the easier identification and remediation of this effect.
+
+There is no change to the search function; simply search as you would normally to receive the enhanced and improved results.
+
 ## Performing a Search
 
 To search for anything related to "brain", enter that into the search field provided. A list of suggested refinements ("Suggested Values") appear below the search box. Any of those can be utilized by clicking directly onto it.

@@ -19,6 +19,7 @@ An entered search term will query across a broad array of areas within Ilios. Th
 * Course Objectives
 * Course Learning Material Title
 * Course Learning Material Description and Metadata
+* Course Learning Material Content
 * Course Vocabulary Terms
 * Course MeSH Terms
 * Session Title
@@ -26,6 +27,7 @@ An entered search term will query across a broad array of areas within Ilios. Th
 * Session Objectives
 * Session Learning Material Title
 * Session Learning Material Description and Metadata
+* Session Learning Material Content
 * Session Vocabulary Terms
 * Session MeSH Terms
 

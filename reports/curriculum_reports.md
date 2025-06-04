@@ -1,5 +1,11 @@
 Curriculum Reports allow for data sets to be summarized on-screen and downloaded. These are created at run-time for quick access.
 
+Previously, native Ilios reports (`"Subject Reports"`) were course-specific, and would allow the review of data from a single course in the cases where course is the object selected. 
+
+With Curriculum Reports, you may select any number of courses, from any available school, curriculum, and year, to generate a report showing: School, Course, Session, Session Type, Objective, Instructors, First Offering (date of instruction delivery), and Hours (total learner exposure). 
+
+This allows for the creation of reports by phase, theme, or any portion desired of the curriculum, or the entire curriculum, or even multiple curricula if your implementation is tracking more than one. Additionally, these reports can be saved, shared, and replicated to assist in deeper analytics.
+
 # Select Courses 
 
 The first step in generating a report using the new self-service "Curriculum Reports" interface is to select one or more courses to be included in the output.

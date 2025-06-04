@@ -43,8 +43,6 @@ When you enter a search, the search results will be based not only on titles, te
 
 Since content can often provide significantly more effective definition of learning focus, results which take this into account allow for a much more realistic analysis of the curriculum. Additionally, if descriptions of learning, or objectives for learning have begun to diverge from actual didactic activity, including LM content allows the easier identification and remediation of this effect.
 
-There is no change to the search function; simply search as you would normally to receive the enhanced and improved results.
-
 ## Performing a Search
 
 To search for anything related to "brain", enter that into the search field provided. A list of suggested refinements ("Suggested Values") appear below the search box. Any of those can be utilized by clicking directly onto it.

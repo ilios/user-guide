@@ -37,9 +37,7 @@ After performing a search, all of the areas listed above are scanned for matches
 
 ### Learning Material Contents
 
-The newest addition to global search is described in detail below.
-
-The Ilios global search tool now scans the complete text content of all Learning Materials in the system, along with curriculum data and metadata.
+The newest addition to Ilios global search is that the it now scans the complete text content of all Learning Materials in the system, along with curriculum data and metadata.
 
 When you enter a search, the search results will be based not only on titles, terms, descriptions, and objectives in the curriculum; they will also take into account the complete text of associated learning materials, in order to provide a more robust and accurate results set.
 

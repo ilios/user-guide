@@ -2,9 +2,9 @@
 
 For any Session, leadership gets assigned here. There are two distinct levels (categories) that can be set here.
 
-## Session Leadership Categories
+## Leadership Categories
 
-### Session Administrators
+### Administrators
 
 **Session Administrators** - can make any and all edits to any Session to which they have been assigned this role.
 
@@ -24,7 +24,7 @@ To use this functionality, pull up a Session. The screen initially appears simil
 
 Click to expand the list as shown above and then click "Manage Leadership" to add and / or remove Session Administrators.
 
-### Manage Leadership
+## Manage Leadership
 
 ![Manage Leadership](../../images/session_leadership/sess_ldrship2.png)
 
@@ -40,9 +40,9 @@ Below you can see "Nicholas Gutierrez" has been added correctly to the list.
 
 Once the change has been correctly made and saved, the screen appears as shown below.
 
-### Process the update
+### Update Leadership
 
-![Screen - updated](../../images/session_leadership/sess_ldrship5.png)
+![screen - updated](../../images/session_leadership/sess_ldrship5.png)
 
 After processing the Save event, the correct Ilios user is now confirmed to be a Session Administrator, who can modify any aspect of this Session and any Offerings attached.
 

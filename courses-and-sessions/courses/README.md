@@ -70,7 +70,7 @@ This shows the Course detail screen (once a Course has been selected and Details
 <figure>
   <img src="../../images/course_images/course_top.png" alt="course detail - top">
     <figcaption>
-      <p>Courses Detail - top part of screen</p>
+      <p>Course Detail - top part of screen</p>
     </figcaption>
 </figure>
 

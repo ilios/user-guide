@@ -24,7 +24,7 @@ To roll a Course over, click the Course Rollover icon as shown below.
 
 ![rollover icon shown](../../images/course_rollover/rollover_icon_shown.png)
 
-Once the button icon has been clicked in the previous step, the screen changes to the following with several options, which are described below.
+Once the rollover button icon has been clicked as shown above, the screen changes to the following with several options, which are described below.
 
 ![course rollover options](../../images/course_rollover/course_rollover_options.png)
 

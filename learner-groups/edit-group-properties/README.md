@@ -17,7 +17,7 @@ At this level, you can see the following fields ...
 * Subgroups -- A count of all of the subgroups for this higher-level group
 * Action menu -- Delete or Copy
 
-### Filter by Group title
+### Filter by Group Title
 
 The ability to filter by learner group Title makes it easy to find and select a group to modify. Any characters (1 or more) can be entered. The result set is updated to return only Learner Groups that contain that search string in their Learner Group Title.
 

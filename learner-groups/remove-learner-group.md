@@ -8,7 +8,7 @@ If you have been assigned permissions to delete Learner Groups, the trash can ic
 
 **IMPORTANT NOTE:** Learner Groups can only be deleted if they have not been associated with any Learning Events (ILM's or Offerings), even if members are included or those sessions or course are not published. This is true even if the learner group has sub groups underneath it and those sub groups have learners attached. All that matter is that there are no offerings or ILM's associated with the learner group or any sub groups. Sub groups will be deleted / removed as well if a parent is removed.
 
-### Remove Members From Learner Group
+### Remove Members from Learner Group
 
 As pointed out above, it is not required to remove learners from a learner group before deleting the group from Ilios. You may still want to do that though for reporting and accuracy purposes. Removing all members from a Learner Group can be done in bulk. A test group is shown below. Members can also be removed individually as shown below.
 
@@ -16,37 +16,34 @@ As pointed out above, it is not required to remove learners from a learner group
 
 Once the check box has selected as shown by the action indicated by the blue arrow above, the process of removing all of the members of the current Learner Group continues as demonstrated below. 
 
-![Remove all members](../images/delete_learner_group/remove_all_members.png)
+![remove all members](../images/delete_learner_group/remove_all_members.png)
 
 **IMPORTANT NOTE:** The members being removed are being removed from this Learner Group only. They are **NOT** being removed from any other Learner Group.
 
-### Check For Sessions Before Removing Learner Group
+### Check for Sessions Before Removing Learner Group
 
 It is important (even if the group has already been emptied of members) to make sure the Learner Group is not attached to any Courses and Sessions. There are several easy ways to make sure this is the case before permanently deleting the Learner Group.
 
 The removal of the Learners from the Learner Group has not yet taken place. This is a good time to review for sessions and offerings with which this Learner Group is associated - before removing the members.
 
-![Review options](../images/delete_learner_group/review_options.png)
+![review options](../images/delete_learner_group/review_options.png)
 
 The calendar selected as shown above details the Offerings - may not be displayed if far in future or past. The screen shot far below shows the "mouse over" of the calendared event. The session has not been published. This is known by appearance of the "Not Published" icon. 
 
-![Not Published](../images/delete_learner_group/unpublished_icon.png)
+![not published](../images/delete_learner_group/unpublished_icon.png)
 
-![Mouseover shown](../images/delete_learner_group/mouseover_shown.png)
+![mouseover shown](../images/delete_learner_group/mouseover_shown.png)
 
 After removing the Learners ...
 
-![Remove learners](../images/delete_learner_group/remove_learners.png)
+![remove learners](../images/delete_learner_group/remove_learners.png)
 
 If you are comfortable with deleting the Learner Group ...
 
-![Delete learner group](../images/delete_learner_group/delete_learner_group.png)
+![delete learner group](../images/delete_learner_group/delete_learner_group.png)
 
 After clicking as shown ...
 
-![Confirm Learner Group Deletion](../images/delete_learner_group/confirm_deletion.png)
+![confirm learner group deletion](../images/delete_learner_group/confirm_deletion.png)
 
 Click "Yes" and the Learner Group just disappears from the list and has been deleted completely.
-
-
-

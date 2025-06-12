@@ -127,4 +127,4 @@ Ilios now requires LTI, in order to plug the Ilios events & calendar dashboard d
 
 The Ilios code is contained in a separate GitHub repository. It can be easily implemented. 
 
-The older `Calendar_Controller.php` file, which added the Ilios calendar as an iFrame to moodle is no longer supported.
+The older `Calendar_Controller.php` file, which added the Ilios calendar as an iFrame to Moodle is no longer supported.

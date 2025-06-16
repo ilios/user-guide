@@ -8,6 +8,6 @@ In many cases, it will be desirable to have access to the Ilios calendar and lea
 
 Ilios now requires LTI, in order to plug the Ilios events & calendar dashboard directly into your LTI-compatible LMS pages. It's as easy as clicking your mouse (two or three times). Using the Ilios LTI component is significantly more effective for your users than adding either an external link to the Ilios application pages, or using the older embedded calendar app. And besides, after the start of the new year, only the LTI component will function.
 
-The Ilios code is contained in a separate GitHub repository. It can be easily implemented. 
+The Ilios code is contained in a separate GitHub repository. It can be easily implemented. We can host this for you or you can send any email inquiries [here](mailto:support@iliosproject.org). We'd be glad to help you configure LTI for your environment.
 
 The older `Calendar_Controller.php` file, which added the Ilios calendar as an iFrame to Moodle is no longer supported.

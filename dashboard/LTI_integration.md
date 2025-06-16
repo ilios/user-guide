@@ -10,4 +10,13 @@ Ilios now requires LTI, in order to plug the Ilios events & calendar dashboard d
 
 The Ilios code is contained in a separate GitHub repository. It can be easily implemented. We can host this for you or you can send any email inquiries [here](mailto:support@iliosproject.org). We'd be glad to help you configure LTI for your environment.
 
+The screen shot below shows the LTI Dashboard embedded into the current UCSF LMS (Moodle).
+
+<figure>
+  <img src="../images/LTI_integration/LTI_screenshot.png" alt="LTI dashboard shown">
+  <figcaption>
+    <p>LTI Dashboard (embedded into Moodle LMS)</p>
+  </figcaption>
+</figure>
+
 The older `Calendar_Controller.php` file, which added the Ilios calendar as an iFrame to Moodle is no longer supported.

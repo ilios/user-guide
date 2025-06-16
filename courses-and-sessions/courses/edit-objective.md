@@ -28,7 +28,7 @@ This is done in an inline editing style so you don't have to leave the page or l
 
 # Add Vocabulary Term(s) 
 
-This process is similar to the one detailed above attaching MeSH Terms to Course Objectives. Using the same Course Objective as in the previous section, this process is started as shown below.
+This process is similar to the one detailed below which pertains to attaching MeSH Terms to Course Objectives. Using the same Course Objective as in the following section, this process is started as shown below.
 
 ![click "Add New" to start the process](../../images/course_objectives/addvocab1.png)
 

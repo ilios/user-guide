@@ -19,7 +19,4 @@ The screen shot below shows the LTI Dashboard embedded into the current UCSF LMS
   </figcaption>
 </figure>
 
-
-
-
 The older `Calendar_Controller.php` file, which added the Ilios calendar as an iFrame to Moodle is no longer supported.

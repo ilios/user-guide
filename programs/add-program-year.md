@@ -58,7 +58,7 @@ When reviewing Program Year Objectives, you can not only download the Competency
 
 ## Program Year Objectives
 
-### Attach Vocabulary Term
+### Attach Vocabulary Terms
 
 The process for adding one or more vocabulary terms to an program year objective is similar to the same action performed at the course and/or session level. The interface and steps, since they do vary a bit, will be shown in detail below.
 

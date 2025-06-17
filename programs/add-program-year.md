@@ -67,9 +67,19 @@ The process for adding one or more vocabulary terms to an program year objective
 <figure>
   <img src="../images/programs/program_year_objectives/attach_vocabulary_term_step_one.png" alt="start process - add vocabulary term">
   <figcaption>
-      <p>Select the program year objective and click to add vocabulary term - step one</p>
+      <p>select program year objective and click to add vocabulary term - step one</p>
   </figcaption>
 </figure>
+
+**Step Two:** Select the vocabulary term to add to the program year objective.
+
+<figure>
+  <img src="../images/programs/program_year_objectives/attach_vocabulary_term_step_one.png" alt="choose term to add">
+  <figcaption>
+      <p>select vocabulary term to add - step two</p>
+  </figcaption>
+</figure>
+
 
 ### View Objective Mapping
 

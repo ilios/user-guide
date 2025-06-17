@@ -56,7 +56,22 @@ Here is the resulting display after selecting "Class of 2020" as the Program Yea
 
 When reviewing Program Year Objectives, you can not only download the Competency Map, you can review how these Program Year Objectives are mapped to Course Objectives as parents.
 
-## View Objective Mapping
+## Program Year Objectives
+
+### Attach Vocabulary Term
+
+The process for adding one or more vocabulary terms to an program year objective is similar to the same action performed at the course and/or session level. The interface and steps, since they do vary a bit, will be shown in detail below.
+
+**Step One:** Select the program year objective to which to add one or more vocabulary terms and click "Add New" as shown below.
+
+<figure>
+  <img src="../images/programs/program_year_objectives/attach_vocabulary_term_step_one.png" alt="start process - add vocabulary term">
+  <figcaption>
+      <p>Select the program year objective and click to add vocabulary term - step one</p>
+  </figcaption>
+</figure>
+
+### View Objective Mapping
 
 This shows where the Program Year objectives (graduation requirements) have been linked to Course objectives, which in turn can be linked to Session objectives. 
 

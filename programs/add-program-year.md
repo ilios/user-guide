@@ -80,7 +80,6 @@ The process for adding one or more vocabulary terms to an program year objective
   </figcaption>
 </figure>
 
-
 ### View Objective Mapping
 
 This shows where the Program Year objectives (graduation requirements) have been linked to Course objectives, which in turn can be linked to Session objectives. 

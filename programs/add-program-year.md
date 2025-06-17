@@ -80,6 +80,15 @@ The process for adding one or more vocabulary terms to an program year objective
   </figcaption>
 </figure>
 
+**Step Three:** Save to process the attachment of the term to the program year objective.
+
+<figure>
+  <img src="../images/programs/program_year_objectives/term_added.png" alt="term added">
+  <figcaption>
+      <p>vocabulary term added - step three</p>
+  </figcaption>
+</figure>
+
 ### View Objective Mapping
 
 This shows where the Program Year objectives (graduation requirements) have been linked to Course objectives, which in turn can be linked to Session objectives. 

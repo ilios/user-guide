@@ -89,6 +89,17 @@ The process for adding one or more vocabulary terms to an program year objective
   </figcaption>
 </figure>
 
+**Final Step: Review:** The vocabulary term has now been added to the program year objective. The process had been completed. 
+
+<figure>
+  <img src="../images/programs/program_year_objectives/review_and_confirm.png" alt="term added - review addition of term">
+  <figcaption>
+      <p>vocabulary term added - final step - review</p>
+  </figcaption>
+</figure>
+
+This process can be repeated to add more terms. More than one term can be added (or removed) at any given time. After reviewing the recent addition, it is easy to perform follow-up changes whenever needed.
+
 ### View Objective Mapping
 
 This shows where the Program Year objectives (graduation requirements) have been linked to Course objectives, which in turn can be linked to Session objectives. 

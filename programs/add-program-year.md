@@ -58,6 +58,21 @@ When reviewing Program Year Objectives, you can not only download the Competency
 
 ## Program Year Objectives
 
+### Add Objectives
+
+Adding one or more program year objectives is easy to do from this screen. One thing to keep in mind is that once these objetives have been entered, they get rolled over for each new program year. 
+
+To add an objective to any program year, select the program year and expand the list to reveal the details as shown below.
+
+**Step One:** Expand the list of program year objectives.
+
+<figure>
+  <img src="../images/programs/program_year_objectives/click_to_expand_the_list.png" alt="start process - expand list of program year objectives">
+  <figcaption>
+      <p>expand the list of program year objectives - step one</p>
+  </figcaption>
+</figure>
+
 ### Attach Vocabulary Terms
 
 The process for adding one or more vocabulary terms to an program year objective is similar to the same action performed at the course and/or session level. The interface and steps, since they do vary a bit, will be shown in detail below.

@@ -2,7 +2,9 @@
 
 A program year is essentially a year of instructional activity for any given program. The process of adding one or more program years is detailed below along with the configurable attributes of a program year.
 
-## **Add Program Year**
+# Add Program Year
+
+Once a program has been created, it is easy to add "program years". A program year refers in the simplest sense to a year of instruction for a selected program. The steps below will show how to get this done in Ilios.
 
 **Step 1:** Click the (+) to begin the process of adding the Program Year.
 
@@ -33,7 +35,7 @@ Indicators are provided when Program Year information is missing. Click on the p
 
 **NOTE**: A new Cohort is automatically created with the creation of a new Program Year. The Matriculation Year matches the Academic Year chosen during the creation of the Program Year. The Cohort is named by its expected year of Graduation, which is determined by the length (in Years) of the Program.
 
-## Program Year Attributes
+## Attributes
 
 * **Academic Year:** This is selected from the drop-down. This can be configured at the school level in either an entire year format (2019) or a split year format (2019-2020).
 * **Competencies:** selected from a school-specific, pre-defined list of competency domains and sub-domains.
@@ -43,17 +45,17 @@ Indicators are provided when Program Year information is missing. Click on the p
 
 To search for a previously created Program, enter a part of the name of the program into the “Filter by Program title” field, then click on the adjacent search icon or hit the return button on your keyboard or merely keep typing until the results are found. A list of all matches will populate your search panel; highlighting and selecting the desired program will load it to your screen.
 
-## Edit Program Year
+# Edit Program Year
 
 There are many things that can edited for any given Program Year. Since Program Years can be rolled over, you can roll Program Year over and then make additional changes to the newly created Program Year. The options are detailed below.
 
 To start with, navigate to Programs and select a Program. In this case, "Doctor of Medicine - BRIDGES" has been selected.
 
-### Program Detail
+## Program Detail
 
 ![Program detail](../images/programs/program_years/add_program_year_start.png)
 
-### Select Program Year
+## Select Program Year
 
 For this example, and in order to show more detail in upcoming steps, Matriculation Year "2016-2017" with the Cohort of "Class of 2020" has been selected. At the time of this edit, those students will have recently graduated. This is useful in detailing Competency use throughout the student's educational trajectory. They will have already learned the Topics and Competencies on offer in the Program. Reporting out will provide more robust results.
 
@@ -65,9 +67,9 @@ Here is the resulting display after selecting "Class of 2020" as the Program Yea
 
 When reviewing Program Year Objectives, you can not only download the Competency Map, you can review how these Program Year Objectives are mapped to Course Objectives as parents.
 
-## Program Year Objectives
+# Program Year Objectives
 
-### Add Objectives
+## Add Objectives
 
 Adding one or more program year objectives is easy to do from this screen. One thing to keep in mind is that once these objetives have been entered, they get rolled over for each new program year. 
 
@@ -82,7 +84,7 @@ To add an objective to any program year, select the program year and expand the 
   </figcaption>
 </figure>
 
-### Attach Vocabulary Terms
+## Attach Vocabulary Terms
 
 The process for adding one or more vocabulary terms to an program year objective is similar to the same action performed at the course and/or session level. The interface and steps, since they do vary a bit, will be shown in detail below.
 
@@ -124,7 +126,7 @@ The process for adding one or more vocabulary terms to an program year objective
 
 This process can be repeated to add more terms. More than one term can be added (or removed) at any given time. After reviewing the recent addition, it is easy to perform follow-up changes whenever needed.
 
-### View Objective Mapping
+## View Objective Mapping
 
 This shows where the Program Year objectives (graduation requirements) have been linked to Course objectives, which in turn can be linked to Session objectives. 
 
@@ -146,11 +148,4 @@ Below is a list of Program Year Objective attributes that can be edited or chang
 Courses and [Sessions](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#manage-terms).
 * **MeSH Terms**: Same as with Vocabulary Terms but using MeSH instead
 * **Active**: The toggle provided here indicates if an Objective is currently active and can be selected at the Course level. Clicking on the toggle will de-activate the Objective, not destroying any legacy data but making sure it can not be selected going forward. Historical data will appear read-only.
-* **Trash**: The trash can will appear active if the selected Program Year has not been used as a Parent Objective for any Course Objective.
-
-
-
-
-
-
-
+* **Trash**: The trash can will only appear active if the selected Program Year has not been used as a Parent Objective for any Course Objective.

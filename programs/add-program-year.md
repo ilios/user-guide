@@ -15,7 +15,7 @@ The following information from the previous program year (if applicable) will be
 * Leadership - Directors
 * Vocabulary Terms
 
-Matriculation Year and Cohort will be assigned automatically to the values associated with the selected Academic Year based on program duration (years).
+Matriculation Year and Cohort title will be assigned automatically to the values associated with the selected Academic Year based on program duration (years).
 
 ![add program year - start](../images/programs/program_years/add_program_year_start.png)
 

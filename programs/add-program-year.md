@@ -8,6 +8,15 @@ A program year is essentially a year of instructional activity for any given pro
 
 **NOTE** If program years have already been added to your program, creating a new program year will use the attributes assigned to the previous year, in essence "rolling over" the previous program year - saving work effort. Each program year can then be individually modified.
 
+The following information from the previous program year (if applicable) will be automatically added to the new one being created ...
+
+* Competencies
+* Objectives
+* Leadership - Directors
+* Vocabulary Terms
+
+Matriculation Year and Cohort title will be assigned automatically to the values associated with the selected Academic Year based on program duration (years).
+
 ![add program year - start](../images/programs/program_years/add_program_year_start.png)
 
 **Step 2:** Select the Academic Year from the provided drop-down menu. Only academic years that have not already been associated with a program year will appear available for selection. Each academic year can be assoicated with one program year. 

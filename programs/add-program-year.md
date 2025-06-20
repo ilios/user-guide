@@ -12,10 +12,10 @@ Once a program has been created, it is easy to add "program years". A program ye
 
 The following information from the previous program year (if applicable) will be automatically added to the new one being created ...
 
-* Competencies
-* Objectives
-* Leadership - Directors
-* Vocabulary Terms
+* **Competencies**
+* **Objectives**
+* **Leadership:** refers only to Directors as far as program years are concerned
+* **Vocabulary Terms:** can be added to program year objectives as well
 
 Matriculation Year and Cohort title will be assigned automatically to the values associated with the selected Academic Year based on program duration (years).
 

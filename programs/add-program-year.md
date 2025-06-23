@@ -1,4 +1,4 @@
-# Program Years - defined
+# Quick Definition
 
 A program year is essentially a year of instructional activity for any given program. The process of adding one or more program years is detailed below along with the configurable attributes of a program year.
 

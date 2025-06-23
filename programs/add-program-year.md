@@ -51,7 +51,7 @@ There are many things that can edited for any given Program Year. Since Program 
 
 To start with, navigate to Programs and select a Program. In this case, "Doctor of Medicine - BRIDGES" has been selected.
 
-## Program Detail
+## View Program Detail
 
 ![Program detail](../images/programs/program_years/add_program_year_start.png)
 

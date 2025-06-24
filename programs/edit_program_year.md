@@ -1,0 +1,1 @@
+Program Years can be easily edited in Ilios. The explanations of the options will be detailed here soon instead of on the main Program Year page where they are currently located. 

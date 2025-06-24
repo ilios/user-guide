@@ -98,6 +98,7 @@
   * [Add New Program](programs/add-new-program.md)
   * [Edit Program](programs/edit-program.md)
   * [Program Years](programs/add-program-year.md)
+    * [Edit Program Year](programs/edit_program_year.md)
     * [Competency Map Download](programs/competency-map-download.md)
     * [Objectives Visualization](programs/program-year-objective-map-visualization.md)
 * [Reports](reports/reports.md)

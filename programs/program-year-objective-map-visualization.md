@@ -2,13 +2,9 @@
 
 This is a very dense and detailed visualizsation showing program year objectives being mapped down to the course and session level, indicating how this mapping has occured.
 
-![Select visualization](../images/programs/objective_map_visualization/select_visualization.png)
+![select visualization](../images/programs/objective_map_visualization/select_visualization.png)
 
-Since this requires some heavy calculations, a blue progress indicator bar will appear as the graph (visualization) is being generated. 
-
-![Progress bar ... loading](../images/programs/objective_map_visualization/progress_bar_loading.png)
-
-Once the progress bar has completed its journey, the following high level visualization appears on screen. This needs to be clicked to drill down to be able to review the data.
+Once the data has been processed after a second or two, the following high level visualization appears on screen. This needs to be clicked to drill down to be able to review the data.
 
 ![Click for more details](../images/programs/objective_map_visualization/click_for_more_details.png)
 

@@ -6,15 +6,15 @@ This is a very dense and detailed visualizsation showing program year objectives
 
 Once the data has been processed after a second or two, the following high level visualization appears on screen. This needs to be clicked to drill down to be able to review the data.
 
-![Click for more details](../images/programs/objective_map_visualization/click_for_more_details.png)
+![click for more details](../images/programs/objective_map_visualization/click_for_more_details.png)
 
 After clicking as shown above, the visualization can be reviewed. This is currently required as an extra step due to the fact that we may have more visualizations at this higher level in the future.
 
-![Highest Level Mouse Over](../images/programs/objective_map_visualization/highest_level_mouse_over.png)
+![highest level mouse-over](../images/programs/objective_map_visualization/highest_level_mouse_over.png)
 
 Clicking further down at each level will reveal the appropriate detail. 
 
-![Competency Domain Level (Medical Knowledge)](../images/programs/objective_map_visualization/competency_domain_level.png)
+![competency domain level (Medical Knowledge)](../images/programs/objective_map_visualization/competency_domain_level.png)
 
 ![program year objective level (MK1)](../images/programs/objective_map_visualization/program_year_objective_level.png)
 

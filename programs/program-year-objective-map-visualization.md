@@ -2,6 +2,8 @@
 
 This is a very dense and detailed visualizsation showing program year objectives being mapped down to the course and session level, indicating how this mapping has occured.
 
+It may be helpful to select a matriculation year with a considerable amount of data with a graduation year close to current year. This will help reflect the full curriculum in detail.
+
 ![select visualization](../images/programs/objective_map_visualization/select_visualization.png)
 
 Once the data has been processed after a second or two, the following high level visualization appears on screen. This needs to be clicked to drill down to be able to review the data.

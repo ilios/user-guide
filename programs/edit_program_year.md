@@ -6,7 +6,7 @@ To start with, navigate to Programs and select a Program. In this case, "Doctor 
 
 ## View Program Detail
 
-![program detail](../images/programs/program_years/add_program_year_start.png)
+![program detail](../images/programs/program_years/program_detail.png)
 
 ## Select Program Year
 

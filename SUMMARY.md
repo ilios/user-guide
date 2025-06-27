@@ -100,6 +100,7 @@
   * [Program Years](programs/add-program-year.md)
     * [Edit Program Year](programs/edit_program_year.md)
     * [Competency Map Download](programs/competency-map-download.md)
+    * [Objectives Maintenance](programs/objectives_maintenance.md)
     * [Objectives Visualization](programs/program-year-objective-map-visualization.md)
 * [Reports](reports/reports.md)
   * [Subject Reports](reports/subject_reports.md)

@@ -1,0 +1,1 @@
+Objectives for each distinct program year can be added, edited, or removed. The previous year's objectives get added automatically to a new program year but can be maintained individually.

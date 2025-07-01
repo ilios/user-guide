@@ -11,7 +11,7 @@
 
 ## Edit Title
 
-To edit a program's Title, all that is needed to do is to click on the Title itself, edit it if desired, and then confirm the changes. The process is shown below.
+To edit a program's title, all that is needed to do is to click on the text of the title itself, edit it if desired, and then confirm the changes. The process is shown below.
 
 After clicking on the Program's title "Doctor Of Spine Therapy", the field becomes editable and appears as shown below. 
 

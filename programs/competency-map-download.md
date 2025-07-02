@@ -2,15 +2,15 @@
 
 It is easy enough to download the Competency Mapping for any specified Program Year within your school.  To do this, simply click as shown below. This is available from the Programs tab.
 
-#### Expand Program Year Objectives
+## Expand Program Year Objectives
 
 It is necessary to expand the Objectives as shown below in order to download the Competency Map.
 
-![Click to expand](../images/programs/competency_map_download/click_to_expand.png)
+![click to expand](../images/programs/competency_map_download/click_to_expand.png)
 
-#### Download Competency Map
+## Download Competency Map
 
-![Click to download](../images/programs/competency_map_download/click_to_download.png)
+![click to download](../images/programs/competency_map_download/click_to_download.png)
 
 After clicking as shown above, at the lower left hand corner of your browser window, you will see a file such as the following appear.
 

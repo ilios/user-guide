@@ -1,6 +1,6 @@
 # Competency Map Download
 
-It is easy enough to download the Competency Mapping for any specified Program Year within your school.  To do this, simply click as shown below. This is available from the Programs tab.
+It is easy enough to download the Competency Mapping for any specified Program Year within your school. To do this, simply click as shown below. This is available from the Programs tab.
 
 ## Expand Program Year Objectives
 

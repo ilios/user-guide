@@ -21,6 +21,8 @@ Matriculation Year and Cohort title will be assigned automatically to the values
 
 **Step 2:** Select the Academic Year from the provided drop-down menu. Only academic years that have not already been associated with a program year will appear available for selection. Each academic year can be assoicated with one program year. 
 
+* **Academic Year:** This is selected from the drop-down at the time of program year creation. This can be configured at the school level in either an entire year format (2025) or a split year format (2025-2026).
+
 ![select academic year](../images/programs/program_years/select_academic_year.png)
 
 Save when done by clicking the "Done" button as shown below.
@@ -35,10 +37,10 @@ Indicators are provided when Program Year information is missing. Click on the p
 
 ## Attributes
 
-* **Academic Year:** This is selected from the drop-down. This can be configured at the school level in either an entire year format (2019) or a split year format (2019-2020).
+* **Leadership:** In the case of program years, leadership refers uniquely to directors who are selected from list of available names. The list is populated with all Ilios users with permissions in the current school. 
 * **Competencies:** selected from a school-specific, pre-defined list of competency domains and sub-domains.
 * **Objectives:** Free text entry. Program Objectives, once entered, may be associated with any one of the available Competencies. Program Year Objectives can be sorted in the same way that Session Objectives and Course Objectives can be sorted. Refer to sorting [Course Objectives](../courses-and-sessions/courses/sort-objectives.md) or [Session Objectives](../courses-and-sessions/sessions/sort-objectives.md) for reference. These Program Year objectives can, and should be, attached as parents to course objectives. This is demonstrated [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_objectives/add-parent-objective). These can be thought of as graduation requirements since they are specific educational outcomes expected of this group of students (Cohort) upon their graduation. Program Year Objectives (like Course or Session Objectives) can be tagged using Vocabulary Terms and / or MeSH Terms.
 * **Terms:** selected from a school-specific, pre-defined list of one or more Vocabularies.
-* **Directors:** Selected from list of available names. The list is populated with all Ilios users with permissions in the current school. 
+* **Associated Courses:** This is a read-only list of courses assoicated with this program year. Courses utilize learner groups for enrollment typically. Learner groups are associated with one or more cohort(s), which are associated with a program year.
 
 To search for a previously created Program, enter a part of the name of the program into the “Filter by Program title” field, then click on the adjacent search icon or hit the return button on your keyboard or merely keep typing until the results are found. A list of all matches will populate your search panel; highlighting and selecting the desired program will load it to your screen.

@@ -19,3 +19,7 @@ Here is the resulting display after selecting "Class of 2025" as the Program Yea
 ![program year detail](../images/programs/program_years/program_year_detail.png)
 
 When reviewing Program Year Objectives, you can not only download the Competency Map, you can review how these Program Year Objectives are mapped to Course Objectives as parents.
+
+## Edit Leadership
+
+Leadership in the context of a program year is limited to Directors, who can perform any and all maintenance of this program year and will be included in any leadership report for the program year.

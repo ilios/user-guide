@@ -55,3 +55,15 @@ There are now 5 directors listed, including the one we added in the previous ste
 The list will get refreshed with the new record added to the list. 
 
 ![leadership updated](../images/programs/program_years/leadership_updated.png)
+
+## Manage Competencies
+
+The next section that can be managed here is Competencies. The process is similar to the one documented above regarding managing leadership. Initially, the screen appears in a collapsed (non-expanded) state. 
+
+### Show Details
+
+![competencies collapsed](../images/programs/program_years/competencies_collapsed.png)
+
+After clicking to show more details ...
+
+![competencies listed](../images/programs/program_years/competencies_listed.png)

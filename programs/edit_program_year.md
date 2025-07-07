@@ -23,3 +23,13 @@ When reviewing Program Year Objectives, you can not only download the Competency
 ## Edit Leadership
 
 Leadership in the context of a program year is limited to Directors, who can perform any and all maintenance of this program year and will be included in any leadership report for the program year.
+
+### Show Details 
+
+Initially details are collapsed as shown below. Click to expand and show details.
+
+![leadership - collapsed](../images/programs/program_years/leadership_collapsed.png)
+
+After clicking as shown above, the 4 directors are listed. From here, you can manage leadership (directors) at the program year level.
+
+![leadership - expanded](../images/programs/program_years/leadership_expanded.png)

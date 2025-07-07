@@ -20,7 +20,7 @@ Here is the resulting display after selecting "Class of 2025" as the Program Yea
 
 When reviewing Program Year Objectives, you can not only download the Competency Map, you can review how these Program Year Objectives are mapped to Course Objectives as parents.
 
-## Edit Leadership
+## Manage Leadership
 
 Leadership in the context of a program year is limited to Directors, who can perform any and all maintenance of this program year and will be included in any leadership report for the program year.
 
@@ -33,3 +33,25 @@ Initially details are collapsed as shown below. Click to expand and show details
 After clicking as shown above, the 4 directors are listed. From here, you can manage leadership (directors) at the program year level.
 
 ![leadership - expanded](../images/programs/program_years/leadership_expanded.png)
+
+### Search for Leadership
+
+Any Ilios user can be added to the role of program year director. After clicking "Manage Leadership", the sceeen appears similar to what is shown below.
+
+![manage leadership](../images/programs/program_years/manage_leadership.png)
+
+It has been decided that the Ilios user "Ann Rachel Greene" should be added to Leadership (as a Director) for Class of 2025. The partial search string entered, "ann rac", is sufficiiently narrow to return four records. 
+
+![perform search](../images/programs/program_years/perform_search.png)
+
+After selecting "Ann Rachel Greene" to be added as a program year director, it is necessary to save this action to add this record to program year leadership. 
+
+There are now 5 directors listed, including the one we added in the previous step. 
+
+### Save Changes 
+
+![process the update](../images/programs/program_years/process_update.png)
+
+The list will get refreshed with the new record added to the list. 
+
+![leadership updated](../images/programs/program_years/leadership_updated.png)

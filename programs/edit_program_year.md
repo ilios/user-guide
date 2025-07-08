@@ -67,3 +67,9 @@ The next section that can be managed here is Competencies. The process is simila
 After clicking to show more details ...
 
 ![competencies listed](../images/programs/program_years/competencies_listed.png)
+
+The competencies associated with this program year are now listed. The button "Manage Competencies" should be clicked to review the mapping and make any changes. 
+
+In the "competencies listed" image above, a total of 7 competencies appear. All of these are at the same level - the school competency level. We will see this in the screen shot below where none of the sub-domains of these higher level competencies have been selected for use in this program year - Class of 2025. Those are the lower level values that have not been selected.
+
+![manage competencies](../images/programs/program_years/manage_competencies.png)

@@ -78,4 +78,4 @@ In the "competencies listed" image above, a total of 7 competencies appear. All 
 
 For the sake of demonstration, we are going to add all three sub-domains that pertain to the school competency "Interpersonal & Communication Skills" to the Class of 2025 program year competency framework. Any of these three sub-domains can now be used to further differentiate and specify the expetise needed to graduate as a member of this class. 
 
-![select competencies](../images/programs/program_years/competencies_selected.png)
+![select competencies](../images/programs/program_years/select_competencies.png)

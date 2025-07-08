@@ -73,3 +73,9 @@ The competencies associated with this program year are now listed. The button "M
 In the "competencies listed" image above, a total of 7 competencies appear. All of these are at the same level - the school competency level. We will see this in the screen shot below where none of the sub-domains of these higher level competencies have been selected for use in this program year - Class of 2025. Those are the lower level values that have not been selected.
 
 ![manage competencies](../images/programs/program_years/manage_competencies.png)
+
+### Select Competencies
+
+For the sake of demonstration, we are going to add all three sub-domains that pertain to the school competency "Interpersonal & Communication Skills" to the Class of 2025 program year competency framework. Any of these three sub-domains can now be used to further differentiate and specify the expetise needed to graduate as a member of this class. 
+
+![select competencies](../images/programs/program_years/select_competencies.png)

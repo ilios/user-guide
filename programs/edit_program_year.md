@@ -90,7 +90,7 @@ The list of competencies associated with this program year (Class of 2025) now a
 
 ![view updated list](../images/programs/program_years/view_updated_list.png)
 
-### View Updated Competency Options
+### View Updated Mapping Options
 
 Now that we have updated the competencies that can be associated with program year objectives, this is how it appears when one would choose to change the competency association at the program year objective level.
 

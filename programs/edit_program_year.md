@@ -86,6 +86,6 @@ After performing the save event as shown below to process the update, the new su
 
 ### View Updated List
 
-The list of competencies associated with this program year (Class of 2025) now appears as shown below.
+The list of competencies associated with this program year (Class of 2025) now appears as shown below. These competencies can be applied to program year objectives.
 
 ![view updated list](../images/programs/program_years/view_updated_list.png)

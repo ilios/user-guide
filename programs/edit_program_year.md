@@ -89,3 +89,12 @@ After performing the save event as shown below to process the update, the new su
 The list of competencies associated with this program year (Class of 2025) now appears as shown below. These competencies can be applied to program year objectives.
 
 ![view updated list](../images/programs/program_years/view_updated_list.png)
+
+### View Updated Competency Options
+
+Now that we have updated the competencies that can be associated with program year objectives, this is how it appears when one would choose to change the competency association at the program year objective level.
+
+The image below comes from the expanded list of program year objectives. We are using the first one as an example. Currently that first objective had been associated with the competency domain of "Patient Care". The other options are shown here including the three sub-domains added recently. To change this association to either a higher level domain or one of the newly added sub-domains, click the radio button by the preferred option and save the record. This selection is limited to one option, hence the use of radio buttons rather than check boxes.
+
+![view competency options](../images/programs/program_years/view_competency_options.png)
+

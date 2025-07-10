@@ -98,5 +98,5 @@ The image below comes from the expanded list of program year objectives. We are 
 
 ![view competency options](../images/programs/program_years/view_competency_options.png)
 
-**QUICK NOTE:** If a higher level competency is selected, it is assumed that any sub-domains are also selected. If a lower level sub-domain is selected, the other sub-domains are inferred to have been not selected. The parent domain can be configured to be included as an option or not. 
+**QUICK NOTE:** If a higher level competency is selected, it is assumed that any sub-domains are also selected. If one lower level sub-domain is selected and not any others, the other sub-domains are inferred to have been not selected. The parent domain can be configured to be included as a tagging option or not. 
 

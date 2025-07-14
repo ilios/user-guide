@@ -112,3 +112,10 @@ Click as shown below to begin the process of managing terms associated with the 
 
 ![click to manage terms](../images/programs/program_years/click_to_manage_terms.png)
 
+### Select Vocabulary
+
+Now that the "manage terms" functionality has been activated, the first step in adding one or more vocabulary terms to a program year is to select the vocabulary within which the term is a selectable item. The School of Medicine at UCSF vocabularies are shown in the screen shot below. 
+
+![select vocabulary](../images/programs/program_years/select_vocabulary.png)
+
+Using "Bridges Tags" as our selected vocabulary, we can proceed searching for and / or selecting terms to use with this program year. 

@@ -100,6 +100,15 @@ The image below comes from the expanded list of program year objectives. We are 
 
 **QUICK NOTE:** If a higher level competency is selected, it is assumed that any sub-domains are also selected. If one lower level sub-domain is selected and not any others, the other sub-domains are inferred to have been not selected. The parent domain can be configured to be included as a tagging option or not. 
 
-## Program Year Objectives
+## Manage Objectives
 
 The next area of maintenance is the one devoted to managing program year objectives (graduation requirements). This is currently in its own section available [here](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year/objectives_maintenance).
+
+## Manage Terms
+
+### Click to Start
+
+Click as shown below to begin the process of managing terms associated with the given program year. Terms can be reviewed, added, or removed individually or in a bulk operation. 
+
+![click to manage terms](../images/programs/program_years/click_to_manage_terms.png)
+

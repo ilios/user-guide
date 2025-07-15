@@ -127,3 +127,9 @@ Now that the vocabulary "Bridges Tags" has been selected, individual terms can b
 A filter was applied in this case for the value "ph". This limits the result set to list only terms that contain the filter by value "ph". There are six such from which to choose after applying the filter.
 
 ![filter for term](../images/programs/program_years/filter_for_term.png)
+
+### Mouse-over for Detail
+
+Any of the returned terms in the selected vocbulary can be hovered over with the mouse to display more information about their potential usage. This is shown below for the term "Physical examination". 
+
+![mouse-over for detail](../images/programs/program_years/mouse_over_for_detail.png)

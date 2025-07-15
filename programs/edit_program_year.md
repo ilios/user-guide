@@ -119,3 +119,11 @@ Now that the "manage terms" functionality has been activated, the first step in 
 ![select vocabulary](../images/programs/program_years/select_vocabulary.png)
 
 Using "Bridges Tags" as our selected vocabulary, we can proceed searching for and / or selecting terms to use with this program year. 
+
+### Filter for Term
+
+Now that the vocabulary "Bridges Tags" has been selected, individual terms can be selected from the available list. The list can also be filtered to limit the results and make the correct easier to find in case the list is long (and it generally is).
+
+A filter was applied in this case for the value "ph". This limits the result set to list only terms that contain the filter by value "ph". There are six such from which to choose after applying the filter.
+
+![filter for term](../images/programs/program_years/filter_for_term.png)

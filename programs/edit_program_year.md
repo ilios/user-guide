@@ -133,3 +133,9 @@ A filter was applied in this case for the value "ph". This limits the result set
 Any of the returned terms in the selected vocbulary can be hovered over with the mouse to display more information about their potential usage. This is shown below for the term "Physical examination". 
 
 ![mouse-over for detail](../images/programs/program_years/mouse_over_for_detail.png)
+
+### Select Term
+
+Now that we have determined "Physical examination" is indeed the term we would like to add, the process begins with simply clicking anywhere in the row of the term to be added. After performing that action, the screen changes as shown below.
+
+![term added](../images/programs/program_years/term_added.png)

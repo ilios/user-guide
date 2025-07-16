@@ -148,3 +148,8 @@ In the previous step, the term was added to the program year. Review the results
 
 Click "Manage Terms" to perform further maintenance to program year term assignment. Removing one or more terms from a program year is as easy as clicking to remove the term and then saving the record - essentially the reverse of the process involved in adding terms.
 
+### Remove Term
+
+Although this is mentioned above, some screen shots and additional documentation might prove to be useful. This example uses the same program year (Class of 2025) as in the previous sections except we are showing that one of the five terms that have been added in the meantime needs to be removed. 
+
+![current terms displayed](../images/programs/program_years/current_terms_displayed.png)

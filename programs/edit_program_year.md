@@ -152,4 +152,23 @@ Click "Manage Terms" to perform further maintenance to program year term assignm
 
 Although this is mentioned above, some screen shots and additional documentation might prove to be useful. This example uses the same program year (Class of 2025) as in the previous sections except we are showing that one of the five terms that have been added in the meantime needs to be removed. 
 
+**Terms Displayed**
+
 ![current terms displayed](../images/programs/program_years/current_terms_displayed.png)
+
+**Click to Remove**
+
+To remove a term, the first step is to click on the badge icon of the term to be removed - in this case "Geriatrics".
+
+![click term to remove](../images/programs/program_years/click_term_to_remove.png)
+
+**Update Program Year**
+
+After clicking to remove "Geriatrics", the screen is updated as shown below with the four remaining terms still associated with the program year. 
+
+![term removed](../images/programs/program_years/term_removed.png)
+
+After clicking as shown, the four terms remain. 
+
+![remaining terms displayed](../images/programs/program_years/remaining_terms_displayed.png)
+

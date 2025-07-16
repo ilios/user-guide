@@ -139,3 +139,12 @@ Any of the returned terms in the selected vocbulary can be hovered over with the
 Now that we have determined "Physical examination" is indeed the term we would like to add, the process begins with simply clicking anywhere in the row of the term to be added. After performing that action, the screen changes as shown below.
 
 ![term added](../images/programs/program_years/term_added.png)
+
+### Term Added
+
+In the previous step, the term was added to the program year. Review the results of this action below.
+
+![review results](../images/programs/program_years/review_results.png)
+
+Click "Manage Terms" to perform further maintenance to program year term assignment. Removing one or more terms from a program year is as easy as clicking to remove the term and then saving the record - essentially the reverse of the process involved in adding terms.
+

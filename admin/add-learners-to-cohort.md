@@ -1,13 +1,13 @@
 # Add Learners to Cohort
 
-Learners who have not been added to a Cohort at all can be added using the Admin Console.
+Learners who have been added to Ilios but have not been assigned into a Cohort can be added using the Admin Console.
 
 To do this ...
 
 * Pull up the Admin screen
 * Click Manage
 
-![Click to manage](../images/admin_console/add_learners_to_cohort/clcik_to_manage.jpg)
+![click to manage](../images/admin_console/add_learners_to_cohort/click_to_manage.png)
 
 The screen now appears as shown below. Three users have been selected to be added to the "Health Professions Education Pathway to Discovery Class of 2017" Cohort. Click the Save button to process this request.
 

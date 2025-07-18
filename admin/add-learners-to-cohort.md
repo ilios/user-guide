@@ -25,7 +25,9 @@ Refer to [Create New User](https://iliosproject.gitbook.io/ilios-user-guide/admi
 
 ## Upload Multiple Users
 
-It is also possible to perform a bulk upload operation for students (learners) or non-learners to be added to Ilios. This is only available if your institution is not using a directory to populate Ilios with new learners.
+It is also possible to perform a bulk upload operation for students (learners) or non-learners to be added to Ilios. 
+
+**IMPORTANT NOTE**: This is only available if your institution is not using a directory to populate Ilios with new learners. The "Upload Muliple Users" button simply will not appear if not applicable to your institution's configuration.
 
 ### Click to Start
 

@@ -47,6 +47,6 @@ Since the process of adding students using this bulk upload tool has an addition
 
 ### Choose Cohort 
 
-Now that "Student" has been selected, the primary cohort for these incoming students should be selected, 
+Now that "Student" has been selected, the primary cohort for these incoming students should be selected.
 
 ![choose cohort](../images/admin_console/add_learners_to_cohort/choose_cohort.png)

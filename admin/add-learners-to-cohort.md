@@ -27,7 +27,7 @@ Refer to [Create New User](https://iliosproject.gitbook.io/ilios-user-guide/admi
 
 It is also possible to perform a bulk upload operation for students (learners) or non-learners to be added to Ilios. 
 
-**IMPORTANT NOTE**: This is only available if your institution is not using a directory to populate Ilios with new learners. The "Upload Muliple Users" button will not appear if this functionality is not applicable to your institution's configuration.
+**IMPORTANT NOTE:** This is only available if your institution is not using a directory to populate Ilios with new learners or maintain passwords and logins - form-based authentication in other words. The "Upload Muliple Users" button will not appear if does not apply to your institution's configuration.
 
 ### Click to Start
 
@@ -67,9 +67,11 @@ The fields used in the template are the following ...
 * Campus ID
 * Other ID
 * Username 
-* Password - required
+* Password - pass NULL if not applicable
 
-Even though only those three fields are required by the template, all applicable information should be added especially Email, Username, and probably Campus ID.
+If there is required information missing, the field in the preview view will be surrounded by a red border indicating something is wrong. The check box to the left will not be selected. The user cannot be added until the errors have been fixed.
+
+**NOTE:** Since passwords can be passed using this method, there needs to be a system / procedure in place to ensure users update their passwords after logging in for the first time. The passwords are intended to be temporary. If a password will be set later by the administrator, the value NULL can be passed in the text file.
 
 
 

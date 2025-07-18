@@ -27,7 +27,7 @@ Refer to [Create New User](https://iliosproject.gitbook.io/ilios-user-guide/admi
 
 It is also possible to perform a bulk upload operation for students (learners) or non-learners to be added to Ilios. 
 
-**IMPORTANT NOTE**: This is only available if your institution is not using a directory to populate Ilios with new learners. The "Upload Muliple Users" button will not appear if this functionality is not applicable to your institution's configuration.
+**IMPORTANT NOTE:** This is only available if your institution is not using a directory to populate Ilios with new learners or maintain passwords and logins - form-based authentication in other words. The "Upload Muliple Users" button will not appear if does not apply to your institution's configuration.
 
 ### Click to Start
 
@@ -50,3 +50,28 @@ Since the process of adding students using this bulk upload tool has an addition
 Now that "Student" has been selected, the primary cohort for these incoming students should be selected.
 
 ![choose cohort](../images/admin_console/add_learners_to_cohort/choose_cohort.png)
+
+### Template Fields
+
+Since this is assuming your institution is using form-based authentication and not a network configuration for logins, password is a required field for adding logins using this type of authentication. Below is a screen shot (configured in Excel) of a filled-out template file for user upload. If using a text editor, a comma-delimited format might be easier since commas are easy to review and verify for spacing issues. 
+
+![template fields shown](../images/admin_console/add_learners_to_cohort/template_fields_shown.png)
+
+The fields used in the template are the following ...
+
+* First Name - required
+* Last Name - required
+* Middle Name
+* Phone
+* Email
+* Campus ID
+* Other ID
+* Username 
+* Password - pass NULL if not applicable
+
+If there is required information missing, the field in the preview view will be surrounded by a red border indicating something is wrong. The check box to the left will not be selected. The user cannot be added until the errors have been fixed.
+
+**NOTE:** Since passwords can be passed using this method, there needs to be a system / procedure in place to ensure users update their passwords after logging in for the first time. The passwords are intended to be temporary. If a password will be set later by the administrator, the value NULL can be passed in the text file.
+
+
+

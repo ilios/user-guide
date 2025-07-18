@@ -50,3 +50,26 @@ Since the process of adding students using this bulk upload tool has an addition
 Now that "Student" has been selected, the primary cohort for these incoming students should be selected.
 
 ![choose cohort](../images/admin_console/add_learners_to_cohort/choose_cohort.png)
+
+### Template Fields
+
+Since this is assuming your institution is using form-based authentication and not a network configuration for logins, password is a required field for adding logins using this type of authentication. Below is a screen shot (configured in Excel) of a filled-out template file for user upload. If using a text editor, a comma-delimited format might be easier since commas are easy to review and verify for spacing issues. 
+
+![template fields shown](../images/admin_console/add_learners_to_cohort/template_fields_shown.png)
+
+The fields used in the template are the following ...
+
+* First Name - required
+* Last Name - required
+* Middle Name
+* Phone
+* Email
+* Campus ID
+* Other ID
+* Username 
+* Password - required
+
+Even though only those three fields are required by the template, all applicable information should be added especially Email, Username, and probably Campus ID.
+
+
+

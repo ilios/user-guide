@@ -36,3 +36,17 @@ This process is started by clicking as shown below.
 These users can be learners who can be assigned to a cohort or non-learners who are added to the system initially with no advanced permissions. They can be assigned to any activity in Ilios, which of course can implicitly provide elevated access.
 
 ![upload multiple users - start](../images/admin_console/add_learners_to_cohort/upload_multiple_users_start.png)
+
+### Review Options
+
+The screen changes to appear similar to what is show below. Initial options are shown with arrows indicating changes that can be applied.
+
+![review options](../images/admin_console/add_learners_to_cohort/review_options.png)
+
+Since the process of adding students using this bulk upload tool has an additional step, which will be shown here, select "Student" as shown below.
+
+### Choose Cohort 
+
+Now that "Student" has been selected, the primary cohort for these incoming students should be selected, 
+
+![choose cohort](../images/admin_console/add_learners_to_cohort/choose_cohort.png)

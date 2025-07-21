@@ -2,7 +2,7 @@
 
 Managing your school's institutional information can be performed in Ilios from the Schools functional area. 
 
-![click to manage](../images/schools/curriculum_inventory_information/click_to_manage.png)
+![click to manage](../images/schools/institutional_information/click_to_manage.png)
 
 Click the button as shown above to edit your institution's information. 
 

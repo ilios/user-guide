@@ -1,12 +1,12 @@
-# Curriculum Inventory Institution Information
+# Institutional Information
 
-Managing your school's relationship with the AAMC can be maintained in Ilios from the Schools functional area. 
+Managing your school's institutional information can be performed in Ilios from the Schools functional area. 
 
-![Click to manage](../images/schools/curriculum_inventory_information/click_to_manage.png)
+![click to manage](../images/schools/curriculum_inventory_information/click_to_manage.png)
 
-Click the button as shown above to edit your institution's Curriculum Inventory Report information. This will prove to be beneficial in uploading your Curriculum Inventory \(CI\) Report to the AAMC.
+Click the button as shown above to edit your institution's information. 
 
-#### Available Fields
+## Available Fields
 
 * School Name
 * Street (address)
@@ -18,7 +18,7 @@ Click the button as shown above to edit your institution's Curriculum Inventory 
 
 Here is a screen shot of an institution that has not yet filled in this information. Saving or canceling is performed using the same green or red buttons as always in Ilios.
 
-![In "Edit" mode](../images/schools/curriculum_inventory_information/in_edit_mode.png)
+![in "Edit" mode](../images/schools/curriculum_inventory_information/in_edit_mode.png)
 
 
 

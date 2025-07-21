@@ -23,7 +23,7 @@ These are set only at the time of creating a School for use in Ilios. There are 
 * [Vocabularies](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies)
 * [Session Types](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types)
 * [Session Attributes](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-attributes)
-* [Curriculum Inventory Institution Information](https://iliosproject.gitbook.io/ilios-user-guide/schools/curriculum-inventory-institution-information)
+* [Institutional Information](https://iliosproject.gitbook.io/ilios-user-guide/schools/curriculum-inventory-institution-information)
 * [Multi-School Environment](https://iliosproject.gitbook.io/ilios-user-guide/schools/multi-school-environment)
 
 The attributes listed above for the selected School can be configured once the School has been selected or initially entered. The selection screen appears as shown below.

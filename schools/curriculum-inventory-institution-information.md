@@ -16,9 +16,9 @@ Click the button as shown above to edit your institution's information.
 * Country
 * AAMC School ID
 
-Here is a screen shot of an institution that has not yet filled in this information. Saving or canceling is performed using the same green or red buttons as always in Ilios.
+Here is a screen shot of our institution (UCSF). The information has already been entered and saved. Saving or canceling is performed using the same green or red buttons as always in Ilios.
 
-![in "Edit" mode](../images/schools/curriculum_inventory_information/in_edit_mode.png)
+![in "Edit" mode](../images/schools/institutional_information/in_edit_mode.png)
 
 
 

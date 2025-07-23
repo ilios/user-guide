@@ -13,3 +13,10 @@ This email has been set up to identify the administrator of your Ilios instance.
 ### Change-alert Recipients
 
 This allows for the addition of one or more recipients who would like to receive change alert notification which are sent out automatically by the system when details (when, where, who) change especially regarding an offering location, instructor, or other pertinent details. The change-alert recipients will receive these email notifications.
+
+For the sake of demonstration, it has been decided that two additional email addresses should be added in order to receive change-alert email messages. This is to test the content and delivery cycle - any changes within 7 days of the offering date/time trigger this notification to be sent out by the system. 
+
+After clicking to manage, both fields become editable. 
+
+![update change alert recipients](../images/schools/manage_emails/update_change_alert_recipients.png)
+

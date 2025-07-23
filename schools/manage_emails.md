@@ -2,6 +2,10 @@
 
 There is a section in the Schools functional area to maintain several important email addresses that pertain to any school's Ilios implementation.
 
+Click as shown below to start the process of managing school-level email recipients in Ilios.
+
+![click to manage](../images/schools/manage_emails/click_to_manage.png)
+
 ### Administrator Email
 
 This email has been set up to identify the administrator of your Ilios instance.

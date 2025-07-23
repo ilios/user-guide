@@ -8,7 +8,7 @@ Click as shown below to start the process of managing school-level email recipie
 
 ### Administrator Email
 
-This email has been set up to identify the administrator of your Ilios instance.
+This email has been set up to identify the administrator of your Ilios instance. There can only be one entry in this field since this email address is used as the "from" address when email alerts are sent out and can only be associated with one email address at a time.
 
 ### Change-alert Recipients
 

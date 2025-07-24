@@ -26,6 +26,8 @@ Additional change-alert recipients can be added but need to be separated using c
 
 Two recipients were added for demonstration purposes.
 
-![recipients added](../images/schools/manage_emails/recipients_added.png)
+![add recipients](../images/schools/manage_emails/add_recipients.png)
 
+After clicking as shown above to process this recent change, the list gets updated with the newly added recipients displayed.
 
+![recipient list updated](../images/schools/manage_emails/recipient_list_updated.png)

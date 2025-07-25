@@ -42,18 +42,18 @@ Now we are in the position to create a separate event for each of the eight sub-
 
 The Small Group Offerings are created once the "Save" button shown above has been clicked. If there are default Instructors and / or Locations for any of these Small Groups, those values will be automatically entered here by the system. They can be overwritten manually. If there is no default for either of those, the offers appear as shown below with no value for Location and no Instructors entered yet. The Edit and Delete buttons are pointed out in the screen shot below.
 
-![List of Offerings recently created](../../images/create_small_group_offerings/offering_list.png)
+![list of offerings recently created](../../images/create_small_group_offerings/offering_list.png)
 
 ### Edit Small Group Offering
 
 In this example, the offering for the group "Demo Group 1" needs to be modified. The correct date for the offering is December 13 from 8:00 to 9:15. The Instructor and Location will be specified as well as shown below.
 
-![Upper part of screen](../../images/create_small_group_offerings/offering_screen_upper.png )
+![upper part of screen](../../images/create_small_group_offerings/offering_screen_upper.png )
 
-![Save to update](../../images/create_small_group_offerings/save_to_update.png)
+![save to update](../../images/create_small_group_offerings/save_to_update.png)
 
 Clicking "Save" will process the save event to update this event. The list now appears as follows once the updates have been processed.
 
 **NOTE:** The offerings are sorted by Date/Time in ascending order. Since we just updated an Offering to take place on a different earlier time but the same date, it now appears in its own section.
 
-![Offering list updated](../../images/create_small_group_offerings/offering_list_updated.png)
+![offering list updated](../../images/create_small_group_offerings/offering_list_updated.png)

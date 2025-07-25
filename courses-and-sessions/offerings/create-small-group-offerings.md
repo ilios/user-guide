@@ -44,6 +44,12 @@ The Small Group Offerings are created once the "Save" button shown above has bee
 
 ![list of offerings recently created](../../images/create_small_group_offerings/offering_list.png)
 
+### De-select Parent Group
+
+You may wish to have the parent group not automatically have an offering created or be included in this process at all. This is done by clicking on the parent group while holding down the "Shift" key on your keyboard. This is shown below.
+
+![de-select parent group](../../images/create_small_group_offerings/de_select_parent_group.png)
+
 ### Edit Small Group Offering
 
 In this example, the offering for the group "Demo Group 1" needs to be modified. The correct date for the offering is December 13 from 8:00 to 9:15. The Instructor and Location will be specified as well as shown below.

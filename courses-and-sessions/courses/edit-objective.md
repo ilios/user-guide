@@ -46,6 +46,8 @@ The list of Terms available for selection can be filtered by entering a text val
 
 Select "Health Care Quality Improvement" by clicking on the "+" icon button as shown below.
 
+## Add Term to Course Objective 
+
 ![add vocabulary term to objective](../../images/course_objectives/addvocab4.png)
 
 The screen adjusts to reflect this recent action. The newly added Term can be removed by clicking on the red "X" button on the label. The changes can be confirmed or rejected using the standard Save or Cancel buttons.

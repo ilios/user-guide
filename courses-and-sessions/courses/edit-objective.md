@@ -50,7 +50,7 @@ Select "Health Care Quality Improvement" by clicking on the "+" icon button as s
 
 ![add vocabulary term to objective](../../images/course_objectives/addvocab4.png)
 
-The screen adjusts to reflect this recent action. The newly added Term can be removed by clicking on the red "X" button on the label. The changes can be confirmed or rejected using the standard Save or Cancel buttons.
+The screen adjusts to reflect this recent action. The newly added term can be removed by clicking on the red "X" button on the label. The changes can be confirmed or rejected using the standard Save or Cancel buttons. There is no need to remove it if you plan on canceling the operation anyway.
 
 ![list updated](../../images/course_objectives/addvocab5.png)
 
@@ -70,13 +70,13 @@ Once the Objectives link has been opened, the full list of Objectives associated
 
 ![MeSH - added](../../images/course_objectives/add_mesh3.png)
 
-Once the Save action is completed, the screen refreshes to show the MeSH Term now associated with the Course Objective.
+Once the Save action is completed, the screen refreshes to show the MeSH term now associated with the Course Objective.
 
 ![MeSH now attached to Course Objective](../../images/course_objectives/add_mesh4.png)
 
 ## Review Recent Updates
 
-After confirming the addition of the MeSH Term selected, both the Vocabulary Term added in the previous section and the MeSH Term recently added appear as shown below.
+After confirming the addition of the MeSH term selected, both the vocabulary term added in the previous section and the MeSH term recently added appear as shown below.
 
 ![course objective list updated](../../images/course_objectives/addvocab6.png)
 

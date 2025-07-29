@@ -110,3 +110,7 @@ Under the same scenario as above, a report can be saved and run at any point in 
 ## Copy Report
 
 This functionality allows the user to make a copy of a saved report and then make modifications to its parameters and / or to rename it.
+
+The starting point for all of this is shown below. 
+
+![copy subject report](../images/reports/subject_reports/copy_subject_report.png)

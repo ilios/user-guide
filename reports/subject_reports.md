@@ -1,4 +1,4 @@
-## Run Saved Report
+# Run Saved Report
 
 This shows a typical user's saved reports, which can be run at any time by this user.
 
@@ -14,7 +14,7 @@ After clicking as shown above, the screen will refresh with the data outputted t
 
 **NOTE:** In the output shown above, the part of the linked data to the left will take ythe user to the course level, whereas the part of the linked data farther to the right will route to the course AND the session. For the fourth output record, if the link `"Brain, Movement and Behavior"` is clicked, the user will be routed to that course but not to the referenced session. If the right part is clicked, the user will be taken directly to that session `"Neurobiology of Bias"`, which is a session in the course "Brain, Movement and Behavior".
 
-### Download Report Data
+## Download Report Data
 
 As shown above, there is a link available to download the report's output. After clicking as shown above (on a Mac anyway), the report file (.csv) is named automatically and saved in the user's "Downloads" folder.
 
@@ -30,7 +30,7 @@ In this report example, the .csv download includes the following fields ...
 
 You can use a spreadsheet program (Excel, Google Sheets, Numbers etc.) of your choice to set up formatting and sort order of this exported output.
 
-## Create New Report
+# Create New Report
 
 It is now possible to run an "on the fly" report. You can choose to save it for future use or use it as a one-off report, opting to download the data or not.
 
@@ -40,7 +40,7 @@ Creating a new report can be easily done using the guidelines shown below. The c
 
 After clicking as shown above, the screen appears similar to the following screen shot. This only shows the first of several drop-down options to be choosing for new reports (to be saved or not).
 
-### Top-level Reporting Options
+## Top-level Options
 
 The following options are available at this top level (after choosing School) ...
 
@@ -66,7 +66,7 @@ Choose "Sessions" as the next selection option. This will ensure to retrieve a l
 
 After choosing the value "Sessions" as shown above, we are now ready to select the next reporting option. 
 
-### Second Level Options
+## Second Level Options
 
 The available options for drilling down below "Session" are ...
 
@@ -87,13 +87,13 @@ It is worth keeping in mind that any school can have a number of different Vocab
 
 ![choose Topics > Anatomy as report option](../images/reports/anatomy_chosen.png)
 
-### Report Options
+# Report Output Options
 
 As shown in the previous steps, it has been decided to run a Term based report which will display all Sessions assoicated with the Topic of "Anatomy". It can now be run immediately or saved to run at any point in the future. Reports that are believed to be generally useful and informative throughout time should be saved, whereas one-off ad hoc style reports can be immediately run and not saved. Below is the screen showing these two options at this juncture. 
 
 ![report options - to save ... or not](../images/reports/to_save_or_not_to_save.png)
 
-### Ad-hoc / View Only
+## Ad-hoc / View Only
 
 This workflow allows the user to view and / or download the data from a newly created report but not save it for future use. This would be for situations when the data is only needed this one time.
 
@@ -103,6 +103,10 @@ See the image below for the current reporting matrix.
 
 ![report selection options](../images/reports/report_options.png)
 
-### Save Report
+## Save Report
 
 Under the same scenario as above, a report can be saved and run at any point in the future. The steps for running this type of reports are covered at the top of this page. This is helpful when the data continues to be useful over time.
+
+## Copy Report
+
+This functionality allows the user to make a copy of a saved report and then make modifications to its parameters and / or to rename it.

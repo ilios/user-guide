@@ -1,5 +1,7 @@
 # Reports
 
+Reports now live in their own distinct functional area rather than "My Reports" of yesteryear. This allows for better visibility of results as well as inclusion of data tables and legends.
+
 ## Starting Point 
 
 Clicking on "Reports" from the Ilios menu takes the user to "Subject Reports" initially. 

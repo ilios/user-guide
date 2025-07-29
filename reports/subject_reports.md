@@ -1,8 +1,6 @@
 ## Run Saved Report
 
-Reports now live in their own large area rather than the compact My Reports of yesteryear. This allows for better visibility of results as well as inclusion of data tables and legends.
-
-This shows a typical user's saved reports.
+This shows a typical user's saved reports, which can be run at any time by this user.
 
 ![saved reports](../images/reports/saved_reports_start.png)
 

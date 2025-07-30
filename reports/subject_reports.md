@@ -111,9 +111,15 @@ Under the same scenario as above, a report can be saved and run at any point in 
 
 This functionality allows the user to make a copy of a saved report and then make modifications to its parameters and / or to rename it.
 
-The starting point for all of this is shown below. 
+The starting point for all of this is shown below. It is required to first run a report before performing this "copy" operation.
 
 ![copy subject report](../images/reports/subject_reports/copy_subject_report.png)
 
 Ater clicking the report as shown above, the screen becomes similar to the way it was when the report was initially created except that at this time, we are working with a "copy". It is sort of like editing but you are working with a duplicate of the original. If no changes are made and this "copy" is saved, there will simply be two identical saved subject reports available to this user.
+
+### In Edit Mode
+
+Here is the screen as it now appears after clicking "Copy Report".
+
+![report in edit mode](../images/reports/subject_reports/report_in_edit_mode.png)
 

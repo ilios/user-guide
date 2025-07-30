@@ -114,3 +114,6 @@ This functionality allows the user to make a copy of a saved report and then mak
 The starting point for all of this is shown below. 
 
 ![copy subject report](../images/reports/subject_reports/copy_subject_report.png)
+
+Ater clicking the report as shown above, the screen becomes similar to the way it was when the report was initially created except that at this time, we are working with a "copy". It is sort of like editing but you are working with a duplicate of the original. If no changes are made and this "copy" is saved, there will simply be two identical saved subject reports available to this user.
+

@@ -1,6 +1,6 @@
 # Run Saved Report
 
-This shows a typical user's saved reports, which can be run at any time by this user.
+This shows a typical user's saved reports, which can be run at any time by this user. At this time only Subject reports can be saved and stored in Ilios. Curriculum reports are created and viewed with the output available for download at run-time. As detailed [here](https://iliosproject.gitbook.io/ilios-user-guide/reports/curriculum_reports), curriculum reports can be shared with other users after being created.
 
 ![saved reports - start](../images/reports/subject_reports/saved_reports_start.png)
 

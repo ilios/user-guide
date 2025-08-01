@@ -53,11 +53,11 @@ To create a new API Token, click Create New. The screen will refresh and display
 
 ![New Token](../images/my_profile/new_token.png)
 
-#### Date Picker
+### Select Expiration Date
 
-The Date Picker (if selected) appears as shown below.
+The date picker (if selected) appears as shown below. Use this to select an exipration date for the token being created.
 
-![Token Expiration Date Picker](../images/my_profile/new_token_date_picker.png)
+![new token date picker](../images/my_profile/new_token_date_picker.png)
 
 ### Invalidate All Tokens
 

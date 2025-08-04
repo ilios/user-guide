@@ -8,7 +8,7 @@ As shown below, you can choose to add the entire cohort to the new group or leav
 
 ![membership options](../images/new_learner_group/membership_options.png)
 
-After clicking "Done", the new learner group is added to the appropriate list (shown below). The list is sorted initially in alphabetical order. The new learner group "Reasoning and Thought" has been added with no students included. They can be added later of course.
+After clicking "Done", the new learner group is added to the appropriate list (shown below). The list is sorted initially by title in alphabetical order. The sort order can be changed by the user to be Member or Subgroup counts instead of title. The new learner group "Reasoning and Thought" has been added with no students included. They can be added later of course.
 
 **NOTE**: This newly added Learner Group can still be deleted since it has not been attached to any Offerings yet.
 
@@ -16,7 +16,7 @@ After clicking "Done", the new learner group is added to the appropriate list (s
 
 The new learner group detail screen appears as shown below. Sub groups can added to any group (even another sub group) as shown in the [Sub Groups](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/sub-groups) section.
 
-![Add sub groups](../images/new_learner_group/add_sub_groups.png)
+![add sub groups](../images/new_learner_group/add_sub_groups.png)
 
 The parent group in this case is the new learner group recently added in this section. Click on the (+) icon as shown above to begin the process of adding one or more sub groups.
 

@@ -18,9 +18,11 @@ After clicking "Done", the new learner group is added to the appropriate list (s
 
 ![learner group added](../images/new_learner_group/learner_group_added.png)
 
-The new learner group detail screen appears as shown below. Sub groups can added to any group (even another sub group) as shown in the [Sub Groups](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/sub-groups) section.
-
 ## Add Sub Groups
+
+The new learner group detail screen appears as shown below. 
+
+Sub groups can added to any group (even another sub group) as shown in the [Sub Groups](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/sub-groups) section.
 
 ![add sub groups](../images/new_learner_group/add_sub_groups.png)
 

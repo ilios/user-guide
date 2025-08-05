@@ -55,11 +55,11 @@ To perform the full search (which we will do in this example), press the "Enter"
 
 The results of running a search for "brain" are demonstrated below.
 
-![search results](../images/global_search/global_search_results.png)
+![search results displayed](../images/global_search/search_results_displayed.png)
 
-### Cancel Search
+## Cancel Search
 
-To cancel any search after entering criteria but before pressing "Enter" or accepting a suggested search option, the keyboard's "escape" key (`esc`) can be utilized to clear out the search box value and return to your previous Ilios session.
+To cancel any search after entering criteria but before pressing "Enter", the keyboard's "escape" key (`esc`) can be utilized to clear out the search box value.
 
 ## Show More
 

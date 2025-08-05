@@ -35,7 +35,7 @@ Results are labeled according to the location of the match and listed with inter
 
 After performing a search, all of the areas listed above are scanned for matches. Suggestions are also provided.
 
-### Learning Material Contents
+## Learning Material Contents
 
 The newest addition to Ilios global search is that it now scans the complete text content of all Learning Materials in the system, along with curriculum data and metadata.
 
@@ -47,7 +47,7 @@ Since content can often provide significantly more effective definition of learn
 
 To search for anything related to "brain", enter that into the search field provided. A list of suggested refinements ("Suggested Values") appear below the search box. Any of those can be utilized by clicking directly onto it.
 
-![Enter search string ...](../images/global_search/search_string_entered.png)
+![enter search string](../images/global_search/search_string_entered.png)
 
 To perform the full search (which we will do in this example), press the "Enter" key on the keyboard to perform the search.
 

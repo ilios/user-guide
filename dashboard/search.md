@@ -7,7 +7,7 @@ description:
 
 **NOTE**: Global Search is not currently available to users who are students and do not have any higher-level permissions or perform instructional or other non-learner functions in Ilios. This may change in the future.
 
-![Global Search on the Dashboard](../images/global_search/global_search_start.png)
+![global search start](../images/global_search/global_search_start.png)
 
 The search box is located at the location specified above. If fewer than three characters are entered, the search will not be performed. A `"keep typing..."` message will appear adviding that the minimum character entry has not been reached. After confirming a search by clicking on one of the suggedted values, the search box will move down to a more central location. Refer to [Search Results](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search#search-results).
 

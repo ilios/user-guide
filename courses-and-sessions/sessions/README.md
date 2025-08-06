@@ -57,7 +57,7 @@ The screen shot above points out the icons indicating both the existence of prer
 
 It is easy to expand the Session List to allow for the maintenance of an Offering's room (location) right from this screen. Any Session's Title is a hyperlink and can be clicked to performance to a Session's attributes. After the list has been expanded, links to make changes to the attributes of an Offerings (other than location) right from the expanded Session List become available.
 
-### Options
+### Viewing Options
 
 The options shown below can be used to either expand individual (one or more) sessions or all of the sessions (non-ILM's with one or more offerings) at the same time.
 

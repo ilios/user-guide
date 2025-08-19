@@ -18,7 +18,7 @@ Here is the resulting display after selecting "Class of 2025" as the Program Yea
 
 ![program year detail](../images/programs/program_years/program_year_detail.png)
 
-When reviewing Program Year Objectives, you can not only download the Competency Map, you can review how these Program Year Objectives are mapped to Course Objectives as parents.
+When reviewing Program Year Objectives, you can not only download the Competency Map, you can review how these Program Year Objectives are mapped as parents to Course Objectives.
 
 ## Manage Leadership
 

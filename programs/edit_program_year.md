@@ -176,6 +176,12 @@ After clicking as shown, the four terms remain.
 
 There is a list of courses available at the bottom of the Program Year detail screen where you can review which courses are tied to the currently selected program year. This just means a cohort associated with the selected program year is attached at the course level to all of these courses. The courses are hyperlinked here for easy reference. 
 
+### Collapsed Mode 
+
+Initially, this shows up in a similar manner to what is shown below. This is before clicking the triangle "expander" to do exactly that - expand the viewpoint to show the selection in full. 
+
+![associated courses - collapsed](../images/programs/program_years/associated_courses_collapsed.png)
+
 ### Expanded Mode
 
 This is shown (partial list anyway) in "expanded" mode. Collapsed mode will be added here soon. 

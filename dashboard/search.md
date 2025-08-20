@@ -49,7 +49,7 @@ To search for anything related to "brain", enter that into the search field prov
 
 ![enter search string](../images/global_search/search_string_entered.png)
 
-To perform the full search (which we will do in this example), press the "Enter" key on the keyboard to perform the search.
+To perform a search, press the "Enter" key on the keyboard after entering the search string to retrieve the corresponding results.
 
 ## Search Results
 

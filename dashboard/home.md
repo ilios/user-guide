@@ -33,7 +33,7 @@ This next view will show a typical student's viewpoint into the system with no a
 <figure>
     <img src="../images/dashboard_home/week_at_a_glance_student_view.png" alt="week at a glance displayed">
     <figcaption>
-        <p>Week at a Glance - Dashboard</p>
+        <p>Week at a Glance - Student Dashboard</p>
     </figcaption>
 </figure>
 

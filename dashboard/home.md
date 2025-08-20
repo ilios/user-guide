@@ -31,9 +31,9 @@ The view shown below is that of an Ilios user who also perform non-learner funct
 This next view will show a typical student's viewpoint into the system with no additional icons available from the Ilios flyout menu. Week at a Glance is their main focus with all weekly learning activities and materials available here. The day of the week of their weekly learning activities is shown over to the right. This will pin at the top of the screen as the screen is scrolled down as a navigational aid.
 
 <figure>
-    <img src="../images/dashboard_home/week_at_a_glance_student_view.png" alt="week at a glance displayed">
+    <img src="../images/dashboard_home/week_at_a_glance_student_view.png" alt="week at a glance displayed - learner view">
     <figcaption>
-        <p>Week at a Glance - Student Dashboard</p>
+        <p>Week at a Glance - Dashboard - learner view</p>
     </figcaption>
 </figure>
 

@@ -78,3 +78,7 @@ Once a search has been performed using the Global Search functionality, the resu
 Filtering by school and / or  by year is accomplished by using any combination of selections made using the two sets of available check boxes. Any combination of these two sets of check boxes can be used. They function independently and in conjunction with each other. Both year filter and school filters are applied together. An updated screen shot with more details is forthcoming.
 
 Use of one or both of the filters shown above will change the result set to only include the values which meet the selected specifications.
+
+The defaults are shown below in the screen shot. Any addition or removal of values to be included in the search can be performed in the school selector as well as the year selector. Both will be applied automatically to the output.
+
+![filters displayed](../images/global_search/filters_displayed.png)

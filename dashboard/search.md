@@ -73,7 +73,7 @@ Search results are grouped by Course, and then by Session. In the case above, th
 
 Once a search has been performed using the Global Search functionality, the results can be further refined (filtered). The following shows two types of filtering that can be done here.
 
-### By School and / or Year
+### Available Filter Options
 
 Filtering by school and / or  by year are by using two sets of available check boxes. Any combination of these two sets of check boxes can be used. They function independently and in conjunction with each other. Both year filter and school filters applied together. An updated screen shot with more details is forthcoming.
 

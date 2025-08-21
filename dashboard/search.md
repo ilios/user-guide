@@ -75,6 +75,6 @@ Once a search has been performed using the Global Search functionality, the resu
 
 ### Available Output Filters
 
-Filtering by school and / or  by year are by using two sets of available check boxes. Any combination of these two sets of check boxes can be used. They function independently and in conjunction with each other. Both year filter and school filters applied together. An updated screen shot with more details is forthcoming.
+Filtering by school and / or  by year is accomplished by using any combination of selections made using the two sets of available check boxes. Any combination of these two sets of check boxes can be used. They function independently and in conjunction with each other. Both year filter and school filters are applied together. An updated screen shot with more details is forthcoming.
 
 Use of one or both of the filters shown above will change the result set to only include the values which meet the selected specifications.

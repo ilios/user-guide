@@ -45,7 +45,7 @@ Since content can often provide significantly more effective definition of learn
 
 ## Performing a Search
 
-To search for anything related to "brain", enter that into the search field provided. A list of suggested refinements ("Suggested Values") appear below the search box. Any of those can be utilized by clicking directly onto it.
+To search for anything related to "brain", enter that string value into the search field provided. 
 
 ![enter search string](../images/global_search/search_string_entered.png)
 
@@ -73,7 +73,7 @@ Search results are grouped by Course, and then by Session. In the case above, th
 
 Once a search has been performed using the Global Search functionality, the results can be further refined (filtered). The following shows two types of filtering that can be done here.
 
-### Available Output Filters
+### Output Filters
 
 Filtering by school and / or  by year is accomplished by using any combination of selections made using the two sets of available check boxes. Any combination of these two sets of check boxes can be used. They function independently and in conjunction with each other. Both year filter and school filters are applied together. An updated screen shot with more details is forthcoming.
 

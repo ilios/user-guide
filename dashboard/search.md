@@ -9,7 +9,7 @@ description:
 
 ![global search start](../images/global_search/global_search_start.png)
 
-The search box is located at the location specified above. Enter a search string and press Enter on the keyboard to run the search. Refer to [Search Results](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search#search-results).
+The search box is located at the location specified above. Enter a search string and press Enter on the keyboard to run the search. Refer to [Search Results](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/search#search-results) for more information on understanding the results of a search performed.
 
 The search provides content search to users with heightened privileges (non-students) across the curricula at your institution. Access beyond read-only for search returns is determined by individual permissions for each user account.
 

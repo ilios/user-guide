@@ -79,6 +79,6 @@ Filtering by school and / or  by year is accomplished by using any combination o
 
 Use of one or both of the filters shown above will change the result set to only include the values which meet the selected specifications.
 
-The default selections are shown in the screen shot below. Clicking to change the output filters results in the new values being loaded based on any updates.
+The default selections are shown in the screen shot below. Currently, the results display any matches in the School of Medicine only, which also can only pertain to the 2024-2025 or 2025-2026 academic year. Clicking to change the output filters results in the new values being loaded based on any updates.
 
 ![filters displayed](../images/global_search/filters_displayed.png)

@@ -17,7 +17,7 @@ After clicking the Ilios home button as shown above, you will be returned to the
 
 ## Week at a Glance - Admin View
 
-The view shown below is that of an Ilios user who also perform non-learner functions. That is why the Ilios flyout menu is available with all navigational options available to this user.
+The view shown below is that of an Ilios user who also performs non-learner functions. That is why the Ilios flyout menu is available with all navigational options available to this user. Global Search is also available.
 
 <figure>
     <img src="../images/dashboard_home/week_at_a_glance.png" alt="week at a glance displayed">

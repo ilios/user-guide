@@ -51,9 +51,13 @@ All Offerings are displayed.
 
 ![all offerings - displayed](../images/calendar_view_images/day_view_multiple.png)
 
-### Week View / Month View (Multiple Offerings)
+## Week View / Month View (Multiple Offerings)
 
 With the Week View as well as the Month View, the Events will be rolled up into one with the rooms to be listed as "Multiple" and the Instructors' names will be listed such as "Instructor One, Instructor Two, et al".
+
+An example of this display in a week view setting is shown below.
+
+![week view mouse-over shown](../images/calendar_view_images/week_view_mouse_over_shown.png)
 
 ## Multi-day Events
 
@@ -67,5 +71,5 @@ Events that occur starting on one date and then ending on a later date are displ
 
 This appears underneath the Calendar when any event spans more than one day.
 
-![View the multi-day event](../images/calendar_view_images/multi_day_view.png)
+![view the multi-day event](../images/calendar_view_images/multi_day_view.png)
 

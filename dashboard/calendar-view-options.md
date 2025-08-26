@@ -65,7 +65,9 @@ Events that occur starting on one date and then ending on a later date are displ
 
 ### Creating a Multi-day Event
 
-![Create multi-day event](../images/calendar_view_images/multi_day_create.png)
+![create multi-day event](../images/calendar_view_images/multi_day_create.png)
+
+Once the multi-day event has been saved in Ilios, the start and end date / times are populated automatically as shown above.
 
 ### Viewing a Multi-day Event
 

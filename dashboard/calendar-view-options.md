@@ -27,13 +27,13 @@ To get to the Week View, click the "Week" Calendar View Switcher link. The scree
 
 To get to the Month View, click the "Month" Calendar View Switcher link. The screen will appear as shown below with all of the details for the entire selected month displayed.
 
-![Month View (Calendar)](../images/calendar_view_images/month_view.png)
+![month view](../images/calendar_view_images/month_view.png)
 
 ## Day View
 
-To get to the Day View, click the "Day" Calendar View Switcher link. The screen will appear as shown below with all of the details for the selected day displayed. You can see all of the details for the selected day. The view starts initially at 8:00 AM for viewing simplicity; however the entire 24 hour day is available by scrolling up or down.
+To get to the Day View, click the "Day" Calendar View Switcher link. The screen will appear as shown below with all of the details for the selected day displayed. You can see all of the details for the selected day. The view starts initially at the time of the first daily offering or at 6:00 AM if there are no assigned offerings. The entire 24 hour day is available by scrolling up or down.
 
-![Day View](../images/calendar_view_images/day_view.png)
+![day view](../images/calendar_view_images/day_view.png)
 
 ### Multiple Offerings Display
 
@@ -43,15 +43,15 @@ For a Session with Multiple Offerings, it is important to note that the offering
 
 **Click the Session with Multiple Offerings**
 
-![Click multi-offering Session](../images/calendar_view_images/week_view_multiple.png)
+![click multi-offering Session](../images/calendar_view_images/week_view_multiple.png)
 
-#### Day View (Multiple Offerings)
+### Day View (Multiple Offerings)
 
 All Offerings are displayed.
 
-![All offerings - displayed](../images/calendar_view_images/day_view_multiple.png)
+![all offerings - displayed](../images/calendar_view_images/day_view_multiple.png)
 
-#### Week View / Month View (Multiple Offerings)
+### Week View / Month View (Multiple Offerings)
 
 With the Week View as well as the Month View, the Events will be rolled up into one with the rooms to be listed as "Multiple" and the Instructors' names will be listed such as "Instructor One, Instructor Two, et al".
 
@@ -59,11 +59,11 @@ With the Week View as well as the Month View, the Events will be rolled up into 
 
 Events that occur starting on one date and then ending on a later date are displayed below the Calendar. An example will be shown below soon.
 
-#### Creating a Multi-day Event
+### Creating a Multi-day Event
 
 ![Create multi-day event](../images/calendar_view_images/multi_day_create.png)
 
-#### Viewing a Multi-day Event
+### Viewing a Multi-day Event
 
 This appears underneath the Calendar when any event spans more than one day.
 

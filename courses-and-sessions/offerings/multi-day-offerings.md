@@ -19,5 +19,5 @@ Here is how the multi-day "holiday' event created previously is displayed after 
 
 * For all views ...
 
-![Multi-Day Events appear in their own area below the Calendar.](../../images/multi_day_offerings/below_calendar_view.png)
+![multi-day events below calendar](../../images/multi_day_offerings/below_calendar_view.png)
 

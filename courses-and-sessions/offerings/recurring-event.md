@@ -18,7 +18,9 @@ To create a recurring event, follow the steps listed below.
 
 ### Turn on Recurring Events
 
-![Initially Set in the "Off" position](../../images/recurring_events/initially_set_to_off_position.png)
+The default setting for "recurring events" is "off". This option needs to be activated here to continue creating recurring events.
+
+![initially set to "Off" position](../../images/recurring_events/initially_set_to_off_position.png)
 
 * Set the initial Offering attributes.  Once created, any of the events (recurring or otherwise) can be modified.
 

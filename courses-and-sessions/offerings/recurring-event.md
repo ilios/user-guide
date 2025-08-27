@@ -8,17 +8,17 @@ Recurring events are session offerings (events) that occur at the same time and 
 
 To create a recurring event, follow the steps listed below.
 
-### Select the Session
+### Select Session
 
-![Select session](../../images/recurring_events/select_session.png)
+![select session](../../images/recurring_events/select_session.png)
 
 ### Add Offerings
 
-![Add Offerings](../../images/recurring_events/add_offerings.png)
+![add offerings](../../images/recurring_events/add_offerings.png)
 
 ### Turn on Recurring Events
 
-![Initially Set in the "Off" position](../../images/recurring_events/slider_set_to_off.jpg)
+![Initially Set in the "Off" position](../../images/recurring_events/initially_set_to_off_position.png)
 
 * Set the initial Offering attributes.  Once created, any of the events (recurring or otherwise) can be modified.
 

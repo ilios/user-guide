@@ -61,7 +61,7 @@ An example of this display in a week view setting is shown below.
 
 ## Multi-day Events
 
-Events that occur starting on one date and then ending on a later date are displayed below the Calendar. An example will be shown below soon.
+Events that occur starting on one date and then ending on a later date are displayed below the Calendar. An example is shown below.
 
 ### Creating a Multi-day Event
 

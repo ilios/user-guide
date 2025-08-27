@@ -15,13 +15,9 @@ Offerings that start on one day and continue on until the next or a future day a
 
 ### How Multi-Day events appear on the Calendar
 
-Here is how the multi-day "holiday' event created previously is displayed after having been published.
+Here is how the multi-day "holiday' event created previously is displayed after having been published. This is true for any "duration" view of the calendar in Ilios. The multi-day offering appears beneath the calendar in "Day", "Week", or "Month" view.
 
-* For "Day" view and "Week" view ...
+* For all views ...
 
 ![Multi-Day Events appear in their own area below the Calendar.](../../images/multi_day_offerings/below_calendar_view.png)
-
-* For Month view ...
-
-![Each day a Multi-Day Event occurs has its own Calendar Offering.](../../images/multi_day_offerings/on_calendar_view.png)
 

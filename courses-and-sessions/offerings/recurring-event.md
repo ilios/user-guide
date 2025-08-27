@@ -22,11 +22,11 @@ The default setting for "recurring events" is "off". This option needs to be act
 
 ![initially set to "Off" position](../../images/recurring_events/initially_set_to_off_position.png)
 
-* Set the initial Offering attributes.  Once created, any of the events (recurring or otherwise) can be modified.
+* Set the initial Offering attributes. Once created, any of the events (recurring or otherwise) can be modified.
 
-![Date Picker shown](../../images/recurring_events/date_picker_shown.png)
+![date picker shown](../../images/recurring_events/date_picker_shown.png)
 
-![Set Recurring Event count](../../images/recurring_events/recurring_event_set.png)
+![set recurring event count](../../images/recurring_events/set_recurring_event_count.png)
 
 ### Add remaining attributes
 

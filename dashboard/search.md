@@ -49,7 +49,7 @@ To search for anything related to "brain", enter that string value into the sear
 
 ![enter search string](../images/global_search/search_string_entered.png)
 
-To perform a search, press the "Enter" key on the keyboard after entering the search string to retrieve the corresponding results.
+To perform a search, press the "Enter" (or "return") key on the keyboard after entering the search string to retrieve the corresponding results.
 
 ## Search Results
 

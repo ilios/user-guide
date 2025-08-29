@@ -51,6 +51,12 @@ To search for anything related to "brain", enter that string value into the sear
 
 To perform a search, press the "Enter" (or "return") key on the keyboard after entering the search string to retrieve the corresponding results.
 
+### Re-run Search
+
+Making any changes using the check boxes specifying "Schools" and / or "Academic Year" will cause the search to be run an additional time immediately with the newly specified parameters.
+
+The "Enter" or "return" key on the keyboard can be used to run again also but does require the keyboard command to execute. This is true whether or not the search value has been updated.
+
 ## Search Results
 
 The results of running a search for "brain" are demonstrated below.

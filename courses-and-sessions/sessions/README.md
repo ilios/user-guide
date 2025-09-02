@@ -91,8 +91,10 @@ The learner group count aggregates all learner groups associated with offerings 
 
 ## Session Detail
 
-The session detail screen is very lengthy so in this situation, the top part is shown in the screen shot below. Clicking on the hyperlinked title of any session will route you to the session detail screen for that session - detailed briefly below.
+The session detail screen is very lengthy so in this situation, the upper part is shown in the screen shot below. Clicking on the hyperlinked title of any session will route you to the session detail screen for that session - detailed briefly below.
+
+### Upper Part of Screen
 
 ![session detail - top](../../images/sessions_main_page/session_detail_top.png)
 
-Once a course has been saved, Sessions may be added to the course. A Session is a discrete instructional unit of curricular material or activity within a course. To add a new session, click “Add New”. This will create an empty Session, ready to be populated with the Session's attributes, listed [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions#session-attributes-all-session-types).
+### Lower Part of Screen

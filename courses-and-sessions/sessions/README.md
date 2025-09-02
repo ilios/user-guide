@@ -39,11 +39,11 @@ This had to be split into upper and lower portions to allow space to display the
 
 ### Upper Portion
 
-![Session - upper](../../images/sessions_main_page/session_upper.png)
+![session - upper](../../images/sessions_main_page/session_upper.png)
 
 ### Lower Portion
 
-![Session - lower](../../images/sessions_main_page/session_lower.png)
+![session - lower](../../images/sessions_main_page/session_lower.png)
 
 ### Overview
 
@@ -51,7 +51,7 @@ The screen shot below shows the Courses and Sessions screen with the list of ass
 
 ## Session List
 
-![Session - list](../../images/sessions_main_page/session_list1.png)
+![session list](../../images/sessions_main_page/session_list1.png)
 
 The screen shot above points out the icons indicating both the existence of prerequisite (formerly pre-work) learning events and instructional notes. The independent study session "A Video About Drugs" is due before the calendared session "Drug Taper". As such, it is considered a prerequisite learning activity.
 

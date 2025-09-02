@@ -83,6 +83,12 @@ In this view, the column headers stay fixed in position as you scroll down the s
 
 ![fixed column headers](../../images/sessions_main_page/fixed_column_headers.png)
 
+### Learner Group Count
+
+The learner group count aggregates all learner groups associated with offerings for the session along with all learner groups associated with any ILM's for the session. Especially in the case of ILM's, it can be helpful to see that there have been learners assigned. The screen shot below shows a very untypical situation where 2 learner groups are associated with the ILM and 1 learner group is associated with the offering - for the same session. The total comes up correctly as 3 in this rare scenario. 
+
+![learner group count](../../images/sessions_main_page/learner_group_count.png)
+
 ## Session Detail
 
 The session detail screen is very lengthy so in this situation, the top part is shown in the screen shot below. Clicking on the hyperlinked title of any session will route you to the session detail screen for that session - detailed briefly below.

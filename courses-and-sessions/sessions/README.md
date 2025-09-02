@@ -89,12 +89,3 @@ The learner group count aggregates all learner groups associated with offerings 
 
 ![learner group count](../../images/sessions_main_page/learner_group_count.png)
 
-## Session Detail
-
-The session detail screen is very lengthy so in this situation, the upper part is shown in the screen shot below. Clicking on the hyperlinked title of any session will route you to the session detail screen for that session - detailed briefly below.
-
-### Upper Part of Screen
-
-![session detail - top](../../images/sessions_main_page/session_detail_top.png)
-
-### Lower Part of Screen

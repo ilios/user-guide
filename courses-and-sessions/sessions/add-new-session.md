@@ -1,5 +1,8 @@
 ## Create New Session
 
+Once a course has been saved, Sessions may be added to the course. A Session is a discrete instructional unit of curricular material or activity within a course. To add a new session, click “Add New”. This will create an empty Session, ready to be populated with the Session's attributes, listed [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions#session-attributes-all-session-types).
+
+
 Click as shown below to start the process of adding a new [session](https://iliosproject.gitbook.io/ilios-user-guide/glossary#session).
 
 ![first step - click to start](../../images/add_new_session/add_new_session_start.png)

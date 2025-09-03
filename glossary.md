@@ -40,6 +40,10 @@ This refers to assigned metadata for any selected Learner Group. These labels do
 
 A Session for a Course without a specific location or time of occurrence. Independent Learning Units are comprised of Learning Materials, an expected number of educational hours or duration for the learner to complete the content, and a due-by date. These are also referred to as _Independent Learning Modules_ or _ILM's_. These are asynchronous learning activities performed by the Learner at their time of choosing before ether a specified Due Date or another upcoming Event.
 
+## Instructional Notes
+
+These notes which are meant to assist with the instruction of the curriculum are available in two locations in Ilios. The first location is at the session level. These notes are never to be seen by students - only instructors will see them. Instructional notes can also be set at the learning material (course and / or session) level. These learning material level notes can be optionally revealed to students. There is toggle provided to set this visibility to "yes" or "no".
+
 ## Learner and Educator
 
 The record of an individual who can be assigned to an object within the system. Learners are the user records for people who become enrolled in curricular activities. Educators are basically everybody else in that they are the people who create, manage, and deliver the curriculum. They could be faculty, staff, or executive leadership.

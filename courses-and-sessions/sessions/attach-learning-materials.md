@@ -18,11 +18,11 @@ After selecting the one as indicated above, it has now become attached to this S
 
 **NOTE:** Now that there are multiple Learning Materials attached to the Session, the `Sort Materials` button is available and activated. This is covered later.
 
-![LM now attached](../../images/attach_session_learning_material/attach_session_lm.jpg)
+![LM now attached](../../images/attach_session_learning_material/lm_now_attached.png)
 
 **See Results of Action and Modify Available Meta-Data**
 
-As seen above, the file has now been attached to this Session. Click on the Display Name as shown by the green arrow to view more details and to modify some information about the attachment of this file to the Course. Many attributes of the file itself cannot be modified.
+As seen above, the file has now been attached to this Session. Click on the Display Name as shown by the green arrow to view more details and to modify some information about the attachment of this file to this particular session. Many attributes of the file itself cannot be modified.
 
 Refer to the screen shot below for details.
 

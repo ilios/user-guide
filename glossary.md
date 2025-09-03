@@ -42,7 +42,7 @@ A Session for a Course without a specific location or time of occurrence. Indepe
 
 ## Instructional Notes
 
-These notes which are meant to assist with the instruction of the curriculum are available in two locations in Ilios. The first location is at the session level. These notes are never to be seen by students - only instructors will see them. Instructional notes can also be set at the learning material (course and / or session) level. These learning material level notes can be optionally revealed to students. There is toggle provided to set this visibility to "yes" or "no".
+These notes which are meant to assist with the instruction of the curriculum are available in two locations in Ilios. The first location is at the session level. These notes are never to be seen by students - only instructors will see them. Instructional notes can also be added at the learning material (course and / or session) level. These learning material level notes can be optionally revealed to students. There is toggle provided to set this visibility to "yes" or "no".
 
 ## Learner and Educator
 

@@ -20,13 +20,17 @@ After selecting the one as indicated above, it has now become attached to this S
 
 ![LM now attached](../../images/attach_session_learning_material/lm_now_attached.png)
 
+If a search is performed for "anatomy" a second time, previously attached learning materials will not be available for repeat selection. 
+
+![already attached](../../images/attach_session_learning_material/already_attached.png)
+
 **See Results of Action and Modify Available Meta-Data**
 
 As seen above, the file has now been attached to this Session. Click on the Display Name as shown by the green arrow to view more details and to modify some information about the attachment of this file and its usage with this particular session. Many attributes of the file itself cannot be modified.
 
 Refer to the screen shot below for details.
 
-![Details shown](../../images/attach_session_learning_material/session_lm_details.jpg)
+![details shown](../../images/attach_session_learning_material/session_lm_details.jpg)
 
 ### Add New Learning Material to a Session
 

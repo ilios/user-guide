@@ -80,7 +80,9 @@ In order to save a learning material in connection with a session or course, tha
 
 For lectures and other similar media, where the likely method of delivery is streaming/viewing from the server, rather than downloading, materials should be stored elsewhere, and the links to them should be the resources saved in Ilios.
 
-### Additional Fields (modified once the inital upload has been completed)
+### Additional Fields 
+
+These can be modified once the inital upload has been completed. They pertain to this instance of learning material usage.
 
 * **Status:** Options for this are Final (appears to students as long there is no start or end date), Revised (same as Final for display purposes), and Draft (will not be displayed to students even if the current date lies between the start and end date (if it exists)).
 * **Required:** Identifies required vs. recommended materials in the context of use. Requirement is unique to a given instance of use for any Learning Material.

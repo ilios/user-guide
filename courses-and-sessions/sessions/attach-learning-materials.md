@@ -10,9 +10,9 @@ Before uploading a potential duplicate Learning Material file, link, or citation
 
 ### Search for Learning Material (LM)
 
-In this example, a search was performed for "dispar". Any of the resulting LM's can be attached to the Session by clicking anywhere in the area corresponding to the LM. 
+In this example, a search was performed for "anatomy". Any of the resulting LM's can be attached to the Session by clicking anywhere in the area corresponding to the LM. 
 
-![search for "dispar"](../../images/attach_session_learning_material/search_for_session_lm.png)
+![search for "anatomy"](../../images/attach_session_learning_material/search_for_session_lm.png)
 
 After selecting the one as indicated above, it has now become attached to this Session as shown below.
 

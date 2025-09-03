@@ -4,15 +4,15 @@ Learning Materials can be attached at either the Course or Session level. Sessio
 
 The first step is to select a Course and Session. These steps are covered in other parts of the guide.
 
-## Attach Existing Learning Material to a Session
+## Attach Existing Learning Material
 
 Before uploading a potential duplicate Learning Material file, link, or citation, you should search to ascertain if it already exists in the system. The key thing to remember here is that with Learning Materials, the relationship between the Learning Material and the Session is what is being created here. Any given Learning Material object can be attached to any number of Courses or Sessions. It can be used in other years or programs as a result or this relationship.
 
 ### Search for Learning Material (LM)
 
-In this example, a search was performed for "snatomy". Any of the resulting LM's can be attached to the Session by clicking anywhere in the area corresponding to the LM. 
+In this example, a search was performed for "dispar". Any of the resulting LM's can be attached to the Session by clicking anywhere in the area corresponding to the LM. 
 
-![search for "anatomy"](../../images/attach_session_learning_material/search_for_session_lm.jpg)
+![search for "dispar"](../../images/attach_session_learning_material/search_for_session_lm.png)
 
 After selecting the one as indicated above, it has now become attached to this Session as shown below.
 

@@ -22,7 +22,7 @@ After selecting the one as indicated above, it has now become attached to this S
 
 **See Results of Action and Modify Available Meta-Data**
 
-As seen above, the file has now been attached to this Session. Click on the Display Name as shown by the green arrow to view more details and to modify some information about the attachment of this file to this particular session. Many attributes of the file itself cannot be modified.
+As seen above, the file has now been attached to this Session. Click on the Display Name as shown by the green arrow to view more details and to modify some information about the attachment of this file and its usage with this particular session. Many attributes of the file itself cannot be modified.
 
 Refer to the screen shot below for details.
 

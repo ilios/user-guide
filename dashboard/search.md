@@ -77,6 +77,10 @@ Search results are grouped by Course, and then by Session. In the case above, th
 
 Clicking the "**Show Less**" link will return the screen to the previously displayed top three results. This link only appears after "**Show More**" has been clicked.
 
+In the screen shot below, "**Show More**" has been clicked and you can see the location and appearance of "**Show Less**".
+
+![result list expanded](../images/global_search/result_list_expanded.png)
+
 **NOTE:** Global search is not available for students at this time.
 
 ## Filter Results

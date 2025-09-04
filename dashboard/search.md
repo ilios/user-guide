@@ -73,6 +73,10 @@ Search results are grouped by Course, and then by Session. In the case above, th
 
 ![show more](../images/global_search/show_more.png)
 
+## Show Less
+
+Clicking the "**Show Less**" link will return the screen to the previously displayed top three results. 
+
 **NOTE:** Global search is not available for students at this time.
 
 ## Filter Results

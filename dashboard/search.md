@@ -75,7 +75,7 @@ Search results are grouped by Course, and then by Session. In the case above, th
 
 ## Show Less
 
-Clicking the "**Show Less**" link will return the screen to the previously displayed top three results. 
+Clicking the "**Show Less**" link will return the screen to the previously displayed top three results. This link only appears after "**Show More**" has been clicked.
 
 **NOTE:** Global search is not available for students at this time.
 

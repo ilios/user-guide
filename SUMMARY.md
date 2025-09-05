@@ -36,6 +36,7 @@
       * [View Learning Materials](courses-and-sessions/courses/view-learning-materials.md)
     * [Competencies](courses-and-sessions/courses/competencies.md)
     * [Vocabulary Terms](courses-and-sessions/courses/vocabulary_terms.md)
+    * [MeSH Terms](courses-and-sessions/courses/MeSH_terms.md)
     * [Course Actions](courses-and-sessions/courses/course_actions.md)
       * [Create New Course](courses-and-sessions/courses/create-new-course.md)
       * [Edit Course](courses-and-sessions/courses/edit-course.md)

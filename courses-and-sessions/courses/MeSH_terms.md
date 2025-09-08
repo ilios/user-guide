@@ -16,10 +16,18 @@ After clicking as shown in the previous step, the screen becomes similar to what
 
 ![start search](../../images/course_MeSH/start_search.png)
 
-## Search Values Returned
+## Select MeSH
 
 Entering a search value (or string) such as "helmet" will perform a search into the MeSH universe, referred to as such because there are so many potential results (thousands).
 
 Suggested value matches will appear as shown below. Click anywhere in the area to select the desired option, in this case "Head Protective Devices".
 
 ![click to select](../../images/course_MeSH/click_to_select.png)
+
+## MeSH Term Selected
+
+After selecting "Head Protective Devices" in the previous step, the MeSH term has been added (but not saved yet) to the course. At this point, this association can be saved or discarded (canceled). The previously selected value is displayed above the search area and it can not be selected again.
+
+![MeSH term selected](../../images/course_MeSH/MeSH_term_selected.png)
+
+

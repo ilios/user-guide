@@ -30,4 +30,11 @@ After selecting "Head Protective Devices" in the previous step, the MeSH term ha
 
 ![MeSH term selected](../../images/course_MeSH/MeSH_term_selected.png)
 
+## Save the Record
+
+Using the green "save" button provided, the MeSH term added to this course can be saved as follows. 
+
+![click to save](../../images/course_MeSH/click_to_save.png)
+
+![added to course](../../images/course_MeSH/added_to_course.png)
 

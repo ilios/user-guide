@@ -43,3 +43,7 @@ Using the green "save" button provided, the MeSH term added to this course can b
 In the example shown below there are currently three MeSH terms attached to this Course. We would like to get rid of one of them. 
 
 ![review existing MeSH](../../images/course_MeSH/review_existing_MeSH.png)
+
+After clicking as shown above to manage MeSH, the MeSH badges become clickable. Clicking on any MeSH badge will remove it from being attached to the course. It is also necessary to save and confirm this action.
+
+![click to remove](../../images/course_MeSH/click_to_remove.png)

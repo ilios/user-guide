@@ -47,3 +47,7 @@ In the example shown below there are currently three MeSH terms attached to this
 After clicking as shown above to manage MeSH, the MeSH badges become clickable. Clicking on any MeSH badge will remove it from being attached to the course. It is also necessary to save and confirm this action.
 
 ![click to remove](../../images/course_MeSH/click_to_remove.png)
+
+![after removal](../../images/course_MeSH/after_removal.png)
+
+![removal complete](../../images/course_MeSH/removal_complete.png)

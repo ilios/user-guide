@@ -38,3 +38,8 @@ Using the green "save" button provided, the MeSH term added to this course can b
 
 ![added to course](../../images/course_MeSH/added_to_course.png)
 
+## Remove MeSH
+
+In the example shown below there are currently three MeSH terms attached to this Course. We would like to get rid of one of them. 
+
+![review existing MeSH](../../images/course_MeSH/review_existing_MeSH.png)

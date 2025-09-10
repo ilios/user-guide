@@ -40,7 +40,7 @@ Using the green "save" button provided, the MeSH term added to this course can b
 
 ## Remove MeSH
 
-In the example shown below, there are currently three MeSH terms attached to this Course. We would like to remove one of them - "Wolf-Hirschorn Syndrome", which no longer applies to this course and was added erroneously at some point in the past.
+In the example shown below, there are currently three MeSH terms attached to this Course. We would like to remove one of them - "Wolf-Hirschhorn Syndrome", which no longer applies to this course and was added erroneously at some point in the past.
 
 ![review existing MeSH](../../images/course_MeSH/review_existing_MeSH.png)
 

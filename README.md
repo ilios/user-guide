@@ -85,7 +85,7 @@ Breadcrumbs only appear at the top of pages that are subsidiary pages of higher 
 
 In this guide, if you wish to see any image in greater detail, simply click on the image. A magnifying glass icon (depends on browser) will appear allowing for this action to occur. This will open the image pop-up style on the browser window allowing for a much closer viewing experience of the selected (clicked upon) image.
 
-Anywhere you hover over on any image will present the "plus" icon shown below. The mouse's pointer becomes the "plus" icon. This is shown below. Click anywhere on the original image to zoom in for a closer view.
+When you hover over any image, the "plus" icone will be presented as shown below. The mouse's pointer becomes the "plus" icon. This is shown below. Click anywhere on the original image to zoom in for a closer view.
 
 <figure>
   <img src="/images/introduction/click_for_more.png" alt="click to zoom in">
@@ -96,7 +96,7 @@ Anywhere you hover over on any image will present the "plus" icon shown below. T
 
 ## Home Button 
 
-The user guide itself (like Ilios) has a "home" button. You can be anywhere in the guide and get taken back to the beginning of the guide ([home](https://iliosproject.gitbook.io/ilios-user-guide))by clicking the button shown below. 
+This user guide (like Ilios itself) has a "home" button. You can be anywhere in the guide and get taken back to the beginning of the guide ([home](https://iliosproject.gitbook.io/ilios-user-guide))by clicking the button shown below. 
 
 <figure>
   <img src="/images/introduction/user_guide_home_button.png" alt="Home button - displayed">

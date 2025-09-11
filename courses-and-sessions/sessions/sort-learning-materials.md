@@ -9,7 +9,9 @@ To sort Learning Materials within a Session ...
 
 In this example, a Session is selected that already has a number of Learning Materials associated. To start the process of sorting, click as shown below.
 
-![Click to start](../../images/sort_session_learning_materials/session_sort_lm.jpg)
+## Click to Sort Materials
+
+![click to sort materials](../../images/sort_session_learning_materials/click_to_sort_materials.png)
 
 Once `Sort Materials` has been clicked ...
 
@@ -17,11 +19,15 @@ Once `Sort Materials` has been clicked ...
 
 In this example, it is preferred to have the Learning Material "Antithrombotics Drugs Flashcards" appears first to the students. The following screen shots show how that gets accomplished.
 
-![Change the sort order](../../images/sort_session_learning_materials/session_sort_lm_2.jpg)
+## Change Sort Order
 
-![Sort adjusted](../../images/sort_session_learning_materials/session_sort_lm_3.jpg)
+![change the sort order](../../images/sort_session_learning_materials/session_sort_lm_2.jpg)
+
+![sort order adjusted](../../images/sort_session_learning_materials/session_sort_lm_3.jpg)
 
 After clicking Save as shown below, the new Sort Order is accurately displayed once the save event splash screen dissipates.
 
-![New sort order](../../images/sort_session_learning_materials/session_sort_lm_4.jpg)
+## Updated Sort Order
+
+![new sort order](../../images/sort_session_learning_materials/session_sort_lm_4.jpg)
 

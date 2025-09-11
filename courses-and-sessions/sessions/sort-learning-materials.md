@@ -15,19 +15,21 @@ In this example, a Session is selected that already has a number of Learning Mat
 
 Once `Sort Materials` has been clicked ...
 
-* Drag and Drop any of the Learning Materials to their respective position in the desired sort order.
+* Drag and drop any of the learning materials to their respective position in the desired sort order.
 
-In this example, it is preferred to have the Learning Material "Antithrombotics Drugs Flashcards" appears first to the students. The following screen shots show how that gets accomplished.
+In this example, it is preferred to have the learning material "Disorders of Coagulation and Thrombosis (animations removed) PDF" appear first to the students. The following screen shots show how that gets accomplished.
 
-## Change Sort Order
+## Update Sort Order
 
-![change the sort order](../../images/sort_session_learning_materials/session_sort_lm_2.jpg)
+![update sort order](../../images/sort_session_learning_materials/update_sort_order.png)
 
-![sort order adjusted](../../images/sort_session_learning_materials/session_sort_lm_3.jpg)
+![sort order adjusted](../../images/sort_session_learning_materials/sort_order_adjusted.png)
 
-After clicking Save as shown below, the new Sort Order is accurately displayed once the save event splash screen dissipates.
+After clicking Save as shown below, the new sort order is accurately displayed once the save event splash screen dissipates.
 
 ## Updated Sort Order
 
-![new sort order](../../images/sort_session_learning_materials/session_sort_lm_4.jpg)
+The result of all of these steps is shown below. We moved the fourth learning material up to become the first learning material as presented to viewers of this sessions - learners and non-learners alike.
+
+![updated sort order](../../images/sort_session_learning_materials/updated_sort_order.png)
 

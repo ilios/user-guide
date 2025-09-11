@@ -29,7 +29,7 @@ After clicking Save as shown below, the new sort order is accurately displayed o
 
 ## Updated Sort Order
 
-The result of all of these steps is shown below. We moved the fourth learning material up to become the first learning material as presented to viewers of this sessions - learners and non-learners alike.
+The result of all of these steps is shown below. We moved the fourth learning material up to become the first learning material as presented to viewers of this session - learners and non-learners alike.
 
 ![updated sort order](../../images/sort_session_learning_materials/updated_sort_order.png)
 

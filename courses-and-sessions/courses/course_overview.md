@@ -2,8 +2,6 @@ Course overview refers to the top part of the screen where course-level attribut
 
 ## Course Overview
 
-The course overview is the lower part of the image shown below.
-
 ![course overview](../../images/course_overview/course_overview.png)
 
 ## Summary Details

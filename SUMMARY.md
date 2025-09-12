@@ -21,6 +21,7 @@
   * [LTI Integration](dashboard/LTI_integration.md)
 * [Courses and Sessions](courses-and-sessions/README.md)
   * [Courses](courses-and-sessions/courses/README.md)
+    * [Overview](courses-and-sessions/courses/course_overview.md)
     * [Leadership](courses-and-sessions/courses/course-leadership.md)
     * [Objectives](courses-and-sessions/courses/course_objectives.md)
       * [Add New Objective](courses-and-sessions/courses/add-objective.md)

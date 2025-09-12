@@ -32,17 +32,19 @@ Refer to the screen shot below for details.
 
 ![details shown](../../images/attach_session_learning_material/session_lm_details.jpg)
 
-### Add New Learning Material to a Session
+## Add New Session Learning Material
 
-If a search has been performed and / or you know there is a newer version of a file or a new file, link, or citation to be uploaded, a new (not already in the system) Learning Material can be attached to any Session.
+If a search has been performed and / or you know there is a newer version of a file or a new file, link, or citation to be uploaded, a new (not already in the system) learning material object can be attached to any session.
 
-As listed below, there are three types of Learning Materials that can be uploaded and associated with any Session. This refers specifically to new files or links being uploaded.
+### Learning Material Types
+
+As listed below, there are three types of Learning Materials that can be uploaded and associated with any session. This refers specifically to new files or links being uploaded.
 
 * File
 * Web Link
 * Citation
 
-![Select LM type](../../images/attach_session_learning_material/select_type.jpg)
+![select LM type](../../images/attach_session_learning_material/select_type.jpg)
 
 !["File" selected](../../images/attach_session_learning_material/file_type_selected.jpg)
 

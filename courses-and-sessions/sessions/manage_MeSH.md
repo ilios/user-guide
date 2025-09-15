@@ -20,3 +20,22 @@ Once confirmed in the step shown above, the Manage MeSH functional area closes (
 
 ![more MeSH maintenance](../../images/session_edit/click_for_more_maintenance.png)
 
+## Remove MeSH
+
+Removing one or more MeSH terms is accomplished by clicking one at a time on the terms that need to be removed and then saving the record. That's it - see below.
+
+### Click to Manage
+
+![click to manage](../../images/session_edit/manage_MeSH/click_to_manage.png)
+
+In this example, there are 8 MeSH terms currently associated with the selected session. We wish to get rid of two of them which are no longer needed. 
+
+![click to remove](../../images/session_edit/manage_MeSH/click_to_remove.png)
+
+Now that the two MeSH terms we wanted to remove have been removed, click the "Save" button to process these changes.
+
+![click to process](../../images/session_edit/manage_MeSH/click_to_process.png)
+
+The screen refreshes and the MeSH count is straightened out with only the remaining six MeSH terms associated with the session.
+
+![MeSH refreshed](../../images/session_edit/manage_MeSH/MeSH_refreshed.png)

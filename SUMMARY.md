@@ -58,6 +58,7 @@
     * [Learning Materials](courses-and-sessions/sessions/learning_materials.md)
       * [Attach Learning Materials](courses-and-sessions/sessions/attach-learning-materials.md)
       * [Sort Learning Materials](courses-and-sessions/sessions/sort-learning-materials.md)
+    * [Vocabulary Terms](courses-and-sessions/sessions/vocabulary_terms.md)
     * [Session Actions](courses-and-sessions/sessions/session_actions.md)
       * [Add New Session](courses-and-sessions/sessions/add-new-session.md)
       * [Edit Session](courses-and-sessions/sessions/edit-session.md)

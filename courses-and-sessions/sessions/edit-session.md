@@ -114,25 +114,6 @@ The process for editing and entering Instructional Notes is basically identical 
 
 **NOTE**: Session-level instructional notes do **not** appear on Event Detail or anywhere in the Calendar or feed. They are used internally and are accessible only through Courses and Sessions. These are notes that can be left by Course Administrators for instructors or other Administrative users to review.
 
-## Add MeSH
-
-To add a MeSH Term to a Session, follow the steps below. The steps for adding MeSH are the same wherever MeSH (Medical Subject Headers) can be attached - Sessions, Courses, Learning Materials, and Objectives.
-
-![Click Manage MeSH to start](../../images/session_edit/click_to_manage_mesh.png)
-
-In the case of searching for MeSH, it is necessary to hit the Enter key on the keyboard to run the search. This is because there is a large data set of MeSH terms so it is necessary to run a special query in this manner.
-
-In the example below, a search was performed for 'helmet'. The results of this query are listed. `Head Protective Devices` is selected.
-
-![Select MeSH to add to session](../../images/session_edit/select_MeSH_to_add_to_sess.png)
-
-![MeSH added to session](../../images/session_edit/MeSH_added_to_session.png)
-
-Once confirmed in the step shown above, the Manage MeSH functional area closes (collapses) back up. If you need to make further additions or removals from Session MeSH terms, click Manage MeSH and repeat these steps. To remove a MeSH Terms, simply click on it to remove it and then confirm the delete action by saving the data.
-
-![More MeSH maintenance](../../images/session_edit/click_for_more_maintenance.png)
-
-
 ## Special Session Attributes
 
 It is possible to select additional session attributes to advise students about certain aspects of the upcoming (or past) learning activities.

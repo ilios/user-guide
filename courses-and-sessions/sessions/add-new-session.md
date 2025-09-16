@@ -5,13 +5,13 @@ Once a course has been saved, Sessions may be added to the course. A Session is 
 
 Click as shown below to start the process of adding a new [session](https://iliosproject.gitbook.io/ilios-user-guide/glossary#session).
 
-![first step - click to start](../../images/add_new_session/add_new_session_start.png)
+![first step - click to start](../../images/add_new_session/first_step_click_to_start.png)
 
-After clicking as shown above (`first step`), the entry fields for the skeleton of a new session become enabled and visible. Enter the title and select the session type for the new session as shown below.
+After clicking as shown above (`first step`), the entry fields for the skeleton of a new session become enabled and visible. Enter the title and select the session type for the new session as shown below. The session type initially displayed is "Lecture". This is a common usage but should be changed here if not applicable. "Cancel" is available like always if you choose to back out of this operation.
 
-![add title and save](../../images/add_new_session/add_title.png)
+![add title and save](../../images/add_new_session/add_session_information.png)
 
-Once a session is saved by clicking the Done button shown above, 
+Once a session is saved by clicking the "Save" button shown above, 
 [offerings](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings) for that session can be added.
 
 ## Independent Learning Modules

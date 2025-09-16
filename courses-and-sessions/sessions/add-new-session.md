@@ -16,7 +16,7 @@ Once a session is saved by clicking the "Save" button shown above,
 
 ## Independent Learning Modules
 
-A session may also be saved as an Independent Learning Module (ILM), created with an estimated number of educational hours rather than a calendar-based date and time. To create such a session, select the “independent learning” check-box, and enter the associated number of educational hours, a "due-by" date or postrequisite learning activity. Learner groups and instructors can be added as well. 
+A session may also be saved as an Independent Learning Module (ILM), created with an estimated number of educational hours rather than a calendar-based date and time. To create such a session, select the “independent learning” check-box, and enter the associated estimated number of educational hours, a "due-by" date or postrequisite learning activity. Learner groups, individual learners, and instructors can be added as well. 
 
-ILM's can also be created as a pre-requisite for an upcoming session. Click [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm) for more information on ILM's.
+ILM's can also be created as a pre-requisite for an upcoming session. Click [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm) for more information on the creation and maintenance of ILM's.
 

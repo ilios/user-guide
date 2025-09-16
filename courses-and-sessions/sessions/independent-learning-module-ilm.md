@@ -110,13 +110,13 @@ The lower part of the screen is shown below. Any (or all) of the following Sessi
 
 ![ILM - more details](../../images/ilm/ilm_screen6.png)
 
-### Manage Learner Groups
+## Manage Learner Groups
 
-![Click "Manage"](../../images/ilm/manage_learners.png)
+![manage learners](../../images/ilm/manage_learners.png)
 
 After clicking the "Manage Learners" button as shown in the screen shot above, follow the steps outlined below. Keep in mind that if this Session has attached Offerings with Learner Groups attached, this is a separate process. It is necessary to attach Learner Groups or Individual Learners and Instructors or Instructor Groups specifically to this ILM being created or no one will know it exists.
 
-![Select learner group](../../images/ilm/select_lg.png)
+![select learner group](../../images/ilm/select_lg.png)
 
 Now that (in this example) H\&I Exam Groups has been selected, the display has been updated to reflect this selection. Now that the higher level group H\&I Exam and all 6 of its Sub Groups have been attached to this ILM Session, the Sub Groups can be removed individually or they can be removed all at the same time. These options are illustrated below.
 
@@ -138,15 +138,15 @@ After saving (clicking the green check box button), the Learner Groups counter u
 
 ![counter updated](../../images/ilm/counter_updated.png)
 
-### Manage Individual Learners
+## Manage Individual Learners
 
 Adding individual learners to ILM's can be done by clicking "Manage Learners". Individual learners can now be added in addition (or as an option) to the more traditionally assigned Learner Groups - detailed above. The process of searching for and selecting individual learners starts as shown below.
 
-![Individual Learners selected](../../images/ilm/indiv_learners_selected.png)
+![individual learners selected](../../images/ilm/indiv_learners_selected.png)
 
-### Manage Instructors
+## Manage Instructors
 
-Instructors also need to be attached specifically to this newly created ILM. To do this, follow the steps outlined below.
+Instructors can be attached specifically to this newly created ILM. To do this, follow the steps outlined below.
 
 ![manage instructors](../../images/ilm/manage_instructors.png)
 

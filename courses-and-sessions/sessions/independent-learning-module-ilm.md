@@ -7,7 +7,7 @@ These are displayed in one of two places ...
 1. [**ILM with Due Date / Time**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-with-due-date-time): An ILM will appear on the Calendar at the specified time on the Due Date that was assigned. It shows up in a fifteen minute block on the Calendar regardless of the actual duration of the expected activity. If a time is not specified, the default is 5pm.
 2. [**ILM linked to an Upcoming Session Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-linked-to-session): An ILM that is linked to an upcoming Session will have the learning activities listed on the target session in all places session offerings appear in Ilios, among them on [Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance).
 
-An example of #2 is shown below. The icon indicating that an ILM is linked to another session is shown below.
+An example of #2, as far as the learner view is concerned, is shown below. The image below shows the icon presented to students on Week at a Glance. 
 
 <figure>
     <img src="../../images/ilm/linked_ILM_Icon.png" alt="Linked ILM">

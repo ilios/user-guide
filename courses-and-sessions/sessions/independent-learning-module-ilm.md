@@ -16,9 +16,9 @@ An example of #2, as far as the learner view is concerned, is shown below. The i
     </figcaption>
 </figure>
 
-## ILM Options
+# ILM Options
 
-### Linked ILM - All Weeks
+## Linked ILM - All Weeks
 
 <figure>
   <img src="../../images/ilm/showing_pre_work.png" alt="Pre-work exists">
@@ -44,55 +44,55 @@ Also, it is important to note that the background color on the Calendar will ref
 
 To create an ILM ...
 
-![Select Course](../../images/ilm/find_course.png)
+![find course](../../images/ilm/find_course.png)
 
-![Add Session](../../images/ilm/add_session.png)
+![add session](../../images/ilm/add_session.png)
 
-![Add details](../../images/ilm/add_session_details.png)
+![add session details](../../images/ilm/add_session_details.png)
 
-![Open Session](../../images/ilm/open_session.png)
+![open session](../../images/ilm/open_session.png)
 
-### ILM with Due Date / Time
+## ILM with Due Date / Time
 
 In the case below, the ILM was set with a Due Date of 7/28/2020. Once the Session is published, the ILM will appear on the Learner's calendar in a 15 minute time-slot at the specified time of day on the Due Date (7/28/2020).
 
-![Edit options for ILM](../../images/ilm/edit_options.png)
+![edit options for ILM](../../images/ilm/edit_options.png)
 
 It is important to note that one or more Learner Groups or Individual Learners must be added to ILM's so students will see the offerings on their calendars. The ILM (like any other type of session) must also be published.
 
-#### Change Due Date / Time
+### Change Due Date / Time
 
 Following the instructions shown above for changing the due date and / or time of an ILM, the following controls appear to handle this task. Either or both can be modified as shown below. In this situation, the date field has been clicked, calling up the date picker control. Due time is controlled by changing the values in the drop-down menus.
 
-![Due Date/Time](../../images/ilm/due_dt_time.png)
+![due Date/Time](../../images/ilm/due_dt_time.png)
 
-### ILM Linked to Session
+## ILM Linked to Session
 
 It is also possible to link an ILM to an upcoming Session offering. This way the student will know to complete the activities required by the ILM before attending the learning activity to which the Learner is assigned.
 
-![Click to link](../../images/ilm/ilm_screen1.png)
+![click to link](../../images/ilm/ilm_screen1.png)
 
 After clicking as shown above, select the Session (in the same Course) to which this ILM should be linked.
 
 A handy scrollable and searchable grid appears for the selection process to take place. All sessions in the current course are displayed and available for selection. The location of the mouse is an example of where the session can be clicked. Anywhere in the row or on the "+" button is fine.
 
-![Select the Session](../../images/ilm/ilm_screen2.png)
+![select session](../../images/ilm/ilm_screen2.png)
 
 After the "Ischemic Injury 06/25/2020 10:00 AM" Session gets selected, it can be attached to the ILM.
 
 **NOTE**: The first offering date is included in the grid to make it easier to select the correct Session.
 
-![Due Prior to Session selected](../../images/ilm/ilm_screen3.png)
+![due prior to session selected](../../images/ilm/ilm_screen3.png)
 
 After clicking the green Done button to confirm ...
 
-![Session now linked](../../images/ilm/ilm_screen4.png)
+![session now linked](../../images/ilm/ilm_screen4.png)
 
 As mentioned elsewhere, these linked ILM's appear in the top portion of the Week At A Glance. If you are viewing the Calendar, the linked ILM's will appear below the actual calendar.
 
 Here is a filtered view from Courses and Sessions showing how this looks from that perspective.
 
-![Session List shown](../../images/ilm/ilm_screen5.png)
+![session list shown](../../images/ilm/ilm_screen5.png)
 
 The lower part of the screen is shown below. Any (or all) of the following Session-level attributes may be added here ...
 
@@ -120,11 +120,11 @@ After clicking the "Manage Learners" button as shown in the screen shot above, f
 
 Now that (in this example) H\&I Exam Groups has been selected, the display has been updated to reflect this selection. Now that the higher level group H\&I Exam and all 6 of its Sub Groups have been attached to this ILM Session, the Sub Groups can be removed individually or they can be removed all at the same time. These options are illustrated below.
 
-![Sub Groups can be removed individually](../../images/ilm/indiv_sub_removal.png)
+![individual sub group removal](../../images/ilm/indiv_sub_removal.png)
 
 For the sake of documentation and to demonstrate, choosing Option 2 leads to the following results.
 
-![Sub Group removed](../../images/ilm/sub_removed.png)
+![sub group removed](../../images/ilm/sub_removed.png)
 
 Clicking "Remove All" (Option 1) would have removed all of the Sub Groups and the higher level group back to "Available Learner Groups", thus removing all of these groups from the ILM Session.
 
@@ -132,11 +132,11 @@ Clicking "Remove All" (Option 1) would have removed all of the Sub Groups and th
 
 Below is a screen shot featuring several containers for reference.
 
-![Containers shown](../../images/ilm/containers_shown.png)
+![containers shown](../../images/ilm/containers_shown.png)
 
 After saving (clicking the green check box button), the Learner Groups counter updates as shown below to reflect the total count of attached Learner Groups.
 
-![Counter updated](../../images/ilm/counter_updated.png)
+![counter updated](../../images/ilm/counter_updated.png)
 
 ### Manage Individual Learners
 
@@ -148,6 +148,12 @@ Adding individual learners to ILM's can be done by clicking "Manage Learners". I
 
 Instructors also need to be attached specifically to this newly created ILM. To do this, follow the steps outlined below.
 
-![Manage Instructors](../../images/ilm/manage_instructors.png)
+![manage instructors](../../images/ilm/manage_instructors.png)
 
-![Search for and Select Instructor](../../images/ilm/select_instructor.png)
+![select instructor](../../images/ilm/select_instructor.png)
+
+## Session List View
+
+The icons showing pre-requisites and linked ILM's appear a bit different here on the session list. 
+
+![linked ILM's in session list view](../../images/ilm/linked_ILMs_session_list_view.png)

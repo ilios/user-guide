@@ -6,14 +6,15 @@ It is assumed that first you will search for and select the Course to be modifie
 
 Once that has been done, it is necessary to find the session to modify as shown below.
 
-**Quick Links**
+## Quick LInks
 
 * [Session Description](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#session-description)
+* [Add URL](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/session_actions/edit-session#add-url)
 * [Instructional Notes](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#instructional-notes)
-* [Manage MeSH ](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/manage_mesh)
-* [Vocabulary Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/vocabulary_terms)
 * [Manage Session Attributes](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#special-session-attributes)
 * [Inline Editing](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/edit-session#inline-editing)
+* [Manage MeSH ](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/manage_mesh)
+* [Vocabulary Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/vocabulary_terms)
 
 ## Find Session
 
@@ -69,7 +70,7 @@ The Description will get truncated in this view. Clicking on the ellipses or the
 
 This applies to any text box in Ilios; but `Description` and `Instructional Notes` are both good examples of this. To add a URL to a Session `Description`, follow the steps shown below.
 
-![Enter URL - starting point](../../images/session_edit/enter_URL_starting_point.png)
+![enter URL - starting point](../../images/session_edit/enter_URL_starting_point.png)
 
 After clicking as shown above, the entry area appears to add a URL, displayed to the user as the "Text" value entered here. There is a check box available if you would like the link to appear in a new tab (or not if left in un-checked state).
 

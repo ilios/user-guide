@@ -15,11 +15,11 @@ Both **Course** and **Session** must be published in order to have the attached 
 
 **IMPORTANT** **TO** **NOTE:** This is not the case with **Instructors** and other Ilios users with advanced non-learner permissions such as Course or Session Directors and Administrators. They will see all of their Offerings, even if the Course or Session has **NOT** been published; whereas **Students** will not.
 
-![Publish Course](../images/publishing/publish_course.png)
+![publish course](../images/publishing/publish_course.png)
 
 After performing the step indicated above, the publication status drop-down now reflects the updated Course status as "Published".
 
-![Course - published](../images/publishing/course_published.png)
+![course - published](../images/publishing/course_published.png)
 
 ### Publish with Missing Item(s)
 
@@ -27,14 +27,19 @@ There are 2 different types of data attributes available for checking in the wor
 
 In the **Course Level Only** workflow, the top-level (“course-level”) attributes in a course are checked to verify required information. Course level attributes which are checked are:
 
+### Required Fields
+
 * Start Date (required)
 * End Date (required)
 * Associated Cohort (required)
+
+### Optional Fields 
+
 * Topics
 * Objectives
 * Mesh
 
-The required fields for publishing a Course are indicated above. The others are desired fields. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Items” value on the Publish drop-down menu. If you choose to review the missing items, the Publish option will be available on the review screen. You are required to review the items before publishing the Course or select "Publish As Is".
+The required fields for publishing a Course are indicated in the top section above. The others are desired fields and are listed here as optional. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Items” value on the Publish drop-down menu. If you choose to review the missing items, the Publish option will be available on the review screen. You are required to review the items before publishing the Course or select "Publish As Is".
 
 ![course publication options](../images/publishing/course_publication_options.png)
 
@@ -65,17 +70,17 @@ The fields required to create a Session are indicated above. The others are desi
 
 ### Publish with Missing Item(s)
 
-![Select Session to review or publish](../images/publishing/select_session_with_missing.png)
+![select session to review or publish](../images/publishing/select_session_with_missing.png)
 
 ### Publishing Options
 
-![Session publication options](../images/publishing/publishing_options.png)
+![session publication options](../images/publishing/publishing_options.png)
 
 ### Review Missing Items
 
 Upon clicking Option #2 (**Review 1 Missing Items** - see above), the screen will display what data from among the desired fields is missing. In this case, no MeSH terms have been associated with this session. You can ignore this and publish anyway or add one or more MeSH terms.
 
-![Review Missing Items](../images/publishing/missing_MeSH.png)
+![review missing Items](../images/publishing/missing_MeSH.png)
 
 In the **Publish Full Course with All Sessions** workflow, a display of the course level info and every associated session is made available. The course level info and each session function independently as above, allowing override individually. If an associated session was previously in published state, it will still be displayed in the list and allow for republishing following the rules above. Any changes to a previously published session will overwrite its previous status. A course may be in Not Published state, yet have sessions which are Published or Scheduled. The Published/Scheduled sessions will not display on the public calendar until the parent course is in published or Scheduled state. Not Published sessions never display on the public calendar.
 
@@ -83,7 +88,7 @@ When a course is in Scheduled state and has sessions in Published and/or Schedul
 
 ### Publish All Sessions
 
-![Publish all](../images/publishing/publish_all.png)
+![publish all](../images/publishing/publish_all.png)
 
 In the example above, the Course contains a total of 148 sessions. Many of these may have already been published. After clicking as shown, there will be an opportunity to review all of the sessions before taking action on publication.
 
@@ -93,4 +98,4 @@ It is important to note that the sessions in "Sessions Incomplete: cannot publis
 
 ### Review Sessions to Publish
 
-![Review Sessions to publish - view details](../images/publishing/publish_all_options.png)
+![review sessions to publish - view details](../images/publishing/publish_all_options.png)

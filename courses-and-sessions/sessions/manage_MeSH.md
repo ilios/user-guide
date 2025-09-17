@@ -6,6 +6,8 @@ MeSH terms can be mainatained at the session level as well. Refer to [this](http
 
 To add a MeSH Term to a Session, follow the steps below. The steps for adding MeSH are the same wherever MeSH (Medical Subject Headers) can be attached - Sessions, Courses, Learning Materials, and Objectives.
 
+### Click to Manage
+
 ![click manage MeSH to start](../../images/session_edit/click_to_manage_mesh.png)
 
 In the case of searching for MeSH, it is necessary to hit the Enter key on the keyboard to run the search. This is because there is a large data set of MeSH terms so it is necessary to run a special query in this manner.

@@ -9,7 +9,7 @@ This denotes a collection of Learners which can be associated with Sessions, Off
 * [**Default Location**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-location) - Shown in display as the location of record for activities to which a group is associated when no other location is identified. Just as with Default Instructor, this only applies to Small Group Offerings.
 * [**Default Virtual Learning Link**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-virtual-learning-link) - Entered manually or pasted in from an external source such as Zoom. This default virtual learning link behaves in the same manner as Default Instructor(s) and Default Location. It will only apply to Small Group Offerings.
 * [**Needs Accommodation**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#needs-accommodation) - Toggled when one or more learners in any given group (or sub group) need accommodation or additional resources in order to participate successfully in virtual learning events.
-* **Associated Courses** - Read-only listing of all Courses that have used this Learner Group in Session Offerings or ILM's.
+* **Associated Courses** - Read-only listing of all courses and sessions that have used this learner group in session offerings or ILM's.
 
 ### Other Options
 

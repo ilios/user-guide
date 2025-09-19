@@ -4,7 +4,7 @@ Objectives are the desired learning or teaching outcomes for a given curricular 
 
 To enter a Course level Objective ...
 
-## Select course
+## Select Course
 
 * Select a Course and open up the details.
 
@@ -20,7 +20,7 @@ To enter a Course level Objective ...
 
 ![add objective](../../images/course_objectives/add_course_objective.png)
 
-## Add details
+## Add Details
 
 Course Objectives are created at the top level of each course, and may be associated with any of the available Program Objectives from the Program(s) associated to that course.
 
@@ -45,5 +45,3 @@ There is a quick link directly to the course objective visualization available h
 ![quick link to visualization](../../images/course_objectives/course_obj_level_visualization.png)
 
 **NOTE:** The link displayed above only appears when there are sessions with offerings that have been linked to course objectives. Otherwise there is no data to report.
-
-

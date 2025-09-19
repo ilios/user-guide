@@ -8,7 +8,7 @@ To enter a Course level Objective ...
 
 * Select a Course and open up the details.
 
-![show details](../../images/course_objectives/show_details.png)
+![show course details](../../images/course_objectives/show_course_details.png)
 
 * Expand the Course Objectives list.
 

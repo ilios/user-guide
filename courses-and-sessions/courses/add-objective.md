@@ -6,13 +6,19 @@ To enter a Course level Objective ...
 
 ## Select Course
 
-* Select a Course and open up the details.
+* Select a Course and show details
 
 ![show course details](../../images/course_objectives/show_course_details.png)
 
-* Expand the Course Objectives list.
+### Review Existing Objectives
+
+Before expanding the list at all, Ilios provides a quite useful overview of the course objectives and whether or not they have been mapped to parent (program year) objetives, or have had vocabulary terms or MeSH terms already attached. 
+
+![review existing objectives](../../images/course_objectives/review_existing_objectives_.png)
 
 ## Expand Objectives list
+
+* Expand the Course Objectives list
 
 ![objectives - collapsed](../../images/course_objectives/objectives_collapsed.png)
 

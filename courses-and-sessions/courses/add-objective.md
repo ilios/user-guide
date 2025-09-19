@@ -14,7 +14,7 @@ To enter a Course level Objective ...
 
 ## Expand Objectives list
 
-![objectives - collapsed](../../images/course_objectives/course_obj_collapsed.png)
+![objectives - collapsed](../../images/course_objectives/objectives_collapsed.png)
 
 ## Click to add Objective
 

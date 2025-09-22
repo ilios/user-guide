@@ -6,9 +6,9 @@ This is the default when a user logs in. As shown [below](https://iliosproject.g
 
 **NOTE**: Week at a Glance (WaaG) is not designed as a complete and full calendar. It contains confirmed learning activities the learner will be facing that week. To access other weeks in a similarly formatted view, [All Weeks](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance#all-weeks) can be accessed. Events that are set to a status of "Scheduled", which don't contain session specific information and event scheduling are **NOT** displayed on Week at a Glance. They are available on "Calendar" view.
 
-## Linked ILM Work
+## Linked Activities
 
-ILM's that have been linked to an upcoming session are included as shown [below](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance#week-at-a-glance-displayed) in Week at a Glance. They are displayed similarly in Event Detail. The linked Session icon is shown below. Learning Materials associated with these session can be selected as not started, completed or in process. The caveat is that this must be done by following the link to the associated ILM.
+ILM's (or regular sessions) that have been linked to an upcoming session are included as shown [below](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance#week-at-a-glance-displayed) in Week at a Glance. They are displayed similarly in Event Detail. The linked Session icon is shown below. Learning Materials associated with these session can be selected as not started, completed or in process. The caveat is that this must be done by following the link to the associated ILM.
 
 <figure>
   <img src="../images/week_at_a_glance/linked_activity_icon.png" alt="">

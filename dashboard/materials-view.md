@@ -12,7 +12,7 @@ Clicking as shown above on "Materials" brings up the Learning Materials the stud
 
 Clicking on the title of the Learning Material will route the user to be able to access and / or download the Learning Material file, link, or citation. If it is a link, the web site will open. Citations are displayed in completeness right there and there is nothing to click or follow. Files will be downloaded to the user's computer.
 
-### Status - Learning Material activity check boxes
+## Activity Check Boxes
 Learning Material activity check boxes are included here as well. All three states are shown in the screen shot above (not started, in progress, or completed).
 
 Refer to [Event Detail](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/event-detail-view#learning-material-activity-check-boxes) for detailed information regarding the usage of these check boxes. This information gets displayed anywhere Learning Materials are accessed by students in Ilios. Only the logged-in student will see the check boxes. They are for personalized tracking of learning activity.

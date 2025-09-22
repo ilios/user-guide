@@ -14,7 +14,7 @@ To enter a Course level Objective ...
 
 Before expanding the list at all, Ilios provides a quite useful overview of the course objectives and whether or not they have been mapped to parent (program year) objetives, or have had vocabulary terms or MeSH terms already attached. 
 
-![review existing objectives](../../images/course_objectives/review_existing_objectives_.png)
+![review existing objectives](../../images/course_objectives/review_existing_objectives.png)
 
 ## Expand Objectives list
 

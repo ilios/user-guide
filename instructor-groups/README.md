@@ -10,14 +10,14 @@ The Instructor Groups module in Ilios allows for the creation of reusable and tr
 * [Edit Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups/edit-instructor-group)
 * [Delete Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups/delete-instructor-group)
 
-## Instructor Group Maintenance
+## Navigate to Instructor Groups
 
 To access this functionality, click on the Instructor Groups menu item from the flyout menu as shown below.
 
 <figure>
     <img src="../images/instructor_groups_all_images/open_instructor_groups.png" alt="Open Instructor Group Maintenance">
     <figcaption>
-        <p>Flyout Menu -  go to Instructor Group maintenance
+        <p>flyout menu -  go to Instructor Group maintenance
         </p>
     </figcaption>
 </figure>

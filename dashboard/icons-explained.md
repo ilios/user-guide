@@ -89,13 +89,13 @@ The above icon appears if the campus name of record is different from the Ilios 
 
 ![name in Ilios](../images/icons_explained/name_in_ilios.png)
 
-### Pre-work attached
+### Prequisites Exist
 Sessions can't be deleted when this is the case since more than one other session depends on the existence of this one. 
 
-![Pre-work attached](../images/icons_explained/pre_work_icon.png)
+![prerequisites icon](../images/icons_explained/pre_work_icon.png)
 
 ### Unpublished Offering
 The icon below is displayed on the Calendar when an offering has not yet been published. Only Ilios users with non-student user roles will see these on the Calendar. Students only see published offerings. These have been thought of in the past as having been in "Draft" status.
 
-![Unpublished Offering on Calendar](../images/icons_explained/unpubiished_icon.png)
+![unpublished offering on calendar](../images/icons_explained/unpubiished_icon.png)
 

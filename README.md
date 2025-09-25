@@ -37,7 +37,7 @@ An example is shown below with navigation options included.
 <figure>
   <img src="/images/introduction/user_guide_search_results.png" alt="navigation options - user guide search results">
   <figcaption>
-      <p>Navigate to results after performing a user guide search</p>
+      <p>navigate to results after performing a user guide search</p>
   </figcaption>
 </figure>
 
@@ -133,7 +133,7 @@ Ilios is built explicitly on the concept of user-centric information, rather tha
 
 The Ilios workflow is based on a curriculum structure which incorporates several interconnected levels (displayed below starting with a school's highest level -- program):
 
-![Interconnected](images/introduction/inter_connected.png)
+![interconnected](images/introduction/inter_connected.png)
 
 * A deployment of Ilios may include multiple related schools or institutions.
 * Every school or institution creates and owns specific programs of study.

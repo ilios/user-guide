@@ -8,5 +8,5 @@ The top-most portion of the Print Summary is displayed below. All Sessions and a
 
 ![Print Summary screen - top](../../images/course_summary/course_print_summary_top.png)
 
-After generating the printable course summary for any course, it can be saved as .html using "Save As". Alternatively, you can choose "Print" and point it to save and download as .pdf. These controls may be in different places depending on the browser used; but in Chrome, these instructions apply. The documents can be searched outside of Ilios itself and only containing the information that pertains to the course selected.
+After generating the printable course summary for any course, it can be saved as .html using "Save As". Alternatively, you can choose "Print" and point it to save and download as .pdf. These controls may be in different places depending on the browser used; but in Chrome, these instructions apply. These documents that have been saved or downloaded can be searched outside of Ilios itself but only contain information that pertains to the course selected.
 

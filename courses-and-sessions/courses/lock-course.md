@@ -1,14 +1,16 @@
 # Lock Course
 
-When an Academic Year is over and a Course should no longer be modified, it is advisable to lock these Courses. No changes can be made to a Course that has been locked.
+When an Academic Year is over and a Course should no longer be modified, it is advisable to lock these Courses. No changes can be made to a Course that has been locked. Locked courses cannot be rolled over either.
 
-### Course List (before lock)
+All courses are initially unlocked. Any course can be locked (or unlocked) using the process described here.
+
+## Course List (before lock)
 
 ![course list - pre-lock](../../images/lock_course/course_list_pre_lock.png)
 
 This is a very straightforward process. All that needs to be done is to click the Lock icon as shown above. As you can see below, the course has now been locked.
 
-### Course List (after lock)
+## Course List (after lock)
 
 ![course list - post-lock](../../images/lock_course/course_list_post_lock.png)
 

@@ -85,7 +85,7 @@ If you try to add a term that is already in that particular vocabulary, an error
 
 ## Activate / Deactivate Vocabulary Terms
 
-It is now possible in Ilios to deactivate any Vocabulary Term that may no longer be in use.
+It is easy in Ilios to deactivate any Vocabulary Term that may no longer be in use.
 
 By default, they are saved in an "Active" state so they can be used immediately in the application.
 

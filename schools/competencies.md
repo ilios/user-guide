@@ -1,21 +1,19 @@
 ---
-description: >-
-  These are a controlled vocabulary of school-specific educational domains of
-  knowledge. Competencies may be divided into sub-domains, and may be mapped to
-  Objectives within a curriculum.
+description: 
+  These are a controlled vocabulary of school-specific educational domains of knowledge. Competencies may also have sub-domains, and may be mapped to objectives within a curriculum.
 ---
 
 # Competencies
 
-Competency Domains can managed within the Ilios application. To access this functional area of Ilios, from the flyout menu select "**Schools**" as shown below.
+Competency domains and sub-domains can be managed within the Ilios application. To access this functional area of Ilios, from the flyout menu select "**Schools**" as shown below.
 
-![Click "Schools"](../images/schools/competencies/click_schools.png)
+![click "Schools"](../images/schools/competencies/click_schools.png)
 
 ![click school title to view/edit](../images/schools/competencies/select_school.png)
 
 Now that the School of Medicine has been selected, Competencies can be maintained using the following interface and commands. An oveview of the Schools screen is shown below. Maintaining email addresses and now defunct Curriculum Inventory information is not shown in the screen shot. Aside from those, the screen shot is complete.
 
-### School Screen Overview
+## School Screen Overview
 
 ![school screen overview](../images/schools/competencies/school_screen_overview.png)
 
@@ -23,45 +21,45 @@ The highest level Domains are shown initially with the count of associated Compe
 
 In the screen shot below, the "7" refers to the count of Competency domains, whereas the "23" refers to the count of Competencies within these domains.
 
-![Competencies displayed](../images/schools/competencies/competencies_displayed.png)
+![competencies displayed](../images/schools/competencies/competencies_displayed.png)
 
 Now that "Manage Competencies" has been clicked as shown above, the screen changes to the functional area as shown below, allowing the competencies to be managed. Only the top domain "Interpersonal & Communication skills" is displayed to save space and for clarity. "Email and Database Etiquette" was recently added and is not attached to any courses or sessions and can be deleted. The existence of the trash can icon instead of the count of times it has been attached confirms this.
 
-![Unused competency](../images/schools/competencies/unused_competency.png)
+![unused competency](../images/schools/competencies/unused_competency.png)
 
-### Add New Competency
+## Add New Competency
 
 To add a new Competency under (in this case) the "Interpersonal & Communication skills" domain, simply enter the text of the Competency and click "Add". "Another New One" has been started as a new Competency but not entered yet. This is shown below.
 
-![Add Competency](../images/schools/competencies/add_competency.jpg)
+![add competency](../images/schools/competencies/add_competency.jpg)
 
-### Edit Existing Competency
+## Edit Existing Competency
 
 To edit an existing Competency, simply click on the Name to edit it as shown below. Keep in mind that if it is referenced in Courses and or Sessions, the values there will update as well. In the example below, "Ethical Principles" will be changed to "Ethical Concepts" for no reason other than to demonstrate this functionality.
 
-#### Step One -- select the Competency to edit
+### Step One -- select the Competency to edit
 
-![Select competency](../images/schools/competencies/select_competency.jpg)
+![select competency](../images/schools/competencies/select_competency.jpg)
 
-#### Step Two -- make the changes in the provided inline edit box
+### Step Two -- make the changes in the provided inline edit box
 
-![Make changes](../images/schools/competencies/make_changes.jpg)
+![make changes](../images/schools/competencies/make_changes.jpg)
 
-#### Step Three -- commit the changes (or click the red (x) to cancel the event)
+### Step Three -- commit the changes (or click the red (x) to cancel the event)
 
 The changes are now reflected in the list.
 
-![Changes reflected](../images/schools/competencies/changes_reflected.jpg)
+![changes reflected](../images/schools/competencies/changes_reflected.jpg)
 
-### Add New Competency Domain
+## Add New Competency Domain
 
 Adding a new high level Competency Domain can be easily accomplished in this latest version of Ilios. To do so, scroll to the bottom of the screen and enter the new domain into the text box provided and the click "Add" as shown below.
 
-![Add new domain](../images/schools/competencies/add_new_domain.jpg)
+![add new domain](../images/schools/competencies/add_new_domain.jpg)
 
 The new domain then appears in the list as shown. Only a portion of the screen is shown to save space.
 
-![New Domain Added](../images/schools/competencies/new_domain_added.jpg)
+![new domain added](../images/schools/competencies/new_domain_added.jpg)
 
 At this point, you can ...
 
@@ -69,9 +67,9 @@ At this point, you can ...
 * Delete the Domain since it is not attached to anything
 * Edit the Domain
 
-Editing a Domain is performed in exactly the same way as editing a Competency is performed. The field is an inline edit field as shown below with the options described in the image.
+Editing a domain is performed in exactly the same way as editing a Competency is performed. The field is an inline edit field as shown below with the options described in the image.
 
-![Edit domain](../images/schools/competencies/edit_domain.jpg)
+![edit domain](../images/schools/competencies/edit_domain.jpg)
 
 **NOTE:** Be sure to include any and all competencies you may wish to use at this level in order to be able to select them at the Program level.
 
@@ -79,13 +77,13 @@ Editing a Domain is performed in exactly the same way as editing a Competency is
 
 Ilios offers the functionality to attach PCRS terms to competencies either at the domain level or competency level (under domain). The starting point for the association is shown below.
 
-![Ready to edit PCRS Association](../images/schools/competencies/edit_PCRS.png)
+![ready to edit PCRS Association](../images/schools/competencies/edit_PCRS.png)
 
 After clicking as shown above, the full set of Physician Competency Reference Set values are population for selection to be associated with the School's Competencies at any level. One or more of these can be selected as shown below.
 
-![Update PCRS](../images/schools/competencies/update_PCRS.png)
+![update PCRS](../images/schools/competencies/update_PCRS.png)
 
 After saving the data in the scenario shown above, the PCRS values are now associated with the Competency.
 
-![Updated PCRS](../images/schools/competencies/updated_PCRS.png)
+![updated PCRS](../images/schools/competencies/updated_PCRS.png)
 

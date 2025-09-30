@@ -4,7 +4,11 @@ A program year is essentially a year of instructional activity for any given pro
 
 Once a program has been created, it is easy to add "program years". A program year refers in the simplest sense to a year of instruction for a selected program. The steps below will show how to get this done in Ilios.
 
-**Step 1:** Click the (+) to begin the process of adding the Program Year.
+## Click to Start 
+
+**Step 1:** Click the (+) to begin the process of adding the Program Year as shown below.
+
+![program year - click to add](../images/programs/program_years/program_year_click_to_add.png)
 
 **NOTE** If program years have already been added to your program, creating a new program year will use the attributes assigned to the previous year, in essence "rolling over" the previous program year - saving work effort. Each program year can then be individually modified.
 
@@ -15,15 +19,17 @@ The following information from the previous program year (if applicable) will be
 * **Objectives**
 * **Terms:** Vocabulary Terms that can be added to program year objectives as well
 
-Matriculation Year and Cohort title will be assigned automatically to the values associated with the selected Academic Year based on program duration (years).
+Matriculation Year and Cohort title will be assigned automatically to the values associated with the selected academic year based on program duration (years).
 
-![add program year - start](../images/programs/program_years/add_program_year_start.png)
+## Select Academic Year
 
 **Step 2:** Select the Academic Year from the provided drop-down menu. Only academic years that have not already been associated with a program year will appear available for selection. Each academic year can be assoicated with one program year. 
 
 * **Academic Year:** This is selected from the drop-down at the time of program year creation. This can be configured at the school level in either an entire year format (2025) or a split year format (2025-2026).
 
 ![select academic year](../images/programs/program_years/select_academic_year.png)
+
+## Save New Program Year
 
 Save when done by clicking the "Done" button as shown below.
 

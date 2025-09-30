@@ -15,9 +15,9 @@ Once a program has been created, it is easy to add "program years". A program ye
 The following information from the previous program year (if applicable) will be automatically added to the new one being created ...
 
 * **Leadership:** refers only to directors at the program year level
-* **Competencies**
+* **Competencies:** add or remove program year [competencies](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year/edit_program_year#manage-competencies)
 * **Objectives**
-* **Terms:** Vocabulary Terms that can be added to program year objectives as well
+* **Terms:** Vocabulary Terms that can be added to program year objectives
 
 Matriculation Year and Cohort title will be assigned automatically to the values associated with the selected academic year based on program duration (years).
 

@@ -18,11 +18,11 @@ A newly-entered Program will need to have Program Year(s) set up in order to ass
 
 ## Quick Links...
 
-### [Add New Program](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-new-program)
+## [Add New Program](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-new-program)
 
-### [Edit Program](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program)
+## [Edit Program](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program)
 
-### [Program Years](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year)
+## [Program Years](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year)
 
 ### [Competency Map Download](https://iliosproject.gitbook.io/ilios-user-guide/programs/competency-map-download)
 

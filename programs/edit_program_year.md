@@ -182,7 +182,11 @@ As mentioned above, a program year can be deleted if it has not yet been used by
 
 ### Lock Program Year
 
-Program years can be in effect "locked" in a similar manner as to what can happen in any course in Ilios. This means the program year's relationship with Leadership, Competencies, Objectives, and Terms can no longer be changed. The program year is in its final state. If it becomes unlocked, modifications can proceed normally.
+By default, all program years are in effect unlocked. They can be modified at any time. There are no date restrictions on this activity. For this reason, this functionality exists to encompass the situations where a program year should be "locked" to prevent future edits. 
+
+This is similar to how it works with courses in Ilios, which can be "locked" in a similar manner.
+
+This means the program year's relationship with Leadership, Competencies, Objectives, and Terms can no longer be changed. The program year is in its final state. If it becomes unlocked, modifications can proceed normally.
 
 ## Associated Courses 
 

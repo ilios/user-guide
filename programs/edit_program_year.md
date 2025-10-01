@@ -176,6 +176,10 @@ After clicking as shown, the four terms remain.
 
 Under the "Actions" heading, there are two options available. The delete button is only active when the program year has not been attached to any cohort which is in turn, associated with any course.
 
+These are shown below for reference.
+
+![program year actions](../images/programs/program_years/program_year_actions.png)
+
 ### Delete Program Year
 
 As mentioned above, a program year can be deleted if it has not yet been used by a cohort attached to any course.
@@ -185,6 +189,8 @@ As mentioned above, a program year can be deleted if it has not yet been used by
 By default, all program years are in effect unlocked. They can be modified at any time. There are no date restrictions on this activity. For this reason, this functionality exists to encompass the situations where a program year should be "locked" to prevent future edits. 
 
 This is similar to how it works with courses in Ilios, which can be "locked" in a similar manner.
+
+To lock or unlock a program year, the only action required is simply to click on the icon button to change its status one way or the other.
 
 This means the program year's relationship with Leadership, Competencies, Objectives, and Terms can no longer be changed. The program year is in its final state. If it becomes unlocked, modifications can proceed normally.
 

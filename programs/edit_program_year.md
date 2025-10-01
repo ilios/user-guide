@@ -172,6 +172,18 @@ After clicking as shown, the four terms remain.
 
 ![remaining terms displayed](../images/programs/program_years/remaining_terms_displayed.png)
 
+## Available Actions 
+
+Under the "Actions" heading, there are two options available. The delete button is only active when the program year has not been attached to any cohort which is in turn, associated with any course.
+
+### Delete Program Year
+
+As mentioned above, a program year can be deleted if it has not yet been used by a cohort attached to any course.
+
+### Lock Program Year
+
+Program years can be in effect "locked" in a similar manner as to what can happen in any course in Ilios. This means the program year's relationship with Leadership, Competencies, Objectives, and Terms can no longer be changed. The program year is in its final state. If it becomes unlocked, modifications can proceed normally.
+
 ## Associated Courses 
 
 There is a list of courses available at the bottom of the Program Year detail screen where you can review which courses are tied to the currently selected program year. This just means a cohort associated with the selected program year is attached at the course level to all of these courses. The courses are hyperlinked here for easy reference. 

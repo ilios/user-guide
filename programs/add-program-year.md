@@ -35,7 +35,7 @@ Save when done by clicking the "Done" button as shown below.
 
 ![click to save](../images/programs/program_years/click_to_save.png)
 
-![srogram year added](../images/programs/program_years/program_year_added.png)
+![program year added](../images/programs/program_years/program_year_added.png)
 
 Indicators are provided when Program Year information is missing. Click on the provided link to further modify the Program Year. The following Program Year Attributes can be edited.
 

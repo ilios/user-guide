@@ -37,7 +37,7 @@ Save when done by clicking the "Done" button as shown below.
 
 ![program year added](../images/programs/program_years/program_year_added.png)
 
-Indicators are provided when Program Year information is missing. Click on the provided link to further modify the Program Year. The following Program Year Attributes can be edited.
+Indicators (yellow triangle icons) are provided when Program Year information has not been entered. Where you might expect to see a zero, you will see this icon instead. Click on the provided link (under Matriculation Year) to further modify the Program Year. The following Program Year Attributes can be edited.
 
 **NOTE**: A new Cohort is automatically created with the creation of a new Program Year. The Matriculation Year matches the Academic Year chosen during the creation of the Program Year. The Cohort is named by its expected year of Graduation, which is determined by the length (in Years) of the Program.
 

@@ -80,4 +80,4 @@ It is also possible to combine filters between the two filter types. In other wo
 
 You can specify that a calendar be displayed in Day, Week, or Month viewing modes.
 
-[Duration Options Explained](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view/calendar-view-options)
+[Duration Options](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view/calendar-view-options)

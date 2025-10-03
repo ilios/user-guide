@@ -10,6 +10,16 @@ The Ilios calendar displays all items in Ilios with which you are directly assoc
 
 The scheduling and review of offerings can be accomplished by selecting "Courses and Sessions" from the Ilios menu. Although the scheduling of the offerings / events occurs on this screen, the event itself will appear on the Calendar at the corresponding date / time. These events will also be displayed in any linked calendars.
 
+### Activity View Toggle
+
+Users who engage with the curriculum in different ways depending on the session may want to select which activity to view at any point in time. A single mouse-click is all that is required to toggle these various options. If an option is selected and you wish to return to the default, click again on the button selected and then none will be selected (default).
+
+The following options are available ...
+* **All Activities:** (default) - all calendared events pertaining to the user whether the user performs as an instructor, student, or an administrative. All three buttons appear selected when this is the case. 
+* **Instructing:** - all calendared events featuring the logged-in user in an instructor role
+* **Learning:** - all calendared events featuring the logged-in user in the role of a learner individually or in a learner group
+* **Admin:** - all calendared events for which the logged-in user has an administrative role as course or session director or course administrator.
+
 
 ![click the event on the calendar](../images/calendar_view_images/calendar_event_click.png)
 
@@ -27,7 +37,7 @@ Multiday Events (those that start and end on a different day) are displayed belo
 
 You can also hover over an event with your mouse to retrieve and display more details pertaining to that event without having to leave the Calendar.
 
-![Hover Over for Details](../images/calendar_view_images/calendar_hover.png)
+![mouse-over for details](../images/calendar_view_images/calendar_hover.png)
 
 ## Color Coding
 

@@ -4,7 +4,7 @@ The Course Print Summary provides a complete view of a Course: all details for a
 
 ![print summary button](../../images/course_summary/print_summary_button.png)
 
-The top-most portion of the Print Summary is displayed below. All Sessions and all of the associated data can be found by scrolling down.
+The top-most portion of the Print Summary is displayed below. All Sessions and all of the associated data can be found by scrolling down. This includes offerings and ILM's (independent learning modules).
 
 ![print summary screen - top](../../images/course_summary/course_print_summary_top.png)
 

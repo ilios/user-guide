@@ -22,9 +22,9 @@ To remove Course Directors, Administrators, or Student Advisors, simply click th
 
 ![click to remove](../../images/course_leadership/crs_ldrshp3.png)
 
-For the sake of demonstration, I will remove "Carl Gloria Sanders" and put that user in their correct categorization as a Course Administrator and not as a Course Director. He will have the same rights as a Director but for reporting and analytical purposes, his role is more administrative in nature so this designation is more accurate.
+For the sake of demonstration, "Carl Gloria Sanders" will be removed from being a Course Director and will be put their correct categorization as a Course Administrator instead. He will have the same rights as a Director but for reporting and analytical purposes, his role is more administrative in nature so this designation is more accurate.
 
-## Steps taken ...
+## Remove Director
 
 * Removed "Carl Gloria Sanders" from the "Directors" area.
 

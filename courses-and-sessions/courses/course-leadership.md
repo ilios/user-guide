@@ -58,4 +58,4 @@ After processing the Save event as shown above, the changes are correctly reflec
 
 This displays the contracted Course Leadership area in the context of the larger Course Details reflecting the updated counts but hiding the details.
 
-![list now hidden](../../images/course_leadership/crs_ldrshp10.png)
+![list now hidden](../../images/course_leadership/list_now_hidden.png)

@@ -14,7 +14,7 @@ Selecting Schools from the Ilios flyout menu takes the user to a location which 
 These are set only at the time of creating a School for use in Ilios. There are only two fields that are set at School creation time.
 
 * **Title**: The Title or name of the School is set at creation time. This can be modified later in the Ilios interface.
-* **Administrator Email**: Like School Title above, this must be entered when a school is created. Like title, it can be modified in the interface. See [Add New School](https://iliosproject.gitbook.io/ilios-user-guide/schools/add-new-school) for more information.
+* **Administrator Email**: Like School Title above, this must be entered when a school is created. Like title, it can be modified in the interface. See [Manage Emails](https://iliosproject.gitbook.io/ilios-user-guide/schools/manage_emails) for more information.
 
 ## Additional School Attributes
 
@@ -25,7 +25,7 @@ These are set only at the time of creating a School for use in Ilios. There are 
 * [Session Attributes](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-attributes)
 * [Institutional Information](https://iliosproject.gitbook.io/ilios-user-guide/schools/curriculum-inventory-institution-information)
 * [Multi-School Environment](https://iliosproject.gitbook.io/ilios-user-guide/schools/multi-school-environment)
-* [Email](https://iliosproject.gitbook.io/ilios-user-guide/schools/manage_email)
+* [Email](https://iliosproject.gitbook.io/ilios-user-guide/schools/manage_emails)
 
 The attributes listed above for the selected School can be configured once the School has been selected or initially entered. The selection screen appears as shown below.
 

@@ -47,7 +47,7 @@ Using the escape (`esc`) key on your keyboard will cancel the search effort and 
 
 # Contact Info 
 
-Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org) with any comments or suggestions you may have regarding the user guide or about Ilios functionality in general.
+Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org) with any comments or suggestions you may have regarding this user guide or about Ilios functionality or implementation in general.
 
 The user guide is configured to have high level chapters based on the flyout menu items in the application, to be followed by a quick guide explaining how to perform common tasks in Ilios.
 
@@ -96,7 +96,7 @@ When you hover over any image, the "plus" icon will be presented. The mouse's po
 
 ## Home Button 
 
-This user guide (like Ilios itself) has a "home" button. You can be anywhere in the guide and get taken back to the beginning of the guide ([home](https://iliosproject.gitbook.io/ilios-user-guide))by clicking the button shown below. 
+This user guide (like Ilios itself) has a "home" button. You can be anywhere in the guide and get taken back to the beginning of the guide ([home](https://iliosproject.gitbook.io/ilios-user-guide)) by clicking the button shown below. 
 
 <figure>
   <img src="/images/introduction/user_guide_home_button.png" alt="Home button - displayed">

@@ -4,16 +4,20 @@ This denotes a collection of Learners which can be associated with Sessions, Off
 
 ## Attributes
 
-* **Title** - The name of the Learner Group - Text field description of the Learner Group.
-* [**Default Instructor(s)**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-instructor-s) - Selected from the existing population that has been entered into Ilios by campus systems and manual entry. Shown in display as the instructor of record for activities to which a group is associated when no other instructors are identified. This only applies to Small Group Offerings. Individual Offerings do **NOT** get the default instructor from the Learner Group.
+* **Title** - The name of the Learner Group - Text field description of the Learner Group. This can be modified by clicking on the linked title and making edits to the text in-line right there and saving using a mouse-click confirmation or "return" or "enter" on the keyboard.
+* **Breadcrumbs** - Breadcrumbs are provided next in the vertical flow of the page. These provide navigation to parent (or grandparent) groups and the relative location of the selected group.
+* [**Needs Accommodation**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#needs-accommodation) - Toggled when one or more learners in any given group (or sub group) need accommodation or additional resources in order to participate successfully in virtual learning events.
 * [**Default Location**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-location) - Shown in display as the location of record for activities to which a group is associated when no other location is identified. Just as with Default Instructor, this only applies to Small Group Offerings.
 * [**Default Virtual Learning Link**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-virtual-learning-link) - Entered manually or pasted in from an external source such as Zoom. This default virtual learning link behaves in the same manner as Default Instructor(s) and Default Location. It will only apply to Small Group Offerings.
-* [**Needs Accommodation**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#needs-accommodation) - Toggled when one or more learners in any given group (or sub group) need accommodation or additional resources in order to participate successfully in virtual learning events.
 * **Associated Courses** - Read-only listing of all courses and sessions (and active links) that have used this learner group in session offerings or ILM's. Screen shots of contracted and expanded views of this view are shown below.
 
 ![associated courses - contracted](../images/learner_group_README/associated_courses_contracted.png)
 
 ![associated courses - expanded](../images/learner_group_README/associated_courses_expanded.png)
+* [**Default Instructor(s)**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-instructor-s) - Selected from the existing population that has been entered into Ilios by campus systems and manual entry. Shown in display as the instructor of record for activities to which a group is associated when no other instructors are identified. This only applies to Small Group Offerings. Individual Offerings do **NOT** get the default instructor from the Learner Group.
+* **Members** - Following the flow of the page, the next area is a listing of all the members of this learner group. Covered in other place are the instructions on how to manage learner group membership.
+* **Subgroups** - Subgroups are listed next. 
+* **Cohort Members NOT Assigned** - This listing displays all of the members of the cohort that have not been added to this group or subgroup. They can be added by clicking the "plus" button to the right of the screen or done in bulk my mutiple selection and button click to add.
 
 ## Other Options
 

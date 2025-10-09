@@ -95,7 +95,7 @@ These refere to menu actions available underneath the logged in user's name and 
 <figure>
   <img src="../images/dashboard/user_name_menu_items.png" alt="Menu Items">
   <figcaption>
-      <p>Available under user name</p>
+      <p>user menu options displayed</p>
   </figcaption>
 </figure>
 

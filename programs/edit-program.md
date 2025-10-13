@@ -55,7 +55,7 @@ Modifying the duration of a program is easily accomplished in Ilios. Following t
 
 ## Update Leadership
 
-Please refer to the [Permissions Matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) to review what rights within the Ilios system will be granted when users are added as Program Directors.
+Program directors can make changes to any course or session that takes place within the program to which they are being added as director. 
 
 ![expand leadership](../images/programs/edit_program/expand_leadership.png)
 

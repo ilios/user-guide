@@ -6,7 +6,7 @@ Session copying is performed from inside Session Detail so it is necessary to se
 
 ## Step 1 - Select a Session to Copy
 
-![Select Session to copy](../../images/copy_session/session_copy_1.jpg)
+![select session to copy](../../images/copy_session/select_session_to_copy.png)
 
 After the Session Copy functionality has been activated by clicking the icon as shown above, the destination for this newly created Session must be specified. In this case, the "Anatomy Practical Exam" is part of the 2015-16 academic year. However, that year has been completed at the time of this writing so this particular session can only be copied into future years. As a rule, a session can only be copied into the current (if still active) or future years; and, it can be copied into any Course.
 

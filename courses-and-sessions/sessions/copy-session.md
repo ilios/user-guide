@@ -12,7 +12,11 @@ After the Session Copy functionality has been activated by clicking the icon as 
 
 ## Step 2 - Select Destination Course
 
-![Select destination](../../images/copy_session/session_copy_2.jpg)
+For reference, the session we are copying here is from the course "Airways, Blood and Circulation 2025-2026". The years available to copy this session into are one year into the future, the current year, and the previous year. 
+
+The "Copy Session" field specifications occur at the bottom of the form. This is shown below. Any course available in those years can be selected. In this case, we are going to create a copy of the session to be added to the current year's course as a duplicate to be modified post-creation.
+
+![select destination](../../images/copy_session/select_destination.png)
 
 ## Step 3 - Click Done to process the Session Copy
 

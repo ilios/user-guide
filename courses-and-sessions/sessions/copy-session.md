@@ -8,7 +8,7 @@ Session copying is performed from inside Session Detail so it is necessary to se
 
 ![select session to copy](../../images/copy_session/select_session_to_copy.png)
 
-After the Session Copy functionality has been activated by clicking the icon as shown above, the destination for this newly created Session must be specified. In this case, the "Anatomy Practical Exam" is part of the 2015-16 academic year. However, that year has been completed at the time of this writing so this particular session can only be copied into future years. As a rule, a session can only be copied into the current (if still active) or future years; and, it can be copied into any Course.
+After the Session Copy functionality has been activated by clicking the icon as shown above, the destination for this newly created Session must be specified. 
 
 ## Step 2 - Select Destination Course
 
@@ -22,4 +22,6 @@ The "Copy Session" field specifications occur at the bottom of the form. This is
 
 Like always, you can cancel out here as well by clicking the "Cancel" button. However, once "Done" has been clicked, a confirmation message flashes across the top of the screen (with green background). You are then taken directly to the newly created Session in the location specified in Step 2. Editing can now take place on the new Session. This is shown below. Scroll down to edit Obejctives, Terms, and Learning Materials (and MeSH) as well as to set up Offerings.
 
-![Click "Done" to process](../../images/copy_session/session_copy_3.jpg)
+In this example, the "Done" button has already been pressed to process the session copy. The results of this action are shown below.
+
+![session copied](../../images/copy_session/session_copied.png)

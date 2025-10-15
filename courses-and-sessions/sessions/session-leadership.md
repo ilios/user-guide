@@ -20,7 +20,7 @@ Refer to [Calendar Views and Filtering Options](https://iliosproject.gitbook.io/
 
 To use this functionality, pull up a Session. The screen initially appears similar to what is shown below.
 
-![Pull up Session](../../images/session_leadership/sess_ldrship1.png)
+![pull up a session](../../images/session_leadership/pull_up_a_session.png)
 
 Click to expand the list as shown above and then click "Manage Leadership" to add and / or remove Session Administrators.
 

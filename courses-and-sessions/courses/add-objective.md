@@ -10,7 +10,7 @@ To enter a Course level Objective ...
 
 ![show course details](../../images/course_objectives/show_course_details.png)
 
-### Review Existing Objectives
+## Review Existing Objectives
 
 Before expanding the list at all, Ilios provides a quite useful overview of the course objectives and whether or not they have been mapped to parent (program year) objetives, or have had vocabulary terms or MeSH terms already attached. 
 
@@ -22,7 +22,7 @@ Before expanding the list at all, Ilios provides a quite useful overview of the 
 
 ![objectives - collapsed](../../images/course_objectives/objectives_collapsed.png)
 
-## Click to add Objective
+## Click to Add Objective
 
 ![add objective](../../images/course_objectives/add_course_objective.png)
 

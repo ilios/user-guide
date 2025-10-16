@@ -23,13 +23,13 @@ The ability to filter by learner group Title makes it easy to find and select a 
 
 In this example, the Learner Group and / or Subgroups to be modified is called "SET Class of 2028". Enter "se" (not case-sensitive) in the filter box as shown below.
 
-![Filter by group title](../../images/edit_learner_group/filter_for_group.png)
+![filter by group title](../../images/edit_learner_group/filter_for_group.png)
 
 ### Edit Group Attributes
 
 To edit a Group's attributes, click as shown above. The group's name is a hyperlink used to edit it or view its attributes / membership. In this example "SET Class of 2028" has been selected. The top part of the screen appears as shown below with selected features highlighted in the screen shot.
 
-![Top selected](../../images/edit_learner_group/lg_top_selected.png)
+![learner group top selected](../../images/edit_learner_group/learner_group_top_selected.png)
 
 ### Screen Elements
 

@@ -10,6 +10,14 @@ To edit Instructor Group membership (or the name of the group itself), click on 
     </figcaption>
 </figure>
 
+## Sort Options
+
+The instructor group listing can be sorted by either "Instructor Group Title" - the default sort order (A-Z) or by "Associated Courses", which can be useful when you would like to review the instructor groups with more usage in courses and sessions.
+
+## Associated Courses 
+
+This includes sessions and links to the referenced sessions. This will take the usage to Courses and Sessions to perform any maintenance or review of the session and its offerings.
+
 **NOTE**: The trash can icon is enabled in the screen shot above because this Instructor Group has not been associated with any teaching activities. The "Associated Courses" field, the count of which gets updated when this instructor group is used in session offerings or ILM's, provides this information. If that number is greater than zero, the trash can delete button will be disabled.
 
 Once the Instructor Group has been selected, the screen appears as shown below. The arrows point to actions that can be performed.

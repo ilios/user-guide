@@ -4,9 +4,9 @@ To edit Instructor Group membership (or the name of the group itself), click on 
 
 <figure>
     <img src="../images/instructor_groups_all_images/click_to_edit.png" 
-    alt="Click link to edit">
+    alt="click link to edit">
     <figcaption>
-        <p>Click to edit</p>
+        <p>click to edit</p>
     </figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ Once the Instructor Group has been selected, the screen appears as shown below. 
     <img src="../images/instructor_groups_all_images/editing_options_shown.png" 
     alt="Editing options">
     <figcaption>
-        <p>Instructor Group - (view only mode)</p>
+        <p>editing options shown</p>
     </figcaption>
 </figure>
 

@@ -8,7 +8,7 @@ The school selector is the first drop-down menu available and visible on the pag
 
 ![select attributes](../../images/edit_learner_group/select_attributes.png)
 
-Now that "Medicine" has been selected, a program "Doctor of Medicine - BRIDGES" has been selected as shown above. The cohort "Class of 2028" has also been selected.
+Now that "Medicine" has been selected, the program "Doctor of Medicine - BRIDGES" has been selected as shown above. The cohort "Class of 2028" has also been selected.
 
 At this level, you can see the following fields ...
 

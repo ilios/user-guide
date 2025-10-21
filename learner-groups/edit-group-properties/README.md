@@ -57,11 +57,11 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
         Before ...
 
-![Accomodation required - pre-selection](../../images/edit_learner_group/accommodation_req_pre.png)
+![accomodation required - no](../../images/edit_learner_group/accommodation_required_no.png)
 
         After ...
 
-![Accomodation required - post-selection](../../images/edit_learner_group/accommodation_req_post.png)
+![accomodation required - yes](../../images/edit_learner_group/accommodation_required_yes.png)
 
 **Associated Courses:** Read-only list of Courses that have this Learner Group attached to one or more Session Offerings.
 

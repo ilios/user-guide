@@ -45,7 +45,7 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
 **Learner List:** Any of these students can be assigned either into this group,back up to the cohort level or they can be moved into another group by navigating to the other group first.
 
-**Default Location:** If a Room Number (Location) is not specified for a specific Offering, this default location is attached instead. This applies to offerings created as "Small Groups" but not to events created as "Offerings" during the new offering creation process.
+**Default Location:** If a Room Number (Location) is not specified for a specific Offering, this default location is attached instead. This applies to [offerings](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings) created as "Small Groups" but not to events created as "Offerings" during the new offering creation process.
 
 **Default Instructor:** Same as with location.
 
@@ -65,7 +65,7 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
 ![accomodation required - yes](../../images/edit_learner_group/accommodation_required_yes.png)
 
-**Associated Courses:** Read-only list of Courses that have this Learner Group attached to one or more Session Offerings.
+**Associated Courses (and Sessions):** Read-only list of Courses (and Sessions with included links) that have this Learner Group attached to one or more Session Offerings.
 
 ### Group Members Listed
 

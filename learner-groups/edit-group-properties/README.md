@@ -1,6 +1,6 @@
 # Edit Learner Group
 
-The first step in the editing and review process is to select school, program, and cohort. The drop-down boxes on the top of the screen are used to do this as shown below.
+The first step in the editing and review process as far as learner groups is concerned is to select school, program, and cohort. The drop-down boxes on the top of the screen are used to do this as shown below.
 
 ## Select School, Program, and Cohort
 
@@ -8,7 +8,7 @@ The school selector is the first drop-down menu available and visible on the pag
 
 ![select attributes](../../images/edit_learner_group/select_attributes.png)
 
-Now that Medicine has been selected, a program "Doctor of Medicine - BRIDGES" has been selected as shown above. The cohort "Class of 2028" has also been selected.
+Now that "Medicine" has been selected, a program "Doctor of Medicine - BRIDGES" has been selected as shown above. The cohort "Class of 2028" has also been selected.
 
 At this level, you can see the following fields ...
 
@@ -45,13 +45,15 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
 **Learner List:** Any of these students can be assigned either into this group,back up to the cohort level or they can be moved into another group by navigating to the other group first.
 
-**Default Location:** If a Room Number (Location) is not specified for a specific Offering, this default location is attached instead. This applies to Small Group offerings but not to Lectures.
+**Default Location:** If a Room Number (Location) is not specified for a specific Offering, this default location is attached instead. This applies to offerings created as "Small Groups" but not to events created as "Offerings" during the new offering creation process.
 
 **Default Instructor:** Same as with location.
 
 [**Default Virtual Learning Link:**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-virtual-learning-link) Same as with location.
 
 [**Learner Group Calendar:**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/calendar) Display or hide calendar of events associated with this learner group and / or sub groups.
+
+### Needs Accommodation
 
 **Needs Accommodation:** This is set to affirmative by sliding the toggle as shown below. This is for virtual learning. The learner group has at least one member who requires accommodation like closed captions or something else in a virtual learning setting.
 

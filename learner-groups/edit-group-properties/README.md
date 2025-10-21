@@ -25,6 +25,12 @@ In this example, the Learner Group and / or Subgroups to be modified is called "
 
 ![filter by group title](../../images/edit_learner_group/filter_for_group.png)
 
+### Sort Options
+
+In addition to the filtering option explained above, the list of learner groups can be sorted (one sort applied at a time) by "Learner Group Title", "Members", or by "Subgroups".
+
+Learner group titles can be sorted alphabetically ascending or descending whereas member count ("Members") or subgroup count ("Subgroups") can be sorted numerically by an ascending or descending sort.
+
 ### Edit Group Attributes
 
 To edit a Group's attributes, click as shown above. The group's name is a hyperlink used to edit it or view its attributes / membership. In this example "SET Class of 2028" has been selected. The top part of the screen appears as shown below with selected features highlighted in the screen shot.

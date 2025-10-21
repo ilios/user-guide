@@ -65,7 +65,7 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
 ![accomodation required - yes](../../images/edit_learner_group/accommodation_required_yes.png)
 
-**Associated Courses (and Sessions):** Read-only list of Courses (and Sessions with included links) that have this Learner Group attached to one or more Session Offerings.
+**Associated Courses (and Sessions):** Expandable read-only list of Courses (and Sessions with included links) that have this Learner Group attached to one or more Session Offerings.
 
 ### Group Members Listed
 

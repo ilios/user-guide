@@ -90,7 +90,7 @@ When you hover over any image, the "plus" icon will be presented. The mouse's po
 <figure>
   <img src="/images/introduction/click_for_more.png" alt="click to zoom in">
   <figcaption>
-      <p>Click to zoom in on image</p>
+      <p>click to zoom in on image</p>
   </figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ This user guide (like Ilios itself) has a "home" button. You can be anywhere in 
 <figure>
   <img src="/images/introduction/user_guide_home_button.png" alt="Home button - displayed">
   <figcaption>
-      <p>Click to return to starting point in user guide (Home)</p>
+      <p>click to return to starting point in user guide (Home)</p>
   </figcaption>
 </figure>
 

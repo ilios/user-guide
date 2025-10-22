@@ -10,7 +10,8 @@ Welcome to the official Ilios User Guide. Feel free to bookmark this page and re
 
 # Sign up for Updates
 
-For an introduction to Ilios and to sign up for newsletters and announcements, click [here](https://www.iliosproject.org/about/){target="_blank"}. Once on that page, click "Status Reports" and then "join our mailing list". A form will appear requiring that you enter your email address and first and last name. A confirmation email message will be sent to the email address entered. This is required to confirm your subscription. We highly recommend subscribing to get the latest news. Subscription options are shown below.
+For an introduction to Ilios and to sign up for newsletters and announcements, click
+ <a href="https://www.iliosproject.org/about/" target="_blank">here</a>. Once on that page, select "Status Reports" and then click "join our mailing list". A form will appear requiring that you enter your email address and first and last name. A confirmation email message will be sent to the email address entered. This is required to confirm your subscription. We highly recommend subscribing to get the latest news. Subscription options are shown below.
 
 ![sign up for updates](images/introduction/subscription_options.png)
 

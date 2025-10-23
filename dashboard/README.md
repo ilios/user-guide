@@ -16,7 +16,7 @@ The view below is of the Ilios navigation menu on a relatively large screen. Thi
 <figure>
   <img src="../images/dashboard/flyout_menu.png" alt="Navigation Menu">
   <figcaption>
-      <p>Ilios Menu - full size</p>
+      <p>Ilios menu - full size</p>
   </figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ When the Ilios application is not being viewed at full size or is being viewed u
 <figure>
   <img src="../images/dashboard/small_screen_view_contracted.png" alt="Top Menu View">
   <figcaption>
-    <p>Ilios Menu - small size (contracted)</p>
+    <p>Ilios menu - small size (contracted)</p>
   </figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Clicking the Ilios Menu expander (or contractor if already expanded) reveals in 
 <figure>
   <img src="../images/dashboard/flyout_expanded.png" alt="Small Screen View">
   <figcaption>
-    <p>Ilios Flyout Menu - small view (expanded)</p>
+    <p>flyout menu - small view (expanded)</p>
   </figcaption>
 </figure>
 

@@ -48,31 +48,31 @@ The image belows shows the appearance of all four of the above optional session 
 ![more information - click to see](../images/icons_explained/more_info.png)
 
 ## Learning Material Icons
-![learning Material - file](../images/icons_explained/lm_file.png)
+![type - file](../images/icons_explained/lm_file.png)
 
-![learning Material - link](../images/icons_explained/lm_link.png)
+![type - link](../images/icons_explained/lm_link.png)
 
-![learning Material - citation](../images/icons_explained/lm_citation.png)
+![type - citation](../images/icons_explained/lm_citation.png)
 
-![learning Material - required](../images/icons_explained/lm_reqd.png)
+![required](../images/icons_explained/lm_reqd.png)
 
 The icon above will not appear if the learning material's usage is optional - not required.
 
-![Learning Material - not available yet](../images/icons_explained/not_avail_yet.png)
+![not available yet](../images/icons_explained/not_avail_yet.png)
 
 ## Recently updated
-![Learning Event - recently updated](../images/icons_explained/recently_updated.png)
+![learning event - recently updated](../images/icons_explained/recently_updated.png)
 
 ## Instructional Notes 
-![instructional Notes - for students to see](../images/icons_explained/inst_notes.png)
+![instructional notes - for students to see](../images/icons_explained/inst_notes.png)
 
 ## User Guide Link
-![user guide (Help link)](../images/icons_explained/user_guide_link.png)
+![user guide (help link)](../images/icons_explained/user_guide_link.png)
 
 The link to the Ilios Help Guide is available to all Ilios users. It is always available at the far upper right of the main screen.
 
 ## Link to .ics feed
-![Copy My ICS Link](../images/icons_explained/ics_feed_link.png)
+![.ics feed link](../images/icons_explained/ics_feed_link.png)
 
 This button is conveniently located just to the right of the "Calendar" button. This is for copying the .ics feed for use in online calendars including Outlook and Google - click for [here](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view/calendar-feed-options) for more information.
 

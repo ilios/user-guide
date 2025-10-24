@@ -13,7 +13,7 @@ ILM's (or regular sessions) that have been linked to an upcoming session are inc
 <figure>
   <img src="../images/week_at_a_glance/linked_activity_icon.png" alt="">
   <figcaption>
-    <p>Linked Activities</p>
+    <p>linked activities</p>
   </figcaption>
 </figure>
 

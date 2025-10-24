@@ -45,8 +45,8 @@ In the example shown below, the Data has been sorted by Title (A-Z). The default
 
 **NOTE:** The date associated with Course level learning materials reflects the starting date of the course since there is no session or offering involved. Also, the session and instructor fields are both empty for the same reason. There is no "Status" box for course level learning materials since these are referral guides for the entire course.
 
-![All Materials - Updated Sort Order](../images/materials_view/materials_view_sorted.png)
+![All Materials - updated sort order](../images/materials_view/materials_view_sorted.png)
 
 Entering Search Criteria into the Filter search box will perform a search on ALL 4 of the fields listed above to help ensure the correct LM is found.
 
-![All Materials View - filtered results shown](../images/materials_view/materials_view_filtered.png)
+![All Materials - filtered results shown](../images/materials_view/materials_view_filtered.png)

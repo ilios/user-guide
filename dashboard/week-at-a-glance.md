@@ -94,7 +94,7 @@ The text values in quotes show the current tool tips which display when mousing 
 <figure>
 <img src="../images/week_at_a_glance/all_weeks_starting_pt.png" alt="All Weeks (Starting)">
   <figcaption>
-    <p>All Weeks (Starting Point)</p>
+    <p>All Weeks (starting point)</p>
   </figcaption>
 </figure>
 

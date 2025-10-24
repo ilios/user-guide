@@ -51,9 +51,9 @@ It is important to note that non-students Ilios users with advanced permissions 
 
 Icon indicating "Not Published" status: 
 
-![Unpublished Icon](../images/calendar_view_images/unpublished.png)
+![unpublished icon](../images/calendar_view_images/unpublished.png)
 
-![A few tips ...](../images/calendar_view_images/calendar_tips.png)
+![a few tips ...](../images/calendar_view_images/calendar_tips.png)
 
 ## Accessing Learning Materials via Calendar Feed
 

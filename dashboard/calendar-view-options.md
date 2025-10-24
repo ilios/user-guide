@@ -39,11 +39,11 @@ To get to the Day View, click the "Day" Calendar View Switcher link. The screen 
 
 When a Session with multiple offerings is clicked on the Week or Month View, the Day View is displayed to reveal the details.
 
-For a Session with Multiple Offerings, it is important to note that the offerings will be grouped on the Calendar and only displayed once in Week and Month view. The Day view will show all of the Session Offerings on the same screen - as shown below.
+For a Session with multiple offerings, it is important to note that the offerings will be grouped on the Calendar and only displayed once in Week and Month view. The Day view will show all of the Session Offerings on the same screen - as shown below.
 
 **Click the Session with Multiple Offerings**
 
-![click multi-offering Session](../images/calendar_view_images/week_view_multiple.png)
+![click multi-offering session](../images/calendar_view_images/week_view_multiple.png)
 
 ### Day View (Multiple Offerings)
 

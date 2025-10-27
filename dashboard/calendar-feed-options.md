@@ -31,11 +31,11 @@ To connect a calendar application with Ilios, you will need a unique URL that yo
 
 **Step One:** Make sure to select Calendar and then click the Feed icon to generate the Calendar's URL feed.
 
-![Generate the feed](../images/calendar_feed_options/generate_the_feed.png)
+![generate the feed](../images/calendar_feed_options/generate_the_feed.png)
 
 **Step Two:** Copy the Feed to your clipboard by clicking the button shown below or close and return to the Calendar Dashboard.
 
-![Copy the feed](../images/calendar_feed_options/copy_the_feed.png)
+![copy the feed](../images/calendar_feed_options/copy_the_feed.png)
 
 A temporary confirmation "Copied Successfully" message will appear as shown below. It disappears on its own shortly.
 
@@ -63,20 +63,20 @@ Simply ...
 * From there, click on "Add Calendar" and then "From Internet"
 *   When the following box appears, paste in the URL copied in the previous step.
 
-    ![Paste the calendar](../images/calendar_feed_options/calendar_paste_box.jpg)
+    ![paste the calendar](../images/calendar_feed_options/calendar_paste_box.jpg)
 * Click "OK" to add the Calendar feed.
 *   Once pasted and added, the following box appears.
 
-    ![Confirm Calendar](../images/calendar_feed_options/calendar_confirm.jpg)
+    ![confirm calendar](../images/calendar_feed_options/calendar_confirm.jpg)
 * Click "Yes".
 *   It appears as shown below.
 
-    ![Calendar added](../images/calendar_feed_options/calendar_added.jpg)
+    ![calendar added](../images/calendar_feed_options/calendar_added.jpg)
 * This is not a very easy name to remember so you will probably want to change it to something more useful like "Ilios" or "Classes" or whatever you feel is appropriate.
 * Just right-click on the long, ugly name and rename it.
 *   The results of doing this are shown below.  In this example, it was renamed "UCSF Classes".
 
-    ![Calendar renamed](../images/calendar_feed_options/calendar_renamed.jpg)
+    ![calendar renamed](../images/calendar_feed_options/calendar_renamed.jpg)
 
 ### Add Calendar to Office 365 Outlook
 
@@ -101,7 +101,7 @@ This will be demonstrated showing the web version of Outlook from the Microsoft 
 
 * Once "Import" has been clicked and the process has been completed, close the modal window and your screen will appear something like the following ...
 
-![Dave's SOM Schedule - now available](../images/calendar_feed_options/add_cal4.png)
+![Dave's SOM schedule - now available](../images/calendar_feed_options/add_cal4.png)
 
 ### Add Calendar to Google Calendar
 

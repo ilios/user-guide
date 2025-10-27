@@ -67,7 +67,7 @@ It is important to note that Learner Group Management is now very much about the
 * [Removing One Or More Learners From Group](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/edit-group-membership#removing-one-or-more-learners-from-group)
 * [Delete Learner Group](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/remove-learner-group)
 
-## View Learner Group Membership
+## View Membership
 
 There is a way in Ilios to easily review Learner Group, specifically, Sub Group membership. To do this, open up Learner Group Management by clicking the "Learner Groups" menu item from the Ilios flyout menu. Then, choose a Group which has Sub Groups the membership of which you would like to verify. For the sake of this example, we have chosen "Anesthesia Simulator Group", which has 19 Subgroups and a total of 155 Members.
 
@@ -96,4 +96,4 @@ After scrolling down past the 9 members of "Anesthesia Simulator Group 03", the 
 
 As highlighted below, the Learner "Tammy Howard" can be moved into "Anesthesia Simulator Group 03" by either clicking the green "+" or by clicking the check box to the left of her first name "Tammy" and then later by confirming the move.
 
-![Select learner](../images/learner_group_README/select_learner.png)
+![select learner](../images/learner_group_README/select_learner.png)

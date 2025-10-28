@@ -77,7 +77,7 @@ Once the Learner Group has been selected by clicking on the Learner Group link, 
 
 ![view details](../images/learner_group_README/view_details.png)
 
-The Learner Group called "Anesthesia Simulator Group 03" has been selected as shown by the purple arrowed instructions above. The 9 members of the groups are listed in read-only mode. To maintain "Anesthesia Simulator Groups 03" and allowing the removal or addition of Learners from this (and the other) sub-groups underneath "Anesthesia Simulator Group", click "Manage".
+The Learner Group called "Anesthesia Sub 3" has been selected and accessed as shown above. The members of the subgroup are listed in read-only mode. To maintain "Anesthesia Sub 3" and allowing the removal or addition of Learners from this (and the other) sub-groups underneath "Anesthesia Simulator Group", click "Manage" as shown below.
 
 ![manage learner group](../images/learner_group_README/manage_learner_group.png)
 

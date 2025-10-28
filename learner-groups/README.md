@@ -81,18 +81,18 @@ The Learner Group called "Anesthesia Sub 3" has been selected and accessed as sh
 
 ![manage learner group](../images/learner_group_README/manage_learner_group.png)
 
-To ensure learners have been properly assigned to the correct Subgroups, scroll down and review the membership.
+To ensure learners have been properly assigned to the correct subgroups, scroll down and review the membership.
 
-**NOTE**: The default sort order is by First Name >> Ascending. Once in "Manage" mode, you may want to switch the sort order to Group Name >> Ascending to help with maintenance and review. 
+**NOTE**: The default sort order is by First Name >> Ascending. Once in "Manage" mode, you may want to switch the sort order to Group Name >> Ascending to help with maintenance and review. This is done by clicking on the header itself, which will update the sort order on both the parent group and subgroup member listings.
 
 ![view sort order](../images/learner_group_README/view_sort_order.png)
 
 Scroll down further and you can see the Learners who are in other "Anesthesia Simulator Group" sub-groups. What can be done here?
 
-* Learners can be moved out of "Anesthesia Simulator Group 03" and placed back up into the Cohort.
-* Learners can be moved into "Anesthesia Simulator Group 03" from any of the other "Anesthesia Simulator Group" sub-groups or from the Cohort itself.
+* Learners can be moved out of "Anesthesia Sub 3" and placed back up into the Cohort.
+* Learners can be moved into "Anesthesia Sub 3" from any of the other "Anesthesia Simulator Group" subgroups or from the Cohort itself - learners not in any of the subgroups.
 
-After scrolling down past the 9 members of "Anesthesia Simulator Group 03", the Learners in the other sub-groups are available for selection to be added INTO "Anesthesia Simulator Group 03".
+After scrolling down past the members of "Anesthesia Sub 3", the Learners in the other sub-groups are available for selection to be added INTO "Anesthesia Sub 3".
 
 As highlighted below, the Learner "Tammy Howard" can be moved into "Anesthesia Simulator Group 03" by either clicking the green "+" or by clicking the check box to the left of her first name "Tammy" and then later by confirming the move.
 

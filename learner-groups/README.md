@@ -94,6 +94,6 @@ Scroll down further and you can see the Learners who are in other "Anesthesia Si
 
 After scrolling down past the members of "Anesthesia Sub 3", the Learners in the other sub-groups are available for selection to be added INTO "Anesthesia Sub 3".
 
-As highlighted below, the Learner "Tammy Howard" can be moved into "Anesthesia Sub 3" by either clicking the green "+" or by clicking the check box to the left of her first name "Tammy" and then later by confirming the move.
+As highlighted below, the Learner "Tammy Howard" can be moved into "Anesthesia Sub 3" by either clicking the green "+", located under the "Actions" header, or by clicking the check box to the left of the first name "Tammy" and then later by confirming the move. The second option is used frequently when multiple users get moved around at the same time.
 
 ![select learner](../images/learner_group_README/select_learner.png)

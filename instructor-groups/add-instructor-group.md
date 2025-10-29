@@ -6,7 +6,7 @@ Click the (+) icon as shown below to start the process of adding an Instructor G
     <img src="../images/instructor_groups_all_images/activate_process.png" 
     alt="Start process">
     <figcaption>
-        <p> Activate add instructor group process ...</p>
+        <p> activate add instructor group process ...</p>
     </figcaption>
 </figure>
 
@@ -16,17 +16,17 @@ After clicking the Add button as shown above, enter the name of the new Instruct
     <img src="../images/instructor_groups_all_images/enter_name.png" 
     alt="Enter Name">
     <figcaption>
-        <p>Add Instructor Group</p>
+        <p>add instructor group</p>
     </figcaption>
 </figure>
 
-The new Instructor Group gets added as shown above. A confirmation link is provided. This can be used to load up the new Instructor Group with Instructors or to change its name. The Instructor Group is also available by performing a search for its title. It appears with all of the other Instructor Groups for the School as soon as the Save event is processed.
+The new instructor group gets added as shown above. A confirmation link is provided. This can be used to load up the new Instructor Group with Instructors or to change its name. The Instructor Group is also available by performing a search for its title. It appears with all of the other Instructor Groups for the School as soon as the Save event is processed.
 
 <figure>
     <img src="../images/instructor_groups_all_images/after_save.png" 
     alt="After save ...">
     <figcaption>
-        <p>New Instructor Group - after save</p>
+        <p>new instructor group - after save</p>
     </figcaption>
 </figure>
 

@@ -13,9 +13,15 @@ This shift impacts how users are able to interact with Ilios data as administrat
 
 ## Setting Permissions
 
-Each section where Permissions can be modified is covered in detail in the section of the User Guide that pertains to that functional area of Ilios.
+Each section where permissions can be modified is covered in detail in the section of the User Guide that pertains to that functional area of Ilios.
+
+### Roles by Association
+
+It is important to note that any Ilios user can be added to any role. Users who get attached to an offering are automatically added to the "Instructor" role if this has not happened previously. In other words, there is no need to manually add the role to the user's profile. It gets added when used in relation to the user. It's by association to an offering.
 
 ## Leadership Links
+
+The following functional areas in Ilios all have a component that gets used to add what is known as "Leadership" to the respective category. Leadership can vary a bit depending on the area in Ilios. The following links contain the steps and details regarding adding Ilios users to "leadership" roles and what that all means in context.
 
 * [Course](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership)
 * [Session](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/session-leadership)

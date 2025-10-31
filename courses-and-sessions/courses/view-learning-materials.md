@@ -2,6 +2,8 @@
 
 There are three options available when viewing a Learning Material in Ilios. These instructions also apply to Session Learning Materials. These rules also apply to accessing the Learning Materials using the calendar feed (.ics), on a smart phone, computer, or tablet.
 
+This shows the delivery of learning materails. This is how learners will access their materials. Adding new learning materials to a course is covered [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/learning_materials/upload-new-learning-material).
+
 ## View Inline (.pdf files, web links, and citations)
 
 Web links can be followed with a click of the mouse. Citations can be viewed right on the screen in Ilios. However Adobe Acrobat .pdf files can be viewed right in the browser, not requiring a download. Online .pdf files have this option at this time. This is shown using the Calendar below.

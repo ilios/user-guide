@@ -10,7 +10,7 @@ To start with, navigate to Programs and select a Program. In this case, "Doctor 
 
 ## Select Program Year
 
-For this example, and in order to show more detail in upcoming steps, Matriculation Year "2021-2022" with the Cohort of "Class of 2025" has been selected. At the time of this edit, those students will have recently graduated. This is useful in detailing Competency use throughout the student's educational trajectory. They will have already learned the Topics and Competencies on offer in the Program. Reporting out will provide more robust results.
+For this example, and in order to show more detail in upcoming steps, Matriculation Year "2021-2022" with the Cohort of "Class of 2025" has been selected. At the time of this edit, those students will have recently graduated. This is useful in detailing Competency use throughout the student's educational trajectory. They will have already been exposed to the Topics and Competencies on offer in the Program. Reporting out will provide more robust results.
 
 ![select program year](../images/programs/program_years/select_program_year.png)
 

@@ -12,14 +12,14 @@ The Course shown in the screen shot below already has four Learning Materials (L
 
 After the `Sort Materials` button has been clicked, the screen changes and the ordering of LM's is now possible.
 
-![update the sort order](../../images/course_learning_materials/lm_session_sort_2.jpg)
+![update the sort order](../../images/course_learning_materials/update_sort_order.png)
 
-After moving the file `Reader Chapter` to the top so that it is the first LM to appear, the screen appears as shown below.
+After moving the learning material link `News and Stuff` to the top so that it is the first LM to appear, the screen appears as shown below.
 
-**NOTE:** It is still necessary to confirm the re-ordering of the Learning Materials by clicking the green confirmation button or you can revert back to the state the list was in before dragging and dropping the file.
+**NOTE:** It is still necessary to confirm the re-ordering of the Learning Materials by clicking the green confirmation button or you can revert back to the state the list was in before dragging and dropping the learning material link.
 
-![Confirm the change](../../images/course_learning_materials/lm_session_sort_3.jpg)
+![confirm sort order change](../../images/course_learning_materials/confirm_sort_order_change.png)
 
-Once the save has been processed, the new order is reflected in the Course detail. This is the order it will appear for students however they choose to view their calendars.
+Once the save has been processed, the new sort order is reflected in the Course detail. This is the order in which learning materials will appear for students however they choose to view their calendars.
 
-![New sort order](../../images/course_learning_materials/lm_session_sort_4.jpg)
+![new sort order](../../images/course_learning_materials/new_sort_order.png)

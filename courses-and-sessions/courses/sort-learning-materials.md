@@ -4,15 +4,15 @@ Once Learning Materials have been associated with a Course (or a Session), they 
 
 The process starts as follows.
 
-* Select a Session with Learning Materials attached or add them.  Either way, as long as the Learning Materials are attached, this will work.
+* Select a course or a session with Learning Materials attached or add them.  Either way, as long as the Learning Materials are attached, this will work.
 
-The Session shown in the screen shot below already has 4 Learning Materials (LM's) attached. The `Sort Materials` button is clearly indicated in the screen shot.
+The Course shown in the screen shot below already has four Learning Materials (LM's) attached. The `Sort Materials` button is clearly indicated in the screen shot.
 
-![](../../images/course_learning_materials/lm_session_sort_1.jpg)
+![click to sort](../../images/course_learning_materials/click_to_sort.png)
 
 After the `Sort Materials` button has been clicked, the screen changes and the ordering of LM's is now possible.
 
-![Update the sort order](../../images/course_learning_materials/lm_session_sort_2.jpg)
+![update the sort order](../../images/course_learning_materials/lm_session_sort_2.jpg)
 
 After moving the file `Reader Chapter` to the top so that it is the first LM to appear, the screen appears as shown below.
 

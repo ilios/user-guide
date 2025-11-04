@@ -5,7 +5,8 @@ This denotes a collection of Learners which can be associated with Sessions, Off
 ## Attributes
 
 * **Title** - The name of the Learner Group - Text field description of the Learner Group. This can be modified by clicking on the linked title and making edits to the text in-line right there and saving using a mouse-click confirmation or "return" or "enter" on the keyboard.
-* **Breadcrumbs** - Breadcrumbs are provided next in the vertical flow of the page. These provide navigation to parent (or grandparent) groups and the relative location of the selected group.
+* **Breadcrumbs** - Breadcrumbs are provided next in the vertical flow of the page. These provide navigation to parent (or grandparent) groups and the relative location of the selected group. 
+![breadcrumbs - displayed](../images/learner_group_README/breadcrumbs_displayed.png)
 * [**Needs Accommodation**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#needs-accommodation) - Toggled when one or more learners in any given group (or sub group) need accommodation or additional resources in order to participate successfully in virtual learning events.
 * [**Default Location**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-location) - Shown in display as the location of record for activities to which a group is associated when no other location is identified. Just as with Default Instructor, this only applies to Small Group Offerings.
 * [**Default Virtual Learning Link**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-virtual-learning-link) - Entered manually or pasted in from an external source such as Zoom. This default virtual learning link behaves in the same manner as Default Instructor(s) and Default Location. It will only apply to Small Group Offerings.

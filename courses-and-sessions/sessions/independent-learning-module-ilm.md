@@ -11,6 +11,7 @@ These are displayed in one of two places ...
       <p>displayed on calendar</p>
     </figcaption>
 </figure>
+
 2. [**ILM linked to an Upcoming Session Offering**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm#ilm-linked-to-session): An ILM that is linked to an upcoming Session will have the learning activities listed on the target session in all places session offerings appear in Ilios, among them on [Week at a Glance](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/week-at-a-glance).
 
 An example of #2, as far as the learner view is concerned, is shown below. The image below shows the icon presented to students on Week at a Glance. 

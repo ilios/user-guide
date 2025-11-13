@@ -39,7 +39,7 @@ In the example shown above, the student will need to click the link to "Hemostas
 <figure>
   <img src="../../images/ilm/linked_ILMs.png" alt="Event Detail">
     <figcaption>
-    <p>Linked ILM Learning Material activities</p>
+    <p>linked ILM learning material activities</p>
   </figcaption>
 </figure>
 

@@ -1,4 +1,4 @@
-Independent Learning Modules (ILM's_) are a specific type of Session which does not necessarily meet in any particular location at an appointed time. It refers to a curricular activity of a specified required length of time that should be completed by a particular date or before a particular Session offering is to take place. They are specifically meant to track learning which occurs independently and “asynchronously” outside the classroom, which may or may not be associated with synchronous / didactic learning.
+Independent Learning Modules (ILM's) are a specific type of Session which does not necessarily meet in any particular location at an appointed time. It refers to a curricular activity of a specified required length of time that should be completed by a particular date or before a particular Session offering is to take place. They are specifically meant to track learning which occurs independently and “asynchronously” outside the classroom, which may or may not be associated with synchronous / didactic learning.
 
 These are displayed in one of two places ...
 

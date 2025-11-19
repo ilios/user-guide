@@ -83,7 +83,7 @@ A handy scrollable and searchable grid appears for the selection process to take
 
 ![select session](../../images/ilm/ilm_screen2.png)
 
-After the "Ischemic Injury 06/25/2020 10:00 AM" Session gets selected, it can be attached to the ILM.
+After the "Ischemic Injury 08/25/2020 10:00 AM" Session gets selected, it can be attached to the ILM.
 
 **NOTE**: The first offering date is included in the grid to make it easier to select the correct Session.
 

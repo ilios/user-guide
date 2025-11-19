@@ -101,7 +101,7 @@ Here is a filtered view from Courses and Sessions showing how this looks from th
 
 The lower part of the screen is shown below. Any (or all) of the following Session-level attributes may be added here ...
 
-* **Session Administration:** Add Session Administrators
+* **Session Administration:** Add Session Administrators and / or Student Advisors
 * **Learners and Learner Groups:** Attach Learner Groups and / or Learners to the ILM
 * **Instructors and Instructor Groups:** Attach Instructors (or Instructor Groups) to the ILM
 * **Session Objectives:** Add Objectives to this Session. Once added, Session Objectives can have the following associated items added ...

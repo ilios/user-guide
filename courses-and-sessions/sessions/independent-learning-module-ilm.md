@@ -67,7 +67,7 @@ It is important to note that one or more Learner Groups or Individual Learners m
 
 ### Change Due Date / Time
 
-Following the instructions shown above for changing the due date and / or time of an ILM, the following controls appear to handle this task. Either or both can be modified as shown below. In this situation, the date field has been clicked, calling up the date picker control. Due time is controlled by changing the values in the drop-down menus.
+Following the instructions shown above for changing the due date and / or time of an ILM, the following controls are available to handle this task. Either or both can be modified as shown below. In this situation, the date field has been clicked, calling up the date picker control. Due time is controlled by changing the values in the drop-down menus.
 
 ![due Date/Time](../../images/ilm/due_dt_time.png)
 

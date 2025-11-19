@@ -59,7 +59,7 @@ To create an ILM ...
 
 ## ILM with Due Date / Time
 
-In the case below, the ILM was set with a Due Date of 7/28/2020. Once the Session is published, the ILM will appear on the Learner's calendar in a 15 minute time-slot at the specified time of day on the Due Date (7/28/2020).
+In the case below, the ILM was set with a Due Date of 9/16/2021. Once the Session is published, the ILM will appear on the Learner's calendar in a 15 minute time-slot at the specified time of day (5:00 PM) on the Due Date (9/16/2021).
 
 ![edit options for ILM](../../images/ilm/edit_options.png)
 

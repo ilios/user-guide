@@ -73,7 +73,7 @@ Following the instructions shown above for changing the due date and / or time o
 
 ## ILM Linked to Session
 
-It is also possible to link an ILM to an upcoming Session offering. This way the student will know to complete the activities required by the ILM before attending the learning activity to which the Learner has also been assigned.
+It is also possible to link an ILM to an upcoming Session offering or even another ILM. This way the student will know to complete the activities required by this ILM before attending or completing the learning activity to which they have also been assigned.
 
 ![click to link](../../images/ilm/ilm_screen1.png)
 

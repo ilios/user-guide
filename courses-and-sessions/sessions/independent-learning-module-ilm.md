@@ -129,9 +129,9 @@ Once the step above has been performed, all 8 sub groups and the parent group ha
 
 ![learner groups selected](../../images/ilm/learner_groups_selected.png)
 
-Now that (in this example) H & I Exam Groups has been selected, the display has been updated to reflect this selection. Now that the higher level group (H & I Exam Groups) and all 8 of its Sub Groups have been attached to this ILM Session, the Sub Groups can be removed individually or they can be removed all at the same time. These options are illustrated below. Membership counts are included in all groups. The parent group does not have any members assigned at that level but all of the sub groups do have members included. This is demonstrated in the screen shot above.
+Now that (in this example) H & I Exam Groups has been selected, the display has been updated to reflect this selection. Now that the higher level group (H & I Exam Groups) and all 8 of its Sub Groups have been attached to this ILM Session, the Sub Groups can be removed individually or they can be removed all at the same time. These options are illustrated below. Membership counts are included in all groups. The parent group does not have any members assigned at that level but all of the sub groups do have members included. This is demonstrated in the screen shots.
 
-![individual sub group removal](../../images/ilm/indiv_sub_removal.png)
+![individual sub group removal](../../images/ilm/individual_sub_group_removal.png)
 
 For the sake of documentation and to demonstrate, choosing Option 2 leads to the following results.
 

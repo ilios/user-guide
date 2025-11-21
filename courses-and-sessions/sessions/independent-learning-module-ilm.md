@@ -121,6 +121,12 @@ The lower part of the screen is shown below. Any (or all) of the following Sessi
 
 After clicking the "Manage Learners" button as shown in the screen shot above, follow the steps outlined below. Keep in mind that if this Session has attached Offerings with Learner Groups attached, this is a separate process. It is necessary to attach Learner Groups or Individual Learners and Instructors or Instructor Groups specifically to this ILM being created or no one will know it exists.
 
+The first step in this process is shown below.
+
+![click to select](../../images/ilm/click_to_select.png)
+
+Once the step above has been performed, all 8 sub groups and the parent group have been added to the ILM but have not been saved yet.
+
 ![select learner group](../../images/ilm/select_lg.png)
 
 Now that (in this example) H\&I Exam Groups has been selected, the display has been updated to reflect this selection. Now that the higher level group H\&I Exam and all 6 of its Sub Groups have been attached to this ILM Session, the Sub Groups can be removed individually or they can be removed all at the same time. These options are illustrated below.

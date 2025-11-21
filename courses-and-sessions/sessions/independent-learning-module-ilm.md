@@ -135,9 +135,9 @@ Now that (in this example) H & I Exam Groups has been selected, the display has 
 
 For the sake of documentation and to demonstrate, choosing Option 2 leads to the following results.
 
-![sub group removed](../../images/ilm/sub_removed.png)
+![sub group removed](../../images/ilm/sub_group_removed.png)
 
-Clicking "Remove All" (Option 1) would have removed all of the Sub Groups and the higher level group back to "Available Learner Groups", thus removing all of these groups from the ILM Session.
+Clicking the badge pertaining to the parent group (option 1) would have removed all of the Sub Groups and the higher level group back to "Available Learner Groups", thus removing all of these groups from the ILM Session.
 
 **NOTE:** Each higher level group with its associated Sub Groups now comes with its own container, allowing for the "Remove All" of just that higher level Group and its Sub Groups. Other Groups / Sub Groups will remain in their own container for individual Group maintenance.
 

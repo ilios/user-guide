@@ -141,7 +141,7 @@ Clicking the badge pertaining to the parent group (option 1) would have removed 
 
 **NOTE:** Containers are based at the cohort level. All groups and sub groups pertaining to a cohort will appear together.
 
-Below is a screen shot featuring several containers for reference.
+Below is a screen shot featuring several containers for reference. To get to this point, another cohort was added to the course along with some learner groups from the newly added cohort (Class of 2028) as well as another parent and group of sub groups from the previously selected cohort (Class of 2029).
 
 ![containers shown](../../images/ilm/containers_shown.png)
 

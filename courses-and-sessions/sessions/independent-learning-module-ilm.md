@@ -145,7 +145,7 @@ Below is a screen shot featuring several containers for reference. To get to thi
 
 ![containers shown](../../images/ilm/containers_shown.png)
 
-After saving (clicking the green check box button), the Learner Groups counter updates as shown below to reflect the total count of attached Learner Groups.
+After saving (clicking the green check box button), the Learners and Learner Groups counter updates as shown below to reflect the total count of attached Learner Groups. Since there have been no individual learners added, that count remains at zero.
 
 ![counter updated](../../images/ilm/counter_updated.png)
 

@@ -133,7 +133,7 @@ Now that (in this example) H & I Exam Groups has been selected, the display has 
 
 ![individual sub group removal](../../images/ilm/individual_sub_group_removal.png)
 
-For the sake of documentation and to demonstrate, choosing Option 2 leads to the following results.
+For the sake of documentation and to demonstrate, choosing Option 2 leads to the following results. The sub group "CL 212/213" has been selected for removal from the offering.
 
 ![sub group removed](../../images/ilm/sub_group_removed.png)
 

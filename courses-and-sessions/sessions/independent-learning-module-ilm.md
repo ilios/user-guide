@@ -153,6 +153,8 @@ After saving (clicking the green check box button), the Learners and Learner Gro
 
 Sub groups can be removed by performing a simple mouse-click. When a parent group is clicked upon either in the selection pane or the results pane, the parent group and all associated sub groups are removed. This can be avoided by utilizing the `Shift` key along with a mouse-click. Doing this will result in only the parent group being removed. This is true in either the output pane or the selction pane.
 
+More information on this shift-click usage pattern can be found [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/edit-offering#shift-click-editing-options). 
+
 ## Manage Individual Learners
 
 Adding individual learners to ILM's can be done by clicking "Manage Learners". Individual learners can now be added in addition (or as an option) to the more traditionally assigned Learner Groups - detailed above. The process of searching for and selecting individual learners starts as shown below.

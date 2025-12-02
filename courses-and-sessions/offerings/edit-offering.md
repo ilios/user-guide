@@ -86,6 +86,6 @@ The full capability to edit the offering becomes available without having to nav
 
 See above for reference on how to select or de-select any individual group (or parent group) in a tree. This same technique can be applied in the location depicting which groups are attached to any given offering. The Shift key can be used to select or de-select any Learner Group within a selected tree.
 
-After learner groups and parents have been selected, the "Shift" key, along with a click can remove the unneeded parent group in a similar manner.
+After learner groups and parents have been selected, the "Shift" key, along with a click can remove the unneeded parent group in a similar manner. This action can be performed in either of the locations shown below - the portion of the screen showing the attachments already selected ("preview") or the editing pane below.
 
 ![remove parent group](../../images/edit_offering/remove_parent_group.png)

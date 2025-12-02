@@ -151,7 +151,7 @@ After saving (clicking the green check box button), the Learners and Learner Gro
 
 ## Remove Parent Group
 
-Sub groups can be removed by performing a simple mouse-click. When a parent group is clicked upon either in the selection pane or the results pane, the parent group and all associated sub groups are removed. This can be avoided by utilizing the `Shift` key along with a mouse-click. Doing this will result in only the parent group being removed. This is true in either the output or the selction pane.
+Sub groups can be removed by performing a simple mouse-click. When a parent group is clicked upon either in the selection pane or the results pane, the parent group and all associated sub groups are removed. This can be avoided by utilizing the `Shift` key along with a mouse-click. Doing this will result in only the parent group being removed. This is true in either the output pane or the selction pane.
 
 ## Manage Individual Learners
 

@@ -22,11 +22,11 @@ Underneath the "Scheduling" component is an area to set who will be attending th
 
 ## Instructors
 
-Adding instructors either as a group ([Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)) or as individual instructors is shown below.
+Adding instructors either as a group ([Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)) or as individual instructors is shown below. They can even be added both at the same time as shown below.
 
-![Before searching](../../images/create_single_offering/instructor_search.png)
+![instructor search](../../images/create_single_offering/instructor_search.png)
 
-![After searching and selecting](../../images/create_single_offering/instructors_selected.png)
+![instructors selected](../../images/create_single_offering/instructors_selected.png)
 
 ## Learners
 
@@ -34,7 +34,7 @@ The next section shows how this process functions for adding learners to an Offe
 
 ### Add Learner Groups
 
-![Search](../../images/create_single_offering/lg1.png)
+![search](../../images/create_single_offering/lg1.png)
 
 After searching and selecting as shown above ...
 

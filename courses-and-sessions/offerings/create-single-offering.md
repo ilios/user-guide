@@ -24,6 +24,8 @@ Underneath the "Scheduling" component is an area to set who will be attending th
 
 Adding instructors either as a group ([Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)) or as individual instructors is shown below. They can even be added both at the same time as shown below.
 
+### Add Instructors
+
 ![instructor search](../../images/create_single_offering/instructor_search.png)
 
 ![instructors selected](../../images/create_single_offering/instructors_selected.png)

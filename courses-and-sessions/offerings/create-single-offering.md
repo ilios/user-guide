@@ -40,7 +40,7 @@ The next section shows how this process functions for adding learners to an Offe
 
 After searching and selecting as shown above ...
 
-![Learner Groups - selected](../../images/create_single_offering/lg2.png)
+![learner groups - selected](../../images/create_single_offering/learner_groups_selected.png)
 
 ### Add Individual Learners
 

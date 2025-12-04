@@ -23,7 +23,9 @@ In the screen shot below, two courses have been chosen.
 Currently (as of March 2025), we are offering two options for report output. More will be offered soon. 
 
 1.  Session Objectives 
-2.  Learner Groups
+2.  Session Offerings
+3.  Learner Groups
+4.  Instructional Time
 
 The available buttons perform the actions of copying a shareable link to a generated report or running the report for the current user.
 
@@ -78,6 +80,16 @@ The following fields are included in the output on the .csv download file (initi
 * Hours - duration of offering if applicable
 * Web Link - full URL to the session in Ilios
 
+## Session Offeringe Report 
+
+* Course 
+* Year - academic year of instruction
+* Session
+* Offering Date
+* Instructors - combined into one field and row per offering
+* Learner Groups - combined into one field and row per offering
+* Web Link - URL to session in courses and sessions
+
 ## Learner Groups Report
 
 * ID - refers to the `course_id` value in the database
@@ -88,6 +100,10 @@ The following fields are included in the output on the .csv download file (initi
 * Instructors - combined into one field and row per session 
 * Learner Group - name / title of attached learner group
 * Web Link - full URL to the session in Ilios
+
+## Instructional Time Report
+
+This has not been released yet but will be soon (as of December 2025). Details will be here soon.
 
 
 

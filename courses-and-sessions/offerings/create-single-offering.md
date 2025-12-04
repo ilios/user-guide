@@ -36,7 +36,7 @@ The next section shows how this process functions for adding learners to an Offe
 
 ### Add Learner Groups
 
-![search](../../images/create_single_offering/lg1.png)
+![search for learner groups](../../images/create_single_offering/search_for_learner_groups.png)
 
 After searching and selecting as shown above ...
 

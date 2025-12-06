@@ -30,28 +30,28 @@ The default setting for "recurring events" is "off". This option needs to be act
 
 ### Add remaining attributes
 
-![Add Instructors](../../images/recurring_events/add_instructors.png)
+![add instructors](../../images/recurring_events/add_instructors.png)
 
-![Add Learner Groups](../../images/recurring_events/add_learner_groups.png)
+![add learner groups](../../images/recurring_events/add_learner_groups.png)
 
 All 8 of the sub groups under Demo Group will be added to these offerings together since Small Groups was NOT selected in the first step. Individual Learners can also be added in this step.
 
 Click "Save" as shown below.
 
-![Save to create offerings](../../images/recurring_events/create_offerings.png)
+![create offerings](../../images/recurring_events/create_offerings.png)
 
 Once "Save" has been clicked, the events now appear as follows and can be modified at will. Only the top two of the six are shown in the Offerings editor.
 
 ## Offerings Editor View
 
-![Offerings Editor view](../../images/recurring_events/offerings_editor_view.png)
+![offerings editor view](../../images/recurring_events/offerings_editor_view.png)
 
 ## Session List View
 
 In the Session List, when this session is expanded, all six offerings can be seen here. The entire editing pane shown in previous steps in this chapter becomes enabled and viewable. Editing can be easily done from here.
 
-![Session List View](../../images/recurring_events/session_list_view.png)
+![session list view](../../images/recurring_events/session_list_view.png)
 
 ## Calendar View
 
-![Calendar View](../../images/recurring_events/calendar_view.png)
+![calendar view](../../images/recurring_events/calendar_view.png)

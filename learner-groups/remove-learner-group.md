@@ -22,7 +22,7 @@ Once the check box has selected as shown by the action indicated by the blue arr
 
 It is important (even if the group has already been emptied of members) to make sure the Learner Group is not attached to any Courses and Sessions. There are several easy ways to make sure this is the case before permanently deleting the Learner Group.
 
-The removal of the Learners from the Learner Group has not yet taken place. This is a good time to review for sessions and offerings with which this Learner Group is associated - before removing the members.
+The removal of the Learners from the Learner Group has not yet taken place. This is a good time to review for sessions and offerings with which this learner group is associated - before removing the members. As shown below, the calendar can be viewed to review the offerings associated with this learner group or there is an easily accessible listing available here as well.
 
 ![review options](../images/delete_learner_group/review_options.png)
 

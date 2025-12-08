@@ -41,7 +41,7 @@ The process for adding default instructor(s) is similar to adding the other defa
 
 After clicking as shown above, the screen adjusts to allow for the search for one or more instructors and/or instructor groups to be performed.
 
-![Default instructor - search](../images/learner_group_defaults/default_instructor_search.png)
+![default instructor - search](../images/learner_group_defaults/default_instructor_search.png)
 
 **Step Three**
 
@@ -93,7 +93,7 @@ You can review and verify which learner groups have had this value set. Refer to
 
 These groups are subgroups. From the parent group (one level up), this is how these designations appear.
 
-![Needs accommodation - parent group view](../images/learner_group_defaults/mouse_over_callout.png)
+![needs accommodation - parent group view](../images/learner_group_defaults/mouse_over_callout.png)
 
 Learners in these groups will NOT see this anywhere in the offering view on any calendar view, Week at a Glance, or by calendar feed. This is only for administrative purposes.
 

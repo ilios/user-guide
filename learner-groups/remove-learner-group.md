@@ -16,7 +16,7 @@ Once the check box has selected as shown by the action indicated by the blue arr
 
 ![remove all members](../images/delete_learner_group/remove_all_members.png)
 
-**IMPORTANT NOTE:** The members being removed are being removed from this Learner Group only. They are **NOT** being removed from any other Learner Group.
+**IMPORTANT NOTE:** The members being removed are being removed from this Learner Group only. They are **NOT** being removed from any their other learner groups and they are still in the cohort.
 
 ## Check for Sessions
 

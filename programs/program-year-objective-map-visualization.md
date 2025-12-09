@@ -6,7 +6,7 @@ It may be helpful to select a matriculation year with a considerable amount of d
 
 ![select visualization](../images/programs/objective_map_visualization/select_visualization.png)
 
-Once the data has been processed after a second or two, the following high level visualization appears on screen. This needs to be clicked to drill down to be able to review the data.
+Once the data has been processed after a second or two, the following high level visualization appears on screen. This can be clicked to drill down into lower levels to be able to review the data.
 
 ![click for more details](../images/programs/objective_map_visualization/click_for_more_details.png)
 

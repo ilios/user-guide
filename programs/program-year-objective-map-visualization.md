@@ -6,15 +6,15 @@ It may be helpful to select a matriculation year with a considerable amount of d
 
 ![select visualization](../images/programs/objective_map_visualization/select_visualization.png)
 
-Once the data has been processed after a second or two, the following high level visualization appears on screen. This can be clicked to drill down into lower levels to be able to review the data.
+Once the data has been processed after a second or two, the following high level visualization appears on screen. The mouse can be used to hover over and reveal more details about the underlying data.
 
-![click for more details](../images/programs/objective_map_visualization/click_for_more_details.png)
+![mouse-over for more details](../images/programs/objective_map_visualization/mouse_over_for_more_details.png)
 
-After clicking as shown above, the visualization can be reviewed. This is currently required as an extra step due to the fact that we may have more visualizations at this higher level in the future.
+The highest level mouse-over view is shown below.
 
 ![highest level mouse-over](../images/programs/objective_map_visualization/highest_level_mouse_over.png)
 
-Clicking further down at each level will reveal the appropriate detail. 
+Mousing over further down at each level will reveal the appropriate details. 
 
 ![competency domain level (Medical Knowledge)](../images/programs/objective_map_visualization/competency_domain_level.png)
 

@@ -96,9 +96,9 @@ Click either of the "Edit" buttons will open up any and all fields that can be e
 
 Once a form-based authentication user has been added to the system, modifications to the pertaining settings can be performed. **Pronouns** (he/him/his) (she/her/hers) (they/them/theirs) can be specified here as well as **Preferred Email**, which can be used if the user has another email account they would rather use to receive teaching reminders and other electronic communication. The user's **Password** can be reset here as well. Any of these fields may be modified here.
 
-### Other Account Settings Edits**
+### Other Account Settings Edits
 
-Clicking on the right "edit" button activates several fields as shown below.
+Clicking on the "edit" button activates several fields as shown below.
 
 ![edit other properties](../images/admin_console/add_new_user/edit_other_properties.png)
 

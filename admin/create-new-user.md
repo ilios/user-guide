@@ -102,7 +102,7 @@ Clicking on the "edit" button activates several fields as shown below.
 
 ![edit other properties](../images/admin_console/add_new_user/edit_other_properties.png)
 
-The **Student**, **Performs Non-Learner Functions**, and **Learner** flags are all set to "No" since this user was entered as a Non-Student. They can be added to one or more Cohorts however; and if this occurs, the **Student** flag would be set to "Yes". if the user is added to an offering manually but not included in a Cohort, the **Learner** flag would be set to "Yes" following this usage path as well. If the user is added as an Instructor, the Performs Non-Learner Functions flag would be set to "Yes". These values cannot be manually modified here.
+The **Student**, **Performs Non-Learner Functions**, and **Learner** flags are all set to "No" since this user was entered as a Non-Student. They can be added to one or more Cohorts however; and if this occurs, the **Student** flag would be set to "Yes". if the user is added to an offering manually but not included in a Cohort, the **Learner** flag would be set to "Yes" following this usage path as well. If the user is attached to an offering or ILM as an Instructor, the Performs Non-Learner Functions flag would be set to "Yes". These values cannot be manually modified here.
 
 **Account Enabled**, and **Exclude From Sync** can all be specified here. These values determine whether the user can log in to Ilios "Account Entabled - no" at the current time or if their properties are exlcuded from any potential synchronization or cron jobs that are run automatically "Exclude From Sync - yes".
 

@@ -8,6 +8,8 @@ description: >-
 
 The "Create New User" button is also available from the starting point of the Admin Console. The steps detailed in the previous section apply to adding a new user in this manner as well. The steps are the same.
 
+## Add User from Directory
+
 The starting point for searching the campus directory to potentially add users to Ilios is shown below. 
 
 ![add user from directory - start](../images/admin_console/add_new_user/add_user_from_directory_start.png)
@@ -15,14 +17,6 @@ The starting point for searching the campus directory to potentially add users t
 The screen appears as what is shown below (with real data redacted). This is the same as detailed the "View All" section. The screen and the functionality is the same as if clicking "View All" and then clicking "Create New User". Essentially if you are positive that it is not necessary to search existing Ilios users and that one or more new Ilios users need to be added from the campus directory, you can skip that step and go straight here.
 
 ![search directory](../images/admin_console/add_new_user/search_directory.png)
-
-## Add User from Directory
-
-Click this to either add a new user from the campus directory or to add a new user manually if a directory is not used. This depends on how your school is configured to handle user authentication.
-
-Using the Campus Directory method, the following screen shows the area where the search criteria can be entered in order to retrieve the account to be added. It is done one at a time.
-
-![from directory - start](../images/admin_console/add_new_user/from_directory_start.jpg)
 
 Enter search criteria and click "Search directory for new users". In the example below, a search for "Leonard D" was performed. The results are shown below with identifying data scrubbed since this is from the actual UCSF Campus Directory.
 

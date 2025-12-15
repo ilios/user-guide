@@ -1,12 +1,16 @@
 ---
 description: >-
-  Users can be added to Ilios either from a Campus directory or manual entry
-  depending on your Institution's configuration.
+  Users can be added to Ilios either from a campus directory or manual entry
+  depending on your institution's configuration.
 ---
 
 # Add Ilios User
 
 The "Create New User" button is also available from the starting point of the Admin Console. The steps detailed in the previous section apply to adding a new user in this manner as well. The steps are the same.
+
+The starting point for searching the campus directory to potentially add users to Ilios is shown below. 
+
+![add user from directory - start](../images/admin_console/add_new_user/add_user_from_directory_start.png)
 
 The screen appears as what is shown below (with real data redacted). This is the same as detailed the "View All" section. The screen and the functionality is the same as if clicking "View All" and then clicking "Create New User". Essentially if you are positive that it is not necessary to search existing Ilios users and that one or more new Ilios users need to be added from the campus directory, you can skip that step and go straight here.
 

@@ -4,11 +4,9 @@ description: >-
   depending on your institution's configuration.
 ---
 
-# Add Ilios User
-
 The "Create New User" button is also available from the starting point of the Admin Console. The steps detailed in the previous section apply to adding a new user in this manner as well. The steps are the same.
 
-## Add User from Directory
+# Add User from Directory
 
 The starting point for searching the campus directory to potentially add users to Ilios is shown below. 
 
@@ -24,15 +22,18 @@ Enter search criteria and click "Search directory for new users". In the example
 
 **Icons Explained**
 
-- Ready and able to add to Ilios ![ready to add](../images/admin_console/add_new_user/ready_to_add.png)
+- Ready and able to add to Ilios 
+![ready to add](../images/admin_console/add_new_user/ready_to_add.png)
 
-- Something is wrong or missing. User cannot be added to Ilios at this time. ![something is wrong](../images/admin_console/add_new_user/something_is_wrong.png)
+- Something is wrong or missing. User cannot be added to Ilios at this time. 
+![something is wrong](../images/admin_console/add_new_user/something_is_wrong.png)
 
-- Already in Ilios. User can only be added once. ![already added](../images/admin_console/add_new_user/already_added.png)
+- Already in Ilios. User can only be added once. 
+![already added](../images/admin_console/add_new_user/already_added.png)
 
-### Search to Add User
+## Search to Add User
 
-A Search was performed for "Loomis".
+A search was performed for "Loomis".
 
 ![search for user](../images/admin_console/add_new_user/search_for_user.jpg)
 
@@ -48,7 +49,7 @@ When a Student is added, the Primary Cohort should be selected at this time (as 
 
 ![add student](../images/admin_console/add_new_user/add_student.jpg)
 
-## Add User Manually
+# Add User Manually
 
 This refers to adding a user by typing and entering the user attributes manually, meaning not from a directory. If your institution is not hooked up to a directory, this is the process you would follow. This type of user management is referred to as "Form-based authentication", meaning the parameters for being allowed into the system are entered into a form by the user.
 
@@ -59,7 +60,7 @@ Click to start this process as shown below in Figure 1.
 
 After clicking as shown above, the user attributes should be added. Just as with a directory-based user maintenance situation, a user can be added initially either a student or non-student. Students need to be added to a cohort when the record is being created.
 
-### Non-student User
+## Non-student User
 
 ![add non-student manually](../images/admin_console/add_new_user/add_non_student_manually.png)
 
@@ -94,7 +95,7 @@ Click either of the "Edit" buttons will open up any and all fields that can be e
 
 Once a form-based authentication user has been added to the system, modifications to the pertaining settings can be performed. **Pronouns** (he/him/his) (she/her/hers) (they/them/theirs) can be specified here as well as **Preferred Email**, which can be used if the user has another email account they would rather use to receive teaching reminders and other electronic communication. The user's **Password** can be reset here as well. Any of these fields may be modified here.
 
-### Other Account Settings Edits
+## Other Account Settings Edits
 
 Clicking on the "edit" button activates several fields as shown below.
 

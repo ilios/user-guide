@@ -14,11 +14,11 @@ The starting point for searching the campus directory to potentially add users t
 
 The screen appears as what is shown below (with real data redacted). This is the same as detailed the "View All" section. The screen and the functionality is the same as if clicking "View All" and then clicking "Create New User". Essentially if you are positive that it is not necessary to search existing Ilios users and that one or more new Ilios users need to be added from the campus directory, you can skip that step and go straight here.
 
-![create new user](../images/admin_console/add_new_user/create_new_user.jpg)
+![search directory](../images/admin_console/add_new_user/search_directory.png)
 
 ## Add User from Directory
 
-Click this to either add a new user from the Campus Directory or to add a new user manually if a directory is not used. This depends on how your school is configured to handle user authentication.
+Click this to either add a new user from the campus directory or to add a new user manually if a directory is not used. This depends on how your school is configured to handle user authentication.
 
 Using the Campus Directory method, the following screen shows the area where the search criteria can be entered in order to retrieve the account to be added. It is done one at a time.
 

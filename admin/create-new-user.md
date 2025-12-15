@@ -20,7 +20,7 @@ The screen appears as what is shown below (with real data redacted). This is the
 
 Enter search criteria and click "Search directory for new users". In the example below, a search for "Leonard D" was performed. The results are shown below with identifying data scrubbed since this is from the actual UCSF Campus Directory.
 
-![from directory - search](../images/admin_console/add_new_user/from_directory_search.jpg)
+![directory - search results](../images/admin_console/add_new_user/directory_search_results.png)
 
 **Icons Explained**
 

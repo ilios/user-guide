@@ -103,7 +103,13 @@ The following fields are included in the output on the .csv download file (initi
 
 ## Instructional Time Report
 
-This has not been released yet but will be soon (as of December 2025). Details will be here soon.
+* Course
+* Session
+* Session Type
+* Date (offering date)
+* Name (instructor name)
+* Minutes (offering duration)
+* Web Link (URL to session in courses and sessions)
 
 
 

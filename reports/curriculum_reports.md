@@ -65,9 +65,9 @@ The Results Summary displays some informational summaries - rolled up data corre
 
 The two types of reports currently available contain the following fields included in the downloaded .csv files. When finished reviewing and / or downloading data, click "Close" to return to Curriculum Reports to run another or navigate elsewhere. You can keep the same selection previously applied as far as courses are concerned or clear all values by clicking "Select All or None" twice (if some are selected) until the check box has been cleared of value.
 
-**NOTE:** One or more courses need to be selected before selecting one of the two reports- the outputs of which are detailed below.
+**NOTE:** One or more courses need to be selected before selecting one of the reports - the outputs of the downlaoded files are detailed below. The screen initially shows a rolled up summary of the information which is included in more detail in the download file.
 
-The following fields are included in the output on the .csv download file (initially called objectives.csv).
+The following fields are included in the output on the .csv download file. Each report has its own naming conventions. These will be covered in each report's section below.
 
 ## Session Objectives Report
 

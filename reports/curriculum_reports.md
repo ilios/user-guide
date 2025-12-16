@@ -71,6 +71,13 @@ The following fields are included in the output on the .csv download file. Each 
 
 ## Session Objectives Report
 
+### File Name 
+
+The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
+`objectives.csv` or `objectives(x).csv` where x will increment by one with every new file created and saved in the downloaded file location.
+
+### Fields
+
 * Course
 * Session 
 * Session Type
@@ -82,6 +89,13 @@ The following fields are included in the output on the .csv download file. Each 
 
 ## Session Offeringe Report 
 
+### File Name 
+
+The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
+`offerings.csv` or `offerings(x).csv` where x will increment by one with every new file created and saved in the downloaded file location.
+
+### Fields
+
 * Course 
 * Year - academic year of instruction
 * Session
@@ -91,6 +105,13 @@ The following fields are included in the output on the .csv download file. Each 
 * Web Link - URL to session in courses and sessions
 
 ## Learner Groups Report
+
+### File Name 
+
+The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
+`learner-groups.csv` or `learner-groups(x).csv` where x will increment by one with every new file created and saved in the downloaded file location.
+
+### Fields
 
 * ID - refers to the `course_id` value in the database
 * Course 
@@ -102,6 +123,13 @@ The following fields are included in the output on the .csv download file. Each 
 * Web Link - full URL to the session in Ilios
 
 ## Instructional Time Report
+
+### File Name 
+
+The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
+`instructional-time.csv` or `instructional-time(x).csv` where x will increment by one with every new file created and saved in the downloaded file location.
+
+### Fields
 
 * Course
 * Session

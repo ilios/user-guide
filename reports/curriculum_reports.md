@@ -43,7 +43,7 @@ After clicking the "Run" button, the screen will display a progress bar briefly 
 
 ## Results Summary
 
-The "copy link" button remains in this view, along with a "close" button just to close this screen and return to design view at the root of "Curriculum Reports". The courses are hyperlinked as indicted in the image, along with the download button.
+The "copy link" button remains in this view, along with a "close" button just to close this screen and return to design view at the root of "Curriculum Reports". The courses are hyperlinked as indicted in the image, along with the download button. Screen shots for each report are shown below as well.
 
 ![results summary](../images/reports/results_summary.png)
 
@@ -70,6 +70,19 @@ The two types of reports currently available contain the following fields includ
 The following fields are included in the output on the .csv download file. Each report has its own naming conventions. These will be covered in each report's section below.
 
 ## Session Objectives Report
+
+### Results Summary
+
+As shown below, the Results Summary for this report is shown below. This is displayed after selecting one or more courses and running the report. All other Curriculum Reports have similar outputs.
+
+The fields summarized are ...
+
+* Course (listed)
+* Sessions (total count)
+* Instructors (total count)
+* Objectives (total count)
+
+![session objectives result summary](../images/reports/curriculum_reports/session_objectives_result_summary.png)
 
 ### File Name 
 

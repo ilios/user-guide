@@ -67,7 +67,7 @@ The two types of reports currently available contain the following fields includ
 
 **NOTE:** One or more courses need to be selected before selecting one of the reports - the outputs of the downlaoded files are detailed below. The screen initially shows a rolled up summary of the information which is included in more detail in the download file.
 
-The following fields are included in the output on the .csv download file. Each report has its own naming conventions. These will be covered in each report's section below.
+The fields indicated are included in the output on the .csv download file. Each report has its own naming conventions. These are covered in each report's section below.
 
 ## Session Objectives Report
 
@@ -87,7 +87,7 @@ The fields summarized are ...
 ### File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
-`objectives.csv` or `objectives(x).csv` where x will increment by one with every new file created and saved in the downloaded file location.
+`objectives.csv` or `objectives(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
 ### Fields
 
@@ -100,12 +100,12 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 * Hours - duration of offering if applicable
 * Web Link - full URL to the session in Ilios
 
-## Session Offeringe Report 
+## Session Offerings Report 
 
 ### File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
-`offerings.csv` or `offerings(x).csv` where the value "x" will increment by one with every new file created and saved in the downloaded file location.
+`offerings.csv` or `offerings(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
 ### Fields
 
@@ -122,7 +122,7 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 ### File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
-`learner-groups.csv` or `learner-groups(x).csv` where the value "x" will increment by one with every new file created and saved in the downloaded file location.
+`learner-groups.csv` or `learner-groups(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
 ### Fields
 
@@ -140,7 +140,7 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 ### File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
-`instructional-time.csv` or `instructional-time(x).csv` where the value "x" will increment by one with every new file created and saved in the downloaded file location.
+`instructional-time.csv` or `instructional-time(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
 ### Fields
 
@@ -151,6 +151,3 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 * Name (instructor name)
 * Minutes (offering duration)
 * Web Link (URL to session in courses and sessions)
-
-
-

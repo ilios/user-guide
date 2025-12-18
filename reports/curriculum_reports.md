@@ -87,7 +87,7 @@ The fields summarized are ...
 ### File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
-`objectives.csv` or `objectives(x).csv` where x will increment by one with every new file created and saved in the downloaded file location.
+`objectives.csv` or `objectives(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
 ### Fields
 
@@ -105,7 +105,7 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 ### File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
-`offerings.csv` or `offerings(x).csv` where the value "x" will increment by one with every new file created and saved in the downloaded file location.
+`offerings.csv` or `offerings(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
 ### Fields
 
@@ -122,7 +122,7 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 ### File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
-`learner-groups.csv` or `learner-groups(x).csv` where the value "x" will increment by one with every new file created and saved in the downloaded file location.
+`learner-groups.csv` or `learner-groups(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
 ### Fields
 
@@ -140,7 +140,7 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 ### File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
-`instructional-time.csv` or `instructional-time(x).csv` where the value "x" will increment by one with every new file created and saved in the downloaded file location.
+`instructional-time.csv` or `instructional-time(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
 ### Fields
 
@@ -151,6 +151,3 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 * Name (instructor name)
 * Minutes (offering duration)
 * Web Link (URL to session in courses and sessions)
-
-
-

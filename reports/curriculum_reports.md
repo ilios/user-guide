@@ -77,7 +77,7 @@ As shown below, the Results Summary for this report is shown below. This is disp
 
 The fields summarized are ...
 
-* Course (listed)
+* Course (listed with URL)
 * Sessions (total count)
 * Instructors (total count)
 * Objectives (total count)
@@ -101,6 +101,21 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 * Web Link - full URL to the session in Ilios
 
 # Session Offerings Report 
+
+## Results Summary
+
+As shown below, the Results Summary for this report is shown below. This is displayed after selecting one or more courses and running the report. All other Curriculum Reports have similar outputs.
+
+The fields summarized are ...
+
+* Course (listed with URL)
+* Year (listed)
+* Session (total count)
+* Offerings (total count)
+* Instructors (total count)
+* Learner Groups (total count)
+
+![session objectives result summary](../images/reports/curriculum_reports/session_offerings_result_summary.png)
 
 ## File Name 
 

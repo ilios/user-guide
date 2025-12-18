@@ -59,7 +59,7 @@ As shown above, there are two buttons available either when viewing the results 
 
 The URL is copied to the user's clipboard to be distrubted using whatever technique they choose to use - typically email or other message sending application.
 
-# Output Fields 
+## Output Fields 
 
 The Results Summary displays some informational summaries - rolled up data corresponding to the results of running the report. The downloaded .csv files, which can be opened and modified in Excel or other programs contains the detailed information at a much more granular level.
 
@@ -69,9 +69,9 @@ The two types of reports currently available contain the following fields includ
 
 The fields indicated are included in the output on the .csv download file. Each report has its own naming conventions. These are covered in each report's section below.
 
-## Session Objectives Report
+# Session Objectives Report
 
-### Results Summary
+## Results Summary
 
 As shown below, the Results Summary for this report is shown below. This is displayed after selecting one or more courses and running the report. All other Curriculum Reports have similar outputs.
 
@@ -84,12 +84,12 @@ The fields summarized are ...
 
 ![session objectives result summary](../images/reports/curriculum_reports/session_objectives_result_summary.png)
 
-### File Name 
+## File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
 `objectives.csv` or `objectives(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
-### Fields
+## Fields
 
 * Course
 * Session 
@@ -100,14 +100,14 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 * Hours - duration of offering if applicable
 * Web Link - full URL to the session in Ilios
 
-## Session Offerings Report 
+# Session Offerings Report 
 
-### File Name 
+## File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
 `offerings.csv` or `offerings(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
-### Fields
+## Fields
 
 * Course 
 * Year - academic year of instruction
@@ -117,14 +117,14 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 * Learner Groups - combined into one field and row per offering
 * Web Link - URL to session in courses and sessions
 
-## Learner Groups Report
+# Learner Groups Report
 
-### File Name 
+## File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
 `learner-groups.csv` or `learner-groups(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
-### Fields
+## Fields
 
 * ID - refers to the `course_id` value in the database
 * Course 
@@ -135,14 +135,14 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 * Learner Group - name / title of attached learner group
 * Web Link - full URL to the session in Ilios
 
-## Instructional Time Report
+# Instructional Time Report
 
-### File Name 
+## File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
 `instructional-time.csv` or `instructional-time(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
-### Fields
+## Fields
 
 * Course
 * Session

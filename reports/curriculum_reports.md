@@ -100,7 +100,7 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 * Hours - duration of offering if applicable
 * Web Link - full URL to the session in Ilios
 
-## Session Offeringe Report 
+## Session Offerings Report 
 
 ### File Name 
 

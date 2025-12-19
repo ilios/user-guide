@@ -82,7 +82,7 @@ The fields summarized are ...
 * Instructors (total count)
 * Objectives (total count)
 
-![session objectives result summary](../images/reports/curriculum_reports/session_objectives_result_summary.png)
+![session objectives results summary](../images/reports/curriculum_reports/session_objectives_results_summary.png)
 
 ## File Name 
 
@@ -115,7 +115,7 @@ The fields summarized are ...
 * Instructors (total count)
 * Learner Groups (total count)
 
-![session objectives result summary](../images/reports/curriculum_reports/session_offerings_result_summary.png)
+![session objectives results summary](../images/reports/curriculum_reports/session_offerings_results_summary.png)
 
 ## File Name 
 
@@ -133,6 +133,21 @@ The names of the file that will end up in the user's "Downloads" folder follows 
 * Web Link - URL to session in courses and sessions
 
 # Learner Groups Report
+
+## Results Summary 
+
+As shown below, the Results Summary for the Learner Groups report is shown below. This is displayed after selecting one or more courses and running the report. All other Curriculum Reports have similar outputs.
+
+The fields summarized are ...
+
+* Course (listed with URL)
+* Year (listed)
+* Session (total count)
+* Offerings (total count)
+* Instructors (total count)
+* Learner Groups (total count)
+
+![learner groups results summary](../images/reports/curriculum_reports/learner_groups_results_summary.png)
 
 ## File Name 
 

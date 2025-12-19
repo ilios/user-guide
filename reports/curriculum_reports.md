@@ -89,7 +89,7 @@ The fields summarized are ...
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
 `objectives.csv` or `objectives(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
-## Fields
+## Fields Included in Download
 
 * Course
 * Session 
@@ -122,7 +122,7 @@ The fields summarized are ...
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
 `offerings.csv` or `offerings(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
-## Fields
+## Fields Included in Download
 
 * Course 
 * Year - academic year of instruction
@@ -154,25 +154,32 @@ The fields summarized are ...
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
 `learner-groups.csv` or `learner-groups(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
-## Fields
+## Fields Included in Download
 
-* ID - refers to the `course_id` value in the database
-* Course 
-* Year - academic year of instruction
-* Session 
-* First Offering - date of first offering for any given session
-* Instructors - combined into one field and row per session 
-* Learner Group - name / title of attached learner group
-* Web Link - full URL to the session in Ilios
+* Course
+* Year
+* Session
+* First Offering
+* Instructors
+* Learner Group
+* Web Link
 
 # Instructional Time Report
+
+## Results Summary 
+
+As shown below, the Results Summary for the Learner Groups report is shown below. This is displayed after selecting one or more courses and running the report. All other Curriculum Reports have similar outputs.
+
+The fields summarized are shown in the screen shot below.
+
+![instructional time results summary](../images/reports/curriculum_reports/instructional_time_results_summary.png)
 
 ## File Name 
 
 The names of the file that will end up in the user's "Downloads" folder follows the following naming convention: 
 `instructional-time.csv` or `instructional-time(x).csv` where the value of "x" will increment by one with every new file created and saved in the downloaded file location.
 
-## Fields
+## Fields Included in Download
 
 * Course
 * Session

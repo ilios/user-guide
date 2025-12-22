@@ -53,9 +53,9 @@ If the download button is utilized, the user will be prompted like any other dow
 
 The files will be downloaded with the following names ("objectives.csv" or "learner-groups.csv"). It is recommended to change the file names after downloading the data in order to keep everything straightened out. The names will download with file names such as "objectives(1).csv" and then "objectives(2)csv" if this is not done. This is for an output of the Objectives reports as an example. 
 
-## Copy Report 
+## Copy Report Link
 
-As shown above, there are two buttons available either when viewing the results or before running the report. One of these buttons is used to copy a curriculum report. What is being copied in this case is a URL link to this report. The parameters are all included in the URL so a receiving user (with permissions in the system) can run the report and view / download the data without having to painstakingly choose all of the courses and report type themselves. It can save a lot of time and makes these report shareable.
+As shown above, there are two buttons available either when viewing the results or before running the report. One of these buttons is used to copy a link to a curriculum report that has just been created. What is being copied in this case is a URL link to this report. The parameters are all included in the URL so a receiving user (with permissions in the system) can run the report and view / download the data without having to painstakingly choose all of the courses and report type themselves. It can save a lot of time and makes these report shareable.
 
 The URL is copied to the user's clipboard to be distrubted using whatever technique they choose to use - typically email or other message sending application.
 

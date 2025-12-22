@@ -1,3 +1,5 @@
+Subject Reports are what in the past were contained in "My Reports" and were the only ones available in Ilios until the development of Curriculum Reports. They are more "canned" or pre-compiled than curriculum reports but are very useful in gathering important view into data contained in Ilios.
+
 # Run Saved Report
 
 This shows a typical user's saved reports, which can be run at any time by this user. At this time only Subject reports can be saved and stored in Ilios. Curriculum reports are created and viewed with the output available for download at run-time. As detailed [here](https://iliosproject.gitbook.io/ilios-user-guide/reports/curriculum_reports), curriculum reports can be shared with other users after being created.

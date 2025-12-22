@@ -95,13 +95,14 @@ As shown in the previous steps, it has been decided to run a Term based report w
 
 ![report options - to save ... or not](../images/reports/to_save_or_not_to_save.png)
 
-## Ad-hoc / View Only
 
 This workflow allows the user to view and / or download the data from a newly created report but not save it for future use. This would be for situations when the data is only needed this one time.
 
 If you want to download the outputted data, the report needs to be saved and then run again in order to get the download to be available for use.
 
-See the image below for the current reporting matrix.
+## Report Matrix
+
+See the image below for the current report matrix showing the combinations available for selection.
 
 ![report selection options](../images/reports/report_options.png)
 

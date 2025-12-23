@@ -1,4 +1,4 @@
-Subject Reports, previously contained in "My Reports", were the only ones available in the Ilios application until the development of Curriculum Reports. They are more "canned" or pre-compiled than curriculum reports but are very useful in gathering important view into data contained in Ilios.
+Subject Reports, previously contained in "My Reports", were the only ones available in the Ilios application until the development of Curriculum Reports. They are more "canned" or pre-compiled than curriculum reports but are very useful in reviewing important data contained in Ilios.
 
 # Run Saved Report
 
@@ -6,7 +6,7 @@ This shows a typical user's saved reports, which can be run at any time by this 
 
 ![saved reports - start](../images/reports/subject_reports/saved_reports_start.png)
 
-Running any of the reports here is as easy as simply clicking on the link. This is shown below.
+Running any of the reports here is as easy as clicking on the link. This is shown below.
 
 ![run a report](../images/reports/run_selected_report.png)
 

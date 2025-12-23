@@ -1,4 +1,4 @@
-Subject Reports, previously contained in "My Reports", were the only ones available in the Ilios application until the development of Curriculum Reports. They are more "canned" or pre-compiled than curriculum reports but are very useful in gathering important view into data contained in Ilios.
+Subject Reports, previously contained in "My Reports", were the only ones available in the Ilios application until the development of Curriculum Reports. They are more "canned" or pre-compiled than curriculum reports but are very useful in reviewing important data contained in Ilios.
 
 # Run Saved Report
 

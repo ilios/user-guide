@@ -6,7 +6,7 @@ This shows a typical user's saved reports, which can be run at any time by this 
 
 ![saved reports - start](../images/reports/subject_reports/saved_reports_start.png)
 
-Running any of the reports here is as easy as simply clicking on the link. This is shown below.
+Running any of the reports here is as easy as clicking on the link. This is shown below.
 
 ![run a report](../images/reports/run_selected_report.png)
 

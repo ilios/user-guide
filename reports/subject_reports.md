@@ -1,4 +1,4 @@
-Subject Reports are what in the past were contained in "My Reports" and were the only ones available in Ilios until the development of Curriculum Reports. They are more "canned" or pre-compiled than curriculum reports but are very useful in gathering important view into data contained in Ilios.
+Subject Reports, previously contained in "My Reports", were the only ones available in the Ilios application until the development of Curriculum Reports. They are more "canned" or pre-compiled than curriculum reports but are very useful in gathering important view into data contained in Ilios.
 
 # Run Saved Report
 
@@ -102,7 +102,7 @@ Alternatively, it can be saved and re-run at any time.
 
 ## Report Matrix
 
-See the image below for the current report matrix showing the combinations available for selection.
+See the image below for the current report matrix showing the combinations available for selection. The top-level options and second level options shown higher up on this page demonstrate only one example of how the options interact with each other and how the matrix below can be used as reference.
 
 ![report selection options](../images/reports/report_options.png)
 

@@ -100,11 +100,11 @@ This workflow allows the user to view and / or download the data from a newly cr
 
 Alternatively, it can be saved and re-run at any time.
 
-## Report Matrix
+## Reports Matrix
 
-See the image below for the current report matrix showing the combinations available for selection. The top-level options ("Report Options") and second level options ("Available Selections") shown on this page demonstrate only one example of how the options interact with each other and how the matrix below can be used as reference.
+See the image below for the current reporting matrix showing the combinations available for selection. The top-level options ("Report Options") and second level options ("Available Selections") shown here demonstrate only how the options interact with each other and how the matrix below can be used as reference.
 
-![report selection options](../images/reports/report_options.png)
+![report options](../images/reports/report_options.png)
 
 ## Save Report
 

@@ -35,9 +35,9 @@ In the **Course Level Only** workflow, the top-level (“course-level”) attrib
 
 ### Optional Fields 
 
-* Topics
+* Vocabulary Terms
 * Objectives
-* Mesh
+* MeSH Terms
 
 The required fields for publishing a Course are indicated in the top section above. The others are desired fields and are listed here as optional. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Items” value on the Publish drop-down menu. If you choose to review the missing items, the Publish option will be available on the review screen. You are required to review the items before publishing the Course or select "Publish As Is".
 

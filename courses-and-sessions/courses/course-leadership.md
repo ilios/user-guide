@@ -26,7 +26,7 @@ For the sake of demonstration, "Carl Gloria Sanders" will be removed from being 
 
 ## Remove Director
 
-* Removed "Carl Gloria Sanders" from the "Directors" area.
+As shown below, "Carl Gloria Sanders" has been removed from the "Directors" area.
 
 ## Before Saving ...
 

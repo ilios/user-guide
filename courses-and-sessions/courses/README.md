@@ -1,8 +1,8 @@
 # Courses
 
-A Course is a Curricular object that defines the content and structure of a specific instance of coursework available to the school or program.
+A course is a curricular object that defines the content and structure of a specific instance of coursework available to the school or program.
 
-There are four main functional areas related to the maintenance and creation of Courses in Ilios. These are detailed below and follow the vertical navigational flow through the page.
+There are four main functional areas related to the maintenance and creation of courses in Ilios. These are detailed below and follow the vertical navigational flow through the page.
 
 ## Functional Areas
 

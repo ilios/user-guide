@@ -58,7 +58,7 @@ These menu items available in all views include:
 * [**Courses and Sessions**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions)**:** Maintain (add/modify) Courses and Sessions. Select from a filterable list of all courses and sessions for the school(s) with which your user profile is associated in Ilios.
 * [**Learner Groups**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups)**:** Maintain (add/modify) learner groups to which students must belong in order to get assigned session offerings.
 * [**Instructor Groups**](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)**:** Associate groups of Instructors with one or more Instructor groups which can be attached to offerings.
-* [**Schools**](https://iliosproject.gitbook.io/ilios-user-guide/schools)**:** Maintain school-wide Competencies, Vocabularies, optional Session Attributes, and School Leadership.
+* [**Schools**](https://iliosproject.gitbook.io/ilios-user-guide/schools)**:** Maintain school-wide Leadership, Competencies, Vocabularies, Session Types, optional Session Attributes, Email Contacts, and Institutional Information.
 * [**Programs**](https://iliosproject.gitbook.io/ilios-user-guide/programs)**:** Add or Modify program objects, including Program Years and their associated attributes.
 * [**Reports**](https://iliosproject.gitbook.io/ilios-user-guide/reports)**:** Add, modify, or view user-specific customizable Reports.
 * [**Admin**](https://iliosproject.gitbook.io/ilios-user-guide/admin)**:** Maintain Accounts and User Management, which includes Primary and Secondary Cohort assignment functionality. Instructors will not see this unless they have been granted administrative rights over their School or Program.

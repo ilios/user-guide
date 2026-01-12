@@ -60,7 +60,7 @@ These menu items available in all views include:
 * [**Instructor Groups**](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)**:** Associate groups of Instructors with one or more Instructor groups which can be attached to offerings.
 * [**Schools**](https://iliosproject.gitbook.io/ilios-user-guide/schools)**:** Maintain school-wide Leadership, Competencies, Vocabularies, Session Types, optional Session Attributes, Email Contacts, and Institutional Information.
 * [**Programs**](https://iliosproject.gitbook.io/ilios-user-guide/programs)**:** Add or Modify program objects, including Program Years and their associated attributes.
-* [**Reports**](https://iliosproject.gitbook.io/ilios-user-guide/reports)**:** Add, modify, or view user-specific customizable Reports.
+* [**Reports**](https://iliosproject.gitbook.io/ilios-user-guide/reports)**:** Add, modify, or view user-specific customizable Reports: available [Subject](https://iliosproject.gitbook.io/ilios-user-guide/reports/subject_reports) and [Curriculum](https://iliosproject.gitbook.io/ilios-user-guide/reports/curriculum_reports) reports.
 * [**Admin**](https://iliosproject.gitbook.io/ilios-user-guide/admin)**:** Maintain Accounts and User Management, which includes Primary and Secondary Cohort assignment functionality. Instructors will not see this unless they have been granted administrative rights over their School or Program.
 * **Curriculum Inventory**: (no longer supported by the AAMC) Create and maintain Curriculum Inventory reports.
 

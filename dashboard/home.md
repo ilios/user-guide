@@ -47,6 +47,6 @@ The mouse-over presents the destination (target link) of any clickable link. Thi
 <figure>
     <img src="../images/dashboard_home/mouse_over_destination.png" alt="mouse over showing target link destination">
     <figcaption>
-        <p>Mouse-over link target shown</p>
+        <p>mouse-over link target shown</p>
     </figcaption>
 </figure>

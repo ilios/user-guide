@@ -7,7 +7,7 @@ description: The Ilios logo will always take you to the home page (Dashboard).
 <figure>
     <img src="../images/dashboard_home/home_link.png" alt="click as shown">
     <figcaption>
-        <p>Return Home</p>
+        <p>home link - back to Ilios dashboard</p>
     </figcaption>
 </figure>
 

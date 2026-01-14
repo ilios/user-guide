@@ -2,7 +2,7 @@
 
 With the Materials view, all Learning Materials which have Offerings within the next 60 days are displayed initially. This can be changed to display "[All Materials](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view#all-materials)" - everything associated with this student's educational trajectory. It is important to note that if there is no value displayed in the "Session" column, these are Course level materials and do not pertain to any specific session.
 
-**NOTE**: Since this pertains exclusively to "Learning Materials", these materials apply only to Students. Instructors and other users with elevated permissions in the system will not see any Learning Materials here, unless they happen to be a student as well.
+**NOTE**: Since this pertains exclusively to "Learning Materials", these materials apply only to Students. Instructors and other users with elevated permissions in the system will not see any Learning Materials here, unless they happen to be a current student as well.
 
 ## Next 60 Days
 

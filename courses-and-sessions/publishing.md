@@ -1,11 +1,15 @@
 # Publishing
 
-Ilios has a built in publishing workflow for curricular material. The publishing workflow serves the purpose of allowing the review of data prior to release, and to provide for the option of release in both interim (“Not Published” or “Scheduled”) and final (“Published”) modes. This is made possible by providing a summary checklist to the user for review. The checklist takes one of three different forms, depending on the workflow chosen: **Course Level Only**, **Single Session Only**, or **Full Course with All Sessions**.
+Ilios has a built in publishing workflow for curricular material. The publishing workflow serves the purpose of allowing the review of data prior to release, and to provide for the option of release in both interim (“Not Published” or “Scheduled”) and final (“Published”) modes. This is made possible by providing a summary checklist to the user for review. The checklist takes one of three different forms, depending on the workflow chosen: **Course Level**, **Single Session**, or **Full Course with All Sessions**.
 
 There are two places in Ilios where the concept of **"Publishing"** applies ...
 
 * [**Courses**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses)
 * [**Sessions**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions)
+
+## Workflow Options 
+
+The action of publishing a number of sessions at once or single sessions after publishing the course itself among other options are explored below. 
 
 ## Publish a Course
 

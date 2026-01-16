@@ -9,7 +9,7 @@ There are two places in Ilios where the concept of **"Publishing"** applies ...
 
 ## Publish a Course
 
-In the example below, all of the required fields have been entered and the Sessions have been entered and are ready to be published as well. Publishing a Course is in effect, finalizing it. If the Sessions for a Course are also published and there are Offerings to display, they will be displayed on a Student's calendar or contained within the Calendar Feed.
+In the example below, all of the required fields have been entered and the Sessions have been entered and are ready to be published as well. Publishing a Course is in effect, finalizing it. If the Sessions for a Course are also published and there are Offerings or ILM's to display, these events will be displayed on a Student's calendar and will be included in the .ics Calendar Feed.
 
 Both **Course** and **Session** must be published in order to have the attached Offerings displayed on Student Calendars.
 

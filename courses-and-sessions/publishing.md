@@ -88,7 +88,7 @@ The fields required to create a Session are indicated above. The others are desi
 
 ![select session to review or publish](../images/publishing/select_session_with_missing.png)
 
-### Publishing Options
+## Publishing Options
 
 ![session publication options](../images/publishing/publishing_options.png)
 

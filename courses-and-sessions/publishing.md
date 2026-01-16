@@ -1,6 +1,6 @@
 # Publishing
 
-Ilios has a built in publishing workflow for curricular material. The publishing workflow serves the purpose of allowing the review of data prior to release, and to provide for the option of release in both interim (“Not Published” or “Scheduled”) and final (“Published”) modes. This is made possible by providing a summary checklist to the user for review. The checklist takes one of three different forms, depending on the workflow chosen: **Course Level**, **Single Session**, or **Full Course with All Sessions**.
+Ilios has a built in publishing workflow for curricular material. The publishing workflow serves the purpose of allowing the review of data prior to release, and to provide for the option of release in both interim (“Not Published” or “Scheduled”) and final (“Published”) modes. This is made possible by providing a summary checklist to the user for review. The checklist takes one of three different forms, depending on the workflow chosen: **Course Level**, **Single Session**, or **All Sessions**.
 
 There are two places in Ilios where the concept of **"Publishing"** applies ...
 
@@ -10,6 +10,18 @@ There are two places in Ilios where the concept of **"Publishing"** applies ...
 ## Workflow Options 
 
 The action of publishing a number of sessions at once or single sessions after publishing the course itself among other options are explored below. 
+
+### Course Level
+
+If a course gets published as shown in the "Publish a Course" section below, all sessions that have been published will be pushed out to the student calendar and feed as soon as the course publication process is completed. This can be helpful if all sessions are ready. 
+
+### Session Level 
+
+Following the "Publish a Session" process detailed below, if a session gets published, the course must also be published for the offering or ILM to appear on student calendars. This can be helpful if you want to release the offerings one session at a time rather than in one big calendar push.
+
+### All Sessions 
+
+This process does require that the course publication process be handled separately; but it can be used to publish any and all sessions that have reached the minimum of required fields. You can exclude some sessions from being published. This process can be repeated in the future if more sessions become ready to publish (they have offerings and / or due date if ILM).
 
 ## Publish a Course
 

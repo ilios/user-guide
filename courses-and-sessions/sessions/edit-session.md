@@ -135,18 +135,18 @@ The example below shows how this appears to an assigned student when all four sp
 
 This refers to the ability to be able to edit sessions directly from the Session List. It is detailed below.
 
-![Inline editing](../../images/session_edit/inline_sess_edit_1.png)
+![inline editing](../../images/session_edit/inline_sess_edit_1.png)
 
 Referencing the screen shot above, after clicking on the Location as shown, here is how it looks for inline editing to be performed.
 
-![Editing the Location field](../../images/session_edit/inline_edit_room.png)
+![inline edit - location field](../../images/session_edit/inline_edit_room.png)
 
 The following screens are also still technically "inline" since you will not need to navigate anywhere to edit all of these attributes of this Offering. This is all on one screen in the application but for documentation purposed, it was necessary to divide it up into two sections.
 
 **Upper Part**
 
-![Upper part of screen](../../images/session_edit/inline_edit_upper.png)
+![upper part of screen](../../images/session_edit/inline_edit_upper.png)
 
 **Lower Part**
 
-![Lower part of screen](../../images/session_edit/inline_edit_lower.png)
+![lower part of screen](../../images/session_edit/inline_edit_lower.png)

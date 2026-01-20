@@ -127,6 +127,10 @@ For this example, all four will be selected for this session. An image that show
 
 ![all toggled to "Yes"](../../images/session_edit/all_toggled_to_yes.png)
 
+The example below shows how this appears to an assigned student when all four special session attributes have been set to "true".
+
+![displayed on event detail](../../images/session_edit/displayed_on_event_detail.png)
+
 ## Inline Editing
 
 This refers to the ability to be able to edit sessions directly from the Session List. It is detailed below.

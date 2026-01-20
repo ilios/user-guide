@@ -141,12 +141,14 @@ Referencing the screen shot above, after clicking on the Location as shown, here
 
 ![inline edit - location field](../../images/session_edit/inline_edit_room.png)
 
-The following screens are also still technically "inline" since you will not need to navigate anywhere to edit all of these attributes of this Offering. This is all on one screen in the application but for documentation purposed, it was necessary to divide it up into two sections.
+## Edit Other Fields
 
-**Upper Part**
+The following screens are also still technically "inline" since you will not need to navigate anywhere to edit all of these attributes of this Offering. This is all on one screen in the application but for documentation purposed, it was necessary to divide it up into two sections. This follows the "open to edit other fields" action pointed out in the screen shot above. 
+
+### Upper Part
 
 ![upper part of screen](../../images/session_edit/inline_edit_upper.png)
 
-**Lower Part**
+### Lower Part
 
 ![lower part of screen](../../images/session_edit/inline_edit_lower.png)

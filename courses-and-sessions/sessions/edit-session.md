@@ -147,8 +147,8 @@ The following screens are also still technically "inline" since you will not nee
 
 ### Upper Part
 
-![upper part of screen](../../images/session_edit/inline_edit_upper.png)
+![upper part of screen](../../images/session_edit/upper_part_of_screen.png)
 
 ### Lower Part
 
-![lower part of screen](../../images/session_edit/inline_edit_lower.png)
+![lower part of screen](../../images/session_edit/lower_part_of_screen.png)

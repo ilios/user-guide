@@ -14,11 +14,11 @@ When displayed, the calendar will appear above the controls for editing date / t
 
 Since the offering editor is such a long and complex form, the elements will be handled one at a time starting with "Scheduling". 
 
-![Top portion of screen - Scheduling](../../images/create_single_offering/scheduling.png)
+![top portion of screen - scheduling](../../images/create_single_offering/scheduling.png)
 
 ### Participants
 
-Underneath the "Scheduling" component is an area to set who will be attending the offering as Instructor or Learner. Both of these can be set using groups or individuals.
+Underneath the "Scheduling" component is an area to set who will be attending the offering - instructors and learners. Both of these can be set using groups or individuals.
 
 ## Instructors
 

@@ -42,6 +42,14 @@ After searching and selecting as shown above ...
 
 ![learner groups - selected](../../images/create_single_offering/learner_groups_selected.png)
 
+### Remove Parent Group
+
+In the situation detailed, it may be preferable to remvove the parent group "Citrus Groups", which may not have any members enrolled at that level. To do this, use a `shift-click` operation by holding the "Shift" key down and selecting the parent group with the mouse. This will remove the parent group from being explicitly included in the offering.
+
+### Remove Child Groups
+
+Child groups can be removed using a simple click technique. The "Shift" technique only applies to the parent (highest level) group.
+
 ### Add Individual Learners
 
 It is important to note that these Learners being added here do not need to be in the Cohort associated with this Course. 

@@ -46,9 +46,9 @@ After searching and selecting as shown above ...
 
 In the situation detailed, it may be preferable to remvove the parent group "Citrus Groups", which may not have any members enrolled at that level. To do this, use a `shift-click` operation by holding the "Shift" key down and selecting the parent group with the mouse. This will remove the parent group from being explicitly included in the offering.
 
-### Remove Child Groups
+### Remove Child Group
 
-Child groups can be removed using a simple click technique. The "Shift" technique only applies to the parent (highest level) group.
+One or more child groups can be removed using a simple click technique. The "Shift" technique only applies to the parent (highest level) group.
 
 ### Add Individual Learners
 

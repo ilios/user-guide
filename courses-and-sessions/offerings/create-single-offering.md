@@ -62,13 +62,13 @@ It is important to note that these Learners being added here do not need to be i
 
 Now that everything has been added as we want for this offering, clicking Save will complete this process. The resulting screen is shown in the second image below. Mousing over a learner group's name will display the parent group for reference. All instructors \(whether added individually or as a member of an instructor group\) are shown under the Instructors column header. Individual Learners are available to review from the Session List page as shown below.
 
-![mouse-over for Learner list](../../images/create_single_offering/learner_list_displayed.png)
+![learner list displayed](../../images/create_single_offering/learner_list_displayed.png)
 
 ### View Learner Group Parent
 
 A learner group's parent relationship can be determined by hovering over with the mouse for more details.
 
-![offering - after save](../../images/create_single_offering/lg6.png)
+![offering - after save](../../images/create_single_offering/offering_after_save.png)
 
 ## Permissions Note
 

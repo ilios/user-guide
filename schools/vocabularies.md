@@ -4,7 +4,7 @@ Vocabularies are categories or collections of **Terms** (school-specific categor
 
 Managing Vocabularies and Terms at the School level is performed using the Schools tab as well. Vocabulary Terms can be used in the tagging of the following curricular objects within Ilios ...
 
-* **[**Session**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions)**
+* **[**Session**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/vocabulary_terms)**
 * **[**Course**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses)**
 * **[**Objective**](https://iliosproject.gitbook.io/ilios-user-guide/glossary#objective) (Course, Session, Program Year)**
 * **[**Program Year**](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year)**

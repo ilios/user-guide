@@ -7,8 +7,8 @@ Managing Vocabularies and Terms at the School level is performed using the Schoo
 * **[**Session**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/vocabulary_terms)**
 * **[**Course**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/vocabulary_terms)**
 * **[**Objective**](https://iliosproject.gitbook.io/ilios-user-guide/glossary#objective)**
-Vocabulary terms can be attached to [course objectives](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_objectives/edit-objective#add-vocabulary-term-s) level as well as to session and program year objectives.
-* **[**Program Year**](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year/objectives_maintenance#attach-vocabulary-terms)**
+Vocabulary terms can be attached to [course objectives](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_objectives/edit-objective#add-vocabulary-term-s) level as well as to session and [program year objectives](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year/objectives_maintenance#attach-vocabulary-terms).
+* **[**Program Year**](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year/edit_program_year#manage-terms)**
 
 ## Choose School
 

@@ -93,7 +93,7 @@ These refere to menu actions available underneath the logged in user's name and 
 * **Logout** -- exits the application
 
 <figure>
-  <img src="../images/dashboard/user_name_menu_items.png" alt="Menu Items">
+  <img src="../images/dashboard/user_menu_options.png" alt="user menu options">
   <figcaption>
       <p>user menu options displayed</p>
   </figcaption>

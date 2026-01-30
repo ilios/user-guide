@@ -101,10 +101,10 @@ These refere to menu actions available underneath the logged in user's name and 
 
 -----------------------------------------
 
-* **Help link** -- link to this user guide - Even further over to the right of the screen is a "Help" link to this very user guide. This is available in any screen size and from any screen within Ilios. 
+* **Help link** -- link to this user guide - Even further over to the right of the screen is a "Help" link to this very same user guide. This is available in any screen size and from any location within Ilios. 
 
 <figure>
-  <img src="../images/icons_explained/user_guide_link.png" alt="Help link">
+  <img src="../images/icons_explained/user_guide_link.png" alt="user guide link">
   <figcaption>
       <p>Help - link to user guide</p>
   </figcaption>

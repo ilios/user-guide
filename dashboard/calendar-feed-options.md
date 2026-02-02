@@ -1,5 +1,7 @@
 # Calendar Feed Options
 
+## Mobile Device Options
+
 There are two methods of accessing your Ilios Calendar on a mobile device ...
 
 1. Use the Ilios application directly on your phone or other mobile device.

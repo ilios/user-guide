@@ -17,7 +17,7 @@
   * [My Profile](dashboard/my-profile.md)
   * [Language Selector](dashboard/language-selector.md)
   * [Mobile Devices](dashboard/mobile-devices.md)
-  * [Feed Options](dashboard/calendar-feed-options.md)
+  * [Calendar Feed Options](dashboard/calendar-feed-options.md)
   * [LTI Integration](dashboard/LTI_integration.md)
 * [Courses and Sessions](courses-and-sessions/README.md)
   * [Courses](courses-and-sessions/courses/README.md)

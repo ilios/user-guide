@@ -38,7 +38,7 @@ This refers to assigned metadata for any selected Learner Group. These labels do
 
 ## Independent Learning Module (ILM)
 
-A Session for a Course without a specific location or time of occurrence. Independent Learning Units are comprised of Learning Materials, an expected number of educational hours or duration for the learner to complete the content. These are also referred to as _Independent Learning Modules_ or _ILM's_. These asynchronous learning activities should be performed by the Learner at their time of choosing before ether a specified Due Date or another upcoming Event.
+A Session for a Course without a specific location or time of occurrence. Independent Learning Units are comprised of Learning Materials, an expected number of educational hours or duration for the learner to complete the content. These are also referred to as _Independent Learning Modules_ or _ILM's_. These asynchronous learning activities should be performed by the Learner at their time of choosing before either a specified Due Date or another upcoming Event.
 
 ## Instructional Notes
 

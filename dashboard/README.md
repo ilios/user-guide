@@ -37,7 +37,7 @@ The **Ilios Menu expander** is only available in the smaller view of the toolbar
 
 Clicking the Ilios Menu expander (or contractor if already expanded) reveals in greater detail the available menu options or reduces them to their previous size if already expanded. You can see this display below after clicking to expand the menu.
 
-It is also evident that we are currently on the "Dashboard", due to the background shading applied. 
+It is also evident that we are currently on the "Dashboard", due to the fact that the background shading has been applied. 
 
 <figure>
   <img src="../images/dashboard/flyout_expanded.png" alt="Small Screen View">

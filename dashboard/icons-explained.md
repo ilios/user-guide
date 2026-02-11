@@ -34,9 +34,11 @@ Here it is below in a bit better context on the [Event Detail](https://iliosproj
 
 This icon appears when there is a prerequisite activity that should be completed before the indicated session. This is shown below in Week at a Glance.
 
-![Pre-work big picture](../images/icons_explained/pre_work_big_picture.png)
+![pre-work big picture](../images/icons_explained/pre_work_big_picture.png)
 
-A close up of the icon with callout will be shown below.
+A close up of the Week at a Glance pre-work icon is shown below. Mousing over that icon will result in a pop-up indicating "Pre-work".
+
+![pre-work WaaG icon detail](../images/icons_explained/pre_work_waag_icon_detail.png)
 
 ## Optional Session Attributes Displayed
 

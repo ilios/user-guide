@@ -30,6 +30,14 @@ Here it is below in a bit better context on the [Event Detail](https://iliosproj
 
 **NOTE:** It is possible to create custom icons and activate them on a school level. 
 
+## Pre-work
+
+This icon appears when there is a prerequisite activity that should be completed before the indicated session. This is shown below in Week at a Glance.
+
+![Pre-work big picture](../images/icons_explained/pre_work_big_picture.png)
+
+A close up of the icon with callout will be shown below.
+
 ## Optional Session Attributes Displayed
 
 The four icons shown above (Special Attire, Special Equipment, Supplemental Curriculum, and Attendance Required) appear up on Week at a Glance and Event Detail if and when they have been set to "true". Hovering any of these icons over using a mouse will cause a description of the icon to appear hovering above the icon.

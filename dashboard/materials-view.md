@@ -1,4 +1,4 @@
-## Accessing Materials
+## Navigating to Materials
 
 Clicking as shown below will take the user to the "Materials" view highlighted in this section. This is available at the top of the screen while using the Dashboard.
 

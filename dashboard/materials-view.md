@@ -1,8 +1,6 @@
-## Materials View
+## Accessing Materials
 
-### How to Access
-
-Clicking as shown below will take the user to the "Materials" view highlighted in this section.
+Clicking as shown below will take the user to the "Materials" view highlighted in this section. This is available at the top of the screen while using the Dashboard.
 
 ![access Materials view](../images/materials_view/access_materials_view.png)
 

@@ -12,7 +12,7 @@ To edit attributes of an existing offering, the steps shown below can be followe
 
 ![edit offering](../../images/edit_offering/click_to_edit.png)
 
-## Learners and Learner Groups
+### Learners and Learner Groups
 
 Under the column heading, "Learners and Learner Groups", an individual learner "Nicholas Ann Gutierrez" has been added to the offering. Also, the learner group "Main Lecture Group" has been added to the offering. It is handy to be able to review both individually assigned learners and learner groups in this context and location.
 

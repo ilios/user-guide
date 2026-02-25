@@ -12,7 +12,13 @@ To edit attributes of an existing offering, the steps shown below can be followe
 
 ![edit offering](../../images/edit_offering/click_to_edit.png)
 
-Ilios opens the Offering up into an edit mode to allow applicable Offering attributes to be modified. An upcoming screen shot will pore over the details. For now, please refer to the previous chapters in this Offerings section. The editing of an Offering is similar (as far as the fields go) to the creation of a new Offering.
+## Learners and Learner Groups
+
+Under the column heading, "Learners and Learner Groups", an individual learner "Nicholas Ann Gutierrez" has been added to the offering. Also, the learner group "Main Lecture Group" has been added to the offering. It is handy to be able to review both individually assigned learners and learner groups in this context and location.
+
+## Edit Offering
+
+Ilios opens the offering up into an edit mode to allow applicable offering attributes to be modified here. Please refer to the previous chapters in this offerings section for more details. The editing of an offering is similar (as far as the fields go) to the creation of a new offering.
 
 After clicking the Edit button under the Action menu as shown above, a screen similar to the following appears with the ability to modify the following Offering attributes.
 

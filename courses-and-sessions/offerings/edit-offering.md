@@ -4,7 +4,7 @@
 
 To edit attributes of an existing offering, the steps shown below can be followed.
 
-* First select a Course
+* First select a [Course](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses).
 * When the list of Sessions is displayed, click on the name of the Session that contains offering(s) you want to review and / or modify.
 * Ilios brings up the details of the Session.
 * Scroll to bottom of the Session details.

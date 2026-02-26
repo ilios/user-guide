@@ -10,6 +10,10 @@ The first step in this process is to search for and select the Session to which 
 
 ![select session](../../images/create_small_group_offerings/select_session.png)
 
+### Scroll Down
+
+You should scroll down to the bottom of the screen to obtain access to the button shown below. This is to start the process of adding offerings.
+
 ### Start the Process
 
 ![start the process](../../images/create_small_group_offerings/start_the_process.png)

@@ -21,12 +21,12 @@ You should scroll down to the bottom of the screen to obtain access to the butto
 After clicking the (+) button as shown above to start the process, the screen refreshes as shown below. Data elements that can be set in the top area of the screen include ...
 
 
-* **Start Date** - Calendar picker is provided to enter this
-* **Start Time** - Use the drop-downs and provided fields
-* **Duration** - Enter a value in the hours field and minutes field
-* **End (Time)** - This gets selected based on the choices made above
-* **Timezone** - This can be selected as well - useful if you have multiple campuses in different time zones
-* **[Make Recurring](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/recurring-event)** - Used when an offering is to be repeated a specified number of times.
+* **Start Date** - selected using the calendar picker provided 
+* **Start Time** - selected using the drop-downs and provided fields
+* **Duration** - entered into the hours field and minutes field
+* **End (Time)** - selected based on the choices made above
+* **Timezone** - can be selected as well - useful if you have multiple campuses in different time zones
+* **[Make Recurring](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/recurring-event)** - used when an offering is to be repeated a specified number of times
 
 ![offering editor - top part](../../images/create_small_group_offerings/offering_editor_top.png)
 

@@ -36,11 +36,11 @@ Search for and choose "Demo Group" from the "Available Learner Groups" grid as s
 
 ![select parent group](../../images/create_small_group_offerings/select_parent_group.png)
 
-Once the higher level "Demo Group" group has been selected, all of its sub-groups are now in the "Selected" column and are ready to have the small group session events created. Also there is a badge to indicate the higher level, parent group `"Demo Group (89)"` where 89 represents the total learner count of all subgroups combined. Each subgroup also has a similar badge with member count included.
+Once the higher level "Demo Group" group has been selected, all of its subgroups are now in the "Selected" column and are ready to have the small group session events created. Also there is a badge to indicate the higher level, parent group `"Demo Group "` which indicates that the parent group has zero members added at that level. Each subgroup has a similar badge with member count included, where applicable.
 
 ![learner groups added](../../images/create_small_group_offerings/learner_groups_added.png)
 
-Now we are in the position to create a separate event for each of the eight sub-groups in the "Selected" pane as well as an offering for the parent group "Demo Group".
+Now we are in the position to create a separate event for each of the eight subgroups in the "Selected" pane as well as an offering for the parent group "Demo Group".
 
 **NOTE:** An offering will be created for the parent group if the parent group remains selected. The parent group (or any group at any level) can be removed holding the Shift key down and selecting the parent group either in the list or on its badge. 
 

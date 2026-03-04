@@ -42,7 +42,7 @@ Once the higher level "Demo Group" group has been selected, all of its subgroups
 
 Now we are in the position to create a separate event for each of the eight subgroups in the "Selected" pane as well as an offering for the parent group "Demo Group".
 
-**NOTE:** An offering will be created for the parent group if the parent group remains selected. The parent group (or any group at any level) can be removed holding the Shift key down and selecting the parent group either in the list or on its badge. 
+**NOTE:** An offering will be created for the parent group if the parent group remains selected. The parent group can be removed holding the "Shift" key down and selecting the it either in the list or by clicking on its badge. Any learner group at the lowest level (subgroups or group with no subgroups) can be removed with a regular mouse click - no "Shift" key needed.
 
 ![save to create events](../../images/create_small_group_offerings/save_to_create_events.png)
 

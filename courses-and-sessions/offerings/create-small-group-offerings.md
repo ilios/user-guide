@@ -58,9 +58,9 @@ You may wish to have the parent group not automatically have an offering created
 
 ### Edit Small Group Offering
 
-In this example, the offering for the group "Demo Group 1" needs to be modified. The correct date for the offering is December 13 from 8:00 to 9:15. The Instructor and Location will be specified as well as shown below.
+In this example, the offering for the group "Demo Group 1" needs to be modified. The correct date for the offering is December 5, 2025 from 8:00 to 9:15. The Instructor,  Location, and Virtual Learning Link will be added as well as shown below.
 
-![upper part of screen](../../images/create_small_group_offerings/offering_screen_upper.png )
+![upper part of screen](../../images/create_small_group_offerings/offering_screen_upper.png)
 
 ![save to update](../../images/create_small_group_offerings/save_to_update.png)
 

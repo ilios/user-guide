@@ -28,7 +28,7 @@ The default setting for "recurring events" is "off". This option needs to be act
 
 ![set recurring event count](../../images/recurring_events/set_recurring_event_count.png)
 
-### Add remaining attributes
+### Add Remaining Attributes
 
 ![add instructors](../../images/recurring_events/add_instructors.png)
 

@@ -26,11 +26,11 @@ After clicking the Edit button under the Action menu as shown above, a screen si
 
 **IMPORTANT NOTE:** Any valid Ilios user can be added as an Instructor. This includes students and non-students. Selecting an Ilios user as "Instructor" effectively adds the Instructor (as well as setting the "Perform Non-Learners" value to "Yes") role to this user's profile.
 
-## Add URL - Virtual Session Link
+## Add URL - Virtual Learning Link
 
-To add a URL (Virtual Session Link), the URL can be generated using an application such as Zoom and pasted into llios.
+To add a URL (Virtual Learning Link), the URL can be generated using an application such as Zoom and pasted into llios.
 
-The URL field is available on the Offerings Editor form directly below Offering Start / End Time. Initially the field appears as shown below.
+The URL field (Virtual Learning LInk) is available on the Offerings Editor form directly below Offering Start / End Time. Initially the field appears as shown below.
 
 ![edit starting point](../../images/edit_offering/edit_starting_point.png)
 

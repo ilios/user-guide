@@ -42,7 +42,7 @@ The value "https://" is highlighted initially. This can be removed by deleting i
 
 After pasting directly on top of the initial value yields the following results.
 
-![after URL is pasted in](../../images/edit_offering/paste_updated_URL.png)
+![paste updated URL](../../images/edit_offering/paste_updated_URL.png)
 
 All that is left to do now is update the offering with this newly added information.
 

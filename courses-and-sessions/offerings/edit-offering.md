@@ -32,7 +32,7 @@ To add a URL (Virtual Learning Link), the URL can be generated using an applicat
 
 The URL field (Virtual Learning LInk) is available on the Offerings Editor form directly below Offering Start / End Time. Initially the field appears as shown below.
 
-![edit starting point](../../images/edit_offering/edit_starting_point.png)
+![edit URL starting point](../../images/edit_offering/edit_URL_starting_point.png)
 
 Clicking into the URL field itself yields the following result.
 

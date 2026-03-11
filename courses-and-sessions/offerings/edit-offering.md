@@ -38,7 +38,7 @@ Clicking into the URL field itself yields the following result.
 
 ![edit URL field](../../images/edit_offering/edit_URL_field.png)
 
-The value "https://" is highlighted initially. This can be removed by deleting in one keyboard stroke since it is highlighted and selected or the URL can be pasted directly on top of it (replacing it).
+The value "https://" is highlighted initially. This can be removed by deleting in one keyboard stroke since it is highlighted and selected or the URL can be pasted directly on top of it (replacing it). You can click in to the field and manually enter the link including the "https://" if you prefer.
 
 After pasting directly on top of the initial value yields the following results.
 

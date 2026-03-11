@@ -36,7 +36,7 @@ The URL field (Virtual Learning LInk) is available on the Offerings Editor form 
 
 Clicking into the URL field itself yields the following result.
 
-![enter URL editing field](../../images/edit_offering/edit_URL_field.png)
+![edit URL field](../../images/edit_offering/edit_URL_field.png)
 
 The value "https://" is highlighted initially. This can be removed by deleting in one keyboard stroke since it is highlighted and selected or the URL can be pasted directly on top of it (replacing it).
 

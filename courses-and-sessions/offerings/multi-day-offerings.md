@@ -23,7 +23,7 @@ Here is how the multi-day "holiday' event created previously is displayed after 
 
 ## Multi-Day Events on WaaG
 
-On Week at a Glance (WaaG), multi-day events appear like any other event 
+On Week at a Glance (WaaG), multi-day events appear like any other event and are listed based on start date. 
 
 ![multi-day events on WaaG](../../images/multi_day_offerings/multi_day_events_on_WaaG.png)
 

@@ -1,6 +1,6 @@
 # Offerings Editor Calendar
 
-There is also a calendar available inside the Offerings Editor. There are two toggle controls within the Calendar. They are described inside the image below.
+There is also a calendar available inside the Offerings Editor. See [Edit Offerings](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/edit-offering) for more details. There are two toggle controls within the Calendar. They are described inside the image below.
 
 **NOTE:** The "Show Calendar" button must be selected / pressed to view this screen. The default setting is "Hide Calendar".
 

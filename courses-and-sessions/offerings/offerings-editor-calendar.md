@@ -8,3 +8,7 @@ There is also a calendar available inside the Offerings Editor. See [Edit Offeri
 
 This calendar is available in create new offering or edit offering mode. When creating a new offerings, it could prove helpful to be able to check the students' availability before creating an offering as well as being able to review if other offerings have been created already for this Session.
 
+## Striped Background 
+
+The offerings displayed above that have the background in a striped mode are the ones that satisfy one or the other of the optional settings in this view. They pertain to either other events pertaining to this session or other events pertaining to these learner groups. 
+

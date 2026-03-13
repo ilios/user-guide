@@ -4,11 +4,11 @@ Individual learners can be attached to offerings in Ilios. One thing to remember
 
 ![click to edit](../../images/add_indiv_learners/click_to_edit.png)
 
-![search for individuals to add](../../images/add_indiv_learners/search_to_add.png)
+![search to add](../../images/add_indiv_learners/search_to_add.png)
 
 * Perform the search as shown below and click on the name of the person to add to attend this offering.
 
-![click to add individuals](../../images/add_indiv_learners/click_to_add.png)
+![click to add](../../images/add_indiv_learners/click_to_add.png)
 
 ![individual learner added](../../images/add_indiv_learners/indiv_learner_added.png)
 
@@ -19,4 +19,4 @@ Individual learners can be attached to offerings in Ilios. One thing to remember
 
 Mousing over will expose all learners - members of learner groups along with individual learners. A simple example of this is shown below. When there are more learners than can be displayed, hovering over with the mouse will reveal the additional users designated as individual learners.
 
-![Addition of Individual learner displayed](../../images/add_indiv_learners/indiv_learners_shown.png)
+![addition of individual learner displayed](../../images/add_indiv_learners/indiv_learners_shown.png)

@@ -2,15 +2,15 @@
 
 Individual learners can be attached to offerings in Ilios. One thing to remember is that anyone who is an Ilios user can be added to offerings using this technique. They do not need to be in any Cohort associated with this course.
 
-![Click to edit](../../images/add_indiv_learners/click_to_edit.png)
+![click to edit](../../images/add_indiv_learners/click_to_edit.png)
 
-![Search for individuals to add](../../images/add_indiv_learners/search_to_add.png)
+![search for individuals to add](../../images/add_indiv_learners/search_to_add.png)
 
 * Perform the search as shown below and click on the name of the person to add to attend this offering.
 
-![Click to add individuals](../../images/add_indiv_learners/click_to_add.png)
+![click to add individuals](../../images/add_indiv_learners/click_to_add.png)
 
-![Individual learner added](../../images/add_indiv_learners/indiv_learner_added.png)
+![individual learner added](../../images/add_indiv_learners/indiv_learner_added.png)
 
 **NOTE**: This addition of individual learners to offerings can be reviewed in two places currently ...
 

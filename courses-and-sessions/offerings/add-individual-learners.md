@@ -12,7 +12,9 @@ Individual learners can be attached to offerings in Ilios. One thing to remember
 
 ![individual learner added](../../images/add_indiv_learners/individual_learner_added.png)
 
-**NOTE**: This addition of individual learners to offerings can be reviewed in two places currently ...
+**Save**: At this point, it is assumed the user has clicked "Save" to complete the process of adding the individual learner to the offering.
+
+**Review**: This addition of individual learners to offerings can be reviewed in two places currently ...
 
 * The offering editor itself - in edit mode
 * In the Session list - described below ...

@@ -6,7 +6,7 @@ Individual learners can be attached to offerings in Ilios. One thing to remember
 
 ![search to add](../../images/add_indiv_learners/search_to_add.png)
 
-* Perform the search as shown below and click on the name of the person to add to attend this offering.
+* Perform the search as shown below and click on the name of the person to add to this offering.
 
 ![click to add](../../images/add_indiv_learners/click_to_add.png)
 

@@ -10,7 +10,7 @@ Individual learners can be attached to offerings in Ilios. One thing to remember
 
 ![click to add](../../images/add_indiv_learners/click_to_add.png)
 
-![individual learner added](../../images/add_indiv_learners/indiv_learner_added.png)
+![individual learner added](../../images/add_indiv_learners/individual_learner_added.png)
 
 **NOTE**: This addition of individual learners to offerings can be reviewed in two places currently ...
 

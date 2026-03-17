@@ -63,7 +63,7 @@ The required fields for publishing a Course are indicated in the top section abo
 Using the screen shot above as a guide, here are the options described.
 
 * (1) publish the course with missing items - completes the publishing action of the course without requiring review
-* (2) review missing data and decide to publish or not - brings you to review and decide as shown below ...
+* (2) review missing data and decide to publish or not - brings you to review and decide as shown below - follow link as shown to publish course - on course detail screen
 
 ![missing items - course publication](../images/publishing/missing_items_course_publication.png)
 

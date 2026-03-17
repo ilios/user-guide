@@ -65,7 +65,7 @@ Using the screen shot above as a guide, here are the options described.
 * (1) publish the course with missing items - completes the publishing action of the course without requiring review
 * (2) review missing data and decide to publish or not - brings you to review and decide as shown below ...
 
-![missing items - course publication](../images/publishing/review_missing_crs_pub_data.png)
+![missing items - course publication](../images/publishing/missing_items_course_publication.png)
 
 * (3) set the publication status of the course to "scheduled" - sets the course in a "to be determined" state - students will see "TBD" on calendar (if session is published or if session also has a status of "scheduled") with details to be revealed when the course itself gets published. This is only available on Calendar not Week at a Glance.
 

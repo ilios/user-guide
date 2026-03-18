@@ -77,9 +77,8 @@ In the **Single Session Only** workflow, a single session is checked to verify d
 
 * Title (required)
 * Offering / Due Date (required)
-* Topics
+* Vocabulary Terms
 * Objectives
-* MeSH
 
 The fields required to create a Session are indicated above. The others are desired fields. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Missing Items” value on the drop-down menu. If all fields are completed, then clicking the “Publish” button will immediately publish the Session, without a review check. If you choose to review the missing items, the Publish option will be available on the review screen. You can choose Publish As Is if you choose not to review the items before publishing the Session.
 

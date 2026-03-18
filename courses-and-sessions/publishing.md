@@ -76,7 +76,7 @@ Using the screen shot above as a guide, here are the options described.
 In the **Single Session Only** workflow, a single session is checked to verify data. Session level attributes checked are:
 
 * Title (required)
-* Offering / Due Date (required)
+* Offering (required for non-ILM) / Due Date (required for ILM)
 * Vocabulary Terms
 * Objectives
 

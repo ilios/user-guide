@@ -84,7 +84,7 @@ The fields required to create a Session are indicated above. The others are desi
 
 ### Publish with Missing Item(s)
 
-![select session to review or publish](../images/publishing/select_session_with_missing.png)
+![select session to review](../images/publishing/select_session_to_review.png)
 
 ## Publishing Options
 

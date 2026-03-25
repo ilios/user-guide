@@ -98,7 +98,7 @@
   * [Session Types](schools/session-types.md)
   * [Session Attributes](schools/session-attributes.md)
   * [Manage Emails](schools/manage_emails.md)
-  * [Institutional Information](schools/curriculum-inventory-institution-information.md)
+  * [Institutional Information](schools/institutional_information.md)
   * [Multi-School Environment](schools/multi-school-environment.md)
 * [Programs](programs/README.md)
   * [Add New Program](programs/add-new-program.md)

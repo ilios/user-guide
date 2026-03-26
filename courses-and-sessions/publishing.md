@@ -112,6 +112,6 @@ It is important to note that the sessions in "Sessions Incomplete: cannot publis
 
 ### Review Sessions to Publish
 
-The screen shot below shows the review screen for publishing all sessions. By default, "Sessions Requiring Review" is in expanded mode. The other two areas are in contracted mode but can be expanded using the provided arrow expanders. 
+The screen shot below shows the review screen for publishing all sessions. "Sessions Requiring Review" appears in expanded mode. The other two areas are in contracted mode but can be expanded using the provided arrow expanders. 
 
-![review sessions to publish - view details](../images/publishing/publish_all_options.png)
+![view sessions requiring review](../images/publishing/view_sessions_requiring_review.png)

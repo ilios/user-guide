@@ -12,12 +12,12 @@ Once a program has been created, it is easy to add "program years". A program ye
 
 **NOTE** If program years have already been added to your program, creating a new program year will use the attributes assigned to the previous year, in essence "rolling over" the previous program year - saving work effort. Each program year can then be individually modified.
 
-The following information from the previous program year (if applicable) will be automatically added to the new one being created ...
+The following information from the previous program year (if applicable) will be automatically added (copied) to the new one being created ...
 
 * **Leadership:** refers only to directors at the program year level
 * **Competencies:** add or remove program year [competencies](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year/edit_program_year#manage-competencies)
 * **Objectives:** maintain program year [objectives](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year/objectives_maintenance)
-* **Terms:** Vocabulary Terms that can be added to program year objectives
+* **Terms:** Vocabulary [terms](https://iliosproject.gitbook.io/ilios-user-guide/programs/add-program-year/edit_program_year#manage-terms) that can be associated with program year objectives along with the previously associated terms that get "rolled over" from previous years
 
 Matriculation Year and Cohort title will be assigned automatically to the values associated with the selected academic year based on program duration (years).
 

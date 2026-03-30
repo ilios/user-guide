@@ -115,3 +115,7 @@ It is important to note that the sessions in "Sessions Incomplete: cannot publis
 The screen shot below shows the review screen for publishing all sessions. "Sessions Requiring Review" appears in expanded mode. The other two areas are in contracted mode but can be expanded using the provided arrow expanders. 
 
 ![view sessions requiring review](../images/publishing/view_sessions_requiring_review.png)
+
+After scrolling to the bottom of the list of sessions requiring review, the following action button appears. Clicking "Go" will perform the indicated action. A link to the [course objective visualization](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#objectives) appears when one or more of the course objective(s) have not been mapped to their parent objectives - program year objectives.
+
+![take all actions - go button](../images/publishing/take_all_actions_go_button.png)

@@ -118,4 +118,15 @@ The screen shot below shows the review screen for publishing all sessions. "Sess
 
 After scrolling to the bottom of the list of sessions requiring review, the following action button appears. Clicking "Go" will perform the indicated action. A link to the [course objective visualization](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#objectives) appears when one or more of the course objective(s) have not been mapped to their parent objectives - program year objectives.
 
+### Sessions Complete: ready to pubish
+
+Expanding this section will review a handy list (with sticky column headers upon scroll down) to review all of the sessions that have satisfied all of the "required" attributes and are ready to be published. In many cases, they may already have been published. 
+
+This is shown below. 
+
+![sessions complete](../images/publishing/sessions_complete.png)
+
+
+### Take Action - "Go"
+
 ![take all actions - go button](../images/publishing/take_all_actions_go_button.png)

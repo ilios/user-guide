@@ -130,3 +130,5 @@ This is shown below.
 ### Take Action - "Go"
 
 ![take all actions - go button](../images/publishing/take_all_actions_go_button.png)
+
+As shown above, a link is provided to route the user back to the course objectives listing when there are one or more course objectives which are not linked to parent (program year) objectives. There is no required action here. It's there to allow for review.

@@ -126,6 +126,9 @@ This is shown below.
 
 ![sessions complete](../images/publishing/sessions_complete.png)
 
+This next screen shot is provided to show several other output options on this screen. It is true that offerings (one or more) are required for a session that is not set to be an ILM (Independent Learning Module). But an ILM without one or more offerings is certainly complete. The other item pointed out here is a link that is provided in case you want to fix up sessions objectives that have not been mapped / linked to any parent (course) objectives. The "detailed information" screen shot provides this additional insight.
+
+![detailed information](../images/publishing/detailed_information.png)
 
 ### Take Action - "Go"
 

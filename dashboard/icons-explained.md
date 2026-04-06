@@ -54,7 +54,7 @@ The image belows shows the appearance of all four of the above optional session 
 
 **NOTE:** The actual URL is available to the left of the icon shown above. It is titled "Virtual Session Link". This link is also available in Event Detail as well with the full URL available on mouse-over.
 
-## More Information available
+## More Information Available
 ![more information - click to see](../images/icons_explained/more_info.png)
 
 ## Learning Material Icons
@@ -70,7 +70,7 @@ The icon above will not appear if the learning material's usage is optional - no
 
 ![not available yet](../images/icons_explained/not_avail_yet.png)
 
-## Recently updated
+## Recently Updated
 ![learning event - recently updated](../images/icons_explained/recently_updated.png)
 
 ## Instructional Notes 

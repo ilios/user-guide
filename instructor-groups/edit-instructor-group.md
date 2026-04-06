@@ -4,7 +4,7 @@ To edit Instructor Group membership (or the name of the group itself), click on 
 
 <figure>
     <img src="../images/instructor_groups_all_images/click_to_edit.png" 
-    alt="click link to edit">
+    alt="click to edit">
     <figcaption>
         <p>click to edit</p>
     </figcaption>

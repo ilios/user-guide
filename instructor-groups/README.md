@@ -15,9 +15,9 @@ The Instructor Groups module in Ilios allows for the creation of reusable and tr
 To access this functionality, click on the Instructor Groups menu item from the flyout menu as shown below.
 
 <figure>
-    <img src="../images/instructor_groups_all_images/open_instructor_groups.png" alt="Open Instructor Group Maintenance">
+    <img src="../images/instructor_groups_all_images/open_instructor_groups.png" alt="go to Instructor Group maintenance">
     <figcaption>
-        <p>flyout menu -  go to Instructor Group maintenance
+        <p>flyout menu - go to Instructor Group maintenance
         </p>
     </figcaption>
 </figure>
@@ -25,7 +25,7 @@ To access this functionality, click on the Instructor Groups menu item from the 
 This is the screen that appears (see image comments for details). These instructor groups can be sorted by "Instructor Group Title" or by "Members" (member count). There is also a text box available in the upper right corner which allows for filter by text string search. A school switcher is also available for the rare administrative users that have advanced privileges over more than one school.
 
 <figure>
-    <img src="../images/instructor_groups_all_images/instructor_group_list.png" alt="Instructor group list">
+    <img src="../images/instructor_groups_all_images/instructor_group_list.png" alt="instructor group list">
     <figcaption>
         <p>instructor group list
         </p>

@@ -22,7 +22,7 @@ To access this functionality, click on the Instructor Groups menu item from the 
     </figcaption>
 </figure>
 
-The screen shot depicted below is the screen that appears after selecting an Instructor Group to view or modify. These instructor groups can be sorted by "Instructor Group Title", "Members" (member count), or by "Associated Courses" (course count). There is also a text box available in the upper right corner which allows for filter by text string search. A school switcher is also available for the rare administrative users that have advanced privileges over more than one school.
+The screen shot below this text is an example of the screen that appears after selecting an Instructor Group to view or modify. These instructor groups can be sorted by "Instructor Group Title", "Members" (member count), or by "Associated Courses" (course count). There is also a text box available in the upper right corner which allows for filter by text string search. A school switcher is also available for the rare administrative users that have advanced privileges over more than one school.
 
 <figure>
     <img src="../images/instructor_groups_all_images/instructor_group_list.png" alt="instructor group list">

@@ -6,7 +6,7 @@ Click the (+) icon as shown below to start the process of adding an Instructor G
     <img src="../images/instructor_groups_all_images/activate_process.png" 
     alt="Start process">
     <figcaption>
-        <p> activate add instructor group process ...</p>
+        <p> activate add instructor group process</p>
     </figcaption>
 </figure>
 
@@ -34,9 +34,9 @@ After clicking the link as shown above ...
 
 <figure>
     <img src="../images/instructor_groups_all_images/click_link.png" 
-    alt="Click link as shown">
+    alt="click link as shown">
     <figcaption>
-        <p>New Instructor Group - selected</p>
+        <p>new instructor group - selected</p>
     </figcaption>
 </figure>
 
@@ -46,9 +46,9 @@ For the sake of demonstration, instructors have been added to the newly created 
 
 <figure>
     <img src="../images/instructor_groups_all_images/add_instructors.png" 
-    alt="Add one or more instructors">
+    alt="add one or more instructors">
     <figcaption>
-        <p>Add one or more instructors</p>
+        <p>add one or more instructors</p>
     </figcaption>
 </figure>
 

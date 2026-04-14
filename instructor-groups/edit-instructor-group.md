@@ -12,7 +12,7 @@ To edit Instructor Group membership (or the name of the group itself), click on 
 
 ## Remove Instructor Group
 
-If the trash can icon is enabled as it is in the screen shot above, the instrutor group can be deleted / removed from the system. This occurs because this Instructor Group has not been associated with any teaching activities. The "Associated Courses" field, the count of which gets updated when this instructor group is used in session offerings or ILM's, provides this information. If that number is greater than zero, the trash can delete button will be disabled.
+If the trash can icon is enabled as it is in the screen shot above, the instructor group can be deleted / removed from the system. This occurs only in situations when this instructor group has not been associated with any teaching activities. The "Associated Courses" field, the count of which gets updated when this instructor group is used in session offerings or ILM's, provides this information. If that number is greater than zero, the trash can delete button will be disabled.
 
 ## Sort Options
 

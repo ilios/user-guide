@@ -46,9 +46,9 @@ For the sake of demonstration, instructors have been added to the newly created 
 
 <figure>
     <img src="../images/instructor_groups_all_images/add_instructors.png" 
-    alt="add one or more instructors">
+    alt="add instructors">
     <figcaption>
-        <p>add one or more instructors</p>
+        <p>add instructors</p>
     </figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Following the steps outlined above, the screen changes as shown below.
     <img src="../images/instructor_groups_all_images/updates_shown.png" 
     alt="Updates shown">
     <figcaption>
-        <p>Instructor Group - pre-save</p>
+        <p>updates shown</p>
     </figcaption>
 </figure>
 
@@ -66,9 +66,9 @@ After saving as shown above ...
 
 <figure>
     <img src="../images/instructor_groups_all_images/instructor_group_updated.png" 
-    alt="After update ...">
+    alt="instructor group - updated">
     <figcaption>
-        <p>Instructor Group - updated</p>
+        <p>instructor group - updated</p>
     </figcaption>
 </figure>
 

@@ -5,7 +5,7 @@ Leadership at the school level is easily maintained in Ilios. Ilios users can be
 It is quite likely your list will not be as all-encompassing as the one shown below; but it is still necessary to select the correct school for maintenance, even if there is only one available to you.
 
 <figure>
-    <img src="../images/schools/leadership/choose_school.png" alt="click as shown to select school">
+    <img src="../images/schools/leadership/choose_school.png" alt="select from available schools">
     <figcaption>
         <p>select from available schools</p>
     </figcaption>

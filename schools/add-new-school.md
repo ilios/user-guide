@@ -4,7 +4,7 @@ To start the process of adding a new school to Ilios, click the (+) button as sh
 
 ![click to add](../images/schools/add_new/click_to_add.png)
 
-Once the step above has been taken, the school can be entered as shown below. A valid email address must be entered into the School Administrator's Email field.
+Once the step above has been taken, the school can be entered as shown below. A valid email address must be entered into the "Administrator Email" field.
 
 ![enter school data](../images/schools/add_new/enter_school_data.png)
 

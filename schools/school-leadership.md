@@ -13,7 +13,7 @@ It is quite likely your list will not be as all-encompassing as the one shown be
 
 ## View Leadership Details
 
-![view details](../images/schools/leadership/open_leadership_school_level.png)
+![open school leadership](../images/schools/leadership/open_school_leadership.png)
 
 After clicking as shown in the screen shot above, leadership details are exposed showing currently assigned school-level Directors and Administrators. 
 

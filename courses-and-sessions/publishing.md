@@ -100,9 +100,9 @@ In the **Publish Full Course with All Sessions** workflow, a display of the cour
 
 When a course is in Scheduled state and has sessions in Published and/or Scheduled state, those Published and Scheduled sessions will display as TBD until the course is published. A published course will display any Scheduled or Published sessions as their state indicates accordingly.
 
-### Publish All Sessions
+## Publication Review
 
-![publish all](../images/publishing/publish_all.png)
+![publication review](../images/publishing/publication_review.png)
 
 After clicking as shown above on the "Publication Review" button, there will be an opportunity to review all of the sessions before taking action on publication on any or all of the associated sessions. Some of the session may have been published already.
 
@@ -112,7 +112,7 @@ It is important to note that the sessions in "Sessions Incomplete: cannot publis
 
 ### Review Sessions to Publish
 
-The screen shot below shows the review screen for publishing all sessions. "Sessions Requiring Review" appears in expanded mode. The other two areas are in contracted mode but can be expanded using the provided arrow expanders. 
+The screen shot below shows the review screen for the publication review workflow. "Sessions Requiring Review" appears in expanded mode. The other two areas are in contracted mode but can be expanded using the provided arrow expanders. 
 
 ![view sessions requiring review](../images/publishing/view_sessions_requiring_review.png)
 

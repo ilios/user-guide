@@ -104,7 +104,7 @@ When a course is in Scheduled state and has sessions in Published and/or Schedul
 
 ![publish all](../images/publishing/publish_all.png)
 
-In the example shown above, the selected course contains a total of 148 sessions. Many of these may have already been published. After clicking as shown, there will be an opportunity to review all of the sessions before taking action on publication.
+After clicking as shown above on the "Publication Review" button, there will be an opportunity to review all of the sessions before taking action on publication on any or all of the associated sessions. Some of the session may have been published already.
 
 After clicking as shown above, the screen appears similar to the image in the screenshot below. Initially, "Sessions Requiring Review" is expanded while the other two sections "Sessions Incomplete" and "Sessions Complete" are contracted. Clicking the triangle arrows to the right of the captions will expand the selected section. In "Sessions Requiring Review", clicking the buttons labeled "Publish As-Is" or "Mark as Scheduled" will apply that setting to the entire list of Sessions below in any given review section. They can be edited individually using the provided check boxes. This same principle applies to "Sessions Complete: ready to publish". 
 

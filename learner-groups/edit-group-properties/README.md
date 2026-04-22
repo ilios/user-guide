@@ -35,7 +35,7 @@ Learner group titles can be sorted alphabetically ascending or descending wherea
 
 To edit a Group's attributes, click as shown above. The group's name is a hyperlink used to edit it or view its attributes / membership. In this example "SET Class of 2028" has been selected. The top part of the screen appears as shown below with selected features highlighted in the screen shot.
 
-![learner group top selected](../../images/edit_learner_group/learner_group_top_selected.png)
+![learner group - top selected](../../images/edit_learner_group/learner_group_top_selected.png)
 
 ### Screen Elements
 

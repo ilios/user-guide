@@ -45,7 +45,7 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
 [**Default Virtual Learning Link:**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-virtual-learning-link) Same as with location.
 
-**Associated Courses:** This is an expandable list showing all courses (and sessions) that have utilized this learner group in offerings and / or ILM's.
+**Associated Courses:** This is an expandable list showing all courses (and sessions) that have utilized this learner group in offerings and / or ILM's - with sticky headers in case scrolling is needed.
 
 **Default Instructors:** Click "Manage Instructors" to activate this functionality, which is where default instructors can be added or removed (maintained). The logic behind the defaults is the same as it is with location and learner link - small groups only.
 
@@ -57,7 +57,7 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
 ### Needs Accommodation
 
-**Needs Accommodation:** This is set to affirmative by sliding the toggle as shown below. This is for virtual learning. The learner group has at least one member who requires accommodation like closed captions or something else in a virtual learning setting.
+**Needs Accommodation:** This is set to affirmative by sliding the toggle as shown below. This is for virtual learning. The learner group has at least one member who requires accommodation like closed captions or more assistance in a virtual learning setting.
 
         Before ...
 
@@ -66,8 +66,6 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
         After ...
 
 ![accomodation required - yes](../../images/edit_learner_group/accommodation_required_yes.png)
-
-**Associated Courses (and Sessions):** Expandable read-only list of Courses (and Sessions with included links) that have this Learner Group attached to one or more Session Offerings.
 
 ### Group Members Listed
 

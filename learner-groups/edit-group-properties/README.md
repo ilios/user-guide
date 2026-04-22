@@ -41,17 +41,19 @@ To edit a Group's attributes, click as shown above. The group's name is a hyperl
 
 **Title:** Can be modified by clicking on it, making changes, and confirming.
 
-**Manage:** Switched on or off by clicking the button. When "Manage" is turned on, the group assignment can be edited. The learners who need to be added to "Prologue Entire Class" can be found by searching and sorting. The learners who are not currently in the group appear in the lower part of the output grid.
-
-**Learner List:** Any of these students can be assigned either into this group,back up to the cohort level or they can be moved into another group by navigating to the other group first.
-
 **Default Location:** If a Room Number (Location) is not specified for a specific Offering, this default location is attached instead. This applies to [offerings](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings) created as "Small Groups" but not to events created as "Offerings" during the new offering creation process.
-
-**Default Instructor:** Same as with location.
 
 [**Default Virtual Learning Link:**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-virtual-learning-link) Same as with location.
 
-[**Learner Group Calendar:**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/calendar) Display or hide calendar of events associated with this learner group and / or sub groups.
+**Associated Courses:** This is an expandable list showing all courses (and sessions) that have utilized this learner group in offerings and / or ILM's.
+
+**Default Instructors:** Click "Manage Instructors" to activate this functionality, which is where default instructors can be added or removed (maintained). The logic behind the defaults is the same as it is with location and learner link - small groups only.
+
+**Manage Members:** Switched on or off by clicking the button. When "Manage" is turned on, the group assignment can be edited. The learners who need to be added to "Prologue Entire Class" can be found by searching and sorting. The learners who are not currently in the group appear in the lower part of the output grid.
+
+**Learner List:** Any of these students can be assigned either into this group,back up to the cohort level or they can be moved into another group by navigating to the other group first.
+
+[**Learner Group Calendar:**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/calendar) This is to display or hide a calendar display of events associated with this learner group and / or sub groups - hide or show this using the provided buttons.
 
 ### Needs Accommodation
 

@@ -2,11 +2,11 @@
 
 ### Individual Learner
 
-In this example, there are no Learners in the group "Demonstration Group 5". The learner "Lawrence Alvarez" needs to be added to the group. This can be accomplished as shown below.
+In this example, there are no Learners in the group "Demonstration Group 5". The learner "Robin Alvarez" needs to be added to the group. This can be accomplished as shown below.
 
 ![no learners yet](../../images/edit_learner_group/group_membership/no_learners_yet.png)
 
-Once the green (+) has been clicked to add "Lawrence Alvarez" to the sub group "Demonstration Group 05", the screen updates to what is shown below and it is easy to verify the learner's enrollment in the group.
+Once the green (+) has been clicked to add "Lawrence Alvarez" to the sub group "Demonstration Group 5", the screen updates to what is shown below and it is easy to verify the learner's enrollment in the group.
 
 ![added to the learner group](../../images/edit_learner_group/group_membership/learner_added.png)
 

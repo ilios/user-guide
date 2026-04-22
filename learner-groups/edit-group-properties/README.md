@@ -77,5 +77,7 @@ The first thing to remember is to always navigate to the Learner Group to which 
 
 The list of the learners currently enrolled in this group is shown below.
 
-![list of members](../../images/edit_learner_group/lg_member_list.png)
+![learner group member list](../../images/edit_learner_group/learner_group_member_list.png)
+
+**Sticky Headers:** If the list of members is longer than the screen can accommodate, the headers will remain as the screen is scrolled further down. This is helpful for reviewing records. 
 

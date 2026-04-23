@@ -8,7 +8,7 @@ In this example, there are no Learners in the group "Demonstration Group 5". The
 
 Once the green (+) has been clicked to add "Robin Alvarez" to the sub group "Demonstration Group 5", the screen updates to what is shown below and it is easy to verify the learner's enrollment in the group.
 
-![added to the learner group](../../images/edit_learner_group/group_membership/learner_added.png)
+![learner added](../../images/edit_learner_group/group_membership/learner_added.png)
 
 ### Multiple Learners
 

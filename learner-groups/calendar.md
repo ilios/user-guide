@@ -8,3 +8,4 @@ In the screen shot below, the "Show Calendar" option has been selected and all o
 
 ![show calendar selected](../images/learner_group_calendar/show_calendar_selected.png)
 
+You can scroll back and forth to previous or future weeks. The default is the current week.

@@ -1,6 +1,6 @@
-## Add Learners to Group
+# Add Learners to Group
 
-### Individual Learner
+## Individual Learner
 
 In this example, there are no Learners in the group "Demonstration Group 5". The learner "Robin Alvarez" needs to be added to the group. This can be accomplished as shown below.
 
@@ -10,7 +10,7 @@ Once the green (+) has been clicked to add "Robin Alvarez" to the sub group "Dem
 
 ![learner added](../../images/edit_learner_group/group_membership/learner_added.png)
 
-### Multiple Learners
+## Multiple Learners
 
 Users will need to scroll down to the lower part of the screen to access the area where Cohort members who have not been added to Demonstration Group or any of its sub groups is located.
 
@@ -18,16 +18,16 @@ In this example the filtering functionality was not used; but it is evident that
 
 ![add multiple learners](../../images/edit_learner_group/group_membership/add_multiple_learners.png)
 
-## Remove Learners from Group
+# Remove Learners from Group
 
-### Individual Learner
+## Individual Learner
 Below is a screen shot depicting a learner group in "Manage" mode. Before any learners have been selected using the check boxes on the left, there are red indicators available to remove any one learner immediately. This happens without confirmation. As an example, the learner "Ann Cheryl Rose" will be removed from the learner group as soon as the red line is clicked.
 
 ![remove one learner](../../images/edit_learner_group/group_membership/remove_one_learner.png)
 
 It is necessary (as in the "add" actions performed above) to click "Manage" after navigating to the correct learner group/sub group to perform maintenance.
 
-### Multiple Learners
+## Multiple Learners
 
 Once one or more learners have been selected for removal using the provided check boxes, the red "instant remove" action items disappear. We are now in multi-edit mode. 
 
@@ -40,11 +40,11 @@ Learners to be removed ...
 
 ![remove multiple learners](../../images/edit_learner_group/group_membership/remove_multiple_learners.png)
 
-### Search for Learner(s)
+## Search for Learner(s) to Remove
 
 There is a search box available at the top of the listing of learners in the current group. This can be utilized to find specific learners to remove.
 
-![search for learner to remove](../../images/edit_learner_group/group_membership/search_for_learners.png)
+![search for learner to remove](../../images/edit_learner_group/group_membership/search_for_learners_to_remove.png)
 
 At this point either method, instant click, or select to remove using check box and button, can be used because nothing has been selected yet.
 

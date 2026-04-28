@@ -8,7 +8,11 @@ In the screen shot below, the "Show Calendar" option has been selected and all o
 
 ![show calendar selected](../images/learner_group_calendar/show_calendar_selected.png)
 
-You can scroll backwards or forwards to previous or future weeks. The default is the current week.
+## Scroll to Next or Previous Week
+
+You can scroll backwards or forwards to previous or future weeks. The default is the current week ("Today").
+
+![scroll backwards or forwards](../images/learner_group_calendar/scroll_backwards_or_forwards.png)
 
 ## Show Events for All Subgroups
 

@@ -14,7 +14,7 @@ To start this process, click as shown below.
 
 The group created for this example is called "Gold Team Exam Group". As indicated in the screen shot above, there are 12 sub groups already created to hold the incoming learners contained in the delimited file that will be uploaded.
 
-![click to upload](../images/learner_group_assignment_tool/click_to_upload_learners.png)
+![click to upload](../images/learner_group_assignment_tool/click_to_upload.png)
 
 Clicking the **"Sample File"** link will cause a file called "SampleUserUpload.tsv" to be downloaded to your computer. Open this file in Excel to view its contents. It will initially be stored in your "Downloads" folder. The screen shot below is from the sample .tsv file opened in Excel. It contains no data but indicates the four fields that need to be included in any .tsv, .csv, or .txt file to be uploaded.
 

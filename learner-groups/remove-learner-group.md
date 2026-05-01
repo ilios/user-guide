@@ -8,7 +8,9 @@ If you have been assigned permissions to delete Learner Groups, the trash can ic
 
 ## Remove Members
 
-First it is necessary to select a learner group and click "Manage Members". After doing this the screen appears as shown in the "Individual Learners" section below. 
+![click to manage](../images/delete_learner_group/click_to_manage.png)
+
+First it is necessary to select a learner group and click "Manage Members" as shown above. After doing this the screen appears as shown in the "Individual Learners" section below. 
 
 ### Individual Learners
 

@@ -1,6 +1,6 @@
 # Delete Learner Group
 
-If you have been assigned permissions to delete Learner Groups, the trash can icon will be displayed allowing this functionality as long as the learner group has not been assigned to any offerings or ILM's. The delete button (trash can icon) is displayed under the Actions menu as shown below.
+If you have been assigned permissions to delete (remove) Learner Groups, the trash can icon will be displayed and enabled allowing this functionality as long as the learner group has not been assigned to any offerings or ILM's. The delete button (trash can icon) is displayed under the Actions menu as shown below.
 
 ![learner groups can be deleted / removed](../images/delete_learner_group/can_be_deleted_learner_groups.png)
 

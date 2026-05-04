@@ -36,7 +36,7 @@ The removal of the Learners from the Learner Group has not yet taken place. This
 
 The calendar selected as shown above details the Offerings - may not be displayed if far in future or past. The screen shot far below shows the "mouse over" of the calendared event. The session has not been published. This is known by appearance of the "Not Published" icon. 
 
-![not published](../images/delete_learner_group/not_published_icon.png)
+![not published icon](../images/delete_learner_group/not_published_icon.png)
 
 ![mouseover shown](../images/delete_learner_group/mouseover_shown.png)
 

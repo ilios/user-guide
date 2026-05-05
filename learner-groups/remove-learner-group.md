@@ -48,7 +48,11 @@ This is the learner group we are going to delete in this example. As seen in the
 
 ![group to be deleted](../images/delete_learner_group/group_to_be_deleted.png)
 
-If you are comfortable with deleting the Learner Group ...
+### Navigate to Parent Group
+
+The group can now be deleted. Navigating to the parent group will display the list of subgroups within it and will present an active trash can to allow for the removal of learners groups eligible for deletion / removal from the system. "Anatomy 3E" now satisfies the requirements for removal. 
+
+![navigate to parent group](../images/delete_learner_group/navigate_to_parent_group.png)
 
 ![delete learner group](../images/delete_learner_group/delete_learner_group.png)
 

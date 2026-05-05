@@ -40,9 +40,13 @@ The calendar selected as shown above details the Offerings - may not be displaye
 
 ![mouseover shown](../images/delete_learner_group/mouseover_shown.png)
 
-After removing the Learners ...
+### Review Group to be Deleted
 
-![remove learners](../images/delete_learner_group/remove_learners.png)
+After removing all learners and verifying there are no sessions attached to a learner group, it can be deleted / removed from the system.
+
+This is the learner group we are going to delete in this example. As seen in the image below, there are no longer any learning activities (courses / sessions) associated with this group. It can be deleted. Also, the learners have been removed although it is not necessary to do this in order to delete / remove a learner group from the system. 
+
+![group to be deleted](../images/delete_learner_group/group_to_be_deleted.png)
 
 If you are comfortable with deleting the Learner Group ...
 

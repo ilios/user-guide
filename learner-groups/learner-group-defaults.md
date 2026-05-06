@@ -17,7 +17,9 @@ To specify a default location for a small group offering to take place, the foll
 
 ![default location - start](../images/learner_group_defaults/default_location_start.png)
 
-* After following the step indicated above, the "Click to edit" Default Location field changes into a text box allowing the default location to be entered manually. This is shown below. The default location has been entered for this Learner Group "HSW 322".
+* After following the step indicated above, the "Click to edit" Default Location field changes into a text box allowing the default location to be entered manually. This is shown below. The default location has been entered for the "ABC 1B" learner group - "HSW 322".
+
+The breadcrumbs indicate this learner group is a subgroup of "ABC Small Groups" and is associated with the "Doctor of Medicine - BRIDGES Class of 2029".
 
 ![enter default location](../images/learner_group_defaults/enter_default_location.png)
 

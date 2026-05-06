@@ -25,7 +25,7 @@ The breadcrumbs indicate this learner group is a subgroup of "ABC Small Groups" 
 
 * Click the green check box or press Enter on the keyboard to save this specification.
 
-Now that it has been saved, "HSW 322" appears as a clickable hyperlink in case changes need to be made. Small Group offerings that get created going forward will obtain this value as the Offering's location. This will not affect or update previous small group offerings associated with this learner group.
+Now that it has been saved, "HSW 322" appears as a clickable link in case changes need to be made. Small Group offerings that get created going forward will obtain this value as the Offering's location. This will not affect or update previous small group offerings associated with this learner group.
 
 ![edit default location](../images/learner_group_defaults/edit_default_location.png)
 

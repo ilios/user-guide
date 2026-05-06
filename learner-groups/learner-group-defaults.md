@@ -13,7 +13,7 @@ description: >-
 
 To specify a default location for a small group offering to take place, the following steps can be taken.
 
-* Select the Learner Group to modify and click "Click to edit" or if there already is a default location, it will be hyperlinked. Clicking on the text value of the default location will open the editing pane.
+* Select the Learner Group to modify and click "Click to edit" or if there already is a default location, it will be hyperlinked. Clicking on the text value of the default location previously entered will open the editing pane.
 
 ![default location - start](../images/learner_group_defaults/default_location_start.png)
 

@@ -37,7 +37,7 @@ The process for adding default instructor(s) is similar to adding the other defa
 
 **Step One**
 
-![default instructor start - click "Manage Instructors"](../images/learner_group_defaults/default_instructor_start.png)
+![default instructor - start](../images/learner_group_defaults/default_instructor_start.png)
 
 **Step Two**
 

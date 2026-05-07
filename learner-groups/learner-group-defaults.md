@@ -37,13 +37,13 @@ The process for adding default instructor(s) is similar to adding the other defa
 
 **Step One**
 
-![default instructor - start](../images/learner_group_defaults/default_instructor_start.png)
+![default instructors - start](../images/learner_group_defaults/default_instructors_start.png)
 
 **Step Two**
 
 After clicking as shown above, the screen adjusts to allow for the search for one or more instructors and/or instructor groups to be performed.
 
-![default instructor - search](../images/learner_group_defaults/default_instructor_search.png)
+![default instructors - search](../images/learner_group_defaults/default_instructors_search.png)
 
 **Step Three**
 

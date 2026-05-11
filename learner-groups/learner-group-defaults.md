@@ -47,11 +47,11 @@ After clicking as shown above, the screen adjusts to allow for the search for on
 
 **Step Three**
 
-Search for and select several Instructors and an Instructor Group. The instructors who are in the group are listed as shown below. The first step, not currently shown in the guide, was to search for "BMB" which resulted in the selection of the "BMB Anatomy Lab Faculty" instructor group. Secondly, a search was performed for "Greene". This is shown below and resulted in the selection of two individual instructors to be added to the seven instructors who are members of the "BMB Anatomy Lab Faculty" instructor group. Nine instructors total have been selected as default instructors for this learner group. 
+Search for and select several Instructors and an Instructor Group. The instructors who are in the group are listed as shown below. The first step, not currently shown in the guide, was to search for "BMB" which resulted in the selection of the "BMB Anatomy Lab Faculty" instructor group. Secondly, a search was performed for "Greene". This is shown below and resulted in the selection of two individual instructors to be added to the seven instructors who are members of the "BMB Anatomy Lab Faculty" instructor group. Nine instructors total have been selected as default instructors for this learner group. All of them will be assigned if Small Group offering(s) are created using this learner group (subgroup).
 
 **Select Default Instructors**
 
-![select default instructors](../images/learner_group_defaults/select_instructors.png)
+![select default instructors](../images/learner_group_defaults/select_default_instructors.png)
 
 After performing the action shown above, all 7 members of the "BMB Anatomy Lab Faculty" Instructor group along with the 2 individual Instructors have been assigned to be default instructors for any newly created offerings associated with this Learner Group.
 

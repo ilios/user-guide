@@ -61,7 +61,7 @@ After confirming by clicking as shown above in the "select default instructors" 
 
 ## Default Virtual Learning Link
 
-This is used to set a default virtual learning link for this small group. Remote learning has made this important in recent years. The value can be pasted or entered as shown in an updated screen shots shown below.
+This is used to set a default virtual learning link for this small group. Remote learning has made this important in recent years. The value can be pasted in or entered as shown in the screen shots shown below.
 
 ### Add Link
 

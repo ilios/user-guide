@@ -95,7 +95,7 @@ You can review and verify which learner groups have had this value set. Refer to
 
 These groups are subgroups. From the parent group (one level up), this is how these designations appear.
 
-![needs accommodation - parent group view](../images/learner_group_defaults/mouse_over_callout.png)
+![needs accommodation - mouse-over for details](../images/learner_group_defaults/mouse_over_for_details.png)
 
 Learners in these groups will NOT see this anywhere in the offering view on any calendar view, Week at a Glance, or by calendar feed. This is only for administrative purposes.
 

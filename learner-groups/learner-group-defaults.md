@@ -103,4 +103,4 @@ Learners in these groups will NOT see this anywhere in the offering view on any 
 
 Using the mouse to hover over the sub groups listing and "needs accommodation" icon will reveal a callout box detailing which sub groups need accommodation. This is shown below. 
 
-![sub groups shown](../images/learner_group_defaults/callout_details.png)
+![callout details shown](../images/learner_group_defaults/callout_details_shown.png)

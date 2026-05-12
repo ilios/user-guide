@@ -91,7 +91,7 @@ Slide the toggle over to the right by clicking it as shown below.
 
 You can review and verify which learner groups have had this value set. Refer to the arrows in the screen shot below.
 
-![needs accommodation - subgroups shown](../images/learner_group_defaults/needs_accom_subgroups_indicated.png)
+![needs accommodation - subgroups shown](../images/learner_group_defaults/needs_accom_subgroups_shown.png)
 
 These groups are subgroups. From the parent group (one level up), this is how these designations appear.
 

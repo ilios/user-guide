@@ -8,7 +8,7 @@ The process of adding a new course to Ilios gets initiated from the Course list,
 
 **NOTE:** Just because "2025-2026" is currently selected from the year drop-down does not mean the new course needs to be in the academic year "2025-2026". This can be selected during the course creation process. 
 
-![adding new course](../../images/course_images/add_new_course.png)
+![add new course - save](../../images/course_images/add_new_course.png)
 
 After clicking **Done** as shown in the example shown above, the remaining details of the new Course can now be added. Remember to verify the year in the "Academic Year" selector is correct. It defaults to the current year but can be changed to any future academic year or recently passed year in the system.
 

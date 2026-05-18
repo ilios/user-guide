@@ -10,7 +10,7 @@ The process of adding a new course to Ilios gets initiated from the Course list,
 
 ![add new course - save](../../images/course_images/add_new_course_save.png)
 
-After clicking **Done** as shown in the example shown above, the remaining details of the new Course can now be added. Remember to verify the year in the "Academic Year" selector is correct. It defaults to the current year but can be changed to any future academic year or recently passed year in the system.
+After clicking **"Done"** as shown in the example shown above, the remaining details of the new course can now be added. Remember to verify that the year chosen in the "Academic Year" selector is correct. It defaults to the current year but can be changed to any future academic year or recently passed year in the system.
 
 Since multiple cohorts can be added to any course, even if the additional cohorts are from a different program or school, there is no direct connection between Course and Program; however, all Courses are saved within a selected school when originaly created.
 

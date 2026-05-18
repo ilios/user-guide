@@ -18,7 +18,7 @@ Since multiple cohorts can be added to any course, even if the additional cohort
 
 ![new course saved](../../images/course_images/new_course_saved.png)
 
-After clicking the link as shown above, the screen appears as follows showing the new course: **Drugs And Side Effects 101**. The new course is initially saved with a status of **Not Published** since it has no sessions or offerings at this point. Since the act of publishing is essentially the equivalent of populating student calendars with their corresponding offerings, there is nothing to publish at this time.
+After clicking the link (either from the confirmation message or from the course list) as shown above, the screen morphs into the following showing the new course - **Drugs And Side Effects 101**. The new course is initially saved with a status of **Not Published** since it has no sessions or offerings yet. Since the act of publishing is essentially the equivalent of populating student calendars with their corresponding offerings, there is nothing to publish at this time. It is still possible to easily delete the course at this point as well - notice the red (active) trash can in the course list.
 
 ## New Course Details
 

@@ -3,3 +3,5 @@ description: Activities related to the creation and maintenance of courses is co
 ---
 
 [Create New Course](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_actions/create-new-course)
+
+[Edit Course](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_actions/edit-course)

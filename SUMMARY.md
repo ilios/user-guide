@@ -24,7 +24,7 @@
     * [Overview](courses-and-sessions/courses/course_overview.md)
     * [Leadership](courses-and-sessions/courses/course-leadership.md)
     * [Objectives](courses-and-sessions/courses/course_objectives.md)
-      * [Add New Objective](courses-and-sessions/courses/add-objective.md)
+      * [Add Objective](courses-and-sessions/courses/add-objective.md)
       * [Edit Objective](courses-and-sessions/courses/edit-objective.md)
       * [Attach Parent Objective](courses-and-sessions/courses/add-parent-objective.md)
       * [Update Parent Objective](courses-and-sessions/courses/edit-parent-objective.md)

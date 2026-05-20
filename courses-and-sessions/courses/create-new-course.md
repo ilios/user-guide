@@ -28,6 +28,6 @@ After clicking the **Back to Courses List** link, the full list of Courses appea
 
 ## Updated List
 
-![updated list](../../images/course_images/filtered_course_list.png)
+![filtered course list](../../images/course_images/filtered_course_list.png)
 
 In this updated screen shot, arrows point to actions that can be taken on a newly created course only (**Delete**). Courses can only be removed / deleted if they are in the status of "Not Published". The other option shown here (**Lock**) can be performed on any course. This makes it impossible for anyone to edit any attribute of this course. It can then be unlocked if need be and if you have high enough permissions to do so.

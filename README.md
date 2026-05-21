@@ -83,7 +83,9 @@ Breadcrumbs only appear at the top of pages that are subsidiary pages of higher 
 
 ## Navigation Buttons
 
-At the bottom of any page in the user guide, there are navigation buttons which will take the user to the next or previous page. An example will be detailed below.
+At the bottom of any page in the user guide, there are navigation buttons which will take the user to the next or previous page. In the screen shot below, the user is currently in the `Courses and Sessions >> Courses >> Objectives >> Edit Objective` section. They can navigate forward or backwards using the buttons at the bottom of any page in the guide.
+
+![navigation buttons](images/introduction/navigation_buttons.png)
 
 ## Clickable Images
 

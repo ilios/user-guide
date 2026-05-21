@@ -72,7 +72,7 @@ Once the Objectives link has been opened, the full list of Objectives associated
 
 Once the Save action is completed, the screen refreshes to show the MeSH term now associated with the Course Objective.
 
-![MeSH now attached to Course Objective](../../images/course_objectives/add_mesh4.png)
+![MeSH now attached to course objective](../../images/course_objectives/MeSH_now_attached.png)
 
 ## Review Recent Updates
 

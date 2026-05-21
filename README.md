@@ -81,6 +81,10 @@ Breadcrumbs explained ...
 
 Breadcrumbs only appear at the top of pages that are subsidiary pages of higher level pages or chapters.
 
+## Navigation Buttons
+
+At the bottom of any page in the user guide, there are navigation buttons which will take the user to the next or previous page. An example will be detailed below.
+
 ## Clickable Images
 
 In this guide, if you wish to see any image in greater detail, simply click on the image. A magnifying glass icon (depends on browser) will appear allowing for this action to occur. This will open the image pop-up style on the browser window allowing for a much closer viewing experience of the selected (clicked upon) image.

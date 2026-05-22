@@ -49,7 +49,7 @@
       * [Lock Course](courses-and-sessions/courses/lock-course.md)
   * [Sessions](courses-and-sessions/sessions/README.md)
     * [Leadership](courses-and-sessions/sessions/session-leadership.md)
-    * [Objectives](courses-and-session/sessions/session_objectives.md)
+    * [Objectives](courses-and-session/sessions/objectives.md)
       * [Add Objective](courses-and-sessions/sessions/add-session-objective.md)
       * [Edit Objective](courses-and-sessions/sessions/edit-session-objective.md)
       * [Attach Parent Objective(s)](courses-and-sessions/sessions/add-parent-objective-s.md)

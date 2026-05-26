@@ -3,3 +3,5 @@ description: Learning Materials may be attached to courses or sessions. In order
 ---
 
 [Attach Learning Materials](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/learning_materials/attach-learning-materials)
+
+[Sort Learning Materials](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/learning_materials/sort-learning-materials)

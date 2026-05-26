@@ -4,3 +4,8 @@ description: Activities related to the creation and maintenance of sessions is c
 
 [Add New Session](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/session_actions/add-new-session)
 
+[Edit Session](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/session_actions/edit-session)
+
+[Copy Session](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/session_actions/copy-session)
+
+[Delete Session](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/session_actions/delete-session)

@@ -12,7 +12,7 @@ As shown below, you can choose to add the entire cohort to the new group or leav
 
 ![membership options](../images/new_learner_group/membership_options.png)
 
-After clicking "Done", the new learner group is added to the appropriate list (shown below). The list is sorted initially by title in alphabetical order. The sort order can be changed by the user to be Member or Subgroup counts instead of title. The new learner group "Reasoning and Thought" has been added with no students included. They can be added later of course.
+After clicking "Done", the new learner group is added to the appropriate list (shown below). The list is sorted initially by title in alphabetical order and filtered by "re" to display results easily. The sort order can be changed to be by Member or Subgroup counts instead of title (ascending or descending). The new learner group "Reasoning and Thought" has been added with no students included. They can be added later at any time.
 
 **NOTE**: This newly added learner group can still be deleted (removed from the system) since it has not been attached to any offerings yet.
 

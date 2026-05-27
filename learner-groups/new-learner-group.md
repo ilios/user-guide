@@ -1,6 +1,6 @@
 # New Learner Group
 
-To add a new Learner Group, select a program and cohort and click the (+) icon as shown below to start the process of adding a new top-level Learner Group.
+To add a new Learner Group, select a program and cohort and click the (+) icon as shown below to start the process of adding a new Learner Group.
 
 ## Add Learner Group 
 

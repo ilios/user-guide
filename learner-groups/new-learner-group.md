@@ -1,6 +1,6 @@
 # New Learner Group
 
-To add a new Learner Group, select a Program and Cohort and click the (+) icon as shown below to start the process of adding a new top-level Learner Group.
+To add a new Learner Group, select a program and cohort and click the (+) icon as shown below to start the process of adding a new top-level Learner Group.
 
 ## Add Learner Group 
 
@@ -8,7 +8,7 @@ To add a new Learner Group, select a Program and Cohort and click the (+) icon a
 
 ## Initial Membership Options
 
-As shown below, you can choose to add the entire cohort to the new group or leave it empty. A learner group title (name) must be a minimum of three characters in length.
+As shown below, you can choose to add the entire cohort to the new group or leave it empty, containing no learners. A title (name) must be entered and contain a minimum of three characters in length.
 
 ![membership options](../images/new_learner_group/membership_options.png)
 

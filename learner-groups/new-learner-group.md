@@ -1,6 +1,6 @@
 # New Learner Group
 
-To add a new Learner Group, select a program and cohort and click the (+) icon as shown below to start the process of adding a new top-level Learner Group.
+To add a new Learner Group, select a program and cohort and click the (+) icon as shown below to start the process of adding a new Learner Group.
 
 ## Add Learner Group 
 
@@ -14,7 +14,7 @@ As shown below, you can choose to add the entire cohort to the new group or leav
 
 After clicking "Done", the new learner group is added to the appropriate list (shown below). The list is sorted initially by title in alphabetical order. The sort order can be changed by the user to be Member or Subgroup counts instead of title. The new learner group "Reasoning and Thought" has been added with no students included. They can be added later of course.
 
-**NOTE**: This newly added Learner Group can still be deleted since it has not been attached to any Offerings yet.
+**NOTE**: This newly added learner group can still be deleted (removed from the system) since it has not been attached to any offerings yet.
 
 ![learner group added](../images/new_learner_group/learner_group_added.png)
 

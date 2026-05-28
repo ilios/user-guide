@@ -26,7 +26,7 @@ After clicking the Edit button under the Action menu as shown above, a screen si
 
 **IMPORTANT NOTE:** Any valid Ilios user can be added as an Instructor. This includes students and non-students. Selecting an Ilios user as "Instructor" effectively adds the Instructor (as well as setting the "Perform Non-Learners" value to "Yes") role to this user's profile.
 
-## Add URL - Virtual Learning Link
+### Add URL - Virtual Learning Link
 
 To add a URL (Virtual Learning Link), the URL can be generated using an application such as Zoom and pasted into llios.
 
@@ -46,7 +46,7 @@ After pasting directly on top of the initial value yields the following results.
 
 All that is left to do now is update the offering with this newly added information.
 
-![save to update offering URL](../../images/edit_offering/URL_save.png)
+![save to update offering](../../images/edit_offering/save_to_update_offering.png)
 
 Now that this has been added, the link that was pasted into the URL fields gets converted (for display and usability purposes) to "Virtual Session Link". There is also a "Copy" link if it is desired to have the full URL available for pasting or re-posting elsewhere.
 

@@ -10,7 +10,7 @@ To edit attributes of an existing offering, the steps shown below can be followe
 * Scroll to bottom of the Session details.
 * Click the provided "edit offering" check box to edit as shown below.
 
-![edit offering](../../images/edit_offering/click_to_edit.png)
+![click to edit](../../images/edit_offering/click_to_edit.png)
 
 ### Learners and Learner Groups
 

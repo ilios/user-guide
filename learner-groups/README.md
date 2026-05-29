@@ -22,7 +22,8 @@ This denotes a collection of Learners which can be associated with Sessions, Off
 
 ## Other Options
 
-* **Hide Calendar / Show Calendar -** These buttons are used to switch on or off the [Learner Group Calendar](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/calendar), which displays all learning activities to which this Learner Group has been attached. This Calendar is displayed using the weekly view. It can scrolled forward or backwards in time.
+* **Hide Calendar / Show Calendar -** These buttons are used to switch on or off the [Learner Group Calendar](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/calendar), which displays all learning activities to which this Learner Group has been attached. This calendar is displayed using the weekly view. It can scrolled forward or backwards in time.
+
 * **Show events for all subgroups -** This toggles on or off whether the Learner Group Calendar displays events for any and all subgroups of this Learner Group. This only applies if the calendar is being displayed.
 
 Learner Group management is the process of tagging, grouping and managing the learners who are attached to curricular activity in Ilios. This module allows for the association of sets of learners to specific content, and makes it possible to report out on those associations. The demographic details of individual learners are not tracked within Ilios.

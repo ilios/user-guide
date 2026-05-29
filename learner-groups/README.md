@@ -18,7 +18,7 @@ This denotes a collection of Learners which can be associated with Sessions, Off
 * [**Default Instructor(s)**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/learner-group-defaults#default-instructor-s) - Selected from the existing population that has been entered into Ilios by campus systems and manual entry. Shown in display as the instructor of record for activities to which a group is associated when no other instructors are identified. This only applies to Small Group Offerings. Individual Offerings do **NOT** get the default instructor from the Learner Group.
 * **Members** - Following the flow of the page, the next area is a listing of all the members of this learner group. Covered in other place are the instructions on how to manage learner group membership.
 * **Subgroups** - Subgroups are listed next. 
-* **Cohort Members NOT Assigned** - This listing displays all of the members of the cohort that have not been added to this group or any associated subgroup. They can be added by clicking the "plus" button to the right of the screen or done in bulk my mutiple selection and button click to add.
+* **Cohort Members NOT Assigned** - This listing displays all of the members of the cohort that have not been added to this group or any associated subgroup. They can be added by clicking the "plus" button to the right of the screen or they can be added in bulk by mutiple selection and then by performing a button click to add all selected members.
 
 ## Other Options
 

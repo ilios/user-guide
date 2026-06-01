@@ -82,7 +82,7 @@
     * [Edit Membership](learner-groups/edit-group-properties/edit-group-membership.md)
   * [Learner Group Calendar](learner-groups/calendar.md)
   * [Group Assignment Tool](learner-groups/group-assignment-tool.md)
-  * [Sub Groups](learner-groups/sub-groups.md)
+  * [Subgroups](learner-groups/sub-groups.md)
   * [Delete Learner Group](learner-groups/remove-learner-group.md)
   * [Copy Learner Group](learner-groups/copy-learner-group.md)
   * [Learner Group Defaults](learner-groups/learner-group-defaults.md)

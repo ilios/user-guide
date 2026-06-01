@@ -4,7 +4,7 @@ Subgroups are simply learner groups within learner groups. A learner who is in a
 
 ![click to add](../images/sub_groups/click_to_add.png)
 
-**NOTE**: Although this may not occur frequently, it is worth noting that the maximum length of a learner group or subgroup name is 60 characters. If an auto-generated sub group name ends up exceeding 60 characters, the characters before the numerical characters at the end of the sub group name will be truncated. This is shown below. The sub group's full name would have been "One Two Three A Big Ole Group For Me to Use to Test and Show 01". That would have required more than 60 characters. The following characters got removed in order to allow for the sub group's numerical value to appear ... "how ".
+**NOTE**: Although this may not occur frequently, it is worth noting that the maximum length of a learner group or subgroup name is 60 characters. If an auto-generated sub group name ends up exceeding 60 characters, the characters before the numerical characters at the end of the subgroup name will be truncated. This is shown below. The subgroup's full name would have been "One Two Three A Big Ole Group For Me to Use to Test and Show 01". That would have required more than 60 characters. The following characters got removed in order to allow for the sub group's numerical value to appear ... "how ".
 
 ![name truncated](../images/sub_groups/name_truncated.png)
 
@@ -12,13 +12,13 @@ Subgroups are simply learner groups within learner groups. A learner who is in a
 
 Adding a single subgroup is the default (as shown below).
 
-Click to start the process of adding a sub group as shown below. 
+Click to start the process of adding a subgroup as shown below. 
 
 ![add single subgroup](../images/sub_groups/add_single_sub_group.png)
 
 Once added, the newly created subgroup (Demo Sub 1) appears as shown below. It can be modified by clicking on the Title provided. There are no members in this subgroup. They should be added manually. Also, there are no members in the Parent Gruop because the option to create an empty group was selected when it was created. Alternatively, the entire Cohort could be included in the Parent Group (Demonstration Group). The subgroup that was just created can deleted by clicking on the trash can icon (under "Actions"). You will be asked to confirm this action since deletion is an action that cannot be undone.
 
-![new sub group](../images/sub_groups/new_sub_group.png)
+![new subgroup](../images/sub_groups/new_sub_group.png)
 
 ### Add Multiple Subgroups
 

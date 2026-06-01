@@ -1,6 +1,6 @@
-## Sub Groups
+## Subgroups
 
-Sub groups are simply learner groups within learner groups. A learner who is in a sub group is also a member of the parent(s). To add one or more Sub Groups, navigate to a Learner Group that needs to have one or more Sub Groups created below it. Click as shown below to start this process.
+Subgroups are simply learner groups within learner groups. A learner who is in a sub group is also a member of the parent(s). To add one or more Sub Groups, navigate to a Learner Group that needs to have one or more Sub Groups created below it. Click as shown below to start this process.
 
 ![click to add](../images/sub_groups/click_to_add.png)
 
@@ -8,7 +8,7 @@ Sub groups are simply learner groups within learner groups. A learner who is in 
 
 ![name truncated](../images/sub_groups/name_truncated.png)
 
-### Add Single Sub Group
+### Add Single Subgroup
 
 Adding a single sub group is the default (as shown below).
 
@@ -20,9 +20,9 @@ Once added, the newly created sub group (Demo Sub 1) appears as shown below. It 
 
 ![new sub group](../images/sub_groups/new_sub_group.png)
 
-### Add Multiple Sub Groups
+### Add Multiple Subgroups
 
-Any number of sub groups can be added automatically as well. The names will increment based on the number of sub groups desired. In this case since the Parent Group is called Demonstration, the sub groups will be named Demonstration 01 through Demonstration 12.
+Any number of subgroups can be added automatically as well. The names will increment based on the number of sub groups desired. In this case since the Parent Group is called Demonstration, the sub groups will be named Demonstration 01 through Demonstration 12.
 
 ![options displayed](../images/sub_groups/options_displayed.png)
 
@@ -32,11 +32,11 @@ After completing this action, the newly created (and automatically named) sub gr
 
 To add learners to any of these sub groups, first the sub group needs to be selected.
 
-![select sub group](../images/sub_groups/select_sub_group.png)
+![select subgroup](../images/sub_groups/select_sub_group.png)
 
 See below how the screen appears after selecting "Demonstration Group 05".
 
-![sub group selected](../images/sub_groups/sub_group_selected.png)
+![subgroup selected](../images/sub_groups/sub_group_selected.png)
 
 The check boxes on the left should be used in cases where you want to add multiple people to a group or sub group. In the case where you just want to add one individual person, the green (+) buttons on the right should be utilized.
 

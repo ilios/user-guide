@@ -1,4 +1,4 @@
-## Subgroups
+# Subgroups
 
 Subgroups are simply learner groups within learner groups. A learner who is in a sub group is also a member of the parent(s). To add one or more Sub Groups, navigate to a Learner Group that needs to have one or more Sub Groups created below it. Click as shown below to start this process.
 
@@ -8,11 +8,9 @@ Subgroups are simply learner groups within learner groups. A learner who is in a
 
 ![name truncated](../images/sub_groups/name_truncated.png)
 
-### Add Single Subgroup
+## Add Single Subgroup
 
-Adding a single subgroup is the default (as shown below).
-
-Click to start the process of adding a subgroup as shown below. 
+Click to start the process of adding a subgroup as shown below. Adding a "Single Group", meaning one group, is the default.
 
 ![add single subgroup](../images/sub_groups/add_single_sub_group.png)
 
@@ -20,7 +18,7 @@ Once added, the newly created subgroup (Demo Sub 1) appears as shown below. It c
 
 ![new subgroup](../images/sub_groups/new_sub_group.png)
 
-### Add Multiple Subgroups
+## Add Multiple Subgroups
 
 Any number of subgroups can be added automatically as well. The names will increment based on the number of subgroups desired. In this case since the Parent Group is called Demonstration, the subgroups will be named Demonstration 01 through Demonstration 12.
 
@@ -28,7 +26,7 @@ Any number of subgroups can be added automatically as well. The names will incre
 
 After completing this action, the newly created (and automatically named) subgroups appear as shown below. Adding members to any of the newly created subgroups can be performed as shown below.
 
-### Add Learners
+## Add Learners
 
 To add learners to any of these subgroups, first the subgroup needs to be selected.
 

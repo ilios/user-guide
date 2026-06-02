@@ -4,7 +4,7 @@ Subgroups are simply learner groups within learner groups. A learner who is in a
 
 ![click to add](../images/sub_groups/click_to_add.png)
 
-**NOTE**: Although this may not occur frequently, it is worth noting that the maximum length of a learner group or subgroup name is 60 characters. If an auto-generated sub group name ends up exceeding 60 characters, the characters before the numerical characters at the end of the subgroup name will be truncated. This is shown below. The subgroup's full name would have been "One Two Three A Big Ole Group For Me to Use to Test and Show 01". That would have required more than 60 characters. The following characters got removed in order to allow for the subgroup's numerical value to appear ... "how ".
+**NOTE**: Although this may not occur frequently, it is worth noting that the maximum length of a learner group or subgroup name is 60 characters. If an auto-generated subgroup name ends up exceeding 60 characters, the characters before the numerical characters at the end of the subgroup name will be truncated. This is shown below. The subgroup's full name would have been "One Two Three A Big Ole Group For Me to Use to Test and Show 01". That would have required more than 60 characters. The following characters got removed in order to allow for the subgroup's numerical value to appear ... "how ".
 
 ![name truncated](../images/sub_groups/name_truncated.png)
 

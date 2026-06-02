@@ -14,13 +14,13 @@ Click to start the process of adding a subgroup as shown below. Adding a "Single
 
 ![add single subgroup](../images/sub_groups/add_single_sub_group.png)
 
-Once added, the newly created subgroup (Demo Sub 1) appears as shown below. It can be modified by clicking on the Title provided. There are no members in this subgroup. They should be added manually. Also, there are no members in the Parent Gruop because the option to create an empty group was selected when it was created. Alternatively, the entire Cohort could be included in the Parent Group (Demonstration Group). The subgroup that was just created can deleted by clicking on the trash can icon (under "Actions"). You will be asked to confirm this action since deletion is an action that cannot be undone.
+Once added, the newly created subgroup (Demo Sub 1) appears as shown below. It can be modified by clicking on the Title provided. There are no members in this subgroup. They should be added manually. Also, there are no members in the parent group because the option to create an empty group was selected when it was created. Alternatively, the entire Cohort could be included in the parent group ("Demonstration Group"). The subgroup that was just created can deleted by clicking on the trash can icon (under "Actions"). You will be asked to confirm this action since deletion is an action that cannot be undone.
 
 ![new subgroup](../images/sub_groups/new_sub_group.png)
 
 ## Add Multiple Subgroups
 
-Any number of subgroups can be added automatically as well. The names will increment based on the number of subgroups desired. In this case since the Parent Group is called Demonstration, the subgroups will be named Demonstration 01 through Demonstration 12.
+Any number of subgroups can be added automatically as well. The names will increment based on the number of subgroups desired. In this case since the parent group is called "Demonstration", the subgroups will be named "Demonstration 01" through "Demonstration 12".
 
 ![options displayed](../images/sub_groups/options_displayed.png)
 

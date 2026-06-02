@@ -26,7 +26,7 @@ Any number of subgroups can be added automatically as well. The names will incre
 
 ![options displayed](../images/sub_groups/options_displayed.png)
 
-After completing this action, the newly created (and automatically named) subgroups appear as shown below. Any of the newly created subgroups can be edited in the following ways ...
+After completing this action, the newly created (and automatically named) subgroups appear as shown below. Adding members to any of the newly created subgroups can be performed as shown below.
 
 ### Add Learners
 

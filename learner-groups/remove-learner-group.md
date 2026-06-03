@@ -1,10 +1,10 @@
 # Delete Learner Group
 
-If you have been assigned permissions to delete (remove) Learner Groups, the trash can icon will be displayed and enabled allowing this functionality as long as the learner group has not been assigned to any offerings or ILM's. The delete button (trash can icon) is displayed under the Actions menu as shown below.
+If you have been assigned permissions to delete (remove) Learner Groups, the trash can icon will be displayed and enabled allowing this functionality as long as the learner group has not been assigned to any offerings or ILM's. The delete button (red trash can icon) is displayed under the "Actions" menu as shown below.
 
 ![learner groups can be deleted / removed](../images/delete_learner_group/can_be_deleted_learner_groups.png)
 
-**IMPORTANT NOTE:** Learner Groups can only be deleted if they have not been associated with any learning events (ILM's or offerings), even if they contain members. This is true even if the learner group has subgroups underneath it and those subgroups have learners attached. All that matters is that there are no offerings or ILM's associated with the learner group or any subgroups. Subgroups will be deleted / removed as well if a parent is removed.
+**IMPORTANT NOTE:** Learner groups can only be deleted if they have not been associated with any learning events (ILM's or offerings), even if they contain members. This is true even if the learner group has subgroups underneath it and those subgroups have learners attached. All that matters is that there are no offerings or ILM's associated with the learner group or any subgroups. Subgroups will be deleted / removed as well if a parent is removed.
 
 ## Remove Members
 
@@ -28,13 +28,13 @@ Once the check box has selected as shown by the action indicated by the blue arr
 
 ## Check for Sessions
 
-It is important (even if the group has already been emptied of members) to make sure the Learner Group is not attached to any Courses and Sessions. There are several easy ways to make sure this is the case before permanently deleting the Learner Group.
+It is important (even if the group has already been emptied of members) to make sure the Learner Group is not attached to any Courses and Sessions. There are several easy ways to make sure this is the case before permanently deleting the learner group.
 
-The removal of the Learners from the Learner Group has not yet taken place. This is a good time to review for sessions and offerings with which this learner group is associated - before removing the members. As shown below, the calendar can be viewed to review the offerings associated with this learner group or there is an easily accessible listing available here as well.
+The removal of the learners from the Learner Group has not yet taken place. This is a good time to review for sessions and offerings with which this learner group is associated - before removing the members. As shown below, the calendar can be viewed to review the offerings associated with this learner group or there is an easily accessible listing available here as well.
 
 ![review options](../images/delete_learner_group/review_options.png)
 
-The calendar selected as shown above details the Offerings - may not be displayed if far in future or past. The screen shot far below shows the "mouse over" of the calendared event. The session has not been published. This is known by appearance of the "Not Published" icon. 
+The calendar selected as shown above details the offerings - may not be displayed if far in future or past. The screen shot far below shows the "mouse over" of the calendared event. The session has not been published. This is known by appearance of the "Not Published" icon. 
 
 ![not published icon](../images/delete_learner_group/not_published_icon.png)
 

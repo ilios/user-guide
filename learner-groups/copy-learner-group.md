@@ -10,9 +10,9 @@ Once the "Copy" button has been pressed (as shown above), you can either create 
 
 The learner group being copied here is called "IDS 121A". Per the instructions below, the new group (post-copy) will be called "IDS 121A (copy)". It can be changed after creation.
 
-![copy options displayed](../images/copy_learner_group/copy_options.png)
+![copy options displayed](../images/copy_learner_group/copy_options_displayed.png)
 
-The newly created group will initially be named the same as the predecessor + (Copy). If you copy "Learner Group A", the new group will be called "Learner Group A (Copy)". After the new group is created, it may be useful to change the group's name to something else completely. In this example, the option to copy with learners was selected.
+The newly created group will initially be named the same as the predecessor + (Copy). As an example, if you copy "Learner Group A", the new group will be called "Learner Group A (Copy)". After the new group is created, it may be useful to change the group's name to something else completely. In this example, the option to copy with learners was selected.
 
 A splash screen briefly presents itself indicating work is in progress. Afterwards, the newly copied learner group appears as shown below with a confirmation message appearing at the top of the learner group list.
 

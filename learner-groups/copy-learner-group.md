@@ -16,7 +16,7 @@ The newly created group will initially be named the same as the predecessor + (C
 
 A splash screen briefly presents itself indicating work is in progress. Afterwards, the newly copied learner group appears as shown below with a confirmation message appearing at the top of the learner group list.
 
-![learner group - copied](../images/copy_learner_group/new_copied_learner_group.png)
+![new copied learner group](../images/copy_learner_group/new_copied_learner_group.png)
 
 For reference ... [**Edit Learner Group**](https://iliosproject.gitbook.io/ilios-user-guide/learner-groups/edit-group-properties#edit-group-attributes)
 

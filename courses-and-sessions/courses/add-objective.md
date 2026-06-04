@@ -46,7 +46,7 @@ The newly added Course objective gets appended to the list and the Objectives co
 
 ## Objective Visualization link
 
-There is a quick link directly to the course objective visualization available here as shown below. This is identical to navigating to Visualizations and clicking on the Objectives graph - in other words, it's the same visualization provided here for convenience.
+There is a quick link directly to the [course objectives visualization](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#objectives) available here as shown below. This is identical to navigating to Visualizations and clicking on the Objectives graph - in other words, it's the same visualization provided here as a convenient link.
 
 ![quick link to visualization](../../images/course_objectives/course_obj_level_visualization.png)
 

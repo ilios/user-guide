@@ -1,11 +1,8 @@
----
-description: 
-  Global search functionality is available for advanced-permission Ilios users at the top of any of the screens in Ilios. Dashboard location is shown below.
----
-
 # Global Search
 
-**NOTE**: Global Search is not currently available to users who are students and do not have any higher-level permissions or perform instructional or other non-learner functions in Ilios. This may change in the future.
+Global search functionality is available for advanced-permission Ilios users at the top of any of the screens in Ilios. Dashboard location is shown below.
+
+**NOTE**: Global Search is not currently available to users who are students and do not have any higher-level permissions or perform instructional or other non-learner functions in Ilios. 
 
 ![global search start](../images/global_search/global_search_start.png)
 

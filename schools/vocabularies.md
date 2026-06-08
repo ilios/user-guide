@@ -56,7 +56,7 @@ Now that "Add" has been clicked, the new term has been added as shown below.
 
 ### Confirmation Message
 
-After adding the new term, a message confirming the addition of the new term appears.
+After adding the new term, a message confirming the addition of the new term appears. A link is provided to review or edit the new term.
 
 ![confirmation message](../images/schools/vocabularies/confirmation_message.png)
 

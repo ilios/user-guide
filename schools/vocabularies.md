@@ -52,7 +52,7 @@ In this example, `UCSF 49`, one of the Vocabularies for UCSF, has been selected.
 
 ![add new term](../images/schools/vocabularies/add_new_term.png)
 
-Now that "Add" has been clicked, the new Term has been added as shown below.
+Now that "Add" has been clicked, the new term has been added as shown below.
 
 ### Confirmation Message
 

@@ -62,7 +62,7 @@ After adding the new term, a message confirming the addition of the new term app
 
 ### Term List Refreshed
 
-The newly added term gets added to the list of terms in the associated vocabulary. The asterisks (*) that appear to the right of the other terms indicates the existence of sub-terms (covered later).
+The newly added term gets added to the list of terms in the associated vocabulary. The list is sorted alphabetically A-Z. The asterisks (*) that appear to the right of the other terms indicates the existence of sub-terms (covered later).
 
 ![list refreshed](../images/schools/vocabularies/list_refreshed.png)
 

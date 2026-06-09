@@ -80,9 +80,9 @@ To add a sub term, click on "Autism and Related Issues". The term being added he
 
 ### No Duplicate Terms
 
-If you try to add a term that is already in that particular vocabulary, an error message will appear advising of this fact. 
+If you try to add a term that is already in that particular vocabulary, an error message will appear advising of this fact. This occurs after clicking "Add" in attempt to add the duplicate term.
 
-![no duplicate terms allowed](../images/schools/vocabularies/no_duplicate_terms.png)
+![no duplicate terms](../images/schools/vocabularies/no_duplicate_terms.png)
 
 ## Activate / Deactivate Vocabulary Terms
 

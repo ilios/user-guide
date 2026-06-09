@@ -70,7 +70,7 @@ These Vocabulary Terms can be nested in the sense that there can be one or terms
 
 ### Add Sub Term
 
-To add a Sub Term, click on "Autism and Related Issues". The term being added here will be nested below "Autism and Related Issues". For this reason, it is considered to be a "Sub Term" of "Autism and Related Issues".
+To add a sub term, click on "Autism and Related Issues". The term being added here will be nested below "Autism and Related Issues". For this reason, it is considered to be a "sub term" of "Autism and Related Issues".
 
 ![add sub term](../images/schools/vocabularies/add_sub_term.png)
 

@@ -98,7 +98,9 @@ To set the "Active" status on a Term, expand the Vocabularies functional area on
 
 ![select term to modify](../images/schools/vocabularies/select_term_to_modify.png.png)
 
-![set to active](../images/schools/vocabularies/set_to_active.png)
+The currently active term can be set to "inactive" as shown below. 
+
+![set to inactive](../images/schools/vocabularies/set_to_inactive.png)
 
 ![not active shown](../images/schools/vocabularies/not_active_shown.png)
 

@@ -127,13 +127,9 @@ It may prove to be very helpful to add descriptive text values to these Vocabula
 
 ### Open Vocabulary List
 
-**Step One**
-
 ![open vocabulary list](../images/schools/vocabularies/open_vocab_list.png)
 
 ### Show Details
-
-**Step Two**
 
 For this example, we would like to add descriptive content to a DEI Term "Cultural Competency".
 
@@ -141,13 +137,9 @@ For this example, we would like to add descriptive content to a DEI Term "Cultur
 
 ### Select Term
 
-**Step Three**
-
 ![Select term](../images/schools/vocabularies/select_term.png)
 
 ### Add Description
-
-**Step Four**
 
 ![add term description](../images/schools/vocabularies/add_term_description.png)
 

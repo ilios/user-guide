@@ -102,7 +102,7 @@ The currently active term can be set to "inactive" as shown below.
 
 ![set to inactive](../images/schools/vocabularies/set_to_inactive.png)
 
-![not active shown](../images/schools/vocabularies/not_active_shown.png)
+![inactive shown](../images/schools/vocabularies/inactive_shown.png)
 
 ### What does it all mean?
 

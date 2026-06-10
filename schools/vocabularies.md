@@ -121,32 +121,40 @@ To reveal the status of attached terms, click "Manage Terms" to reveal details.
 
 The inactive term "Soundscape" **CAN** be removed from a curricular object but **CANNOT** be added to attached to anything in the future unless its status is reset to "active".
 
-### Add Term Description
+## Add Term Description
 
 It may prove to be very helpful to add descriptive text values to these Vocabulary Terms. These will appear during and after the selection/attachment of Terms to curricular objects where Terms can be attached (Courses, Sessions, Program Years, and Objectives (Session, Course, Program Year)).
+
+### Open Vocabulary List
 
 **Step One**
 
 ![open vocabulary list](../images/schools/vocabularies/open_vocab_list.png)
 
+### Show Details
+
 **Step Two**
 
 For this example, we would like to add descriptive content to a DEI Term "Cultural Competency".
 
-![Go to details of "DEI"](../images/schools/vocabularies/go_to_details.png)
+![go to details](../images/schools/vocabularies/go_to_details.png)
+
+### Select Term
 
 **Step Three**
 
 ![Select term](../images/schools/vocabularies/select_term.png)
 
+### Add Description
+
 **Step Four**
 
-![Add term description](../images/schools/vocabularies/add_term_description.png)
+![add term description](../images/schools/vocabularies/add_term_description.png)
 
 Now that this has been entered, the descriptive text will appear as shown below.
 
-![Term description displayed during selection](../images/schools/vocabularies/description_during.png)
+![term description displayed during selection](../images/schools/vocabularies/description_during.png)
 
 The example above shows the selection process for attaching a Term to a Session. The mouse-over will also display the description after the Term has been attached to a curricular object.
 
-![Term description displayed after selection](../images/schools/vocabularies/description_after.png)
+![term description displayed after selection](../images/schools/vocabularies/description_after.png)

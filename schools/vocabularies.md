@@ -111,15 +111,15 @@ The currently active term can be set to "inactive" as shown below.
 
 **IMPORTANT NOTE:** Terms that were active in the past but now have been set to inactive status will still appear in the interface. None of the past associations have been lost by making a Term "inactive".
 
-In the example shown below, "Soundscape" was selected as a Term for a Course sometime in the past (before the "Active" status was set to "No"). It appears as it normally would appear.
+In the example shown below, "Soundscape" was selected as a term for a course sometime in the past (before the "Active" status was set to "No"). It appears as it normally would appear, albeit with a label indicating the "inactive" status.
 
-![Disabled term - selected and shown](../images/schools/vocabularies/disabled_term.png)
+![inactive term - selected](../images/schools/vocabularies/inactive_term_selected.png)
 
-To reveal the Active status of the Terms, click "Manage Terms" to reveal details.
+To reveal the status of attached terms, click "Manage Terms" to reveal details.
 
-![Inactive status shown](../images/schools/vocabularies/inactive_status_shown.png)
+![inactive status shown](../images/schools/vocabularies/inactive_status_shown.png)
 
-The inactive Term "Soundscape" **CAN** be removed but **CANNOT** be added to any Course or Session in the future unless its status is reset to "active".
+The inactive term "Soundscape" **CAN** be removed from a curricular object but **CANNOT** be added to attached to anything in the future unless its status is reset to "active".
 
 ### Add Term Description
 

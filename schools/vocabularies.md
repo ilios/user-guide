@@ -127,7 +127,7 @@ It may prove to be very helpful to add descriptive text values to these Vocabula
 
 **Step One**
 
-![Open vocabulary list](../images/schools/vocabularies/open_vocab_list.png)
+![open vocabulary list](../images/schools/vocabularies/open_vocab_list.png)
 
 **Step Two**
 

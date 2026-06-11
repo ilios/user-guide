@@ -137,7 +137,7 @@ For this example, we would like to add descriptive content to a DEI Term "Cultur
 
 ### Select Term
 
-![Select term](../images/schools/vocabularies/select_term.png)
+![select term](../images/schools/vocabularies/select_term.png)
 
 ### Add Description
 

@@ -8,7 +8,7 @@ To create a new session type or to review existing session types, click as shown
 
 ![show session type details](../images/schools/session_types/show_session_type_details.png)
 
-![add new session type (step 1)](../images/schools/session_types/new_sess_type2.png)
+![add new session type (step 1)](../images/schools/session_types/add_new_session_type_step_1.png)
 
 ![add new session type (step 2)](../images/schools/session_types/new_sess_type3.png)
 

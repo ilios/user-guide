@@ -127,7 +127,7 @@ It may prove to be very helpful to add descriptive text values to these Vocabula
 
 ### Open Vocabulary List
 
-![open vocabulary list](../images/schools/vocabularies/open_vocab_list.png)
+![open vocabulary list](../images/schools/vocabularies/open_vocabulary_list.png)
 
 ### Show Details
 
@@ -143,10 +143,10 @@ For this example, we would like to add descriptive content to a DEI Term "Cultur
 
 ![add term description](../images/schools/vocabularies/add_term_description.png)
 
-Now that this has been entered, the descriptive text will appear as shown below.
+Now that this has been entered, the descriptive text pertaining to this term will appear as shown below.
 
-![term description displayed during selection](../images/schools/vocabularies/description_during.png)
+![description during selection](../images/schools/vocabularies/description_during_selection.png)
 
-The example above shows the selection process for attaching a Term to a Session. The mouse-over will also display the description after the Term has been attached to a curricular object.
+The example above shows the selection process for attaching a term to a session. The mouse-over will also display the description after the term has been attached to a curricular object. In this case, it has been attached to a session.
 
-![term description displayed after selection](../images/schools/vocabularies/description_after.png)
+![description after selection](../images/schools/vocabularies/description_after_selection.png)

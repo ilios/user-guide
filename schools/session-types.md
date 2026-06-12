@@ -16,7 +16,7 @@ To create a new session type or to review existing session types, click as shown
 
 ## Edit Session Type
 
-Edit a Session Type's description if it has not been attached to any Sessions. Once set, the value for Session Type title cannot be modified.
+The title of a session type can be modified as long as it has not been attached to any Sessions. Once used as a session type for a session, the title can no longer be modified.
 
 To do this ...
 
@@ -26,7 +26,7 @@ To do this ...
 
 ## Select Session Type Color
 
-Choose a color to display on the Calendar for all Session Types.
+Choose a color to display as the background on the calendar for any session type.
 
 To do this ...
 
@@ -34,13 +34,15 @@ To do this ...
 * Click the "edit" button
 * Select the new color using the color guide tool or enter a hex value for the new color.
 
-![Selecting A New Color for Session Type](../images/schools/session_types/sess_type_color_selector.png)
+**NOTE:** This is optional. If a color is not selected, the background color will be white, which is the default.
+
+![session type color selector](../images/schools/session_types/sess_type_color_selector.png)
 
 ## Colors Displayed
 
 An example of how these colors appear on a Calendar is shown below.
 
-![Colors displayed](../images/schools/session_types/colors.png)
+![colors displayed](../images/schools/session_types/colors_displayed.png)
 
 ## De-Activate Session Type
 

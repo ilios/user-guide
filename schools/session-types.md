@@ -10,7 +10,9 @@ To create a new session type or to review existing session types, click as shown
 
 ![add new session type (step 1)](../images/schools/session_types/add_new_session_type_step_1.png)
 
-![add new session type (step 2)](../images/schools/session_types/new_sess_type3.png)
+![add new session type (step 2)](../images/schools/session_types/add_new_session_type_step_2.png)
+
+**NOTE:** The values displayed in the "AAMC Method" drop-down will change if "Assessment" set to "true". The value will be removed if it is no longer applicable.
 
 ## Edit Session Type
 

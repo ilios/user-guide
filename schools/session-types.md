@@ -46,7 +46,7 @@ An example of how these colors appear on a Calendar is shown below.
 
 ## De-Activate Session Type
 
-De-activate a Session Type if it is no longer in use. This does not change the legacy data but will result in the Session Type no longer being available for use in Ilios going forward. The controls for performing this action are shown below.
+It might be helpful to set a session type to a state / status of "inactive" if it is no longer in use. This does not change the legacy data but will result in the session type no longer being available for selection in Ilios going forward, unless it gets set back to "active". The controls for performing this action are shown below.
 
 ![session type - de-activate](../images/schools/session_types/session_type_de-activate.png)
 

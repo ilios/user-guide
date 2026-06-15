@@ -22,7 +22,7 @@ These are set only at the time of creating a School for use in Ilios. There are 
 * [Competencies](https://iliosproject.gitbook.io/ilios-user-guide/schools/competencies)
 * [Vocabularies](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies)
 * [Session Types](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types)
-* Learning Material Attributes 
+* [Learning Material Attributes](https://iliosproject.gitbook.io/ilios-user-guide/schools/learning_material_attributes) 
 * [Session Attributes](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-attributes)
 * [Manage Emails](https://iliosproject.gitbook.io/ilios-user-guide/schools/manage_emails)
 * [Institutional Information](https://iliosproject.gitbook.io/ilios-user-guide/schools/curriculum-inventory-institution-information)

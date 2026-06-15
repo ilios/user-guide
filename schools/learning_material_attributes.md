@@ -2,6 +2,15 @@ This has to do with learning materials and accessibility. The check box which in
 
 If the "Accessibility Required" check box has been set to true, the adminitrative Ilios would not be able to upload the learning material without checking the box, hence certifying the the learning mateial being uploaded is accessible.
 
+## Initial Appearance
+
+The "Learning Material Attributes" section of the schools area in Ilios initally appears as follows. It is located between "Session Types" and "Session Attributes" following the vertical flow of the page.
+
+Before expanding to show more detail or entering into maintenance mode after that, the screen appears as shown below.
+
+
+![learning material attributes - start](../images/schools/learning_material_attributes/learning_material_attributes_start.png)
+
 ## Accessibility Required
 
 When this value has been set to "true" (checked), it requires that a user uploading a new learning material to Ilios will need to declare that the learning material (file, link, or other) has been certified to be accessibile to those who may have individual requirements for full access to the learning material itself.

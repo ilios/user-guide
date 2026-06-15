@@ -96,6 +96,7 @@
   * [Competencies](schools/competencies.md)
   * [Vocabularies](schools/vocabularies.md)
   * [Session Types](schools/session-types.md)
+  * [Learning Material Attributes](schools/learning_material_attributes.md)
   * [Session Attributes](schools/session-attributes.md)
   * [Manage Emails](schools/manage_emails.md)
   * [Institutional Information](schools/institutional_information.md)

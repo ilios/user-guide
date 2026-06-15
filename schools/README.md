@@ -22,12 +22,14 @@ These are set only at the time of creating a School for use in Ilios. There are 
 * [Competencies](https://iliosproject.gitbook.io/ilios-user-guide/schools/competencies)
 * [Vocabularies](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies)
 * [Session Types](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types)
+* Learning Material Attributes 
 * [Session Attributes](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-attributes)
+* [Manage Emails](https://iliosproject.gitbook.io/ilios-user-guide/schools/manage_emails)
 * [Institutional Information](https://iliosproject.gitbook.io/ilios-user-guide/schools/curriculum-inventory-institution-information)
 * [Multi-School Environment](https://iliosproject.gitbook.io/ilios-user-guide/schools/multi-school-environment)
-* [Email](https://iliosproject.gitbook.io/ilios-user-guide/schools/manage_emails)
 
-The attributes listed above for the selected School can be configured once the School has been selected or initially entered. The selection screen appears as shown below.
+
+The attributes listed above for the selected school can be configured once it has been selected or initially entered. The selection screen appears as shown below.
 
 ![school list](../images/schools/README/school_list.png)
 

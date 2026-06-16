@@ -2,7 +2,7 @@ This has to do with learning materials and accessibility. The check box which in
 
 If the "Accessibility Required" check box has been set to true, the adminitrative Ilios would not be able to upload the learning material without checking the box, hence certifying the the learning mateial being uploaded is accessible.
 
-## Initial Appearance
+# Initial Appearance
 
 The "Learning Material Attributes" section of the schools area in Ilios initally appears as follows. It is located between "Session Types" and "Session Attributes" following the vertical flow of the page.
 
@@ -11,26 +11,22 @@ Before expanding to show more detail or entering into maintenance mode after tha
 
 ![learning material attributes - start](../images/schools/learning_material_attributes/learning_material_attributes_start.png)
 
-## Accessibility Required
+# Accessibility Required
 
-### Click to View Details
+## Click to View Details
 
 To show more details regarding learning material attributes as currently configured, click as shown below.
 
 ![click to expand](../images/schools/learning_material_attributes/click_to_expand.png)
 
-### Click to Manage
+## Click to Manage
 
 After clicking as shown above, the screen appears as shown below revealing the current learning material attributes settings. More importantly, the "Manage Learning Material Attributes" button is available allowing for the adjustment of these settings.
 
 ![click to manage](../images/schools/learning_material_attributes/click_to_manage.png)
 
-
-
-
-
 When this value has been set to "true" (checked), it requires that a user uploading a new learning material to Ilios will need to declare that the learning material (file, link, or other) has been certified to be accessibile to those who may have individual requirements for full access to the learning material itself.
 
-## Accessibility Requirements Link
+# Accessibility Requirements Link
 
 A field is provided for a link to be added to provide accessibility information (optional). This link gets appended to the "Accessibility Required" checkbox. It is added to provide additional context to accessibility standards at your school.

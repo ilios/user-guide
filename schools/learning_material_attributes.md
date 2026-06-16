@@ -1,4 +1,4 @@
-This has to do with learning materials and accessibility. The check box which indicates if a learning material has been determined to be accessible is available whether or the "required" aspect has been set or not.
+This is related to learning materials and their accessibility to learners who might need accomodations to fully utilize the learning materials involved with courses and sessions they have been assigned. The check box which indicates if a learning material has been determined to be accessible is available whether the "required" aspect has been set or not.
 
 If the "Accessibility Required" check box has been set to true, the adminitrative Ilios would not be able to upload the learning material without checking the box, hence certifying the the learning mateial being uploaded is accessible.
 

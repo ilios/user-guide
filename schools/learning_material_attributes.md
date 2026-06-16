@@ -13,6 +13,16 @@ Before expanding to show more detail or entering into maintenance mode after tha
 
 ## Accessibility Required
 
+### Click to View Details
+
+To show more details regarding learning material attributes as currently configured, click as shown below.
+
+![click to expand](../images/schools/learning_material_attributes/click_to_expand.png)
+
+### Details Displayed 
+
+After clicking as shown above, the screen appears as shown below revealing the current learning material attributes settings.
+
 When this value has been set to "true" (checked), it requires that a user uploading a new learning material to Ilios will need to declare that the learning material (file, link, or other) has been certified to be accessibile to those who may have individual requirements for full access to the learning material itself.
 
 ## Accessibility Requirements Link

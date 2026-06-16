@@ -19,9 +19,15 @@ To show more details regarding learning material attributes as currently configu
 
 ![click to expand](../images/schools/learning_material_attributes/click_to_expand.png)
 
-### Details Displayed 
+### Click to Manage
 
-After clicking as shown above, the screen appears as shown below revealing the current learning material attributes settings.
+After clicking as shown above, the screen appears as shown below revealing the current learning material attributes settings. More importantly, the "Manage Learning Material Attributes" button is available allowing for the adjustment of these settings.
+
+![click to manage](../images/schools/learning_material_attributes/click_to_manage.png)
+
+
+
+
 
 When this value has been set to "true" (checked), it requires that a user uploading a new learning material to Ilios will need to declare that the learning material (file, link, or other) has been certified to be accessibile to those who may have individual requirements for full access to the learning material itself.
 

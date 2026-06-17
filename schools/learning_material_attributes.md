@@ -25,7 +25,11 @@ After clicking as shown above, the screen appears as shown below revealing the c
 
 ![click to manage](../images/schools/learning_material_attributes/click_to_manage.png)
 
-When the value of "Accessibility Required" has been set to "true" (checked), this means that a user uploading a new learning material to Ilios will need to declare that the learning material (file, link, or other) has been certified to be accessibile to those who may have individual requirements for full access to the learning material itself.
+When the value of "Accessibility Required" has been set to "true" (checked), any user uploading a new learning material to Ilios will need to declare that the learning material (file, link, or other) has been certified to be accessibile to those who may have individual requirements for full access to the learning material itself.
+
+## Options Shown 
+
+After clicking to manage these attributes as shown in the image above, the screen adjusts allowing for these values to be set here. 
 
 # Accessibility Requirements Link
 

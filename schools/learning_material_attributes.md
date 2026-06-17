@@ -31,6 +31,8 @@ When the value of "Accessibility Required" has been set to "true" (checked), any
 
 After clicking to manage these attributes as shown in the image above, the screen adjusts allowing for these values to be set here. 
 
+![options shown](../images/schools/learning_material_attributes/options_shown.png)
+
 # Accessibility Requirements Link
 
 A field is provided for a link to be added to provide accessibility information (optional). This link gets appended to the "Accessibility Required" checkbox. It is added to provide additional context to accessibility standards at your school.

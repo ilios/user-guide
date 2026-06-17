@@ -33,6 +33,12 @@ After clicking to manage these attributes as shown in the image above, the scree
 
 ![options shown](../images/schools/learning_material_attributes/options_shown.png)
 
+## Make Changes
+
+It has been determined that it is time to set the accessibility requirements value to "true" and to get rid of the requirements link. 
+
+![make changes](../images/schools/learning_material_attributes/make_changes.png)
+
 # Accessibility Requirements Link
 
 A field is provided for a link to be added to provide accessibility information (optional). This link gets appended to the "Accessibility Required" checkbox. It is added to provide additional context to accessibility standards at your school.

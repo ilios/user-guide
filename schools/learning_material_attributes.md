@@ -43,6 +43,8 @@ It has been determined that it is time to set the accessibility requirements val
 
 A field is provided for a link to be added to provide accessibility information (optional). This link gets appended to the "Accessibility Required" checkbox. It can be added to provide additional context related to accessibility requirements at your school.
 
-## Appearance at Learning Material Level
+## Learning Material Upload View
 
-If the reqirement has been, and a link has been provided, when uploading a learning material to a course or session, the screen will appear as follows. This example is at the course level and contains a sample URL entered - mouse-over will be provided for the link.
+If the reqirement has been set to specify that accessibility standards need to be met, when uploading a learning material to a course or session, the screen will appear as follows. 
+
+This example is for a course level learning material and contains a sample URL entered - mouse-over will be provided for the link.

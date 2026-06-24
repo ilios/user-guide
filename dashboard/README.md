@@ -25,7 +25,7 @@ The view below is of the Ilios navigation menu on a relatively large screen. Thi
 When the Ilios application is not being viewed at full size or is being viewed using a device with a smaller screen surface area, the toolbar spans across the top of the screen as shown below.
 
 <figure>
-  <img src="../images/dashboard/smaller_screen_view.png.png" alt="smaller screen view">
+  <img src="../images/dashboard/smaller_screen_view.png" alt="smaller screen view">
   <figcaption>
     <p>smaller screen view</p>
   </figcaption>

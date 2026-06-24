@@ -14,9 +14,9 @@ This refers to the menu found on the left of the screen in full screen viewing m
 The view below is of the Ilios navigation menu on a relatively large screen. This is how it will appear for Admin users unless they use a smaller screen, tablet, or smart phone.
 
 <figure>
-  <img src="../images/dashboard/flyout_menu.png" alt="Navigation Menu">
+  <img src="../images/dashboard/large_screen_view.png" alt="large screen view">
   <figcaption>
-      <p>menu - full size</p>
+      <p>large screen view</p>
   </figcaption>
 </figure>
 

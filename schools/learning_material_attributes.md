@@ -48,3 +48,15 @@ A field is provided for a link to be added to provide accessibility information 
 If the reqirement has been set to specify that accessibility standards need to be met, when uploading a learning material to a course or session, the screen will appear as follows. 
 
 This example is for a course level learning material and contains a sample URL entered - mouse-over will be provided for the link.
+
+## Check Box and Link Displayed
+
+If the accessibility value has been set at the school level, it is necessary to check the box shown below or the learning material cannot be assigned to the curricular object - in this case, a course. Following the link to review accessibility requirements will not override the check box requirement. 
+
+![check box and link](../images/schools/learning_material_attributes/check_box_and_link.png)
+
+
+
+
+
+

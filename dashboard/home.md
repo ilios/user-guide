@@ -22,9 +22,9 @@ Ilios will retain the relative location (Dashboard option) you had been accessin
 The view shown below is that of an Ilios user who also performs non-learner functions. That is why the Ilios flyout menu is available with all navigational options available to this user. Global Search is also available.
 
 <figure>
-    <img src="../images/dashboard_home/week_at_a_glance.png" alt="week at a glance displayed">
+    <img src="../images/dashboard_home/week_at_a_glance.png" alt="week at a glance">
     <figcaption>
-        <p>Week at a Glance - Dashboard</p>
+        <p>Week at a Glance</p>
     </figcaption>
 </figure>
 

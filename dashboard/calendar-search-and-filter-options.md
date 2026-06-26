@@ -36,7 +36,7 @@ Search is possible by each of the following, or any combination of the following
 
 In order to see all of the Sessions related to the Airways, Blood, and Circulation Course (any type of Session), the check boxes can be used as shown below.
 
-![Course Filter View](../images/calendar_srch_images/filters_course.png)
+![Course Filter View](../images/calendar_srch_images/course_filter_view.png)
 
 In any of these search modes, a search is automatically performed once the corresponding check boxes have been selected. The Calendar will reload with the results.
 

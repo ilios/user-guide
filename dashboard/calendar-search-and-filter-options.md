@@ -18,11 +18,11 @@ It may be helpful to also toggle to view "All Events" (as shown above) rather th
 
 To activate the Filters ...
 
-![Click to Display Filters](../images/calendar_srch_images/display_filters.png)
+![display filters](../images/calendar_srch_images/display_filters.png)
 
 The toggles now appear as shown below with the filters activated and visible.
 
-![Filters Activated](../images/calendar_srch_images/filters_displayed.png)
+![filters displayed](../images/calendar_srch_images/filters_displayed.png)
 
 ### By Course / Session Type
 
@@ -36,7 +36,7 @@ Search is possible by each of the following, or any combination of the following
 
 In order to see all of the Sessions related to the Airways, Blood, and Circulation Course (any type of Session), the check boxes can be used as shown below.
 
-![Course Filter View](../images/calendar_srch_images/course_filter_view.png)
+![course filter view](../images/calendar_srch_images/course_filter_view.png)
 
 In any of these search modes, a search is automatically performed once the corresponding check boxes have been selected. The Calendar will reload with the results.
 
@@ -52,7 +52,7 @@ This search option allows the user to search and display all activities for any 
 
 In order to see all of the Lectures (Session Type) for the Class of 2024 Doctor of Medicine - BRIDGES (Program/Cohort), the check boxes can be used as shown below.
 
-![Program Detail View](../images/calendar_srch_images/program_detail_view.png)
+![program detail view](../images/calendar_srch_images/program_detail_view.png)
 
 ### Load Filters Based On School
 

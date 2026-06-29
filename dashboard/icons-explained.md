@@ -107,3 +107,17 @@ The icon below is displayed on the Calendar when an offering has not yet been pu
 
 ![unpublished offering on calendar](../images/icons_explained/unpubiished_icon.png)
 
+## Course List Icons
+
+There are three icons on the course list itself that can have different settings applied. The potential combinations are listed below.
+
+Mousing over any of these icons will provide the current status. In the case of the trash can, it will either point out that the course can be deleted or it will explain why a course cannot be deleted. 
+
+### Course Publication Status 
+
+The options for this setting are "Not Published", "Scheduled", or "Published".
+
+![course publication status](../images/icons_explained/course_publication_status.png)
+
+
+

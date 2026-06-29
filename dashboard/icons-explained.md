@@ -115,9 +115,13 @@ Mousing over any of these icons will provide the current status. In the case of 
 
 ### Course Publication Status 
 
-The options for this setting are "Not Published", "Scheduled", or "Published".
+The options for a course's publication status are "Not Published", "Scheduled", or "Published". The concept of publications also applies to sessions. Refer to [this sections](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/publishing) for more details.
 
 ![course publication status](../images/icons_explained/course_publication_status.png)
+
+The two additional columns of icons to the right of the publication status offer up the options of [locking](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_actions/lock-course) (or unlocking) a course or [deleting / removing](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_actions/delete-course) a course from Ilios.
+
+
 
 
 

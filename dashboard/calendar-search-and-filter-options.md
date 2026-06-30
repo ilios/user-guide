@@ -12,9 +12,7 @@ Switching from one to the other is accomplished by clicking the correct button. 
 
 ## Search Options
 
-By default, the filters needed to perform a search on the calendar are not activated. Us the (Show Filters/Hide Filters) Toggle to activate them.
-
-It may be helpful to also toggle to view "All Events" (as shown above) rather than just filtering your own schedule.
+By default, the filters needed to perform a search on the calendar are not activated. Use the (Show Filters/Hide Filters) Toggle to activate them. The filters are not available until "All Events" has been selected.
 
 To activate the filters ...
 

@@ -16,7 +16,7 @@ By default, the filters needed to perform a search on the calendar are not activ
 
 It may be helpful to also toggle to view "All Events" (as shown above) rather than just filtering your own schedule.
 
-To activate the Filters ...
+To activate the filters ...
 
 ![display filters](../images/calendar_srch_images/display_filters.png)
 

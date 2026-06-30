@@ -28,9 +28,9 @@ This search option allows the user to search and display all of the activities f
 
 Search is possible by each of the following, or any combination of the following categories of data:
 
-* **Courses (pertaining to a chosen Program Year)**
-* **Session Types**
-* **[**Terms (by Vocabularies)**](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies)**
+* [**Courses**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses) - pertaining to one or more selected Program Years
+* [**Session Types**](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-types)
+* [**Terms (by Vocabularies)**](https://iliosproject.gitbook.io/ilios-user-guide/schools/vocabularies)
 
 In order to see all of the Sessions related to the Airways, Blood, and Circulation Course (any type of Session), the check boxes can be used as shown below.
 

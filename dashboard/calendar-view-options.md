@@ -14,7 +14,7 @@ Options selected by the user here ...
 
 * Option One - `All Events` 
 * Option Two - `Hide Filters` 
-* Option Three - `Medicine` - selected from the drop-down. 
+* Option Three - `Medicine` - selected from the drop-down
 
 If you (like many Ilios users) have access to only one school, your school will be there automatically and the drop-down shown above will not appear.
 

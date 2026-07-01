@@ -8,13 +8,15 @@ The Day, Week, and Month indicators (shown below) are used to switch between the
 
 ## Week View
 
-Since this is the default view, let's show this one first: 
+This is the default view.
 
-Options selected here ...
+Options selected by the user here ...
 
-Option One - `All Events` 
-Option Two - `Hide Filters` 
-Option Three - School of Medicine has been selected from the drop-down. If you (like many Ilios users) have access to only one school, your school will be there automatically and the drop-down will not appear.
+* Option One - `All Events` 
+* Option Two - `Hide Filters` 
+* Option Three - School of Medicine - selected from the drop-down. 
+
+If you (like many Ilios users) have access to only one school, your school will be there automatically and the drop-down shown above will not appear.
 
 ![all school events - week view](../images/calendar_srch_images/all_school_events_week_view.png)
 

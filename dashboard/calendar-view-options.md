@@ -29,7 +29,7 @@ The view below reflects the screen's appearance when a learner / student sees it
 
 ## Month View
 
-To get to the Month View, click the "Month" Calendar View Switcher link. The screen will appear as shown below with all of the details for the entire selected month displayed.
+To get to the Month View, click the "Month" calendar view switcher link. The screen will appear as shown below with all of the details for the selected month displayed.
 
 ![month view](../images/calendar_view_images/month_view.png)
 

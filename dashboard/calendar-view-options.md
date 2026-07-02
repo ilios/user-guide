@@ -35,7 +35,11 @@ To get to the Month View, click the "Month" calendar view switcher link. The scr
 
 ## Day View
 
-To get to the Day View, click the "Day" Calendar View Switcher link. The screen will appear as shown below with all of the details for the selected day displayed. You can see all of the details for the selected day. The view starts initially at the time of the first daily offering or at 6:00 AM if there are no assigned offerings. The entire 24 hour day is available by scrolling up or down.
+To get to the Day view, click the "Day" calendar view switcher link. Alternatively, in the Month view, the individual numbers of days of the month are hyperlinked to route the user to the Day view detail for the selected date - this is also true if you click "Show More" in the Month view.
+
+In the Week view, you can click the value for (in this case), "Monday Dec 8" to get to the details for that date. 
+
+The screen will appear as shown below with all of the details for the selected date. The view starts initially at the time of the first daily offering or at 6:00 AM if there are no assigned offerings. The entire 24 hour day is available by scrolling up or down.
 
 ![day view](../images/calendar_view_images/day_view.png)
 

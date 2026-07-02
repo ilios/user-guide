@@ -4,7 +4,7 @@ This functionality is available to all users in all modes of view. It provides m
 
 The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" and "Hide Filters" are the two selections made by default. This can be easily switched to "All Events" to see all activity in the selected school.
 
-**Note about Buttons:** The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a Toggle will switch the toggle to another setting. The slider could be on either side.
+**Note about buttons:** The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a toggle will switch the toggle to another setting. The slider could be on either side.
 
 Regardless of whether you are displaying All Events or My Schedule, there are two methods of searching (**“Search By Topic/Detail”** and **“Search By Course”**).
 

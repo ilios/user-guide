@@ -6,7 +6,7 @@ The calendar is populated based on the choice made by the user choosing between 
 
 **Note about buttons:** The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a toggle will switch the toggle to another setting. The slider could be on either side.
 
-Regardless of whether you are displaying All Events or My Schedule, there are two methods of searching (**“Search By Topic/Detail”** and **“Search By Course”**).
+Regardless of whether you are displaying All Events or My Schedule, there are two methods of searching (**“Course / Session Type”** and **“Program Detail”**).
 
 Switching from one to the other is accomplished by clicking the correct button. The text of the toggle switches back and forth depending on which search is currently active and which is not being used.
 

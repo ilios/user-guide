@@ -22,7 +22,7 @@ The toggles now appear as shown below with the filters activated and visible.
 
 ![filters displayed](../images/calendar_srch_images/filters_displayed.png)
 
-### By Course / Session Type
+### Course / Session Type
 
 This search option allows the user to search and display all of the activities for any course in the selected academic year and school. That course selection can be further filtered for specific session types.
 
@@ -38,7 +38,7 @@ In order to see all of the Sessions related to the Airways, Blood, and Circulati
 
 In any of these search modes, a search is automatically performed once the corresponding check boxes have been selected. The Calendar will reload with the results.
 
-### By Program Detail
+### Program Detail
 
 Switch to a "Program Detail" search as shown below.
 

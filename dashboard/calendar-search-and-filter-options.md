@@ -52,7 +52,7 @@ In order to see all of the lectures (selected from "Session Types") for the Clas
 
 ![program detail view](../images/calendar_srch_images/program_detail_view.png)
 
-### Load Filters Based On School
+### Load Filters Based on School
 
 The Course List and Program/Cohort List in the filters is determined by the value selected in the School Selector drop-down (if applicable), which is available only in "All Events" mode and only if you have access to more than one school. 
 

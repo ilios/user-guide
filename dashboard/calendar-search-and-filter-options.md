@@ -2,11 +2,13 @@
 
 This functionality is available to all users in all modes of view. It provides many calendar viewing options.
 
-The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" and "Hide Filters" are the two selections made by default. This can be easily switched to "All Events" to see all activity in the selected school.
+The calendar is populated based on the choice made by the user choosing between the buttons located on top of the calendar itself. Initially "My Schedule" is  selected by default. The [event context buttons](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view/my_schedule#event-context-buttons) are also available but only when "My Schedule" is selected.
+
+This can be easily switched to "All Events" to see all activities in the selected school.
 
 **Note about buttons:** The button highlighted in green background with white font shows the active selection. The button with the grey background and font is the other option that can be selected. display the state that is currently activated. Clicking on a toggle will switch the toggle to another setting. The slider could be on either side.
 
-Regardless of whether you are displaying All Events or My Schedule, there are two methods of searching (**“Course / Session Type”** and **“Program Detail”**).
+When you are displaying All Events, there are two methods of searching (**“Course / Session Type”** and **“Program Detail”**).
 
 Switching from one to the other is accomplished by clicking the correct button. The text of the toggle switches back and forth depending on which search is currently active and which is not being used.
 

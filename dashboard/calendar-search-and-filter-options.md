@@ -56,7 +56,7 @@ In order to see all of the lectures (selected from "Session Types") for the Clas
 
 The Course List and Program/Cohort List in the filters is determined by the value selected in the School Selector drop-down (if applicable), which is available only in "All Events" mode and only if you have access to more than one school. 
 
-In "My Schedule" mode, there is no need to use this because your schedule will appear with events displayed from any applicable school. Only the courses or program/cohorts associated with the selected School will be available for filtering selection. 
+In "My Schedule" mode, the filters will not appear. They appear only when "All Events" has been selected.
 
 **Flexibility:** It is possible to select a Course from any selected year along with other selecatable criteria and then go select one or more courses from another Academic Year or School if that is what you want to do. All results will be displayed on the calendar for review.
 

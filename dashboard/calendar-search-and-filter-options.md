@@ -46,9 +46,9 @@ This search option allows the user to search and display all activities for any 
 
 * **Session Types**
 * **Course Levels**
-* **Program/Cohort**
+* **Program / Cohort**
 
-In order to see all of the Lectures (Session Type) for the Class of 2024 Doctor of Medicine - BRIDGES (Program/Cohort), the check boxes can be used as shown below.
+In order to see all of the lectures (selected from "Session Types") for the Class of 2024 Doctor of Medicine - BRIDGES (selected from "Program/Cohort"), the check boxes can be used as shown below.
 
 ![program detail view](../images/calendar_srch_images/program_detail_view.png)
 

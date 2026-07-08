@@ -76,8 +76,6 @@ The detail panel displayed in Event Detail provides access to offering details o
 
 It is also possible to combine filters between the two filter types. In other words, you can use the "Course / Type" filter, add one or more criteria, and then use the "Details" filter, adding more criteria from there. You can do a combination filter from both filter types.
 
-## Duration Options
+## [Duration Options](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view/calendar-view-options)
 
 You can choose for the calendar be displayed in Day, Week, or Month viewing modes.
-
-[calendar view options](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view/calendar-view-options)

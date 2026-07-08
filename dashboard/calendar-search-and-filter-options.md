@@ -70,7 +70,7 @@ The detail panel displayed in Event Detail provides access to offering details o
 
 **QUICK NOTE:** You can apply filters and then hide the filter selectors. This will free up viewable Calendar area but still maintain the filtering criteria. An example of this is shown below. The active filter is "Lecture".
 
-![Filters Hidden](../images/calendar_srch_images/day_view_filters_hidden.png)
+![day view - filters hidden](../images/calendar_srch_images/day_view_filters_hidden.png)
 
 ### Expert Tip
 
@@ -80,4 +80,4 @@ It is also possible to combine filters between the two filter types. In other wo
 
 You can choose for the calendar be displayed in Day, Week, or Month viewing modes.
 
-[Duration Options](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view/calendar-view-options)
+[calendar view options](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view/calendar-view-options)

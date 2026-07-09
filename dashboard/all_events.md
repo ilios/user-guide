@@ -11,4 +11,4 @@ To switch to the "All Events" view, click as shown below.
 
 As seen below, "All Events" is now selected.
 
-![All Events selected](../images/calendar_srch_images/all_events_view_demo.png)
+![all events selected](../images/calendar_srch_images/all_events_selected.png)

@@ -9,7 +9,7 @@ My Schedule displays only those results which are available within the user’s 
 
 Student Advisors will **NOT** see all of the Offerings initially. They are encouraged to use the filters and / or Courses and Sessions screen to review the Offerings in the Course(s) for which they have been assigned the Student Advisor role.
 
-![Select Calendar](../images/calendar_srch_images/dashboard.png)
+![calendar - my schedule selected](../images/calendar_srch_images/calendar_my_schedule_selected.png)
 
 # Student-Only View 
 

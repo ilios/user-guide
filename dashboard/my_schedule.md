@@ -27,7 +27,7 @@ There are a total of four different combinations of selections on these so-calle
 
 ## All Activities
 
-This is the default setting, what the user will be preseneted with upon accessing their schedule on the calendar.
+This is the default setting, what the user will be presented with upon accessing their calendar with "My Schedule" selected.
 
 It is possible (and easy) to have all three of the above buttons selected at the same time. All three of the activities for the logged-in user appear when this is the case (Instructing, Learning, and Admin). If any one button is selected, click on the same button again. The result of this action will be that all three buttons are now selected. Click any one button again and that will have that one now be selection.
 

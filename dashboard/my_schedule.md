@@ -7,7 +7,7 @@ My Schedule displays only those results which are available within the user’s 
 
 **Important Note:** Course Directors and Course Administrators can choose between seeing all of the Offerings for the Courses they are assigned to as leadership and seeing only the offerings for which they have been assigned as an Instructor or Learner or all three options at once. These event context buttons are detailed [here](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-view/my_schedule#event-context-buttons).
 
-Student Advisors will **NOT** see all of the offerings to which they have been assigned that role initially. They are advised to use the calendar filters and / or Courses and Sessions screen to review the Offerings in the Course(s) / Session(s) for which they have been assigned the Student Advisor role. Once the offerings are displayed, Student Advisors can download and review the assigned learning materials for those offerings.
+Student Advisors will **NOT** see all of the offerings to which they have been assigned that role initially. They should use the calendar filters and / or Courses and Sessions screen to review the Offerings in the Course(s) / Session(s) for which they have been assigned the Student Advisor role. Once the offerings are displayed, Student Advisors can download and review the assigned learning materials for those offerings.
 
 ![calendar - my schedule selected](../images/calendar_srch_images/calendar_my_schedule_selected.png)
 

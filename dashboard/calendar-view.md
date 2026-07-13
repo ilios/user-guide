@@ -1,6 +1,6 @@
 # Calendar View
 
-## Switch to Calendar
+## Select Calendar
 
 ![calendar selected](../images/calendar_view_images/calendar_selected.png)
 

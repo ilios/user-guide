@@ -37,7 +37,7 @@ Look closely and it is evident all three of the previous views have been combine
 
 Here is the view with all three buttons selected. 
 
-![all three buttons selected](../images/calendar_view_images/context_all_selected.png)
+![all activities selected](../images/calendar_view_images/all_activities_selected.png)
  
 ## Instructing
 
@@ -45,17 +45,17 @@ Choosing this option means that only the events for which the logged-in user is 
 
 This is shown below. Only the events associated with the logged-in user as the instructor are shown. Any other events are hidden in this context. 
 
-!["Instructing" selected](../images/calendar_view_images/context_instructing.png)
+!["Instructing" selected](../images/calendar_view_images/instructing_selected.png)
 
 ## Learning
 
 This option will display all of the events in this user's learning schedule. This means all of the offerings or ILM's for which they are included in an associated learner group appear on their calendar along with any offerings or ILM's to which they have been added as an Individual learner (not as a member of any group).
 
-!["Learning" selected](../images/calendar_view_images/context_learning.png)
+!["Learning" selected](../images/calendar_view_images/learning_selected.png)
 
 ## Admin
 
 Choosing "Admin" results in all "overseen" offerings or ILM's to be displayed. This is mainly for course directors or administrators but it also applies to session administrators if assigned at that level. The "Admin" view is shown below.
 
-!["Admin" selected](../images/calendar_view_images/context_admin.png)
+!["Admin" selected](../images/calendar_view_images/admin_selected.png)
 

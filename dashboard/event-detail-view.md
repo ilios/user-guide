@@ -12,9 +12,9 @@ The screen shot below starts the process for a student to access the Event Detai
 * **Response of the Heart to Injury** - This is the post-requisite to the ILM listed above. User will be taken to Event Detail for the offering when clicked.
 * **ABC Course Wrap-up** - Another scheduled activity for this Learner.
 
-### Event Detail displayed
+### Event Detail - displayed
 
-![Updated Event Detail](../images/event_detail/updated_event_detail.png)
+![updated event detail](../images/event_detail/updated_event_detail.png)
 
 After clicking as shown above, the user is routed to the Event Detail of the ILM entitled "Histology of the Cardiovascular System". This event is pre-requisite for the Session "Response of the Heart to Injury".
 

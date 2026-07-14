@@ -14,7 +14,7 @@ The screen shot below starts the process for a student to access the Event Detai
 
 ### Event Detail - displayed
 
-![updated event detail](../images/event_detail/updated_event_detail.png)
+![event detail](../images/event_detail/event_detail.png)
 
 After clicking as shown above, the user is routed to the Event Detail of the ILM entitled "Histology of the Cardiovascular System". This event is pre-requisite for the Session "Response of the Heart to Injury".
 

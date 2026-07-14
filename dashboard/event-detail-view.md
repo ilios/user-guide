@@ -38,7 +38,7 @@ These are used by Learners (students) to track their progress as far as reading,
 
 **4.** Not Available - In this case, the user will need to navigate to another location to both download / view the Learning Material and to ude the check box to track progress. It is necessary to drill into pre-work or "Due Before" linked Sessions to get to the Learning Material itself and to be able to utilize the check boxes. They will not be enabled from the top level (post-requisite / target) Session.
 
-![Not available](../images/event_detail/not_available.png)
+![not available](../images/event_detail/not_available.png)
 
 These activity check boxes will retain their state for the current user wherever they navigate to in Ilios that relates to Learning Materials.
 

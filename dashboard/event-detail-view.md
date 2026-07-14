@@ -44,7 +44,7 @@ These activity check boxes will retain their state for the current user wherever
 
 ## Objective Lists
 
-There are sortable lists of objectives available here on the Event Detail screen which can be expanded (default for Session objective) or contracted (default for Course objectives). Both of these can be sorted as grouped by Competencies (the initial setting) or by Priority. The ordering of these sorted by priority is set in Courses and Sessions. Competency listings are sorted ascending (A to Z) with the associated objectives listed grouped inside the Competencies. Detail information on setting up the sort order for course objectives can be found [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_objectives/sort-objectives).
+There are lists of objectives available here on the Event Detail screen which can be expanded (default for Session objective) or contracted (default for Course objectives). Both of these can be listed as grouped by Competencies (the initial setting) or by Priority. The ordering of these sorted by priority is set in Courses and Sessions. Competency listings are sorted ascending (A to Z) with the associated objectives listed grouped inside the Competencies. Detailed information on setting up the sort order for course objectives can be found [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_objectives/sort-objectives). The process is similar in setting the sort order of [session objectives](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/session_objectives/sort-objectives).
 
 ### Default View
 

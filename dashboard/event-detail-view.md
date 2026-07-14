@@ -14,7 +14,7 @@ The screen shot below starts the process for a student to access the Event Detai
 
 ### Event Detail - displayed
 
-![updated event detail](../images/event_detail/updated_event_detail.png)
+![event detail](../images/event_detail/event_detail.png)
 
 After clicking as shown above, the user is routed to the Event Detail of the ILM entitled "Histology of the Cardiovascular System". This event is pre-requisite for the Session "Response of the Heart to Injury".
 
@@ -44,7 +44,7 @@ These activity check boxes will retain their state for the current user wherever
 
 ## Objective Lists
 
-There are sortable lists of objectives available here on the Event Detail screen which can be expanded (default for Session objective) or contracted (default for Course objectives). Both of these can be sorted as grouped by Competencies (the initial setting) or by Priority. The ordering of these sorted by priority is set in Courses and Sessions. Competency listings are sorted ascending (A to Z) with the associated objectives listed grouped inside the Competencies.
+There are sortable lists of objectives available here on the Event Detail screen which can be expanded (default for Session objective) or contracted (default for Course objectives). Both of these can be sorted as grouped by Competencies (the initial setting) or by Priority. The ordering of these sorted by priority is set in Courses and Sessions. Competency listings are sorted ascending (A to Z) with the associated objectives listed grouped inside the Competencies. Detail information on setting up the sort order for course objectives can be found [here](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_objectives/sort-objectives).
 
 ### Default View
 

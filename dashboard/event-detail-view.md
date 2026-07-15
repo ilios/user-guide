@@ -48,7 +48,7 @@ There are lists of objectives available here on the Event Detail screen which ca
 
 ### Default View
 
-The screen shot below shows a typical example of the screen's appearance upon a user initially clicking on a calendar event and opening up Event Detail in Ilios. The expansion / contraction arrow icons can be used to show or hide these details. 
+The screen shot below shows a typical example of the screen's appearance upon a user initially clicking on a calendar event and opening up Event Detail in Ilios. The expansion / contraction arrow icons can be used to show or hide these details. The objective sort order / grouping is set in courses and sessions. Links to this are forthcoming.
 
-![default event detail view](../images/event_detail/event_detail_defaults.png)
+![default event detail view](../images/event_detail/default_event_detail_view.png)
 

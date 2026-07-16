@@ -5,15 +5,15 @@ It is possible to change the language of the majority of the captions in Ilios t
 <figure>
   <img src="../images/language_selector/language_switcher.png" alt="Language Switcher">
   <figcaption>
-    <p>Language Selector</p>
+    <p>language selector</p>
   </figcaption>
 </figure>
 
 For the sake of illustration and demonstration, here is what happens when the option (Español (es)) is selected to change the application's text values to Spanish. The menu items, labels, and captions get updated. The underlying data is not translated in any way but could be entered in Spanish or French or any other character-compatible spoken/written language.
 
 <figure>
-  <img src="../images/language_selector/week_at_a_glance_esp.png" alt="Dashboard (Tablero)">
+  <img src="../images/language_selector/week_at_a_glance_spanish.png" alt="Dashboard (Tablero)">
   <figcaption>
-    <p>dashboard - after switching language to Spanish</p>
+    <p>Week at a Glance - Spanish</p>
   </figcaption>
 </figure>

@@ -6,15 +6,15 @@ This section contains sample screen shots of a typical user experience accessing
 
 The screen shot below is form-based non-LDAP login emulating a mobile phone.
 
-![login from mobile phone](../images/mobile_view/mobile_login.png)
+![login from mobile phone](../images/mobile_view/login_from_mobile_phone.png)
 
-### Dashboard - student
+## Dashboard - student
 
-(after Student logging in) ...
+(after Student logging in) ... Week at a Glance is selected.
 
-![Week at a Glance (on Mobile view)](../images/mobile_view/student_view.png)
+![student view](../images/mobile_view/student_view.png)
 
-### Dashboard - instructor
+## Dashboard - instructor
 
 (after Instructor logging in) ...
 

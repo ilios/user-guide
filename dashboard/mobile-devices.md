@@ -10,19 +10,21 @@ The screen shot below is form-based non-LDAP login emulating a mobile phone.
 
 ## Dashboard - student
 
-After a student logs in, with Week at a Glance is selected, the learner will see a view similar to the one shown below.
+After a student logs in, with Week at a Glance selected, the learner will see a view similar to the one shown below.
 
 ![student view](../images/mobile_view/student_view.png)
 
 ## Dashboard - instructor
 
-After an Instructor logs in, with Week at a Glance, the screen will appear similar to the one shown below. 
+After an Instructor logs in, with Week at a Glance selected, the screen will appear similar to the one shown below. 
 
 ![instructor view](../images/mobile_view/instructor_view.png)
 
-The only difference between the two screen shots above is that Ilios users who perform non-learner functions in Ilios get the navigational icons shown toward the top of the screen underneath the "Dashboard" label.
+The only difference between the two screen shots above is that Ilios users who perform non-learner functions get the navigational icons shown toward the top of the screen underneath the "Dashboard" label.
 
 ## Icons Explained 
+
+The icons appearing at the top of the mobile view screen are described in the image below. The Ilios menu expander is available to view the captions along with the icons. This image is with the expander in "contracted" mode.
 
 ![icons explained](../images/mobile_view/icons_explained.png)
 

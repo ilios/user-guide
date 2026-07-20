@@ -34,4 +34,6 @@ The icons appearing at the top of the mobile view screen are described in the im
 
 When the menu expander has been clicked to expand the view of the links, the captions are fully visible as shown below. 
 
+![icons displayed](../images/mobile_view/icons_displayed.png)
 
+It is evident we are currently on the Dashboard since the background is highlighted accordingly.

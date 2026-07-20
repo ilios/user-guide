@@ -26,5 +26,11 @@ The only difference between the two screen shots above is that Ilios users who p
 
 The icons appearing at the top of the mobile view screen are described in the image below. The Ilios menu expander is available to view the captions along with the icons. This image is with the expander in "contracted" mode.
 
+### Contracted Mode 
+
 ![icons explained](../images/mobile_view/icons_explained.png)
+
+### Expanded Mode
+
+The expanded mode view is obtained by clicking the Ilios menu expander. The results of this are shown below with the navigation buttons clearly indicated in this veiwpoint. 
 

@@ -16,7 +16,7 @@ After a student logs in, with Week at a Glance is selected, the learner will see
 
 ## Dashboard - instructor
 
-(after Instructor logging in) ...
+After an Instructor logs in, with Week at a Glance, the screen will appear similar to the one shown below. 
 
 ![instructor view](../images/mobile_view/instructor_view.png)
 

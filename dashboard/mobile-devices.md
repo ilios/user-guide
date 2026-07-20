@@ -10,7 +10,7 @@ The screen shot below is form-based non-LDAP login emulating a mobile phone.
 
 ## Dashboard - student
 
-(after Student logging in) ... Week at a Glance is selected.
+After a student logs in, with Week at a Glance is selected, the learner will see a view similar to the one shown below.
 
 ![student view](../images/mobile_view/student_view.png)
 

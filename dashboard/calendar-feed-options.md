@@ -35,13 +35,11 @@ To connect a calendar application with Ilios, you will need a unique URL that yo
 
 ![obtain calendar feed](../images/calendar_feed_options/obtain_calendar_feed.png)
 
-**Step Two:** Copy the Feed to your clipboard by clicking the button shown below or close and return to the Calendar Dashboard.
+**Step Two:** Copy the Feed to your clipboard by clicking the button shown above.
 
-![copy the feed](../images/calendar_feed_options/copy_the_feed.png)
+A temporary confirmation "Copied My ICS Link successfully" message will appear as a banner at the top of the screen. This is shown below.
 
-A temporary confirmation "Copied Successfully" message will appear as shown below. It disappears on its own shortly.
-
-![successfully copied](../images/calendar_feed_options/feed_copied.png)
+![feed copied successfully](../images/calendar_feed_options/feed_copied_successfully.png)
 
 **NOTE:** The URL generated for this is like a password. Anyone who knows it can view your calendar! Keep it safe.
 

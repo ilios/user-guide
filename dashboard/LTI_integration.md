@@ -12,7 +12,7 @@ We host the LTI provider as a service to the education community. You can run it
 
 ## Hosting
 
-If your institution is based in the USA, we can host the LTI but and support the entire Ilios application for you. Please feel free to send any email inquiries [here](mailto:support@iliosproject.org). We'd be glad to help you configure LTI for your environment.
+If your institution is based in the USA, we can host the LTI and support the entire Ilios application for you. Please feel free to send any email inquiries [here](mailto:support@iliosproject.org). We'd be glad to help you configure LTI for your environment.
 
 More info is available at [Hosting](https://www.iliosproject.org/hosting/).
 

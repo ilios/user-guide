@@ -31,7 +31,7 @@ To connect a calendar application with Ilios, you will need a unique URL that yo
 
 **NOTE:** The Calendar feed includes data which spans the time frame of 4 months prior to the current date until two months after the current date. Calendar items that fall outside of that time range or that are in Draft mode will not appear in the feed.
 
-**Step One:** Make sure to select Calendar and then click the Feed icon to generate the Calendar's URL feed.
+**Step One:** Click the Feed icon to generate the Calendar's URL feed.
 
 ![generate the feed](../images/calendar_feed_options/generate_the_feed.png)
 

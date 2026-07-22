@@ -64,16 +64,17 @@ This refers to the other course attributes listed below that can be maintained o
 
 ## Screen Elements
 
-This shows the Course detail screen (once a Course has been selected and Details have been expanded).
+This shows the Course Detail screen (once a course has been selected and its details have been expanded).
 
 <figure>
-  <img src="../../images/course_images/course_top.png" alt="course detail - top">
+  <img src="../../images/course_images/course_detail_top.png" alt="course detail - top">
     <figcaption>
       <p>course detail - top</p>
     </figcaption>
 </figure>
 
 ## Functionality and Links
+
 ### Upper part of screen
 
 1. **Back to Courses List**: takes the user back to the list of Courses

@@ -80,7 +80,7 @@ This shows the Course Detail screen (once a course has been selected and its det
 1. **Back to Courses List**: takes the user back to the list of Courses
 2. **Global Search**: search for anything in Ilios
 3. **Language Switcher**: currently can be switched to French, Spanish, or English
-4. **Profile Dropdown**: available here -- My Profile, Logout
+4. **Profile Dropdown**: available here - My Profile, Logout
 5. **Help**: link to this guide available anywhere in Ilios
 6. **Edit Course Title**: The title can be edited by clicking as shown.
 7. **Published Status**: The Course's publication status can be changed here.

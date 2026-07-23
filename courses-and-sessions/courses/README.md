@@ -121,7 +121,7 @@ This display can be sorted by the following fields in addition to being filtered
 
 The following columns can be sorted (one at a time) - choose ascending or descending order.
 
-* **Title** - default sort order
+* **Title** - default sort order (A-Z)
 * **Level**
 * **Start Date**
 * **End Date**

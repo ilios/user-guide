@@ -143,7 +143,7 @@ The sort order currently applied can be viewed by reviewing the arrow icons and 
 <figure>
   <img src="../../images/course_images/course_list.png" alt="course list shown">
     <figcaption>
-      <p>Courses List (All Courses)</p>
+      <p>course list shown</p>
     </figcaption>
 </figure>
 

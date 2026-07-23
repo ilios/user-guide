@@ -134,7 +134,7 @@ The sort order currently applied can be viewed by reviewing the arrow icons and 
 <figure>
   <img src="../../images/course_images/default_sort_order.png" alt="default sort order">
     <figcaption>
-      <p>Courses List (All Courses)</p>
+      <p>default sort order</p>
     </figcaption>
 </figure>
 

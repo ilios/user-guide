@@ -161,6 +161,6 @@ By default, all courses for the selected school are displayed. There is a pair o
 
 The screen is then refreshed to display only the courses with which the logged in user is associated. In this example, the logged-in user is an instructor for one or more session offerings in the three courses contained in the My Courses list.
 
-The year drop-down menu does apply in this situation. The year selected is 2023 meaning these are the Courses in the selected year associated with the logged-in user.
+The year drop-down menu does apply in this situation. The year selected is 2023 meaning these are the courses in the selected year associated with the logged-in user.
 
-![My Courses (list of courses)](../../images/course_images/my_courses_list.png)
+![my courses list](../../images/course_images/my_courses_list.png)

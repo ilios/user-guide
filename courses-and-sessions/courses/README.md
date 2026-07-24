@@ -153,7 +153,7 @@ By default, all courses for the selected school are displayed. There is a pair o
 
 **Original appearance:**
 
-![All Courses](../../images/course_images/all_courses_button.png)
+![all courses button](../../images/course_images/all_courses_button.png)
 
 **After clicking / toggling:**
 

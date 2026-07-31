@@ -155,7 +155,7 @@ This selection is retained so the next time you log in, the setting from the pre
 
 **Original appearance:**
 
-![all courses button](../../images/course_images/all_courses_button.png)
+![all courses selected](../../images/course_images/all_courses_selected.png)
 
 **After clicking / toggling:**
 

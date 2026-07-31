@@ -149,7 +149,9 @@ The sort order currently applied can be viewed by reviewing the arrow icons and 
 
 ## My Courses
 
-By default, all courses for the selected school are displayed. There is a pair of buttons acting as a switch at the top left of the screen which will change into My Courses when clicked as shown below.
+Initially, all courses for the selected school are displayed. There is a pair of buttons acting as a switch at the top left of the screen which will change into My Courses when clicked as shown below.
+
+This selection is retained so the next time you log in, the setting from the previous session stays selected in this context.
 
 **Original appearance:**
 

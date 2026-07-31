@@ -157,9 +157,11 @@ This selection is retained so the next time you log in, the setting from the pre
 
 ![all courses selected](../../images/course_images/all_courses_selected.png)
 
-**After clicking / toggling: My Courses**
+**After clicking / toggling:**
 
-![my courses selected](../../images/course_images/my_courses_button.png)
+"My Courses" has now been selected as a result of clicking the appropriate button.
+
+![my courses selected](../../images/course_images/my_courses_selected.png)
 
 The screen is then refreshed to display only the courses with which the logged in user is associated. In this example, the logged-in user is an instructor for one or more session offerings in the three courses contained in the My Courses list.
 

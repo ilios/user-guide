@@ -4,11 +4,11 @@
 
 You can perform a search and select an existing Ilios user record to modify as shown below.
 
-![Perform a search](../images/admin_console/maintain_user_record/perform_a_search.png)
+![perform a search](../images/admin_console/maintain_user_record/perform_a_search.png)
 
 Now that the user has been selected there are many useful utilities provided by the interface. Given the complexity of this screen, we will take it in portions. The top part of the screen is shown below once our user has been selected.
 
-![Click to edit or revierw - User Admin - top portion](../images/admin_console/maintain_user_record/click_to_edit_or_review.png)
+![click to edit or review - User Admin - top portion](../images/admin_console/maintain_user_record/click_to_edit_or_review.png)
 
 ## Edit User Account Settings
 

@@ -47,13 +47,13 @@ The Calendar display presents Session Offerings with different background colors
 
 ## Non-Learner Calendar View
 
-It is important to note that non-students Ilios users with advanced permissions such as session or course administrator or director **WILL** see offerings for their courses / sessions that have not been published yet. Students will **never** see these unless they happen to perform a non-student function such as being an Instructor, Course Administrator / Director, Session Administrator, or School Administrators / Director. These users will see the "Not Published" session offerings. Below is an example showing this view.
+It is important to note that non-students Ilios users with advanced permissions such as session or course administrator or director **WILL** see offerings for their courses / sessions that have not been published yet. Students will **never** see these unless they happen to perform a non-student function such as being an Instructor, Course Administrator / Director, Session Administrator, or School Administrators / Director. These users will also see the "Not Published" session offerings. Below is an example showing this view.
 
 Icon indicating "Not Published" status: 
 
 ![unpublished icon](../images/calendar_view_images/unpublished.png)
 
-![a few tips ...](../images/calendar_view_images/calendar_tips.png)
+![calendar tips](../images/calendar_view_images/calendar_tips.png)
 
 ## Accessing Learning Materials via Calendar Feed
 

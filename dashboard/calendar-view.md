@@ -51,7 +51,7 @@ It is important to note that non-students Ilios users with advanced permissions 
 
 Icon indicating "Not Published" status: 
 
-![unpublished icon](../images/calendar_view_images/unpublished.png)
+![not published icon](../images/calendar_view_images/not_published.png)
 
 ![calendar tips](../images/calendar_view_images/calendar_tips.png)
 

@@ -85,7 +85,7 @@ Breadcrumbs only appear at the top of pages that are subsidiary pages of higher 
 
 Breadcrumbs provide sub-menu so you can jump to any chapter at any level within the guide. This is really helpful in navigation.
 
-Images will be here soon. Stay tuned.
+Images will be here soon. 
 
 ## Navigation Buttons
 

@@ -111,6 +111,10 @@ This user guide (like Ilios itself) has a "home" button. You can be anywhere in 
   </figcaption>
 </figure>
 
+## On This Page
+
+Clicking on the link with the title "ON THIS PAGE" will bring you immediately to the top of any page within the user guide.
+
 # Working with Ilios
 
 One important thing to remember: **Ilios is a web application.**

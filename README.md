@@ -81,6 +81,10 @@ Breadcrumbs explained ...
 
 Breadcrumbs only appear at the top of pages that are subsidiary pages of higher level pages or chapters.
 
+## Breadcrumb Sub-menus
+
+Breadcrumbs provide sub-menu so you can jump to any chapter at any level within the guide. This is really helpful in navigation.
+
 ## Navigation Buttons
 
 At the bottom of any page in the user guide, there are navigation buttons which will take the user to the next or previous page. In the screen shot below, the user is currently in the `Courses and Sessions >> Courses >> Objectives >> Edit Objective` section. They can navigate forward or backwards using the buttons at the bottom of the page.

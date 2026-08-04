@@ -37,7 +37,7 @@ An example is shown below with navigation options included.
 <figure>
   <img src="/images/introduction/user_guide_search_results.png" alt="navigation options - user guide search results">
   <figcaption>
-      <p>navigate to results after performing a user guide search</p>
+      <p>user guide search results</p>
   </figcaption>
 </figure>
 

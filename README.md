@@ -98,7 +98,12 @@ In the example shown below, we are accessing the `Courses and Sessions >> Course
 
 At the bottom of any page in the user guide, there are navigation buttons which will take the user to the next or previous page. In the screen shot below, the user is currently in the `Courses and Sessions >> Courses >> Objectives >> Edit Objective` section. They can navigate forward or backwards using the buttons at the bottom of the page.
 
-![navigation buttons](images/introduction/navigation_buttons.png)
+<figure>
+  <img src="/images/introduction/navigation_buttons.png" alt="navigation buttons">
+  <figcaption>
+      <p>navigation buttons</p>
+  </figcaption>
+</figure>
 
 ## Clickable Images
 

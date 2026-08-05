@@ -87,7 +87,12 @@ Breadcrumbs provide sub-menu options so you can navigate to any chapter at any l
 
 In the example shown below, we are accessing the `Courses and Sessions >> Courses >> Course Actions >> Edit Course` section. The items shown in the sub-menu and in the image pertain to the other options available at the `Course Actions` level.
 
-![sub menus shown](images/introduction/sub_menus_shown.png)
+<figure>
+  <img src="/images/introduction/sub_menus_shown.png" alt="sub menus shown">
+  <figcaption>
+      <p>sub menus shown</p>
+  </figcaption>
+</figure>
 
 ## Navigation Buttons
 

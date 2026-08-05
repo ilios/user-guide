@@ -83,9 +83,11 @@ Breadcrumbs only appear at the top of pages that are subsidiary pages of higher 
 
 ## Breadcrumb Sub-menus
 
-Breadcrumbs provide sub-menu so you can jump to any chapter at any level within the guide. This is really helpful in navigation.
+Breadcrumbs provide sub-menu options so you can navigate to any chapter at any level within the guide. This is really helpful in navigation.
 
-Images will be here soon. 
+In the example shown below, we are accessing the `Courses and Sessions >> Courses >> Course Actions >> Edit Course` section. The items shown in the sub-menu and in the image pertain to the other options available at the `Course Actions` level.
+
+![sub menus shown](images/introduction/sub_menus_shown.png)
 
 ## Navigation Buttons
 
@@ -102,7 +104,7 @@ When you hover over any image, the "plus" icon will be presented. The mouse's po
 <figure>
   <img src="/images/introduction/click_for_more.png" alt="click to zoom in">
   <figcaption>
-      <p>click to zoom in on image</p>
+      <p>click to zoom in</p>
   </figcaption>
 </figure>
 

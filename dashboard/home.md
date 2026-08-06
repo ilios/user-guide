@@ -46,11 +46,11 @@ This next view will show a typical student's viewpoint into the system with no a
 Although this is pointed out in the screen shot at the top of this page, it is worth noting that this action (mouse-over) can be performed anywhere in Ilios if you are wondering what an icon or link means and where you will end up if you click that link. 
 
 **NAVIGATION TIP**
-The mouse-over presents the destination (target link) of any clickable link. This can be a very helpful navigational aid.
+Pointing the mouse and hovering over any navigational link presents the destination (target link). This can be a very helpful navigational aid.
 
 <figure>
-    <img src="../images/dashboard_home/mouse_over_destination.png" alt="mouse over showing target link destination">
+    <img src="../images/dashboard_home/mouse_over_link_shown.png" alt="mouse over link shown">
     <figcaption>
-        <p>mouse-over link target shown</p>
+        <p>mouse-over link shown</p>
     </figcaption>
 </figure>

@@ -99,18 +99,20 @@ These refere to menu actions available underneath the logged in user's name and 
 <figure>
   <img src="../images/dashboard/user_menu_options.png" alt="user menu options">
   <figcaption>
-      <p>user menu options displayed</p>
+      <p>user menu options</p>
   </figcaption>
 </figure>
 
 -----------------------------------------
 
-* **Help link** -- link to this user guide - Even further over to the right of the screen is a "Help" link to this very same user guide. This is available in any screen size and from any location within Ilios. 
+* **Help link** -- link to the user guide  
+
+Over to the right of the screen is a "Help" link to this very same user guide. This is available in any screen size and from any location within Ilios. 
 
 <figure>
   <img src="../images/icons_explained/user_guide_link.png" alt="user guide link">
   <figcaption>
-      <p>Help - link to user guide</p>
+      <p>user guide link</p>
   </figcaption>
 </figure>
 

@@ -87,7 +87,7 @@ This shows the Course Detail screen (once a course has been selected and its det
 8. **Course ID**: The Course ID field can be edited by clicking as shown.
 9. **Clerkship Type**: edited here
 10. **Start Date**: edited here
-11. **[Materials Summary**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view): opens up Learning Materials summary
+11. [**Materials Summary**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view): opens up Learning Materials summary
 12. [**Course Summary**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-summary): displays a printable summary overview of the selected course
 13. **Rollover Course**: starts the process of rolling this Course over
 14. **Course Visualizations**: opens up Visualizations (Graphs) for this Course

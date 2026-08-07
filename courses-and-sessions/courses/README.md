@@ -94,8 +94,8 @@ This shows the Course Detail screen (once a course has been selected and its det
 15. **End Date**: edited as shown
 16. **Level**: edited here
 17. [**Leadership**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-leadership): expands to assign Course Directors Administrators, and/or Student Advisors
-18. **Objectives**: expands and opens up course objective details and provides access to allow editing of objective text (based on permissions of logged in user)
-19. **Search For Learning Material**: to find existing Learning Material
+18. [**Objectives**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_objectives): expands and opens up course objective details and provides access to allow editing of objective text (based on permissions of logged in user)
+19. **Search For Learning Material**: to find existing Learning Material object
 20. **Add Learning Material**: If Learning Material is not found, new ones can be uploaded or attached
 21. **Sort Materials**: to change the order in which Learning Materials are displayed to students
 22. **Edit Learning Material**: allows for viewing or changing selected Learning Material attributes

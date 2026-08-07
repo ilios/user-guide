@@ -90,7 +90,7 @@ This shows the Course Detail screen (once a course has been selected and its det
 11. [**Materials Summary**](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/materials-view): opens up Learning Materials summary
 12. [**Course Summary**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-summary): displays a printable summary overview of the selected course
 13. **Rollover Course**: starts the process of rolling this Course over
-14. **Course Visualizations**: opens up Visualizations (Graphs) for this Course
+14. [**Course Visualizations**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations): opens up Visualizations (Graphs) for the selected course
 15. **End Date**: edited as shown
 16. **Level**: edited here
 17. **Leadership**: expands to assign Course Directors Administrators, and/or Student Advisors

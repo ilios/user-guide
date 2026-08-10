@@ -6,7 +6,7 @@ For the sake of demonstration, we will start with a course that has not had any 
 
 ## Select Course 
 
-The course has been selected (Airways, Blood and Circulation - 2024). The [Edit Course](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_actions/edit-course) section has good information about searching for and selecting a course to view/modify.
+The course has been selected (Airways, Blood and Circulation - 2026-2027). The [Edit Course](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_actions/edit-course) section has good information about searching for and selecting a course to view/modify.
 
 ![course selected](../../images/course_vocabulary/course_selected.png)
 

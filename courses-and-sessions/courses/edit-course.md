@@ -8,13 +8,13 @@ To manage and edit an existing course, enter part of the course’s title into t
 
 In this first screen shot, no filters have been applied. All courses are displayed.
 
-![before filtering](../../images/course_images/courses_pre_filter.png)
+![courses pre-filter](../../images/course_images/courses_pre_filter.png)
 
 ### Courses Post-Filter
 
 In this second screen shot, a search string of “brai” has been entered and as a result, only one course gets returned.
 
-![after filtering](../../images/course_images/courses_post_filter.png)
+![courses - post filter](../../images/course_images/courses_post_filter.png)
 
 ## Course Summary Details
 
@@ -22,7 +22,7 @@ Once the Course has been selected as shown above, the following Course-level att
 
 **NOTE**: Course Summary Details refers to the higher level details above the "Show Details" button. Refer to [**Course Details**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#screen-elements) for the lower level details that do require the click of "Show Details" to be shown.
 
-![Course Summary Details](../../images/course_images/course_summary_details.png)
+![course summary details](../../images/course_images/course_summary_details.png)
 
 ### Links and Functionality by the Numbers ...
 

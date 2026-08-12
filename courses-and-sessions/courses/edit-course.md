@@ -8,7 +8,7 @@ To manage and edit an existing course, enter part of the course’s title into t
 
 In this first screen shot, no filters have been applied. All courses are displayed.
 
-![courses pre-filter](../../images/course_images/courses_pre_filter.png)
+![course list pre-filter](../../images/course_images/course_list_pre_filter.png)
 
 ### Courses Post-Filter
 

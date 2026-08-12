@@ -4,17 +4,17 @@
 
 To manage and edit an existing course, enter part of the course’s title into the **"Filter by course title”** text field located above the **“Add New”** button. The result will automatically return a course list which applies the critieria entered. You can also just scroll through the list and find the Course without filtering at all.
 
-### Courses Pre-Filter
+### Course List Pre-Filter
 
 In this first screen shot, no filters have been applied. All courses are displayed.
 
 ![course list pre-filter](../../images/course_images/course_list_pre_filter.png)
 
-### Courses Post-Filter
+### Course List Post-Filter
 
 In this second screen shot, a search string of “brai” has been entered and as a result, only one course gets returned.
 
-![courses - post filter](../../images/course_images/courses_post_filter.png)
+![course list - post filter](../../images/course_images/course_list_post_filter.png)
 
 ## Course Summary Details
 

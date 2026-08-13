@@ -127,7 +127,7 @@ The following columns can be sorted (one at a time) - choose ascending or descen
 
 To apply any sort order, simply click on the column header to select the sort preference.
 
-The sort order currently applied can be viewed by reviewing the arrow icons and description to the right of the column title. The default sort order is shown below using the 2024 School of Medicine course listing.
+The sort order currently applied can be viewed by reviewing the arrow icons and description to the right of the column title. The default sort order is shown below using the 2026-2027 School of Medicine course listing.
 
 <figure>
   <img src="../../images/course_images/default_sort_order.png" alt="default sort order">
@@ -136,7 +136,7 @@ The sort order currently applied can be viewed by reviewing the arrow icons and 
     </figcaption>
 </figure>
 
-**TIP:** It can be helpful to sort by **"Status"** when you want to find out which Courses may not have been published yet. Courses with the status of "Not Published" will appear in the list before "Published" courses based on the A-Z sort order applied here.
+**TIP:** It can be helpful to sort by **"Status"** when you want to find out which Courses may not have been published yet. Courses with the status of "Not Published" will appear in the list before "Published" courses based on the A-Z sort order applied here with any "Scheduled" courses appearing at the end. Flip the sort for the reverse listing.
 
 <figure>
   <img src="../../images/course_images/course_list.png" alt="course list shown">

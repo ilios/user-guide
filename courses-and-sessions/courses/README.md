@@ -138,8 +138,12 @@ The sort order currently applied can be viewed by reviewing the arrow icons and 
 
 **TIP:** It can be helpful to sort by **"Status"** when you want to find out which Courses may not have been published yet. Courses with the status of "Not Published" will appear in the list before "Published" courses based on the A-Z sort order applied here with any "Scheduled" courses appearing at the end. Flip the sort for the reverse listing.
 
+### Course List 
+
+The listing of courses for the 2026-2027 academic year in School of Medicine is shown below. 
+
 <figure>
-  <img src="../../images/course_images/course_list.png" alt="course list shown">
+  <img src="../../images/course_images/course_list_shown.png" alt="course list shown">
     <figcaption>
       <p>course list shown</p>
     </figcaption>

@@ -115,8 +115,6 @@ This shows the Course Detail screen (once a course has been selected and its det
 
 When first visiting this screen during an Ilios session, the default view is **"All Courses"**, which is shown below. You can limit the number of Courses displayed on the screen by filtering on Course title.
 
-This display can be sorted by the following fields in addition to being filtered by Course title.
-
 ### Sort Options
 
 The following columns can be sorted (one at a time) - choose ascending or descending order.

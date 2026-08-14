@@ -4,7 +4,9 @@
 
 Users assigned to the role of Student Advisor are able to download any and all Learning Materials from a Course or Session to which they have been given this role. They will need to navigate the Calendar in order to access these resources. In other words, their Week at a Glance, Activities, and calendar feed will NOT contain all of the learning events of their assigned Courses or Sessions; but the Learning Materials will be available for them to download and review to assist other students.
 
-Refer to the [permissions matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) for more information on these updated permissions. After exposing the Course Details, Course Leadership is the next functional area below the Course Summary Details section.
+Refer to the [permissions matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) for more information on these updated permissions. After exposing the Course Details, Leadership is the following functional area below the Course Summary Details section.
+
+We have selected the course already for this demonstration. 
 
 # Show Details
 

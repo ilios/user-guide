@@ -8,19 +8,19 @@ Refer to the [permissions matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilio
 
 # Show Details
 
-![show details](../../images/course_leadership/crs_ldrshp1.png)
+![show details](../../images/course_leadership/show_details.png)
 
 Clicking on Course Leadership opens up the details for this Course and allows modification of this leadership. As shown below, click **Manage Leadership** to add or remove Course Leadership - Directors, Administrators, and / or Student Advisors.
 
 # Click to Manage
 
-![click to manage](../../images/course_leadership/crs_ldrshp2.png)
+![click to manage](../../images/course_leadership/click_to_manage.png)
 
-# Remove Leadership
+# Manage Leadership
 
 To remove Course Directors, Administrators, or Student Advisors, simply click the red "X" to remove the users from the list and then save using the green Save button in the upper right corner (or Cancel).
 
-![click to remove](../../images/course_leadership/crs_ldrshp3.png)
+![click to remove](../../images/course_leadership/click_to_remove.png)
 
 For the sake of demonstration, "Carl Gloria Sanders" will be removed from being a Course Director and will be put their correct categorization as a Course Administrator instead. He will have the same rights as a Director but for reporting and analytical purposes, his role is more administrative in nature so this designation is more accurate.
 
@@ -30,29 +30,31 @@ As shown below, "Carl Gloria Sanders" has been removed from the "Directors" area
 
 ## Before Saving ...
 
-![before saving](../../images/course_leadership/crs_ldrshp4.png)
+![before saving](../../images/course_leadership/before_saving.png)
 
 ## After Saving ...
 
-![after saving](../../images/course_leadership/crs_ldrshp5.png)
+![after saving](../../images/course_leadership/after_saving.png)
 
 * Click "Manage Leadership" to perform the action required.
 * Perform a search on the right side text box for "Carl Gloria".
 * Select the correct user.
 
-![select user](../../images/course_leadership/crs_ldrshp6.png)
+## Add Administrator
+
+![select user](../../images/course_leadership/select_user.png)
 
 The pre-save screen appears as shown below. The user "Carl Gloria Sanders" has been placed into the correct user role (Course Administrator).
 
-![user added](../../images/course_leadership/crs_ldrshp7.png)
+![user added](../../images/course_leadership/user_added.png)
 
 After processing the Save event as shown above, the changes are correctly reflected in the Course Leadership detail. The Course Leadership details are still expanded.
 
 ## Expanded View
 
-![expanded view](../../images/course_leadership/crs_ldrshp8.png)
+![expanded view](../../images/course_leadership/expanded_view.png)
 
-![click to hide details](../../images/course_leadership/crs_ldrshp9.png)
+![click to hide details](../../images/course_leadership/click_to_hide_details.png)
 
 ## After hiding the list ...
 

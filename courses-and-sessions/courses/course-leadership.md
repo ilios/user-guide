@@ -1,6 +1,10 @@
-# Manage Leadership
+# Leadership
 
 [Leadership](https://iliosproject.gitbook.io/ilios-user-guide/glossary#leadership) is part of the permissions model. At the course level, Directors, Administrators, and Student Advisors are added here. Course **Directors** and **Administrators**  have similar rights - to maintain any and all aspects of this Course. It is a matter of specifying whether the user is an administrative user using Ilios to maintain the Course or if the user is actually a Director. **Student Advisors** are explained below.
+
+# Manage Leadership
+
+The information and steps below detail the specifics of Leadership as it pertains to Ilios and how to maintain the users and roles available.
 
 ## Student Advisors
 
@@ -21,7 +25,7 @@ Clicking on Course Leadership opens up the details for this Course and allows mo
 ![click to manage](../../images/course_leadership/click_to_manage.png)
 
 
-To remove Course Directors, Administrators, or Student Advisors, simply click the red "X" to remove the users from the list and then save using the green Save button in the upper right corner (or Cancel).
+After clicking "Manage Leadership" as shown above, users can be added or removed from these roles. To remove Course Directors, Administrators, or Student Advisors, simply click the red "X" to remove the users from the list and then save using the green Save button in the upper right corner (or Cancel).
 
 ![click to remove](../../images/course_leadership/click_to_remove.png)
 

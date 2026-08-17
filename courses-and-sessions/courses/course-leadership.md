@@ -25,7 +25,7 @@ Clicking on Course Leadership opens up the details for this Course and allows mo
 ![click to manage](../../images/course_leadership/click_to_manage.png)
 
 
-After clicking "Manage Leadership" as shown above, users can be added or removed from these roles. To remove Course Directors, Administrators, or Student Advisors, simply click the red "X" to remove the users from the list and then save using the green Save button in the upper right corner (or Cancel).
+After clicking "Manage Leadership" as shown above, users can be added or removed from these roles. To remove Directors, Administrators, or Student Advisors, simply click the red "X" to remove the users from the list and then save using the green Save button in the upper right corner (or Cancel).
 
 ![click to remove](../../images/course_leadership/click_to_remove.png)
 

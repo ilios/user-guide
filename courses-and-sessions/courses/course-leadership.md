@@ -39,6 +39,8 @@ As shown below, "Carl Gloria Sanders" has been removed from the "Directors" area
 
 ## After Saving ...
 
+The image below depicts the situation occurring after the save action is performed by clicking the green save icon shown in the image above.
+
 ![after saving](../../images/course_leadership/after_saving.png)
 
 * Click "Manage Leadership" to perform the action required.

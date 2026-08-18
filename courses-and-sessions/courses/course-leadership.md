@@ -43,11 +43,13 @@ The image below depicts the situation occurring after the save action is perform
 
 ![after saving](../../images/course_leadership/after_saving.png)
 
+## Add Administrator
+
+To add the course administrator, follow the steps outlined below.
+
 * Click "Manage Leadership" to perform the action required.
 * Perform a search on the right side text box for "Carl Gloria".
 * Select the correct user.
-
-## Add Administrator
 
 ![select user](../../images/course_leadership/select_user.png)
 

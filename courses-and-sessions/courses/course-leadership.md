@@ -57,7 +57,7 @@ The pre-save screen appears as shown below. The user "Carl Gloria Sanders" has b
 
 ![user added](../../images/course_leadership/user_added.png)
 
-After processing the Save event as shown above, the changes are correctly reflected in the Course Leadership detail. The Course Leadership details are still expanded.
+After processing the save event as shown above, the changes are correctly reflected in the Course Leadership detail shown below. The Course Leadership details are still expanded.
 
 ## Expanded View
 

@@ -65,6 +65,8 @@ After processing the save event as shown above, the changes are correctly reflec
 
 ![click to hide details](../../images/course_leadership/click_to_hide_details.png)
 
+After clicking as shown above, the screen returns to its previous state. 
+
 ## After hiding the list ...
 
 This displays the contracted Course Leadership area in the context of the larger Course Details reflecting the updated counts but hiding the details.

@@ -69,6 +69,6 @@ After clicking as shown above, the screen returns to its previous state.
 
 ## After hiding the list ...
 
-This displays the contracted Course Leadership area in the context of the larger Course Details reflecting the updated counts but hiding the details.
+This displays the contracted Leadership section in the context of the larger Course Details reflecting the updated counts but hiding the details.
 
 ![list now hidden](../../images/course_leadership/list_now_hidden.png)

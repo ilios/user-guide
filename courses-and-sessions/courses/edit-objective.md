@@ -12,7 +12,7 @@ The text value (description) of a Course Objective can be easily edited here on 
 
 ## View the Objective List
 
-![click to show the list](../../images/course_objectives/course_objectives_expand.png)
+![click for details](../../images/course_objectives/click_for_details.png)
 
 To edit a Course Objective's description (title), click on the description and you can edit it from there.
 

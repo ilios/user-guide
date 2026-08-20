@@ -1,10 +1,10 @@
-The text value (description) of a Course Objective can be easily edited inline style here on the Course page. Also relationships to parent objectives, vocabulary terms, and MeSH terms can easily be maintained here.
+The text value (description) of a Course Objective can be easily edited here on the Course page, along with relationships to parent objectives, vocabulary terms, and MeSH terms.
 
 # Edit Objective - Steps
 
 ## Select a Course
 
-![select a course](../../images/course_objectives/course_search.png)
+![select a course](../../images/course_objectives/select_a_course.png)
 
 ## Expand Course Details
 

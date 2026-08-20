@@ -8,7 +8,7 @@ The text value (description) of a Course Objective can be easily edited here on 
 
 ## Expand Course Details
 
-![show more](../../images/course_objectives/course_details_show.png)
+![show more](../../images/course_objectives/show_more.png)
 
 ## View the Objective List
 

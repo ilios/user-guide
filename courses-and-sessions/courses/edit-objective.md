@@ -34,11 +34,11 @@ Vocabulary terms can be easily attached to course objectives. This process is st
 
 ## Select Vocabulary
 
-For this example, we would like to choose from the Vocabulary set "Topics". 
+For this example, we would like to choose from the Vocabulary "Bridges Tags". 
 
-![select vocabulary](../../images/course_objectives/addvocab2.png)
+![select vocabulary](../../images/course_objectives/select_vocabulary.png)
 
-The screen now refreshes with the Terms in the Vocabulary set "Topics" displayed and ready for selection and review.
+The screen now refreshes with the Terms in the Vocabulary set "Bridges Tags" displayed and ready for selection and review. The value in parentheses brackets (Medicine) simply indicates the school to which this vocabulary pertains.
 
 ![topics displayed](../../images/course_objectives/addvocab3.png)
 

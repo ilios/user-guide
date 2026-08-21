@@ -28,9 +28,9 @@ This is done in an inline editing style so you don't have to leave the page or l
 
 # Add Vocabulary Term(s) 
 
-This process is similar to the one detailed below which pertains to attaching MeSH Terms to Course Objectives. Using the same Course Objective as in the following section, this process is started as shown below.
+Vocabulary terms can be easily attached to course objectives. This process is started as shown below.
 
-![click "Add New" to start the process](../../images/course_objectives/addvocab1.png)
+![click to add new](../../images/course_objectives/click_to_add_new.png)
 
 ## Select Vocabulary
 

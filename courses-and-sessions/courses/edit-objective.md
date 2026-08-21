@@ -40,7 +40,7 @@ For this example, we would like to choose from the Vocabulary "Bridges Tags".
 
 The screen now refreshes with the Terms in the Vocabulary set "Bridges Tags" displayed and ready for selection and review. The value in parentheses brackets (Medicine) simply indicates the school to which this vocabulary pertains.
 
-![topics displayed](../../images/course_objectives/addvocab3.png)
+![vocabulary terms displayed](../../images/course_objectives/vocabulary_terms_displayed.png)
 
 The list of Terms available for selection can be filtered by entering a text value as shown below. Entering the search / filter criteria of "health c" yields the results shown below.
 

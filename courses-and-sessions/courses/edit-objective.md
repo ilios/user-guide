@@ -52,7 +52,7 @@ Select "Anatomy" by clicking on the "+" icon button or anywhere in the highlight
 
 The screen adjusts to reflect this recent action. The newly added term can be removed by clicking on the red "X" button on the label. The changes can be confirmed or rejected using the standard Save or Cancel buttons. There is no need to remove it if you plan on canceling the operation anyway.
 
-![list updated](../../images/course_objectives/addvocab5.png)
+![list updated](../../images/course_objectives/list_updated.png)
 
 # Attach MeSH Term(s)
 

@@ -58,7 +58,7 @@ The screen adjusts to reflect this recent action. The newly added term can be re
 
 Once the Objectives link has been opened, the full list of Objectives associated with this Course is displayed. Click "Add New" to add one or more MeSH Terms to the Course Objective listed in the Description field.
 
-![click to add MeSH](../../images/course_objectives/click_to_add_mesh.png)
+![click to add MeSH](../../images/course_objectives/click_to_add_MeSH.png)
 
  After "Add New" has been clicked (as shown above), enter search criteria for MeSH and choose from the result set.
 

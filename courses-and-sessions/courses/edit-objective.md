@@ -44,11 +44,11 @@ The screen now refreshes with the Terms in the Vocabulary set "Bridges Tags" dis
 
 The list of Terms available for selection can be filtered by entering a text value as shown below. Entering the search / filter criteria of "health c" yields the results shown below.
 
-Select "Health Care Quality Improvement" by clicking on the "+" icon button as shown below.
+Select "Anatomy" by clicking on the "+" icon button or anywhere in the highlighted row. 
 
 ## Add Term to Course Objective 
 
-![add vocabulary term to objective](../../images/course_objectives/addvocab4.png)
+![add term](../../images/course_objectives/add_term.png)
 
 The screen adjusts to reflect this recent action. The newly added term can be removed by clicking on the red "X" button on the label. The changes can be confirmed or rejected using the standard Save or Cancel buttons. There is no need to remove it if you plan on canceling the operation anyway.
 

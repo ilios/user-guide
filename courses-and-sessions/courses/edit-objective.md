@@ -16,7 +16,7 @@ The text value (description) of a Course Objective can be easily edited here on 
 
 To edit a Course Objective's description (title), click on the description and you can edit it from there.
 
-![select objective to edit](../../images/course_objectives/course_objective_edit_1.png)
+![select objective to edit](../../images/course_objectives/select_objective_to_edit.png)
 
 ## Edit Description
 

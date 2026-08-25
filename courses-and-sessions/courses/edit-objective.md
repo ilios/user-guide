@@ -14,17 +14,17 @@ The text value (description) of a Course Objective can be easily edited here on 
 
 ![click for details](../../images/course_objectives/click_for_details.png)
 
-To edit a Course Objective's description (title), click on the description and you can edit it from there.
+To edit a Course Objective, its description is what gets edited. Click on the hyperlinked text description and you can edit it from there.
 
 ![select objective to edit](../../images/course_objectives/select_objective_to_edit.png)
 
-## Edit Description
+## Edit Objective
 
 This is done in an inline editing style so you don't have to leave the page or lose the continuity of your work. This type of functionality is used in Ilios as much as possible for a more seamless interface experience.
 
-![make changes](../../images/course_objectives/course_objective_edit_2.png)
+![make changes](../../images/course_objectives/make_changes.png)
 
-* To maintain MeSH Term(s) and / or Vocabulary Terms associated with the Course Objective, follow the actions outlined in the screen shot series and steps detailed in the two upcoming sections below.
+* To maintain MeSH Term(s) and / or Vocabulary Terms associated with the Course Objective, follow the actions outlined in the screen shot series and steps detailed below in the two upcoming sections.
 
 # Add Vocabulary Term(s) 
 

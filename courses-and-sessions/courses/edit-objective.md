@@ -64,19 +64,19 @@ Once the Objectives link has been opened, the full list of Objectives associated
 
  ## Search for MeSH
 
-![click to select](../../images/course_objectives/add_mesh2.png)
+![click to select](../../images/course_objectives/click_to_select.png)
 
  Now that "Head Protective Devices" has been chosen, the screen appears as follows with the selected item being moved above the results grid in a badge-type display. Clicking the green "Save" button will complete the process.
 
-![MeSH - added](../../images/course_objectives/add_mesh3.png)
+![MeSH - added](../../images/course_objectives/MeSH_added.png)
 
 Once the Save action is completed, the screen refreshes to show the MeSH term now associated with the Course Objective.
 
-![MeSH now attached to course objective](../../images/course_objectives/MeSH_now_attached.png)
+![MeSH now attached](../../images/course_objectives/MeSH_now_attached.png)
 
 ## Review Recent Updates
 
 After confirming the addition of the MeSH term selected, both the vocabulary term added in the previous section and the MeSH term recently added appear as shown below.
 
-![course objective list updated](../../images/course_objectives/addvocab6.png)
+![objective list updated](../../images/course_objectives/objective_list_updated.png)
 

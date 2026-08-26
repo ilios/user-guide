@@ -59,4 +59,4 @@ The details about this term are included to show that the mouse-over pop-up reve
 
 After performing the suggested "save" action shown in the screen shot above, the term added in the previous step is now saved to the database and is attached to this course. It can be removed if need be. "Manage Terms" can be opened to perform this removal action.
 
-![term added and saved](../../images/course_vocabulary/term_saved_to_course.png)
+![term saved to course](../../images/course_vocabulary/term_saved_to_course.png)

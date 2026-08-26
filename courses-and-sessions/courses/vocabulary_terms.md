@@ -52,7 +52,7 @@ The details about this term are included to show that the mouse-over pop-up reve
 
 ## Term - Selected for Course
 
-![term selected to be added to course](../../images/course_vocabulary/term_added_to_course.png)
+![term added to course](../../images/course_vocabulary/term_added_to_course.png)
 
 
 ## Term - Added and Saved

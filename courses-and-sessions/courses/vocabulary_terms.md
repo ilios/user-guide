@@ -46,7 +46,7 @@ The selection process is straightforward. You can search to limit the result set
 
 ![select term to add](../../images/course_vocabulary/select_term_to_add.png)
 
-The details about this term are included to show that the mouse-over pop-up reveals the term's description. This is from the Schools >> Vocabularies section of Ilios.
+The details about this term are included to show that the mouse-over pop-up reveals the term's description. This is from the `Schools >> Vocabularies` section of Ilios.
 
 ![term details](../../images/course_vocabulary/term_details.png)
 

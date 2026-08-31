@@ -56,13 +56,13 @@ Adding or editing a session's description is accomplished easily as shown below.
 
 After clicking as shown above, a text value of any length can be entered as shown below.
 
-![After entering some text](../../images/session_edit/sess_update_3.png)
+![after entering text](../../images/session_edit/after_entering_text.png)
 
 **NOTE**: Clicking the "undo" button will get rid of some of the more recently entered text. Once "undo" has been used, the "redo" button (to the right of "undo") will become enabled to put back the text that was recently removed.
 
 After saving in the scenario above, the screen changes to something similar to the following. To edit the session description, simply click on it.
 
-![more options shown](../../images/session_edit/sess_update_4.png)
+![more options shown](../../images/session_edit/more_options_shown.png)
 
 The Description will get truncated in this view. Clicking on the ellipses or the information symbol will change the screen to display the rest of the session description if it is truncated due to being too lengthy. This will look the same as it looked earlier when editing the description.
 
@@ -90,7 +90,7 @@ After being saved, the link appears as shown below in "display" (post-save) mode
 
 Below is an example using the same link entered above but using a different description. It is in read-only (pre-edit) mode now. 
 
-![pre-edit](../../images/session_edit/read_only_mode.png)
+![read-only mode](../../images/session_edit/read_only_mode.png)
 
 Click anywhere (except the link itself) to enter edit mode. The screen changes to the following. Now in edit mode, clicking on the link itself will display two options ...
 
@@ -101,7 +101,7 @@ After clicking as shown above, the options below are displayed.
 1. Edit link - edit link and / or link properties 
 2. Unlink - text remains but the active link is removed
 
-![edit options](../../images/session_edit/edit_options_shown.png)
+![edit options shown](../../images/session_edit/edit_options_shown.png)
 
 Assuming we do want to edit / review the link properties and have chosen option #1 shown above, the screen changes to allow editing of the URL properties as shown below. 
 

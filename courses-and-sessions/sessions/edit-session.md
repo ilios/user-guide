@@ -28,11 +28,11 @@ The screen shot below shows the screen before any search criteria has been enter
 2. Type
 3. Status
 
-![Filter to find Session](../../images/session_edit/find_session_start.png)
+![filter to find session](../../images/session_edit/filter_to_find_session.png)
 
 It is even possible to use a combination search if you prefer.  This is shown below where the search is being performed on "ana lecture".  This is not necessarily recommended but it can be done.  In this case, sessions which are of the type "lecture" and contain "ana" in their titles are returned.
 
-![Search string entered](../../images/session_edit/find_session_string.png)
+![search string entered](../../images/session_edit/search_string_entered.png)
 
 ### Sorting
 
@@ -52,7 +52,7 @@ Only one sort can be applied at any time.
 
 Adding or editing a session's description is accomplished easily as shown below. Initially, a session will have "Click to Edit" link if nothing has been entered yet. After a session description exists, the text itself is clickable and the description can then be edited.
 
-![Add Session description](../../images/session_edit/sess_update_2.png)
+![add session description](../../images/session_edit/add_session_description.png)
 
 After clicking as shown above, a text value of any length can be entered as shown below.
 

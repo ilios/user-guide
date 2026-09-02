@@ -70,9 +70,9 @@ In order to populate courses with learner groups, the course must first be assoc
 
 ### Select Cohort
 
-To add or remove Cohorts from a Course, click the Manage Cohorts button as shown below. This appears at the bottom of the **Course Details** section.
+To add or remove cohorts from a course, click the Manage Cohorts button as shown below. This appears at the bottom of the **Course Details** section.
 
-![Manage Cohorts](../../images/course_images/manage_cohorts.png)
+![manage cohorts](../../images/course_images/manage_cohorts.png)
 
 In this case, we want to add the Doctor of Medicine - BRIDGES Class of 2026 to this Course. Click on its label as shown below.
 

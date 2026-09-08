@@ -97,9 +97,9 @@ Cohorts can also be removed from a course in a similar manner. The steps are doc
 </figure>
 
 <figure>
-  <img src="../../images/course_images/remove_cohort_start.png" alt="Starting Point">
+  <img src="../../images/course_images/click_to_remove.png" alt="click to remove">
     <figcaption>
-      <p>Remove Cohort - Step 1</p>
+      <p>click to remove</p>
     </figcaption>
 </figure>
 

@@ -88,11 +88,11 @@ Now that the action detailed above has taken place, the School of Medicine - BRI
 
 ### Remove Cohort
 
-Cohorts can also be removed from a Course in a similar manner. The steps are documented below.
+Cohorts can also be removed from a course in a similar manner. The steps are documented below.
 
 <figure>
-  <img src="../../images/course_images/remove_cohort_pre.png" alt="Remove Cohort">
-    <figcaption><p>Go to Cohort Manager</p>
+  <img src="../../images/course_images/open_cohort_manager.png" alt="open cohort manager">
+    <figcaption><p>open cohort manager</p>
     </figcaption>
 </figure>
 

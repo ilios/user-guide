@@ -113,9 +113,9 @@ After performing the action shown above, we need to complete the process by clic
 </figure>
 
 <figure>
-  <img src="../../images/course_images/remove_cohort_completed.png" alt="Completed">
+  <img src="../../images/course_images/cohort_removal_completed.png" alt="cohort removal completed">
     <figcaption>
-      <p>Remove Cohort - completed</p>
+      <p>cohort removal completed</p>
     </figcaption>
 </figure>
 

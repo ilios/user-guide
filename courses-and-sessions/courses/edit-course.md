@@ -106,9 +106,9 @@ Cohorts can also be removed from a course in a similar manner. The steps are doc
 After performing the action shown above, we need to complete the process by clicking the green Save/Done button.
 
 <figure>
-  <img src="../../images/course_images/removed_cohort_listed.png" alt="Back On the List">
+  <img src="../../images/course_images/process_cohort_removal.png" alt="process cohort removal">
     <figcaption>
-      <p>Remove Cohort - Step 2</p>
+      <p>process cohort removal</p>
     </figcaption>
 </figure>
 

@@ -26,9 +26,9 @@ To roll a Course over, click the Course Rollover icon as shown below.
 
 Once the rollover button icon has been clicked as shown above, the screen changes to the following with several options, which are described below.
 
-![course rollover options](../../images/course_rollover/course_rollover_options.png)
+![rollover options displayed](../../images/course_rollover/rollover_options_displayed.png)
 
-Once the Course has been rolled over, you can go and fix up the newly created Course. You will be taken to the new Course automatically. 
+Once the Course has been rolled over, you can go and fix up the newly created Course. You will be taken to this new Course automatically. 
 
 The following screen will appear to let you know the rollover is being processed. 
 

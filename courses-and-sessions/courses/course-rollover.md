@@ -22,7 +22,7 @@ The most common rationale for rolling a course over is to make a copy of the cur
 
 To roll a Course over, click the Course Rollover icon as shown below.
 
-![rollover icon shown](../../images/course_rollover/rollover_icon_shown.png)
+![click to start rollover process](../../images/course_rollover/click_to_start_rollover_process.png)
 
 Once the rollover button icon has been clicked as shown above, the screen changes to the following with several options, which are described below.
 

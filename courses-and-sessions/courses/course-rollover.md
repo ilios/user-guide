@@ -54,9 +54,9 @@ To do this ...
 
 * Click on the Rollover icon to start the process.
 
-![click the rollover icon](../../images/course_rollover/click_rollover_button.png)
+![click rollover button](../../images/course_rollover/click_rollover_button.png)
 
-* Notice that the drop-down selector indicates "Course Already Exists"
+* Notice that the drop-down selector indicates "Course Already Exists".
 
 ![course already exists](../../images/course_rollover/course_already_exists.png)
 

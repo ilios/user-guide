@@ -30,7 +30,7 @@ Once the rollover button icon has been clicked as shown above, the screen change
 
 Once the Course has been rolled over, you can go and fix up the newly created Course. You will be taken to this new Course automatically. 
 
-The following screen will appear to let you know the rollover is being processed. 
+The following screen will appear to let you know the rollover is being processed. This may take a few seconds depending on the size of the course being rolled over.
 
 ![rollover processing](../../images/course_rollover/rollover_processing.png)
 

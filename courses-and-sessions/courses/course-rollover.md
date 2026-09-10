@@ -44,11 +44,11 @@ Here is the newly created (rolled-over) course.
 
 ## Current Year
 
-A Course may be easily rolled over into the current year. There is one simple caveat. Two Courses cannot exist in the same year with the exact same title so it is necessary to change the name of the Course in order to roll it over into the same (current) year.
+A course may be easily rolled over into the current year. There is one simple caveat. Two courses cannot exist in the same year with the exact same title so it is necessary to change the name of the course in order to roll it over into the same (current) year.
 
 To do this ...
 
-* Select a Course that needs to be rolled over into the current year.
+* Select a course to be rolled over into the current year.
 
 ![select course](../../images/course_rollover/select_course.png)
 

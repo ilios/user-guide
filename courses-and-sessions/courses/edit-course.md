@@ -74,7 +74,7 @@ To add or remove cohorts from a course, click the Manage Cohorts button as shown
 
 ![manage cohorts](../../images/course_images/manage_cohorts.png)
 
-In this case, we want to add the Doctor of Medicine - BRIDGES Class of 2026 to this Course. Click on its label as shown below.
+In this case, we want to add the Doctor of Medicine - BRIDGES Class of 2030 to this course. Click on its label as shown below.
 
 ![select cohort](../../images/course_images/select_cohort.png)
 
@@ -82,7 +82,7 @@ In this case, we want to add the Doctor of Medicine - BRIDGES Class of 2026 to t
 
 ![confirm cohort](../../images/course_images/confirm_cohort.png)
 
-Now that the action detailed above has taken place, the School of Medicine - BRIDGES - Class of 2026 has been successfully attached to the Course as shown below.
+Now that the action detailed above has taken place, the School of Medicine - "BRIDGES - Class of 2030" cohort has been successfully attached to the course as shown below.
 
 ![cohort in list](../../images/course_images/cohort_in_list.png)
 

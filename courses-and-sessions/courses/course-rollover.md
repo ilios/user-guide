@@ -52,11 +52,15 @@ To do this ...
 
 ![select course](../../images/course_rollover/select_course.png)
 
-* Click on the Rollover icon to start the process.
+* Click the "Rollover Course" icon to start the process.
 
 ![click rollover button](../../images/course_rollover/click_rollover_button.png)
 
-* Notice that the drop-down selector indicates "Course Already Exists".
+* Click on the "Year" drop-down selector to select the target year of the course being created.
+
+![select year](../../images/course_rollover/select_year.png)
+
+* Notice that the drop-down selector indicates "Course Already Exists" as far as the current year (2026-2027) is concerned.
 
 ![course already exists](../../images/course_rollover/course_already_exists.png)
 

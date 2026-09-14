@@ -82,7 +82,7 @@ In this case, we want to add the Doctor of Medicine - BRIDGES Class of 2030 to t
 
 ![confirm cohort](../../images/course_images/confirm_cohort.png)
 
-Now that the action detailed above has taken place, the School of Medicine - BRIDGES - Class of 2026 has been successfully attached to the Course as shown below.
+Now that the action detailed above has taken place, the School of Medicine - BRIDGES - Class of 2030 has been successfully attached to the Course as shown below.
 
 ![cohort in list](../../images/course_images/cohort_in_list.png)
 

@@ -2,11 +2,11 @@
 
 ## Open My Profile
 
-The My Profile screen is a useful way to troubleshoot issues in Ilios. Any Ilios user can access this information by clicking as shown below. This is on the Dashboard - upper right portion of the screen.
+The My Profile screen is a useful way to troubleshoot issues in Ilios as well as set a variety of user preferences unique to your profile. Any Ilios user can access this information by clicking as shown below. This is on the Dashboard - upper right portion of the screen.
 
 In this case, "Nicholas Ann Gutierrez" is the logged-in user, and also the user whose profile will be displayed. 
 
-![select my profile - from menu](../images/my_profile/select_my_profile.png)
+![select my profile](../images/my_profile/select_my_profile.png)
 
 ## My Profile Details
 

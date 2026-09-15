@@ -70,7 +70,7 @@ To do this ...
 
 * Select the date for the new course to start. The choices in the date picker are automatically limited to the same day of the week as the current course start date. This is to ensure offerings are scheduled during the same days of the week as the offerings of the previous course.
 
-* Click "Done" and that's it. Review the results and make modifications to the newly created Course as needed.
+* Click "Done" and that's it. Review the results and make modifications to the newly created course as needed.
 
 After viewing a success message with a green background at the top of the screen, you will be routed automatically to the newly created course.
 

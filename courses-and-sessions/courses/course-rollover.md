@@ -64,7 +64,7 @@ To do this ...
 
 ![course already exists](../../images/course_rollover/course_already_exists.png)
 
-* Change the Title of the Course being created by the Rollover as shown below.
+* Change the title of the course being created by the rollover as shown below.
 
 ![update course options](../../images/course_rollover/update_course_options.png)
 

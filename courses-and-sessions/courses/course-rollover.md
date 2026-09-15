@@ -68,13 +68,13 @@ To do this ...
 
 ![update course options](../../images/course_rollover/update_course_options.png)
 
-* Select the date for the new course to start.  The choices in the date picker are automatically limited to the same day of the week as the current course start date.  This is to ensure offerings are scheduled during the same days of the week as the offerings of the previous course.
+* Select the date for the new course to start. The choices in the date picker are automatically limited to the same day of the week as the current course start date. This is to ensure offerings are scheduled during the same days of the week as the offerings of the previous course.
 
-* Click Done and that's it.  Review the results and make modifications to the newly created Course as needed.
+* Click "Done" and that's it. Review the results and make modifications to the newly created Course as needed.
 
-You will be routed automatically to the new Course.
+After viewing a success message with a green background at the top of the screen, you will be routed automatically to the newly created course.
 
-![new course](../../images/course_rollover/new_course.png)
+![new rolled over course](../../images/course_rollover/new_rolled_over_course.png)
 
 ## Previous Year
 

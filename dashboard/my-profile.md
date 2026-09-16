@@ -4,7 +4,7 @@
 
 The My Profile screen is a useful way to troubleshoot issues in Ilios as well as set a variety of user preferences unique to your profile. This now inclues "Themes", including dark mode. Language preferences are now available for configuration here as well. Any Ilios user can access this information by clicking as shown below. This is on the Dashboard - upper right portion of the screen.
 
-In this case, "Nicholas Ann Gutierrez" is the logged-in user, and also the user whose profile will be displayed. 
+In this case, "Tammy Jose Woods" is the logged-in user, and also the user whose profile and preferences will be displayed. 
 
 ![select my profile](../images/my_profile/select_my_profile.png)
 

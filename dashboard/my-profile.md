@@ -10,7 +10,7 @@ In this case, "Tammy Jose Woods" is the logged-in user, and also the user whose 
 
 ## My Profile Details
 
-After clicking My Profile, as shown above, the details regarding your logged-in account are displayed as shown below.
+After clicking My Profile, as shown above, the details regarding your logged-in account as well as preference options are displayed. The top part of the screen is shown below.
 
 ![my profile details](../images/my_profile/my_profile_details.png)
 

@@ -1,6 +1,6 @@
 # Delete Course
 
-If you have advanced permissions in Ilios, it is possible to completely remove / delete a Course in the Ilios application. Only Courses that are with the status "Not Published" can be deleted.
+If you have advanced permissions in Ilios, it is possible to completely remove / delete a course in Ilios. Only courses with the status of "Not Published" can be deleted.
 
 The standard trash can icon is used when this functionality is available. This is shown below.
 

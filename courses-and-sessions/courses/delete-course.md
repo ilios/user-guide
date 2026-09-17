@@ -6,7 +6,7 @@ The standard trash can icon is used when this functionality is available. This i
 
 In this case, A to Z sort order was applied to the "Status" column, bringing the courses with a publication status of "Not Published" to the top of the screen since "N" falls before "P" alphabetically.
 
-![trash can available for use](../../images/delete_course/course_delete_list.png)
+![click to delete course](../../images/delete_course/click_to_delete_course.png)
 
 After clicking the trash can, you will be presented with a warning message as shown below. It is necessary to confirm that the delete action is what is actually wanted since it cannot be undone. A "Cancel" button is also provided to back out of this operation. It is strongly advised to be certain before performing this operation.
 

@@ -22,13 +22,13 @@ To use this functionality, pull up a session. The screen initially appears simil
 
 ![select session to edit](../../images/session_leadership/select_session_to_edit.png)
 
-Click to expand the list as shown above and then click "Manage Leadership" to add and / or remove Session Administrators.
+Click to expand the list as shown above and then click "Manage Leadership" to add and / or remove Session Administrators and Student Advisors (session-level).
 
 ## Manage Leadership
 
-![Manage Leadership](../../images/session_leadership/sess_ldrship2.png)
+![manage leadership](../../images/session_leadership/manage_leadership.png)
 
-For the sake of example, we want to add "Nicholas Gutierrez" as Course Administrator. To do this ...
+For the sake of example, we want to add "Nicholas Gutierrez" as a Session Administrator. To do this ...
 
 After clicking "Manage Leadership", follow the steps shown below to add the correct "Nicholas" to list of Session Administrators.
 

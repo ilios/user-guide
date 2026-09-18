@@ -18,9 +18,9 @@ Student Advisors are added here. They are able to download Learning Materials fr
 
 Refer to [Calendar Views and Filtering Options](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/calendar-search-and-filter-options) for more information.
 
-To use this functionality, pull up a Session. The screen initially appears similar to what is shown below.
+To use this functionality, pull up a session. The screen initially appears similar to what is shown below.
 
-![pull up a session](../../images/session_leadership/pull_up_a_session.png)
+![select session to edit](../../images/session_leadership/select_session_to_edit.png)
 
 Click to expand the list as shown above and then click "Manage Leadership" to add and / or remove Session Administrators.
 

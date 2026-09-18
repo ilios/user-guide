@@ -36,7 +36,7 @@ After clicking "Manage Leadership", follow the steps shown below to add "Nichola
 
 Below you can see "Nicholas Gutierrez" has been added correctly to the list.
 
-!["Nicholas" - added to list](../../images/session_leadership/sess_ldrship4.png)
+![user added](../../images/session_leadership/user_added.png)
 
 Once the change has been correctly made and saved, the screen appears as shown below.
 

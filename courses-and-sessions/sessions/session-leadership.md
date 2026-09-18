@@ -30,9 +30,9 @@ Click to expand the list as shown above and then click "Manage Leadership" to ad
 
 For the sake of example, we want to add "Nicholas Gutierrez" as a Session Administrator. To do this ...
 
-After clicking "Manage Leadership", follow the steps shown below to add the correct "Nicholas" to list of Session Administrators.
+After clicking "Manage Leadership", follow the steps shown below to add "Nicholas" to list of session administrators.
 
-![Add "Nicolas"](../../images/session_leadership/sess_ldrship3.png)
+![add user as session administrator](../../images/session_leadership/add_user_as_session_administrator.png)
 
 Below you can see "Nicholas Gutierrez" has been added correctly to the list.
 

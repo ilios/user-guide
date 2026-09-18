@@ -34,7 +34,7 @@ After clicking "Manage Leadership", follow the steps shown below to add "Nichola
 
 ![add user as session administrator](../../images/session_leadership/add_user_as_session_administrator.png)
 
-Below you can see "Nicholas Gutierrez" has been added correctly to the list.
+Below you can see "Nicholas Gutierrez" has been added as session administrator.
 
 ![user added](../../images/session_leadership/user_added.png)
 
@@ -42,10 +42,10 @@ Once the change has been correctly made and saved, the screen appears as shown b
 
 ### Update Leadership
 
-![screen - updated](../../images/session_leadership/sess_ldrship5.png)
+![list updated](../../images/session_leadership/list_updated.png)
 
-After processing the Save event, the correct Ilios user is now confirmed to be a Session Administrator, who can modify any aspect of this Session and any Offerings attached.
+After processing the Save event, the correct Ilios user is now confirmed to be a Session Administrator, who can modify any aspect of this Session and any offerings or ILM activity. 
 
-**NOTE**: The process for adding Student Advisors is identical, except for the search is performed in the Student Advisors area instead of the Administrators area.
+**NOTE**: The process for adding Student Advisors is identical, except that the search is performed in the Student Advisors area instead of the Administrators area.
 
 Refer to the [Permissions Matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) for more information on permissions granted when a user is granted Session Administrator rights. Session Administrators will see the offerings for the sessions they administer on their calendars by default.

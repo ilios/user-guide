@@ -28,7 +28,7 @@ This screen is informational only - except for the API Token Management, which i
 
 To the right of these fields are three fields identifying this user's "Primary School", "Primary Cohort", and "Secondary Cohorts".
 
-### Themes
+## Themes
 
 This is where any user can select if they would like to view Ilios in dark mode or allow the system to select the mode based on device settings.
 
@@ -38,7 +38,13 @@ These options are available ...
 * **Light** - always keeps Ilios in usual "light" mode any time day or night - overrides device preferences set by the user 
 * **Dark** - sets Ilios to display in "dark" mode any time of day or night - overrides device preferences set by the user.
 
-### Languages 
+### Dark Mode
+
+Ilios can be used in what is know as "dark mode". The screen shot below provides an example of how this looks on Courses and Sessions >> All Courses.
+
+![dark mode displayed](../images/my_profile/dark_mode_displayed.png)
+
+## Languages 
 
 Languages are selected using the [https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector](language selector) included within My Profile.
 

@@ -34,9 +34,9 @@ This is where any user can select if they would like to view Ilios in dark mode 
 
 These options are available ...
 
-* System - initial setting - uses device preferences set by the user
-* Light - always keeps Ilios in usual "light" mode - overrides device preferences set by the user 
-* Dark - sets Ilios to display in "dark" mode - overrides device preferences set by the user.
+* **System** - initial setting - uses device preferences set by the user
+* **Light** - always keeps Ilios in usual "light" mode any time day or night - overrides device preferences set by the user 
+* **Dark** - sets Ilios to display in "dark" mode any time of day or night - overrides device preferences set by the user.
 
 ### Languages 
 

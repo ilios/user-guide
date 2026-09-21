@@ -28,16 +28,14 @@ This screen is informational only - except for the API Token Management, which i
 
 To the right of these fields are three fields identifying this user's "Primary School", "Primary Cohort", and "Secondary Cohorts".
 
-### Permissions
+### Themes
 
-These are listed with a school-based drop-down (if applicable). These are all maintained in other places in Ilios. Available information includes ...
+This is where any user can select if they would like to view Ilios in dark mode or allow the system to select the mode based on computer preferences.
 
-* School-level permissions - Director and / or Administrator assignments are shown 
-* Program - indicates if user is a Program Director
-* Program Years - indicates if user is a Program Year Director
-* Courses - displays (with links) courses for which this user been assigned Director, Administrator, Instructor, or Student Advisor roles
-* Sessions - displays (with links) sessions for which this user has been assigned Administrator, Instructor, or Student Advisor roles
-* Learner Groups - displays a list of all Learner Groups into which this user has been added.
+### Languages 
+
+Languages are selected using the [https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector](language selector) included within My Profile.
+
 
 ## Manage API Tokens
 
@@ -69,4 +67,15 @@ Invalidate All Tokens - this will ensure that all of your tokens are no longer a
 
 After choosing the `Confirm` option, a confirmation message flashes in the upper part of the screen.
 
-![invalidate token - confirmation message](../images/my_profile/invalidate_tokens_msg.png)
+![invalidate tokens - message](../images/my_profile/invalidate_tokens_message.png)
+
+### Permissions
+
+These are listed with a school-based drop-down (if applicable). These are all maintained in other places in Ilios. Available information includes ...
+
+* School-level permissions - Director and / or Administrator assignments are shown 
+* Program - indicates if user is a Program Director
+* Program Years - indicates if user is a Program Year Director
+* Courses - displays (with links) courses for which this user been assigned Director, Administrator, Instructor, or Student Advisor roles
+* Sessions - displays (with links) sessions for which this user has been assigned Administrator, Instructor, or Student Advisor roles
+* Learner Groups - displays a list of all Learner Groups into which this user has been added.

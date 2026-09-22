@@ -11,7 +11,7 @@ The language selector is located along with other user preferences in My Profile
   </figcaption>
 </figure>
 
-For the sake of illustration and demonstration, here is what happens when the option (Español (es)) is selected to change the application's text values to Spanish. The menu items, labels, and captions get updated. The underlying data is not translated in any way but could be entered in Spanish or French or any other character-compatible spoken/written language.
+For the sake of illustration and demonstration, here is what happens when the option (Español (es)) has been selected in My Profile to change the application's text values to Spanish. The menu items, labels, and captions get updated. The underlying data is not translated in any way but could be entered in Spanish or French or any other character-compatible spoken/written language.
 
 <figure>
   <img src="../images/language_selector/week_at_a_glance_spanish.png" alt="Dashboard (Tablero)">

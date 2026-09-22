@@ -18,14 +18,7 @@ This will be divided into two main sections along with descriptions of the vario
 
 ![upper part of screen](../images/my_profile/upper_part_of_screen.png)
 
-### Lower Part
-
-![lower part of screen](../images/my_profile/lower_part_of_screen.png)
-
-This screen is informational only - except for the API Token Management, which is covered below. Nicholas has been assigned the "Adminstrator" role in School of Medicine. We can also see that Nicholas A. Nicholas is not a Student and is not assigned to any Cohort or Learner Group. Any Ilios user can be assigned any permission within any of their assigned schools. They can only have one primary school but this does not prevent assignment of any role in their secondary schools.
-
-### Display Fields
-
+**Fields...** 
 * **Student** - simply indicates whether this user has been attached to any learning activity in Ilios ever
 * **Former Student** - indicates when the logged in user is (was) a Student who has graduated.  This information can be obtained via a nightly synchronization job with your directory server.
 * **Account Enabled** - read-only display of the status of the logged-in user's account (will always be "Yes" in this context) - modified in the Admin Console 
@@ -35,6 +28,14 @@ This screen is informational only - except for the API Token Management, which i
 * **Root** - indicates if this user has `root` level permissions (the highest) for the Ilios system at this School's implementation.
 
 To the right of these fields are three fields identifying this user's "Primary School", "Primary Cohort", and "Secondary Cohorts".
+
+### Lower Part
+
+![lower part of screen](../images/my_profile/lower_part_of_screen.png)
+
+This screen is mostly informational only except API Token Management, Themes (dark-mode options), and Languages (preferred language for captions). These last two can be considered User Preferences since this is where the user sets this options for this and future sessions in Ilios.
+
+Nicholas has been assigned the "Adminstrator" role in School of Medicine. We can also see that Nicholas A. Nicholas is not a Student and is not assigned to any Cohort or Learner Group. Any Ilios user can be assigned any permission within any of their assigned schools. They can only have one primary school but this does not prevent assignment of any role in their secondary schools.
 
 ## Themes
 

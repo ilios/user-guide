@@ -12,7 +12,15 @@ In this case, "Tammy Jose Woods" is the logged-in user, and also the user whose 
 
 After clicking My Profile, as shown above, the details regarding your logged-in account as well as preference options are displayed. The top part of the screen is shown below.
 
-![my profile details](../images/my_profile/my_profile_details.png)
+This will be divided into two main sections along with descriptions of the various screen elements of each.
+
+### Upper Part
+
+![upper part of screen](../images/my_profile/upper_part_of_screen.png)
+
+### Lower Part
+
+![lower part of screen](../images/my_profile/lower_part_of_screen.png)
 
 This screen is informational only - except for the API Token Management, which is covered below. Nicholas has been assigned the "Adminstrator" role in School of Medicine. We can also see that Nicholas A. Nicholas is not a Student and is not assigned to any Cohort or Learner Group. Any Ilios user can be assigned any permission within any of their assigned schools. They can only have one primary school but this does not prevent assignment of any role in their secondary schools.
 

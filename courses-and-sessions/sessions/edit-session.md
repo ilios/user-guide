@@ -50,7 +50,7 @@ Only one sort can be applied at any time.
 
 ## Session Description
 
-Adding or editing a session's description is accomplished easily as shown below. Initially, a session will have "Click to Edit" link if nothing has been entered yet. After a session description exists, the text itself is clickable and the description can then be edited.
+Adding or editing a session's description is accomplished easily as shown below. Initially, a session will have a "Click to Edit" link if nothing has been entered yet. After a session description exists, the text itself is clickable and the description can then be edited.
 
 ![add session description](../../images/session_edit/add_session_description.png)
 

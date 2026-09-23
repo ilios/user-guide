@@ -56,7 +56,7 @@ Adding or editing a session's description is accomplished easily as shown below.
 
 After clicking as shown above, a text value of any length can be entered as shown below.
 
-![after entering text](../../images/session_edit/after_entering_text.png)
+![enter session description text](../../images/session_edit/enter_session_description_text.png)
 
 **NOTE**: Clicking the "undo" button will get rid of some of the more recently entered text. Once "undo" has been used, the "redo" button (to the right of "undo") will become enabled to put back the text that was recently removed.
 

@@ -55,7 +55,7 @@ Ilios can be used in what is know as "dark mode". The screen shot below provides
 
 ## Languages 
 
-Languages are selected using the [https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector](language selector) included within My Profile.
+Languages are selected using the [language selector](https://iliosproject.gitbook.io/ilios-user-guide/dashboard/language-selector) included within My Profile.
 
 
 ## Manage API Tokens

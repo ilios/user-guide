@@ -115,17 +115,17 @@ The process for editing and entering Instructional Notes is basically identical 
 
 **NOTE**: Session-level instructional notes do **not** appear on Event Detail or anywhere in the Calendar or feed. They are used internally and are accessible only through Courses and Sessions. These are notes that can be left by Course Administrators for instructors or other Administrative users to review.
 
-## Special Session Attributes
+## Session Attributes
 
 It is possible to select additional session attributes to advise students about certain aspects of the upcoming (or past) learning activities.
 
 There are four options, none of which have been selected yet. These session attributes are configurable at the [School](https://iliosproject.gitbook.io/ilios-user-guide/schools/session-attributes) level.
 
-![special attributes shown](../../images/session_edit/special_attributes_shown.png)
+![session attributes shown](../../images/session_edit/session_attributes_displayed.png)
 
 For this example, all four will be selected for this session. An image that shows the screen once this action has been taken is shown below for reference. Simply slide the toggle to the right or click it to put it into use.
 
-![all toggled to "Yes"](../../images/session_edit/all_toggled_to_yes.png)
+![all toggled to "Yes"](../../images/session_edit/all_attributes_checked_to_yes.png)
 
 The example below shows how this appears to an assigned student when all four special session attributes have been set to "true".
 

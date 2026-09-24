@@ -2,7 +2,7 @@ Objectives are the desired learning or teaching outcomes for a given curricular 
 
 # Add New Objective
 
-To enter a Session level Objective, follow the steps detailed below.
+To enter a session level Objective, follow the steps detailed below.
 
 ## Open Courses and Sessions
 

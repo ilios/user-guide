@@ -14,6 +14,8 @@ To enter a session level Objective, follow the steps detailed below.
 
 ## Select Session
 
+Click on the hyperlinked session title to open it and display the details therein.
+
 ![select session](../../images/add_session_objective/select_session.png)
 
 ## View Existing Objectives

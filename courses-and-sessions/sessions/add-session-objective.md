@@ -20,7 +20,9 @@ Click on the hyperlinked session title to open it and display the details therei
 
 ## View Existing Objectives
 
-![expand session objective list](../../images/add_session_objective/expand_obj_list.png)
+Initially, the session objectives list is contracted to save space. This is a similar pattern throughout Ilios. The list can be easily expanded as shown below.
+
+![expand objectives list](../../images/add_session_objective/expand_objectives_list.png)
 
 ## Add New Objective
 

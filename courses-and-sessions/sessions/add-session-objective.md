@@ -38,6 +38,6 @@ Enter the appropriate text for the session objective and process the save as sho
 
 ## Save Objective
 
-Once the save has been processed, a green confirmation message flashes at the top of the screen to let you know the new objective entry process has been completed successfully. Also, the Objective counter gets incremented to include the Objective that was just entered. The new Objective is appended to the bottom of the list.
+Once the save has been processed, a green confirmation message flashes at the top of the screen to let you know the new objective entry process has been completed successfully. Also, the objective counter gets incremented to include the Objective that was just entered. The new objective is appended to the bottom of the list.
 
-![adds one to the counter](../../images/add_session_objective/counter_adjusted.png)
+![counter adjusted](../../images/add_session_objective/counter_adjusted.png)

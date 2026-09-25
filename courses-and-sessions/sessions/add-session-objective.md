@@ -32,7 +32,9 @@ The process of adding an objective to be associated with a session begins by cli
 
 ## Enter Details
 
-![enter objective text details](../../images/add_session_objective/enter_text.png)
+Enter the appropriate text for the session objective and process the save as shown below.
+
+![enter text](../../images/add_session_objective/enter_text.png)
 
 ## Save Objective
 

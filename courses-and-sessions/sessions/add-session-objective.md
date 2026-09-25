@@ -28,7 +28,7 @@ Initially, the session objectives list is contracted to save space. This is a si
 
 The process of adding an objective to be associated with a session begins by clicking as shown below. 
 
-![add session objective](../../images/add_session_objective/add_sess_obj.png)
+![add session objective](../../images/add_session_objective/add_session_objective.png)
 
 ## Enter Details
 

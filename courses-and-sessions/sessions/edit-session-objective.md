@@ -16,9 +16,11 @@ After applying a filter, pull up the session containing the objective to be modi
 
 **Expand the Objectives:** Objectives are displayed in a collapsed view initially.
 
-## Expand Objective list
+## Expand Objective List
 
-![expand the list](../../images/edit_session_objective/expand_list.png)
+Click as shown below to expand the list and reveal the details of the session objectives.
+
+![reveal objective details](../../images/edit_session_objective/reveal_objective_details.png)
 
 ## Select Objective
 

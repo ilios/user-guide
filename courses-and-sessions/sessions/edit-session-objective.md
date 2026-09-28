@@ -1,10 +1,10 @@
 # Edit Objective
 
-Editing an Objective is easily accomplished following the the steps listed below.
+Editing an objective is easily accomplished following the the steps listed below.
 
 ## Select Course
 
-![click on the course title link to open it](../../images/edit_session_objective/select_course.png)
+![select course](../../images/edit_session_objective/select_course.png)
 
 ## Select Session
 

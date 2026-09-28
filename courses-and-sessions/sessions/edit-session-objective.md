@@ -30,9 +30,9 @@ The objective description can be clicked anywhere within the linked text to perf
 
 ## Make a Change
 
-Click the Green "Save" button as indicated once the text editing is complete. Alternatively, you can cancel out of this action by click the Red "Cancel" button.
+Exit the text value for the session objective and then click the green "Save" button as indicated once the text editing is complete. Alternatively, you can cancel out of this action by click the red "Cancel" button.
 
-![save changes?](../../images/edit_session_objective/save_changes.png)
+![save changes](../../images/edit_session_objective/save_changes.png)
 
 ## Save Changes
 

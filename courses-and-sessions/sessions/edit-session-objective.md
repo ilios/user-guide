@@ -34,11 +34,11 @@ Exit the text value for the session objective and then click the green "Save" bu
 
 ![save changes](../../images/edit_session_objective/save_changes.png)
 
-## Save Changes
+## Update Saved
 
 The screen refreshes and reflects the change.
 
-![update saved](../../images/edit_session_objective/updated_record.png)
+![update saved](../../images/edit_session_objective/update_saved.png)
 
 ## Add MeSH / Vocabulary Terms
 

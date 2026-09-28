@@ -4,13 +4,17 @@ Editing an objective is easily accomplished following the the steps listed below
 
 ## Select Course
 
+Since a session objective is located within a course and a session after that, it is necessary to find and open up the course in which the session exists.
+
 ![select course](../../images/edit_session_objective/select_course.png)
 
 ## Select Session
 
-![click on the session title link to open it](../../images/edit_session_objective/select_session.png)
+After applying a filter, pull up the session containing the objective to be modified.
 
-**Expand the Objectives:** Objectives are displayed in a collapsed detail view initially.
+![select session](../../images/edit_session_objective/select_session.png)
+
+**Expand the Objectives:** Objectives are displayed in a collapsed view initially.
 
 ## Expand Objective list
 

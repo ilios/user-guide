@@ -24,7 +24,9 @@ Click as shown below to expand the list and reveal the details of the session ob
 
 ## Select Objective
 
-![select objective](../../images/edit_session_objective/select_session_obj.png)
+The objective description can be clicked anywhere within the linked text to perform an edit.
+
+![select objective to edit](../../images/edit_session_objective/select_objective_to_edit.png)
 
 ## Make a Change
 

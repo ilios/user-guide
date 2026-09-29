@@ -19,7 +19,7 @@ Once the list has been expanded, select the Session Objective that needs to have
 
 Once "Add New" has been clicked, the screen changes its appearance and allows for the Parent Objectives to be selected and saved.
 
-### Select to Attach
+### Select Parent Objectives
 
 ![select parent objectives](../../images/add_session_obj_parent/select_parent_objectives.png)
 

@@ -15,7 +15,7 @@ Once the list has been expanded, select the Session Objective that needs to have
 
 ## Add Parent Objectives
 
-![add parent objectives](../../images/add_session_obj_parent/add_parent_objective.png)
+![add parent objectives](../../images/add_session_obj_parent/add_parent_objectives.png)
 
 Once "Add New" has been clicked, the screen changes its appearance and allow for the Parent Objectives to be selected and saved.
 

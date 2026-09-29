@@ -28,7 +28,7 @@ The objective description can be clicked anywhere within the linked text to perf
 
 ![select objective to edit](../../images/edit_session_objective/select_objective_to_edit.png)
 
-## Make a Change
+## Edit Objective Text
 
 Exit the text value for the session objective and then click the green "Save" button as indicated once the text editing is complete. Alternatively, you can cancel out of this action by click the red "Cancel" button.
 
@@ -48,11 +48,11 @@ Since the process of adding MeSH and / or Vocabulary Terms to a Session objectiv
 
 [Add Vocabulary Terms](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_objectives/edit-objective#add-vocabulary-term-s)
 
-A quick screen shot of how this looks at the Session Objective level is shown below for reference. 
+A quick screen shot of how this looks at the session objective level is shown below for reference. 
 
 <figure>
-  <img src="/images/edit_session_objective/session_terms_add_to_obj.png" alt="starting point - add MeSH or vocab terms to session objective">
+  <img src="/images/edit_session_objective/add_MeSH_or_vocab_terms.png" alt="starting point - add MeSH or vocab terms">
   <figcaption>
-      <p>Add MeSH or Vocab terms to session objective</p>
+      <p>add MeSH or vocab terms</p>
   </figcaption>
 </figure>

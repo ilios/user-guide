@@ -23,7 +23,7 @@ Once "Add New" has been clicked, the screen changes to allow the parent Objectiv
 
 ![select parent objectives](../../images/add_session_obj_parent/select_parent_objectives.png)
 
-After the Save has been completed, we can now see the Parent Objectives now attached to the Session Objective.
+After the Save action has been completed, we can now see the Parent Objectives now attached to the Session Objective.
 
 The arrows indicate where the Parent Objectives were added to be associated with this Session Objective.
 

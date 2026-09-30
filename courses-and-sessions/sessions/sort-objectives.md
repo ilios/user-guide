@@ -1,10 +1,10 @@
 # Sort Objectives
 
-This is accomplished in a very similar manner to sorting Course Objectives as well as Program Year Objectives and Learning Materials at both Course and Session levels. The screens do look a bit different so for completeness' sake, this is detailed here as well.
+This is accomplished in a very similar manner to sorting Course Objectives as well as Program Year Objectives and Learning Materials at both the course and leval and the session level. The screens do look a bit different so for completeness' sake, this is detailed here as well.
 
 To do this, pull up a Course and Session that already has Objectives ready to be sorted.
 
-* Click `Objectives(x)` to expand the Objectives as shown below.
+* Click `Objectives(x)` to expand the Objective list as shown below.
 
 ![Expand the list](../../images/sort_session_objectives/click_for_details.png)
 

@@ -18,7 +18,9 @@ In the example shown below, the first of the parent (course) objectives was kept
 
 Now after processing the save, only one parent (course) objective remains attached to the session objective.
 
-## View Results
+## Verify Removal of Parent
+
+Review the results of this entire process by verifying the removal of one of the parent (course) objectives from being assoicated with the session objective.
 
 ![view results](../../images/edit_session_obj_parent/view_results.png)
 

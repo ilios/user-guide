@@ -6,7 +6,9 @@ The same selection process as performed during the initial addition of the paren
 
 ## Select Session Objective
 
-![click to select](../../images/edit_session_obj_parent/click_to_select.png)
+Clicking anywhere in the vicinity of the attached course objective links will enable the modification of the selection of the session objective's parent objectives. Mousing over this area will give out an `edit` callout for guidance.
+
+![select session objective](../../images/edit_session_obj_parent/select_session_objective.png)
 
 In the example shown below, the first of the Parent (Course) Objectives was kept attached to the Session Objective. The second one was removed.
 

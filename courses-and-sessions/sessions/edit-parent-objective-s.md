@@ -10,13 +10,13 @@ Clicking anywhere in the vicinity of the attached course objective links will en
 
 ![select session objective](../../images/edit_session_obj_parent/select_session_objective.png)
 
-In the example shown below, the first of the Parent (Course) Objectives was kept attached to the Session Objective. The second one was removed.
+In the example shown below, the first of the parent (course) objectives was kept attached to the session objective. The second parent was removed.
 
 ## Remove Parent
 
 ![remove parent](../../images/edit_session_obj_parent/remove_one_parent.png)
 
-Now after processing the save, only one Parent (Course) Objective remains attached to the Session Objective.
+Now after processing the save, only one parent (course) objective remains attached to the session objective.
 
 ## View Results
 

@@ -21,13 +21,15 @@ Once "Add New" has been clicked, the screen changes in appearance and allows for
 
 ### Select Parent Objectives
 
+The parent objectives can be selected by clicking each of the corresponding check boxes individually.
+
 ![select parent objectives](../../images/add_session_obj_parent/select_parent_objectives.png)
 
-After the Save has been completed, we can now see the Parent Objectives now attached to the Session Objective.
+After the `Save` event has been processed, we can see that the parent objectives (course objectives) are attached to the session objective.
 
-The arrows indicate where the Parent Objectives were added to be associated with this Session Objective.
+The arrows indicate where the parent objectives were added to be associated with this session objective.
 
-### Parent Objectives - attached
+### Parent Objectives - Added
 
 ![parent objectives - attached](../../images/add_session_obj_parent/parent_objectives_added.png)
 

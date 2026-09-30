@@ -20,7 +20,7 @@ Now after processing the save, only one parent (course) objective remains attach
 
 ## Verify Removal of Parent
 
-Review the results of this entire process by verifying the removal of one of the parent (course) objectives from being assoicated with the session objective.
+Review the results of this entire process by verifying the removal of one of the parent (course) objectives from the session objective.
 
 ![view results](../../images/edit_session_obj_parent/view_results.png)
 

@@ -1,8 +1,10 @@
 # Edit Parent Objective(s)
 
-Editing the selection of Parent Objectives for Session Objectives is merely a matter of clicking anywhere in the text description of one of the Parent Objectives as shown below. The same selection process as performed during the initial addition of the Parent Objectives is done here as well. Parent Objectives can be removed or added here. It is also possible to remove all Parent Objectives by de-selecting any and all of them that were associated with this Session Objective.
+Editing the attachment of parent objectives (course objectives) to session objectives is merely a matter of clicking anywhere in the text description of one of the parent objectives as shown below. 
 
-## Click to Select 
+The same selection process as performed during the initial addition of the parent objectives is done here as well. Parent objectives can be removed or added here. It is also possible to remove all parent objectives by de-selecting any and all of them that were associated with this session objective.
+
+## Select Session Objective
 
 ![click to select](../../images/edit_session_obj_parent/click_to_select.png)
 

@@ -14,7 +14,7 @@ In the example shown below, the first of the parent (course) objectives was kept
 
 ## Remove Parent
 
-![remove parent](../../images/edit_session_obj_parent/remove_one_parent.png)
+![remove parent](../../images/edit_session_obj_parent/remove_parent.png)
 
 Now after processing the save, only one parent (course) objective remains attached to the session objective.
 

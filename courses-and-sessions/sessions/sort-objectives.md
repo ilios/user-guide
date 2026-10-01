@@ -12,7 +12,7 @@ To do this, pull up a session that has objectives ready to be sorted.
 
 ![click to sort objectives](../../images/sort_session_objectives/click_to_sort_objectives.png)
 
-After activating the functionality by clicking the `Sort Objectives` button as shown above, the screen is expanded to allow for the re-ordering of the Session Objectives. For the sake of demonstration, it is desired that the Objective titled **"Describe findings in oxygenation failure."** be moved up to the number one position. Students will see this Session Objective at the top of the list, indicating its relative importance.
+After activating the functionality by clicking the `Sort Objectives` button as shown above, the screen is expanded to allow for the re-ordering of the Session Objectives. For the sake of demonstration, it is desired that the Objective titled **"Describe findings in oxygenation failure."** be moved up to the number one position. Students (or anyone who views the Event Detail for this session) will see this session objective first, indicating its relative importance.
 
 ![list displayed](../../images/sort_session_objectives/list_displayed.png)
 

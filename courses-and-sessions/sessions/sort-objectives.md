@@ -10,9 +10,9 @@ To do this, pull up a session that has objectives ready to be sorted.
 
 * Now that the list of objectives pertaining to this session has been expanded, they can be dragged and dropped into the desired location. This location will determine the order in which they are presented to learners wherever and however they access this information.
 
-![Click to activate Sort functionality](../../images/sort_session_objectives/click_to_sort.png)
+![click to sort objectives](../../images/sort_session_objectives/click_to_sort_objectives.png)
 
-After activating the functionality as shown below, the screen is expanded to allow for the re-ordering of the Session Objectives. For the sake of demonstration, it is desired that the Objective titled **"Describe findings in oxygenation failure."** be moved up to the number one position. Students will see this Session Objective at the top of the list, indicating its relative importance.
+After activating the functionality as shown above, the screen is expanded to allow for the re-ordering of the Session Objectives. For the sake of demonstration, it is desired that the Objective titled **"Describe findings in oxygenation failure."** be moved up to the number one position. Students will see this Session Objective at the top of the list, indicating its relative importance.
 
 ![list displayed](../../images/sort_session_objectives/list_displayed.png)
 

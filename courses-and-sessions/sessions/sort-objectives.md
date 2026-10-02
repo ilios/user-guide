@@ -16,7 +16,7 @@ After activating the functionality by clicking the `Sort Objectives` button as s
 
 ![list displayed](../../images/sort_session_objectives/list_displayed.png)
 
-To do this, select the second to last Objective we want to move to the top and drag it up to the first position. The Objective will appear ghosted out along with its destination. Let go of the mouse button when the Objective being moved (re-prioritized) is in position as shown below.
+To do this, select the second to last objective we want to move to the top and drag it up to the first position. The objective will appear ghosted out along with its destination and original location. Let go of the mouse button when the objective being moved (re-prioritized) is in position as shown below.
 
 ![moving objective](../../images/sort_session_objectives/moving_objective.png)
 

@@ -2,13 +2,13 @@ Vocabulary terms can be assigned at many levels in Ilios. Sessions can be tagged
 
 # Manage Vocabulary Terms
 
-Terms are selected a school-specific, pre-defined list of one or more Vocabularies. These can be attached at the Course level and / or at the Session level.
+Terms are selected from a school-specific, pre-defined list of one or more Vocabularies. 
 
 The first step is to pull up a Session to modify. That is covered elsewhere. Terms are located below Learning Materials and above MeSH on the Session Detail screen.
 
-In the case below, two terms have already been selected for the Session.
+In the case below, six terms have already been selected for the selected session.
 
-![expand session term list](../../images/session_edit/expand_session_terms_list.png)
+![expand session terms list](../../images/session_edit/expand_session_terms_list.png)
 
 Once expanded, click the `Manage Terms` button as shown below.
 

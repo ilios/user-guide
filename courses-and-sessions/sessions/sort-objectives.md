@@ -20,7 +20,7 @@ To do this, select the second to last objective we want to move to the top and d
 
 ![moving objective](../../images/sort_session_objectives/moving_objective.png)
 
-After dropping the Objective, the list is re-sorted as shown below. Click `"Save"` to complete this process or `"Cancel"` to abort.
+After dropping the Objective, the list is re-sorted as shown below. Click `"Save"` to complete this process. `"Cancel"` is available if you wish not to process these changes.
 
 ![updated sort order](../../images/sort_session_objectives/updated_sort_order.png)
 

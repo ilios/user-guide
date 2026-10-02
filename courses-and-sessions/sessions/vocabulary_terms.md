@@ -8,7 +8,7 @@ The first step is to pull up a Session to modify. That is covered elsewhere. Ter
 
 In the case below, six terms have already been attached to the selected session.
 
-![expand session terms list](../../images/session_edit/expand_session_terms_list.png)
+![view session term details](../../images/session_edit/view_session_term_details.png)
 
 Once expanded, click the `Manage Terms` button as shown below.
 

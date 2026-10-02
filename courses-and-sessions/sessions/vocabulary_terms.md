@@ -6,7 +6,7 @@ Terms are selected from a school-specific, pre-defined list of one or more Vocab
 
 The first step is to pull up a Session to modify. That is covered elsewhere. Terms are located below Learning Materials and above MeSH on the Session Detail screen.
 
-In the case below, six terms have already been selected for the selected session.
+In the case below, six terms have already been attached to the selected session.
 
 ![expand session terms list](../../images/session_edit/expand_session_terms_list.png)
 

@@ -30,7 +30,7 @@ After clicking as shown above ...
 
 ![term added to session](../../images/session_edit/term_added_to_session.png)
 
-After confirming the addition of the Term "Renal System" to the Session, it appears in saved mode as shown below.
+After confirming the addition of the term "Renal System" from the Topic vocabulary to the session, it appears in saved mode as shown below.
 
 ![new session term added](../../images/session_edit/new_session_term_added.png)
 

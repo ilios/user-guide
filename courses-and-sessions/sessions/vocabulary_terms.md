@@ -10,9 +10,9 @@ In the case below, six terms have already been selected for the selected session
 
 ![expand session terms list](../../images/session_edit/expand_session_terms_list.png)
 
-Once expanded, click the `Manage Terms` button as shown below.
+Once expanded, click the `Manage Terms` button as shown below to add or remove vocabulary terms from the session.
 
-![manage terms](../../images/session_edit/click_to_add_or_remove_terms.png)
+![manage terms](../../images/session_edit/manage_terms.png)
 
 ![details](../../images/session_edit/manage_sess_terms_review.png)
 

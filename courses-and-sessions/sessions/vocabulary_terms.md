@@ -18,7 +18,7 @@ Once expanded, click the `Manage Terms` button as shown below to add or remove v
 
 ## Add Term
 
-It has been decided we need to add the Vocabulary Term "Renal System" to this Session. The session needs to be tagged with this term. "Renal System" is in the Vocabulary of "Topics". In the screen shot below, "Topics" is being selected as the Vocabulary to use for Term selection. 
+It has been decided we need to add the vocabulary term "Renal System" to this session. The session needs to be tagged with this term. "Renal System" is in the Vocabulary of "Topics". In the screen shot below, "Topics" is being selected as the Vocabulary to use for this session term selection. 
 
 ![select vocabulary - topics](../../images/session_edit/select_vocabulary_topics.png)
 

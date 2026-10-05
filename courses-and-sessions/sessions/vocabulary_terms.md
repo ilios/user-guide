@@ -14,7 +14,7 @@ Once expanded, click the `Manage Terms` button as shown below to add or remove v
 
 ![manage terms](../../images/session_edit/manage_terms.png)
 
-![details](../../images/session_edit/manage_sess_terms_review.png)
+![vocabulary terms review](../../images/session_edit/vocabulary_terms_review.png)
 
 ## Add Term
 

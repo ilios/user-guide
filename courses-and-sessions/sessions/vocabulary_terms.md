@@ -26,7 +26,7 @@ The selection list has been filtered down by entering "ren" as search criteria t
 
 ![add term to session](../../images/session_edit/add_term_to_session.png)
 
-After clicking as shown above ...
+After clicking as shown above, "Renal System" has been added to the terms associated with the session. 
 
 ![term added to session](../../images/session_edit/term_added_to_session.png)
 

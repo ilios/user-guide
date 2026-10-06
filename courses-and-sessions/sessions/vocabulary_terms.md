@@ -38,7 +38,7 @@ After confirming the addition of the term "Renal System" from the Topic vocabula
 
 The process for removing a term from a session is basically the same as what is listed above but in reverse. Clicking on an already-attached term will remove it from being associated with that session. This action does require a save event to occur in order to complete the process.
 
-In this case, we are going to remove the Term that was selected, and erroneously attached, to the session shown below. This is the one from "UCSF 49". 
+In this case, we are going to remove the term that was selected, and erroneously attached, to the session shown below. This is the one from "UCSF 49". 
 
 ![session term list](../../images/session_edit/session_term_list.png)
 

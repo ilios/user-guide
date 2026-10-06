@@ -40,7 +40,7 @@ The process for removing a term from a session is basically the same as what is 
 
 In this case, we are going to remove the Term that was selected, and erroneously attached, to the session shown below. This is the one from "UCSF 49". 
 
-![Show session term list](../../images/session_edit/session_term_list.png)
+![session term list](../../images/session_edit/session_term_list.png)
 
 After expanding as shown above, we see there are two Vocabularies that have been used and terms within have been attached to this session. 
 
@@ -48,10 +48,10 @@ After expanding as shown above, we see there are two Vocabularies that have been
 
 ![remove term](../../images/session_edit/remove_term.png)
 
-![process term removal](../../images/session_edit/save_term_removal.png)
+![process term removal](../../images/session_edit/process_term_removal.png)
 
 After performing the steps above, the list will refresh verifying the removal of the "UCSF 49" term.
 
-### Updated List
+## Updated List Displayed
 
 ![list refreshed](../../images/session_edit/list_refreshed.png)

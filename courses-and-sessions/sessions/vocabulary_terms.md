@@ -30,9 +30,9 @@ After clicking as shown above, "Renal System" has been added to the terms associ
 
 ![term added to session](../../images/session_edit/term_added_to_session.png)
 
-After confirming the addition of the term "Renal System" from the Topic vocabulary to the session, it appears in saved mode as shown below.
+After confirming the addition of the term "Renal System" from the Topic vocabulary to the session by clicking "Save", it appears in saved mode as shown below along with the other previously added terms.
 
-![new session term added](../../images/session_edit/new_session_term_added.png)
+![updated session terms displayed](../../images/session_edit/updated_session_terms_displayed.png)
 
 ## Remove Term
 

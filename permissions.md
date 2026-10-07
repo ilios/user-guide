@@ -28,3 +28,15 @@ The following functional areas in Ilios all have a component that gets used to a
 * [Program](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#update-leadership)
 * [Program Year](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#update-leadership)
 * [School](https://iliosproject.gitbook.io/ilios-user-guide/schools/school-leadership)
+
+# Permissions Matrix
+
+This high level section has been designed to describe the elements of the permissions matrix without requiring the use of Excel. Essentially, this is the matrix converted to text for easy refererence.
+
+## Permissions Listed 
+
+From the highest (most powerful) down to the lower-level permissions, these are listed below.
+
+### Root 
+
+This user level is what could be considered as a system administrator. We limit this normally to one user. More users can be assigned this role; but it is not available in the interface. It is assigned at the database / command line level. If you need any assistance with assigning `"root"` users, please let us know by contacting us at [support@iliosproject.org](mailto:support@iliosproject.org).

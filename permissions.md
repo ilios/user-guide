@@ -31,12 +31,12 @@ The following functional areas in Ilios all have a component that gets used to a
 
 # Permissions Matrix
 
-This high level section has been designed to describe the elements of the permissions matrix without requiring the use of Excel. Essentially, this is the matrix converted to text for easy refererence.
+The permissions matrix in Excel expands far over to the right side of the screen. For this reason, the screen shot included here includes 12 permissions in the top section, along with the remaining 11 permissions in a lower section.
 
-## Permissions Listed 
+The root user is a system administration type role and is not configurable in the interface. 
 
-From the highest (most powerful) down to the lower-level permissions, these are listed below.
+Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org) with any questions about setting up root user(s) or any other questions related to this matrix. 
 
-### Root 
+![permissions matrix 2026](../user-guide/images/permissions_matrix/permissions_matrix_2026.png)
 
-This user level is what could be considered as a system administrator. We limit this normally to one user. More users can be assigned this role; but it is not available in the interface. It is assigned at the database / command line level. If you need any assistance with assigning `"root"` users, please let us know by contacting us at [support@iliosproject.org](mailto:support@iliosproject.org).
+

@@ -37,6 +37,5 @@ The root user is a system administration type role and is not configurable in th
 
 Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org) with any questions about setting up root user(s) or any other questions related to this matrix. 
 
-![permissions matrix 2026](../user-guide/images/permissions_matrix/permissions_matrix_2026.png)
-
+![permissions matrix 2026](images/permissions_matrix/permissions_matrix_2026.png)
 

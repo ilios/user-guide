@@ -48,4 +48,4 @@ After processing the Save event, the correct Ilios user is now confirmed to be a
 
 **NOTE**: The process for adding Student Advisors is identical, except that the search is performed in the Student Advisors area instead of the Administrators area.
 
-Refer to the [Permissions Matrix](https://www.dropbox.com/s/431sdj2bfoi3v1f/Ilios%20New%20Default%20Permissions%20Matrix.pdf?dl=0) for more information on permissions granted when a user is granted Session Administrator rights. Session Administrators will see the offerings for the sessions they administer on their calendars by default.
+Refer to the [Permissions Matrix](https://iliosproject.gitbook.io/ilios-user-guide/permissions#permissions-matrix) for more information on permissions granted when a user is granted Session Administrator rights. Session Administrators will see the offerings for the sessions they administer on their calendars by default.

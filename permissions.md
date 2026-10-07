@@ -28,3 +28,15 @@ The following functional areas in Ilios all have a component that gets used to a
 * [Program](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#update-leadership)
 * [Program Year](https://iliosproject.gitbook.io/ilios-user-guide/programs/edit-program#update-leadership)
 * [School](https://iliosproject.gitbook.io/ilios-user-guide/schools/school-leadership)
+
+# Permissions Matrix
+
+The permissions matrix in Excel expands far over to the right side of the screen. For this reason, the screen shot included here includes 12 permissions in the top section, along with the remaining 11 permissions in a lower section.
+
+The root user is a system administration type role and is not configurable in the interface. 
+
+Please contact us at [support@iliosproject.org](mailto:support@iliosproject.org) with any questions about setting up root user(s) or any other questions related to this matrix. 
+
+![permissions matrix 2026](../user-guide/images/permissions_matrix/permissions_matrix_2026.png)
+
+

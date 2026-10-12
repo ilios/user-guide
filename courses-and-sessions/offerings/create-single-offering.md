@@ -2,21 +2,19 @@
 
 This refers to the creation of one learning event, which can be attended by any combination of one or more learner groups or individual learners.
 
-## Create Single Offering
-
 The same process as the creation of Small Group Offerings can be performed in reverse where a number of sub-groups can all be invited to the same event. To demonstrate, we will use the same group as in the "Small Groups" example and create one event for them all to attend. This process is shown below.
 
 As indicated below, the Offerings Editor Calendar is initially hidden. To display it and to review the scheduling of this offering as well as all other offerings involving the same learner groups, click [Show Calendar](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/offerings-editor-calendar). 
 
 When displayed, the calendar will appear above the controls for editing date / time and other offering attributes.
 
-### Scheduling
+## Scheduling
 
 Since the offering editor is such a long and complex form, the elements will be handled one at a time starting with "Scheduling". 
 
-![top portion of screen - scheduling](../../images/create_single_offering/scheduling.png)
+![scheduling](../../images/create_single_offering/scheduling.png)
 
-### Participants
+## Participants
 
 Underneath the "Scheduling" component is an area to set who will be attending the offering - instructors and learners. Both of these can be set using groups or individuals.
 

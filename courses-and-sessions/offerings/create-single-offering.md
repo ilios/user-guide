@@ -14,9 +14,7 @@ Since the offering editor is such a long and complex form, the elements will be 
 
 ![scheduling](../../images/create_single_offering/scheduling.png)
 
-## Participants
-
-Underneath the "Scheduling" component is an area to set who will be attending the offering - instructors and learners. Both of these can be set using groups or individuals.
+Underneath the "Scheduling" component is an area to set who will be attending or instructing the offering - instructors and learners. Both of these can be set using groups or individuals.
 
 ## Instructors
 

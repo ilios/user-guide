@@ -20,17 +20,13 @@ Underneath the "Scheduling" component is an area to set who will be attending or
 
 Adding instructors either as a group ([Instructor Group](https://iliosproject.gitbook.io/ilios-user-guide/instructor-groups)) or as individual instructors is shown below. They can even be added both at the same time as shown below.
 
-### Add Instructors
-
 ![instructor search](../../images/create_single_offering/instructor_search.png)
 
 ![instructors selected](../../images/create_single_offering/instructors_selected.png)
 
-## Learners
+## Learner Groups
 
 The next section shows how this process functions for adding learners to an Offering. Just as with Instructors, learners can be added individually or as a group \(still most common practice\). The difference here is that individual learners are selected in a separate area from where Learner Groups are selected. 
-
-### Add Learner Groups
 
 ![search for learner groups](../../images/create_single_offering/search_for_learner_groups.png)
 
@@ -46,21 +42,21 @@ In the situation detailed, it may be preferable to remvove the parent group "Cit
 
 One or more child groups can be removed using a simple click technique. The "Shift" technique only applies to the parent (highest level) group.
 
-### Add Individual Learners
+## Individual Learners
 
 It is important to note that these Learners being added here do not need to be in the Cohort associated with this Course. 
 
-![before searching ](../../images/create_single_offering/lg3.png)
+![before searching ](../../images/create_single_offering/before_searching.png)
 
-![find and select](../../images/create_single_offering/lg4.png)
+![find and select](../../images/create_single_offering/find_and_select.png)
 
-![learner added](../../images/create_single_offering/lg5.png)
+![learner added](../../images/create_single_offering/learner_added)
 
 Now that everything has been added as we want for this offering, clicking Save will complete this process. The resulting screen is shown in the second image below. Mousing over a learner group's name will display the parent group for reference. All instructors \(whether added individually or as a member of an instructor group\) are shown under the Instructors column header. Individual Learners are available to review from the Session List page as shown below.
 
 ![learner list displayed](../../images/create_single_offering/learner_list_displayed.png)
 
-### View Learner Group Parent
+## View Learner Group Parent
 
 A learner group's parent relationship can be determined by hovering over with the mouse for more details.
 

@@ -28,7 +28,7 @@ Offerings can be created as ...
 * [**Recurring Events**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/recurring-event)**:** A recurring event that occurs multiple times for a specified number of weeks.  This is activated by utilizing the "Make Recurring" slider to toggle this functionality to the "On" position.
 * [**Multi-Day Offerings**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/offerings/multi-day-offerings)**:** Offerings that start on one day and continue on until the next or a future day are considered multi-day offerings. They are tracked in a slightly different manner than other offerings in Ilios.
 
-Click to add a new offering as shown by the arrow in the screen shot below. First, an existing course and session must have been selected.
+Click to add a new offering as shown by the arrow in the screen shot below. First, an existing course and session must be selected.
 
 ![click to add offerings](../../images/offerings_README/click_to_add_offerings.png)
 

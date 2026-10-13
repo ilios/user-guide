@@ -44,7 +44,7 @@ One or more child groups can be removed using a simple click technique. The "Shi
 
 ## Individual Learners
 
-It is important to note that these Learners being added here do not need to be in the Cohort associated with this Course. 
+It is important to note that the learners being added here do not need to be in a cohort associated with this course. Any Ilios user can be added here.
 
 ![before searching ](../../images/create_single_offering/before_searching.png)
 

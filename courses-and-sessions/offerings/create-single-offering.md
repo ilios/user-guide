@@ -56,7 +56,7 @@ Now that everything has been added as we want for this offering, clicking Save w
 
 All learners are shown and counted up under the "Learners" column. In the example demonstrated here, the attached learner group contained 8 members and we added one individual learner as well. The total shows 9 learners. 
 
-All instructors (whether added individually or as a member of an instructor group) are shown under the "Instructors" column header. Individual Learners are available to review from the Session List page as shown below.
+All instructors (whether added individually or as a member of an instructor group) are shown under the "Instructors" column header. Individual learners are available to review from the Session List page as shown below.
 
 ![learner list displayed](../../images/create_single_offering/learner_list_displayed.png)
 

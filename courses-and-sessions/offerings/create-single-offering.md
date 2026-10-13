@@ -52,7 +52,11 @@ It is important to note that the learners being added here do not need to be in 
 
 ![learner added](../../images/create_single_offering/learner_added)
 
-Now that everything has been added as we want for this offering, clicking Save will complete this process. The resulting screen is shown in the second image below. Mousing over a learner group's name will display the parent group for reference. All instructors \(whether added individually or as a member of an instructor group\) are shown under the Instructors column header. Individual Learners are available to review from the Session List page as shown below.
+Now that everything has been added as we want for this offering, clicking Save will complete this process. The resulting screen is shown in the image below. All attached learner groups are displayed when mousing over the values displayed under the "Learner Groups" column header.
+
+All learners are shown and counted up under the "Learners" column. In the example demonstrated here, the attached learner group contained 8 members and we added one individual learner as well. The total shows 9 learners. 
+
+All instructors (whether added individually or as a member of an instructor group) are shown under the "Instructors" column header. Individual Learners are available to review from the Session List page as shown below.
 
 ![learner list displayed](../../images/create_single_offering/learner_list_displayed.png)
 

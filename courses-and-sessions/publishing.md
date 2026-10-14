@@ -33,7 +33,7 @@ Both **Course** and **Session** must be published in order to have the attached 
 
 ![publish course](../images/publishing/publish_course.png)
 
-After performing the step indicated above, you will be routed to confirm the course publication. This occurs even if all requested data elements have been attached. In this case, the course in question did not have vocabulary terms attached. You will need to confirm that this is fine in order to publish the course. Afer doing so, the publication status drop-down now reflects the updated course status as "Published".
+After performing the step indicated above, you will be routed to confirm the course publication. This occurs even if all requested data elements have been attached. In this case, the course in question did not have vocabulary terms attached. You will need to confirm that this is fine in order to publish the course. After doing so, the publication status drop-down now correctly reflects the updated course status as "Published".
 
 ![course - published](../images/publishing/course_published.png)
 

@@ -33,7 +33,7 @@ Both **Course** and **Session** must be published in order to have the attached 
 
 ![publish course](../images/publishing/publish_course.png)
 
-After performing the step indicated above, you will be routed to confirm the course publication. 
+After performing the step indicated above, you will be routed to confirm the publication of the selected course. 
 
 ![course publication review](../images/publishing/course_publication_review.png)
 

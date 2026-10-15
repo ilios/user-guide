@@ -80,10 +80,13 @@ In the **Single Session Only** workflow, a single session is checked to verify d
 
 * **Title** (required)
 * **Offering** (required for non-ILM) / Due Date (required if ILM is set to "true")
-* **Vocabulary Terms** - one or more
-* **Objectives** - one or more
+* **Vocabulary Terms** (desired but not required) - one or more
+* **Objectives** (desired but not required) - one or more
 
-The fields required to create a Session are indicated above. The others are desired fields. The absence of one or more of the required fields will disallow publishing or override. The absence of one or more of the desired fields will activate the display of a “Review X Missing Items” value on the drop-down menu. If all fields are completed, then clicking the “Publish” button will immediately publish the Session, without a review check. If you choose to review the missing items, the Publish option will be available on the review screen. You can choose Publish As Is if you choose not to review the items before publishing the Session.
+The first two fields listed above are required to create a session. The others are desired fields. The absence of one or more of the required fields will disallow publishing. 
+
+
+The publication menu displays **"Publish"** whether requested items are missing or not. You will always be routed to confirm the course publication either way. 
 
 ### Publish with Missing Item(s)
 

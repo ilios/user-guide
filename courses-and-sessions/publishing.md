@@ -98,7 +98,7 @@ The publication menu displays **"Publish"** whether requested items are missing 
 
 ### Review Before Publication
 
-Upon clicking Option #1 (**Publish** - see above), the screen will display what data from among the desired fields is missing, if any. In this case, no vocabulary terms have been associated with this session. You can ignore this and publish anyway or add one or more Vocabulary terms.
+Upon clicking Option #1 (**Publish** - see above), the screen will display what data from among the desired fields is missing, if any. In this case, no vocabulary terms have been associated with this session. You can ignore this and publish anyway or add one or more vocabulary terms.
 
 ![review missing information](../images/publishing/review_missing_information.png)
 

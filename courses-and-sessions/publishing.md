@@ -92,11 +92,11 @@ The publication menu displays **"Publish"** whether requested items are missing 
 
 ![select session to review](../images/publishing/select_session_to_review.png)
 
-## Publishing Options
+## Publication Workflow
 
 ![session publication options](../images/publishing/session_publication_options.png)
 
-### Review Missing Items
+### Review Before Publication
 
 Upon clicking Option #2 (**Review 1 Missing Items** - see above), the screen will display what data from among the desired fields is missing. In this case, no vocabulary terms have been associated with this session. You can ignore this and publish anyway or add one or more Vocabulary terms.
 

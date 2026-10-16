@@ -124,7 +124,7 @@ The screen shot below shows the review screen for the publication review workflo
 
 ![view sessions requiring review](../images/publishing/view_sessions_requiring_review.png)
 
-After scrolling to the bottom of the list of sessions requiring review, the following action button appears. Clicking "Go" will perform the indicated action. A link to the [course objective visualization](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#objectives) appears when one or more of the course objective(s) have not been mapped to their parent objectives - program year objectives.
+You may need to scroll to get to the "Publish" and "Cancel" buttons. In this case there is no need to scroll. Clicking "Publish" will perform the indicated action. A link to the [course objective visualization](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#objectives) appears when one or more of the course objective(s) have not been mapped to their parent objectives - program year objectives.
 
 ### Sessions Complete: ready to pubish
 

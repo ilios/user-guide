@@ -112,7 +112,7 @@ This publication review process is available for use at the course level. The me
 
 ![publication review](../images/publishing/publication_review.png)
 
-After clicking as shown above on the "Publication Review" button, there will be an opportunity to review all of the sessions before taking action on publication on any or all of the associated sessions. Some of the session may have been published already.
+After clicking the "Publication Review" button, as shown above, there will be an opportunity to review all of the sessions before taking action on publication on any or all of the associated sessions. Some of the session may have been published already.
 
 After clicking as shown above, the screen appears similar to the image in the screenshot below. Initially, "Sessions Requiring Review" is expanded while the other two sections "Sessions Incomplete" and "Sessions Complete" are contracted. Clicking the triangle arrows to the right of the captions will expand the selected section. In "Sessions Requiring Review", clicking the buttons labeled "Publish As-Is" or "Mark as Scheduled" will apply that setting to the entire list of Sessions below in any given review section. They can be edited individually using the provided check boxes. This same principle applies to "Sessions Complete: ready to publish". 
 

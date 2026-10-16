@@ -108,6 +108,8 @@ When a course is in Scheduled state and has sessions in Published and/or Schedul
 
 ## Publication Review
 
+This publication review process is available for use at the course level. The means to access this functionality is shown below.
+
 ![publication review](../images/publishing/publication_review.png)
 
 After clicking as shown above on the "Publication Review" button, there will be an opportunity to review all of the sessions before taking action on publication on any or all of the associated sessions. Some of the session may have been published already.

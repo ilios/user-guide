@@ -134,7 +134,9 @@ This next screen shot is provided to show several occasional output values which
 
 ![detailed information](../images/publishing/detailed_information.png)
 
-### Take Action - "Go"
+### Take Action - Publish or Cancel
+
+If all sessions in a selected course have already been published, "Cancel" is the only option. If there is still action to be taken, "Publish" is available as well.
 
 ![take all actions - go button](../images/publishing/take_all_actions_go_button.png)
 

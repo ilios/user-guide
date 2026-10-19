@@ -114,7 +114,10 @@ After clicking as shown above, the screen appears similar to the image in the sc
 
 It is important to note that the sessions in "Sessions Incomplete: cannot publish" can only be reviewed - a listing of missing required items (generally offerings) will be displayed advising why these sessions cannot be published at this time.
 
-### Review Sessions to Publish
+### Incomplete Sessions 
+
+These are sessions that cannot be published. Generally, they like offerings, which are required unless the sessions happens to be set up as an inddependent learning module.
+
 
 The screen shot below shows the review screen for the publication review workflow. "Sessions Requiring Review" appears in expanded mode. The other two areas are in contracted mode but can be expanded using the provided arrow expanders. 
 
@@ -122,7 +125,9 @@ The screen shot below shows the review screen for the publication review workflo
 
 You may need to scroll to get to the "Publish" and "Cancel" buttons. In this case there is no need to scroll. Clicking "Publish" will perform the indicated action. A link to the [course objective visualization](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#objectives) appears when one or more of the course objective(s) have not been mapped to their parent objectives - program year objectives. The link mentioned above appears in the same area as the action buttons and states simply "This course has unlinked objective(s)" along with an icon to follow the link mentioned above.
 
-### Sessions Complete: ready to pubish
+### Published Sessions 
+
+This section appears initially in contracted mode. Expanding this section will provide a list of all session that have already been published.
 
 Expanding this section will review a handy list (with sticky column headers upon scroll down) to review all of the sessions that have satisfied all of the "required" attributes and are ready to be published. In many cases, they may already have been published. 
 
@@ -133,6 +138,10 @@ This is shown below.
 This next screen shot is provided to show several occasional output values which may appear on this screen. It is true that offerings (one or more) are required for a session that is not set to be an ILM (Independent Learning Module). But an ILM without one or more offerings is certainly complete. The other output item which appears when specified conditions are met is a link provided in case you want to fix up or review sessions objectives that have not been mapped / linked to any parent (course) objectives. See below for reference.
 
 ![detailed information](../images/publishing/detailed_information.png)
+
+### Unpublished Sessions 
+
+These sessions are "for review" meaning you can choose to publish them ... or not. 
 
 ### Take Action - Publish or Cancel
 

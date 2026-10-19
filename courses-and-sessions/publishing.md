@@ -88,8 +88,6 @@ The first two fields listed above are required to create a session. The others a
 
 The publication menu displays **"Publish"** whether requested items are missing or not. You will always be routed to confirm the course publication either way. 
 
-### Publish with Missing Item(s)
-
 ![select session to review](../images/publishing/select_session_to_review.png)
 
 ## Publication Workflow

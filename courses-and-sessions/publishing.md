@@ -41,8 +41,6 @@ This occurs even if all requested data elements have been attached. In this case
 
 ![course - published](../images/publishing/course_published.png)
 
-### Publish with Missing Item(s)
-
 There are 2 different types of data attributes available for checking in the workflow: **required** fields, which must be present for publishing, and if unavailable will make the publish button in the checklist inactive; and **desired** fields, which may be overridden after review, or left as-is without override. If overridden, the course object publishes normally. Alternatively, the course object can be published as “TBD”, or “Scheduled” – which reserves space on the calendar for users to see, but does not provide details of the session. Re-publishing a course or session at any time will update the information contained in it to its most recent state. Courses and sessions are independent of one another in the workflow, and can be published individually. A course, as the parent container of its sessions, may also be published together with all of its associated sessions.
 
 In the **Course Level Only** workflow, the top-level (“course-level”) attributes in a course are checked to verify required information. Course level attributes which are checked are:

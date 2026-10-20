@@ -135,11 +135,15 @@ This is shown below. ILM sessions do not require offerings. This is indicated in
 
 ![published session list](../images/publishing/published_session_list.png)
 
-Maintenance to any of the sessions above can be performed by clicking on the linked session title. If Terms or Objectives are missing and you wish to add them, that can be done from here if convenient.
+Maintenance to any of the sessions above can be performed by clicking on the linked session title. If Terms or Objectives are missing and you wish to add them, that can be done from here if it ends up being convenient for your workflow.
 
 ### Unpublished Sessions 
 
-These sessions are "for review" meaning you can choose to publish them ... or not. 
+These sessions are "for review" meaning you can choose to publish them, set them to the status of "Scheduled", or leave them as they currently are - "Unpublished".
+
+In the screen shot below, one session has been selected to be published, on session has been selected to be scheduled, and one will be left alone in an unpublished state. Notice the button caption and confirmation label have adjusted to demonstrate this reality.
+
+![unpublished session list](../images/publishing/unpublished_session_list.png)
 
 ### Take Action - Publish or Cancel
 

@@ -131,9 +131,9 @@ This section appears initially in contracted mode. Expanding this section will p
 
 Expanding this section will review a handy list (with sticky column headers upon scroll down) to review all of the sessions that been published. No actions can be taken from here. This is just for informational review. 
 
-This is shown below. 
+This is shown below. ILM sessions do not require offerings. This is indicated in the list.
 
-![sessions complete](../images/publishing/sessions_complete.png)
+![published session list](../images/publishing/published_session_list.png)
 
 This next screen shot is provided to show several occasional output values which may appear on this screen. It is true that offerings (one or more) are required for a session that is not set to be an ILM (Independent Learning Module). But an ILM without one or more offerings is certainly complete. The other output item which appears when specified conditions are met is a link provided in case you want to fix up or review sessions objectives that have not been mapped / linked to any parent (course) objectives. See below for reference.
 

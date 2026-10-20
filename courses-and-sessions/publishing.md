@@ -127,9 +127,9 @@ You may need to scroll to get to the "Publish" and "Cancel" buttons. In this cas
 
 ### Published Sessions 
 
-This section appears initially in contracted mode. Expanding this section will provide a list of all session that have already been published.
+This section appears initially in contracted mode. Expanding this section will provide a list of all session that have been published.
 
-Expanding this section will review a handy list (with sticky column headers upon scroll down) to review all of the sessions that have satisfied all of the "required" attributes and are ready to be published. In many cases, they may already have been published. 
+Expanding this section will review a handy list (with sticky column headers upon scroll down) to review all of the sessions that been published. No actions can be taken from here. This is just for informational review. 
 
 This is shown below. 
 

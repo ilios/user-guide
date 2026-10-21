@@ -148,10 +148,11 @@ In the screen shot below, one session has been selected to be published, on sess
 
 ![unpublished session list](../images/publishing/unpublished_session_list.png)
 
+As shown above, a link is provided to route the user back to the course objectives listing when there are one or more course objectives which are not linked to parent (program year) objectives. There is no required action here. It's there to allow for review.
+
 ### Take Action - Publish or Cancel
 
-If all sessions in a selected course have already been published, "Cancel" is the only option. If there is still action to be taken, "Publish" is available as well.
+If all sessions in a selected course have already been published, "Cancel" is the only option. If there is still action that can be taken, "Publish" is available. In this case, there are three sessions that have been selected for publication. The button caption will adjust if there are sessions selected to leave or schedule. 
 
-![take all actions - go button](../images/publishing/take_all_actions_go_button.png)
+![publish or cancel](../images/publishing/publish_or_cancel.png)
 
-As shown above, a link is provided to route the user back to the course objectives listing when there are one or more course objectives which are not linked to parent (program year) objectives. There is no required action here. It's there to allow for review.

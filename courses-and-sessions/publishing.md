@@ -124,6 +124,10 @@ You may need to scroll to get to the "Publish" and "Cancel" buttons. In this cas
 
 These are sessions that cannot be published. Generally, they lack offerings, which are required unless the session happens to be set up as an independent learning module ([ILM](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/sessions/independent-learning-module-ilm)).
 
+This is shown below. The default sort order is by session title (A-Z). The other columns can be used to specify sort order instead - ascending or descending.
+
+![incomplete sessions](../images/publishing/incomplete_sessions.png)
+
 ### Published Sessions 
 
 This section appears initially in contracted mode. Expanding this section will provide a list of all session that have been published.

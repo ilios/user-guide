@@ -114,16 +114,15 @@ After clicking as shown above, the screen appears similar to the image in the sc
 
 It is important to note that the sessions in "Sessions Incomplete: cannot publish" can only be reviewed - a listing of missing required items (generally offerings) will be displayed advising why these sessions cannot be published at this time.
 
-### Incomplete Sessions 
-
-These are sessions that cannot be published. Generally, they like offerings, which are required unless the sessions happens to be set up as an inddependent learning module.
-
-
 The screen shot below shows the review screen for the publication review workflow. "Sessions Requiring Review" appears in expanded mode. The other two areas are in contracted mode but can be expanded using the provided arrow expanders. 
 
 ![view sessions requiring review](../images/publishing/view_sessions_requiring_review.png)
 
 You may need to scroll to get to the "Publish" and "Cancel" buttons. In this case there is no need to scroll. Clicking "Publish" will perform the indicated action. A link to the [course objective visualization](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#objectives) appears when one or more of the course objective(s) have not been mapped to their parent objectives - program year objectives. The link mentioned above appears in the same area as the action buttons and states simply "This course has unlinked objective(s)" along with an icon to follow the link mentioned above.
+
+### Incomplete Sessions 
+
+These are sessions that cannot be published. Generally, they like offerings, which are required unless the sessions happens to be set up as an inddependent learning module.
 
 ### Published Sessions 
 

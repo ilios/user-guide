@@ -8,11 +8,11 @@ Only the weekly view is available; but you can scroll forward or backwards in ti
 
 A close up of the "unpublished" icon is shown below.
 
-![Unpublished Offering on Admin Console Calendar](../images/admin_console/calendar_preview/unpublished_icon.png)
+![unpublished icon](../images/admin_console/calendar_preview/unpublished_icon.png)
 
 The icon looks a bit blurry at that level. Here is what it looks like in regular size on the Admin Console profile calendar ...
 
-![On screen](../images/admin_console/calendar_preview/on_screen.png)
+![on screen](../images/admin_console/calendar_preview/on_screen.png)
 
 ## Find User
 
@@ -20,7 +20,7 @@ The first step is to find a user whose schedule you would like to view. This pro
 
 ### Select User
 
-![Select user](../images/admin_console/calendar_preview/select_user.png)
+![select user](../images/admin_console/calendar_preview/select_user.png)
 
 Once this user "Walter Stephanie Powell" has been selected, this individual's calendar can be displayed right here on the Admin Console screen. Click as shown below to get the calendar displayed. 
 

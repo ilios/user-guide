@@ -118,7 +118,7 @@ The screen shot below shows the review screen for the publication review workflo
 
 ![view sessions requiring review](../images/publishing/view_sessions_requiring_review.png)
 
-You may need to scroll to get to the "Publish" and "Cancel" buttons. In this case there is no need to scroll. Clicking "Publish" will perform the indicated action. A link to the [course objective visualization](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#objectives) appears when one or more of the course objective(s) have not been mapped to their parent objectives - program year objectives. The link mentioned above appears in the same area as the action buttons and states simply "This course has unlinked objective(s)" along with an icon to follow the link mentioned above.
+You may need to scroll to get to the "Publish" and "Cancel" buttons. In this case there is no need to scroll since there are only three sessions requiring review. Clicking "Publish" will perform the indicated action. A link to the [course objective visualization](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations#objectives) appears when one or more of the course objective(s) have not been mapped to their parent objectives - program year objectives. The link mentioned above appears in the same area as the action buttons and states simply "This course has unlinked objective(s)" along with an icon to follow the link mentioned above.
 
 ### Incomplete Sessions 
 

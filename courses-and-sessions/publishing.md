@@ -112,7 +112,7 @@ After clicking the "Publication Review" button, as shown above, there will be an
 
 After clicking as shown above, the screen appears similar to the image in the screenshot below. Initially, "Unpublished Sessions" is expanded while the other two sections "Incomplete Sessions" and "Published Sessions" are contracted. Clicking the triangle arrows to the right of the captions will expand the selected section. In "Unpublished Sessions", clicking the buttons labeled "Publish All" or "Mark All as Scheduled" will apply that setting to the entire list of Sessions below in any given review section. They can be edited individually using the provided check boxes. "Leave as Unpublished" can be individually selected to omit the selected sessions from having any action taken.
 
-It is important to note that the sessions in "Sessions Incomplete: cannot publish" can only be reviewed - a listing of missing required items (generally offerings) will be displayed advising why these sessions cannot be published at this time.
+It is important to note that the sessions in "Sessions Incomplete: cannot publish" can only be reviewed - a listing of missing required items (generally offerings) will be displayed advising why these sessions cannot be published at this time. Links are provided to modify any of these sessions. The "Published Sessions" section is also read-only with links provided for review.
 
 The screen shot below shows the review screen for the publication review workflow. "Sessions Requiring Review" appears in expanded mode. The other two areas are in contracted mode but can be expanded using the provided arrow expanders. 
 

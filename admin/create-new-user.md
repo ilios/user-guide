@@ -56,7 +56,7 @@ This refers to adding a user by typing and entering the user attributes manually
 Click to start this process as shown below in Figure 1.
 
 
-![Figure 1 - add user manually](../images/admin_console/add_new_user/add_user_manually.png)
+![add user manually](../images/admin_console/add_new_user/add_user_manually.png)
 
 After clicking as shown above, the user attributes should be added. Just as with a directory-based user maintenance situation, a user can be added initially either a student or non-student. Students need to be added to a cohort when the record is being created.
 
@@ -83,7 +83,7 @@ The error messages have been raised in the screen shot above to demonstrate whic
 
 Fill out as much information as applicable and click "Done" when this has been completed. A pre-save example of this is shown below in Figure 2.
 
-![Figure 2 - non-student pre-save](../images/admin_console/add_new_user/add_non_student_pre_save.png)
+![add non-student pre-save](../images/admin_console/add_new_user/add_non_student_pre_save.png)
 
 Click either of the "Edit" buttons will open up any and all fields that can be edited from here.
 
@@ -91,7 +91,7 @@ Click either of the "Edit" buttons will open up any and all fields that can be e
 
 **User Property Edits**
 
-![Edit non-student record](../images/admin_console/add_new_user/edit_non_student_record.png)
+![edit non-student record](../images/admin_console/add_new_user/edit_non_student_record.png)
 
 Once a form-based authentication user has been added to the system, modifications to the pertaining settings can be performed. **Pronouns** (he/him/his) (she/her/hers) (they/them/theirs) can be specified here as well as **Preferred Email**, which can be used if the user has another email account they would rather use to receive teaching reminders and other electronic communication. The user's **Password** can be reset here as well. Any of these fields may be modified here.
 

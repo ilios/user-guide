@@ -31,7 +31,7 @@ It is necessary (as in the "add" actions performed above) to click "Manage" afte
 
 Once one or more learners have been selected for removal using the provided check boxes, the red "instant remove" action items disappear. We are now in multi-edit mode. 
 
-Three learners have been selected to be removed from this learner group. This is accompished by clicking on the check boxes as shwon below.
+Three learners have been selected to be removed from this learner group. This is accompished by clicking on the check boxes as shwon below. Notice that you can no longer remove individual learners using the red slash under the "Actions" menu because we are not in multiple edit mode using the check boxes on the left instead.
 
 Learners to be removed ...
 * "Anne Debra Armstrong"

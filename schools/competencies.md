@@ -23,7 +23,7 @@ In the screen shot below, the "7" refers to the count of Competency domains, whe
 
 ![competencies displayed](../images/schools/competencies/competencies_displayed.png)
 
-Now that "Manage Competencies" has been clicked as shown above, the screen changes to the functional area as shown below, allowing the competencies to be managed. Only the top domain "Interpersonal & Communication skills" is displayed to save space and for clarity. "Email and Database Etiquette" was recently added and is not attached to any courses or sessions and can be deleted. The existence of the trash can icon instead of the count of times it has been attached confirms this.
+Now that "Manage Competencies" has been clicked as shown above, the screen changes to the functional area as shown below, allowing the competencies to be managed. Only the top domain "Interpersonal & Communication skills" is displayed to save space and for clarity. "Email and Database Etiquette" was recently added and is not attached to any courses or sessions and can be deleted. The existence of the active trash can icon instead of an inactive icon confirms this.
 
 ![unused competency](../images/schools/competencies/unused_competency.png)
 

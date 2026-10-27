@@ -7,9 +7,9 @@ description:
 
 Competency domains and sub-domains can be managed within the Ilios application. To access this functional area of Ilios, from the flyout menu select "**Schools**" as shown below.
 
-![click "Schools"](../images/schools/competencies/click_schools.png)
+![click schools](../images/schools/competencies/click_schools.png)
 
-![click school title to view/edit](../images/schools/competencies/select_school.png)
+![select school](../images/schools/competencies/select_school.png)
 
 Now that the School of Medicine has been selected, Competencies can be maintained using the following interface and commands. An oveview of the Schools screen is shown below. Maintaining email addresses and now defunct Curriculum Inventory information is not shown in the screen shot. Aside from those, the screen shot is complete.
 

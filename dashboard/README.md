@@ -66,7 +66,6 @@ These menu items available in all views include:
   * [Subject Reports](https://iliosproject.gitbook.io/ilios-user-guide/reports/subject_reports)
   * [Curriculum Reports](https://iliosproject.gitbook.io/ilios-user-guide/reports/curriculum_reports)
 * [**Admin**](https://iliosproject.gitbook.io/ilios-user-guide/admin)**:** Maintain Accounts and User Management, which includes Primary and Secondary Cohort assignment functionality among other maintenance and account review options. Instructors will not see this unless they have been granted administrative rights over their School or Program.
-* **Curriculum Inventory**: (no longer supported by the AAMC) Create and maintain Curriculum Inventory reports.
 
 Refer to the [Permissions Matrix](https://iliosproject.gitbook.io/ilios-user-guide/permissions#permissions-matrix) to determine how to assign rights to these functional areas within Ilios.
 

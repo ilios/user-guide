@@ -35,4 +35,6 @@ The attributes listed above for the selected school can be configured once it ha
 
 After clicking as shown above, detailed information pertaining to this school appears. From here, the remaining configurable attributes can be entered.
 
+The top part of the screen is shown below. 
+
 ![school details](../images/schools/README/school_details.png)

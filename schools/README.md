@@ -11,7 +11,7 @@ Selecting "Schools" from the Ilios flyout menu takes the user to a location whic
 
 ## Initial School Attributes
 
-These are set only at the time of creating a School for use in Ilios. There are only two fields that are set at School creation time.
+These two required fields are set only at the time of creating a School for use in Ilios. There are only two fields that are set at School creation time.
 
 * **Title**: The Title or name of the School is set at creation time. This can be modified later in the Ilios interface.
 * **Administrator Email**: Like School Title above, this must be entered when a school is created. Like title, it can be modified in the interface. See [Manage Emails](https://iliosproject.gitbook.io/ilios-user-guide/schools/manage_emails) for more information.

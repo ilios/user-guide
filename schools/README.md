@@ -1,11 +1,11 @@
 # Schools
 
-Selecting Schools from the Ilios flyout menu takes the user to a location which lists all of the Schools of the entire University that are using Ilios.
+Selecting "Schools" from the Ilios flyout menu takes the user to a location which lists all of the schools of the university that are using Ilios.
 
 <figure>
     <img src="../images/schools/README/access_schools.png" alt="click as shown">
     <figcaption>
-        <p>access Schools from menu</p>
+        <p>access schools</p>
     </figcaption>
 </figure>
 

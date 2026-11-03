@@ -2,9 +2,9 @@
 
 If you are certain that a Learning Material object does not exist in the repository since the file or link is newly created or updated, Ilios allows simple and easy uploading of new Learning Material(s). 
 
-## Select a Course
+## Select Course
 
-![select course](../../images/course_learning_materials/select_course_for_lm_attach.png)
+![select course](../../images/course_learning_materials/select_course.png)
 
 ## Show Course Details
 

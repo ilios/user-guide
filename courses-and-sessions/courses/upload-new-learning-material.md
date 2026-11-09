@@ -30,7 +30,7 @@ After the fields have all been filled in and the file has been selected from you
 
 To enter additional details about the Learning Material object, select it from the list of existing Learning Materials that are attached to the Course.
 
-![Enter more details](../../images/course_learning_materials/add_lm_4.jpg)
+![enter more details](../../images/course_learning_materials/add_lm_4.jpg)
 
 Fields that can be modified in this second step.
 

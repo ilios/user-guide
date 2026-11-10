@@ -35,13 +35,13 @@ To enter additional details about the Learning Material object, select it from t
 The following fields can be modified after selecting the learning material to modify.
 
 * Status
-* Required (Toggle between Yes and No)
+* Required (toggle between Yes and No)
 * Instructional Notes
-* Show Notes to Students (Toggle between Yes and No) -- this refers to the notes entered optionally in the previous step.
+* Show Notes to Students (toggle between Yes and No) -- this refers to the notes entered optionally in the previous step.
 
 **IMPORTANT:** All of the fields entered initially can no longer be modified. At as of this writing, it is necessary to re-upload the file to change these attributes.
 
-![More Fields](../../images/course_learning_materials/add_lm_5.jpg)
+![add more details](../../images/course_learning_materials/add_more_details.png)
 
 ## Other Learning Material types
 

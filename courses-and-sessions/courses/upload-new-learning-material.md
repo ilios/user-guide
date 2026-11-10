@@ -20,11 +20,11 @@ After selecting the Learning Material type, when "File" is selected, the screen 
 
 ![add initial data](../../images/course_learning_materials/add_initial_data.png)
 
-## Enter Learning Material Meta-Data
+## Enter Metadata
 
 After the fields have all been filled in and the file has been selected from your computer, click the "Done" button to process the save event to attach this learning material file to the course.
 
-![enter meta data](../../images/course_learning_materials/enter_meta_data.png)
+![enter metadata](../../images/course_learning_materials/enter_metadata.png)
 
 ## Enter Additional Details
 

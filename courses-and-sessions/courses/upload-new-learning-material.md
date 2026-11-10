@@ -34,12 +34,15 @@ To enter additional details about the Learning Material object, select it from t
 
 The following fields can be modified after selecting the learning material to modify.
 
-* Status
+* Status - final means published in this context
 * Required (toggle between Yes and No)
+* Description
 * Instructional Notes
-* Show Notes to Students (toggle between Yes and No) -- this refers to the notes entered optionally in the previous step.
+* Show Notes to Students (toggle between Yes and No) - refers to instructional notes
+* Meets Accessibility Requirements - (toggle between Yes and No) -- captioned "This file meets accessibility requirements." 
+* Timed Release - Start Date and End Date - entered here referring to the usage of this learning material object
 
-**IMPORTANT:** All of the fields entered initially can no longer be modified. At as of this writing, it is necessary to re-upload the file to change these attributes.
+**IMPORTANT:** All of the fields entered initially can no longer be modified. At as of this writing, it would be necessary to re-upload the file to change these attributes or upload an updated version of the file if it exists.
 
 ![add more details](../../images/course_learning_materials/add_more_details.png)
 

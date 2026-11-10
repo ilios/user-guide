@@ -32,7 +32,7 @@ To enter additional details about the Learning Material object, select it from t
 
 ![select learning material](../../images/course_learning_materials/select_learning_material.png)
 
-Fields that can be modified in this second step.
+The following fields can be modified in this second step.
 
 * Status
 * Required (Toggle between Yes and No)

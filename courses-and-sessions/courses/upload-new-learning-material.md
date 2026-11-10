@@ -30,16 +30,16 @@ After the fields have all been filled in and the file has been selected from you
 
 To enter additional details about the Learning Material object, select it from the list of existing Learning Materials that are attached to the Course.
 
-![enter more details](../../images/course_learning_materials/add_lm_4.jpg)
+![select learning material](../../images/course_learning_materials/select_learning_material.png)
 
 Fields that can be modified in this second step.
 
 * Status
-* Required \(Toggle between Yes and No\)
+* Required (Toggle between Yes and No)
 * Instructional Notes
-* Show Notes to Students \(Toggle between Yes and No\) -- this refers to the notes entered optionally in the previous step.
+* Show Notes to Students (Toggle between Yes and No) -- this refers to the notes entered optionally in the previous step.
 
-_**IMPORTANT:**_ All of the fields entered initially can no longer be modified. At as of this writing, it is necessary to re-upload the file to change these attributes.
+**IMPORTANT:** All of the fields entered initially can no longer be modified. At as of this writing, it is necessary to re-upload the file to change these attributes.
 
 ![More Fields](../../images/course_learning_materials/add_lm_5.jpg)
 

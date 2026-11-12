@@ -55,7 +55,7 @@ For associating a Web Link or Citation to a Course or Session, the process is si
 
 MeSH Terms can be associated with Learning Material Objects. To do this ...
 
-* Click Add MeSH
+* Select an attached learning material from the list.
 
 ![Add MeSH](../../images/course_learning_materials/add_lm_mesh.jpg)
 

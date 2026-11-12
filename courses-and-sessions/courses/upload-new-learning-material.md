@@ -53,15 +53,12 @@ For associating a Web Link or Citation to a Course or Session, the process is si
 
 ### Associating MeSH Terms with a Learning Material Object
 
-MeSH Terms can be associated with Learning Material Objects. To do this ...
+MeSH terms can be associated with Learning Material Objects. To do this ...
 
 * Select an attached learning material from the list.
-
-![Add MeSH](../../images/course_learning_materials/add_lm_mesh.jpg)
-
-* Do a search and hit Enter on the keyboard.
+* Scroll to the bottom of the learning material detail.
+* Enter search criteria to perform a search for MeSH and hit enter on the keyboard.
 * Select one or more MeSH Terms from the result set by clicking on them with your mouse.
-* When finished, click the green arrow Save button or the red Undo button if you change your mind about adding MeSH Term(s).
+* When finished, click the green arrow Save button or the red Undo button if you change your mind about adding or removing MeSH term(s).
 
-![Add MeSH - part two](../../images/course_learning_materials/add_lm_mesh_2.jpg)
 

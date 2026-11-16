@@ -22,7 +22,7 @@ After selecting the type of Learning Material being attached as "File", the scre
 
 ## Enter Metadata
 
-After the fields have all been filled in and the file has been selected from your computer, click the "Done" button to process the save event to attach this learning material file to the course.
+After the fields have all been filled in (including copyright and accessibility confirmations) and the file has been selected from your computer, click the "Done" button to process the save event to attach this learning material file to the course.
 
 ![enter metadata](../../images/course_learning_materials/enter_metadata.png)
 

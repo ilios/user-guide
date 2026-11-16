@@ -16,7 +16,7 @@ Scroll down to the Learning Materials section of the page. Click the "Add" drop-
 
 ![select type](../../images/course_learning_materials/select_type.png)
 
-After selecting the Learning Material type, when "File" is selected, the screen appears as follows allowing the user to enter and or select some initial data attributes about the file being selected.
+After selecting the type of Learning Material being attached as "File", the screen appears as follows allowing the user to enter and or select some initial data attributes about the file being selected.
 
 ![add initial data](../../images/course_learning_materials/add_initial_data.png)
 

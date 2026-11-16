@@ -1,10 +1,10 @@
 # Learning Materials Summary
 
-A recent new feature of Ilios is the Learning Materials Summary, which for the Course selected, contains links to all of the Learning Materials associated with that Course as well as all of the Sessions in that Course. It is a one stop place to obtain all of the Learning Materials for the Course.
+A useful feature of Ilios is the Learning Materials Summary, which for the Course selected, contains links to all of the Learning Materials associated with that Course as well as all of those for Sessions in that Course. It is a one stop place to obtain all of the Learning Materials for the selcted Course.
 
 To go to the Learning Materials Summary, pull up a Course and click the correct icon as shown below.
 
-![Click as shown](../../images/course_learning_materials/lmsumrw1.png)
+![click to select summary](../../images/course_learning_materials/click_to_select_summary.png)
 
 The available sorting and filtering options are shown below.
 

@@ -6,11 +6,21 @@ To go to the Learning Materials Summary, pull up a Course and click the correct 
 
 ![click to select summary](../../images/course_learning_materials/click_to_select_summary.png)
 
-The available sorting and filtering options are shown below.
+## Search and Filter
 
-![sorting and filtering options](../../images/course_learning_materials/sorting_and_filtering_options.png)
+The available searching and filtering options are shown below.
 
-**Filters and Sorting Demonstrated:**
+![search and filter options](../../images/course_learning_materials/search_and_filter_options.png)
+
+## Sort Order Options
+
+### Course Material Sort Options
+
+At the course level, the screen can be sorted by learning material title, type, or author - ascending (A-Z) or descending (Z-A).
+
+### Session Material Sort Options
+
+At the sessions level, the learning materals can be sorted by title, type, author, session title - ascending (A-Z) or descending (Z-A), or by first offering (by most recent or oldest).
 
 A **Course** level search is performed below with the matches circled. 
 

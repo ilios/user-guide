@@ -14,11 +14,11 @@ The available searching and filtering options are shown below.
 
 ## Sort Order Options
 
-### Course Material Sort Options
+### Course Material Options
 
 At the course level, the screen can be sorted by learning material title, type, or author - ascending (A-Z) or descending (Z-A).
 
-### Session Material Sort Options
+### Session Material Options
 
 At the sessions level, the learning materals can be sorted by title, type, author, session title - ascending (A-Z) or descending (Z-A), or by first offering (by most recent or oldest).
 

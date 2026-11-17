@@ -22,9 +22,9 @@ At the course level, the screen can be sorted by learning material title, type, 
 
 At the sessions level, the learning materals can be sorted by title, type, author, session title - ascending (A-Z) or descending (Z-A), or by first offering (by most recent or oldest).
 
-A **Course** level search is performed below with the matches circled. 
+A **Course** level search is performed below with the matches circled. There are three course learning materials with a title containing "groun". This filtering operation shows the records that match this entry.
 
-![Course Level Search](../../images/course_learning_materials/lmsumrw3.png)
+![course level search](../../images/course_learning_materials/course_level_search.png)
 
 A **Session** level search is shown below.
 

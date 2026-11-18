@@ -24,17 +24,23 @@ At the sessions level, the learning materals can be sorted by title, type, autho
 
 ## Search Options
 
+Searches within the course learning material summary can be performed at the course level and / or the session level. Examples of both are shown below.
+
+### Course Materials Search
+
 A **Course** level search is performed below with the matches circled. There are three course learning materials with a title containing "groun". This filtering operation shows the records that match this entry.
 
-![course level search](../../images/course_learning_materials/course_level_search.png)
+![course materials search](../../images/course_learning_materials/course_materials_search.png)
+
+### Session Materials Search
 
 A **Session** level search is shown below.
 
-In the example shown below, a Session level search was performed for "histology" \(case-insensitive\) and sorting was performed on the Learning Material Title in ascending alphabetic order.
+In the example shown below, a Session level search is performed for "ground" (case-insensitive) and sorting was performed on the session learning material title in ascending alphabetic order.
 
-The search results for "histology" are outlined in orange oval outlining.
+The search results for "ground" are displayed. The counter is updated to reflect the count of the records returned by the search.
 
-![Search applied ...](../../images/course_learning_materials/lm_summary_filter.jpg)
+![session materials search](../../images/course_learning_materials/session_materials_search.png)
 
-Any of the Learning Materials can be accessed by clicking on the URL link located under the "Title" header.
+Any of the learning material objects can be accessed by clicking on the link located under the "Title" header.
 

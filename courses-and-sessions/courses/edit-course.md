@@ -28,17 +28,17 @@ Once the Course has been selected as shown above, the following Course-level att
 
 1. **Back to Courses List**: takes the user back to the list of Courses
 2. **Edit Course Title**: provides fucntionality to edit the title of the course by clicking as shown
-3. [**Publishing**](../publishing.md): The Course's publication status can be changed here.
+3. [**Publishing**](../publishing.md): modify the Course's publication status
 4. **Learning Materials Summary**: opens up [**Learning Materials Summary**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/learning-materials-summary)
 5. **Course Summary**: opens up the all-inclusive [**Course Summary**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course-summary)
 6. [**Course Rollover**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/course_actions/course-rollover): starts the process of rolling this Course over (hidden if a course is locked)
 7. [**Course Visualizations**](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses/visualizations): opens up Visualizations (Graphs) for this Course
-8. **Course ID**: The Course ID field can be edited by clicking as shown.
-9. **Clerkship Type**: edited here
-10. **Start Date**: edited here
+8. **Course ID**: can be edited here
+9. **Clerkship Type**: can be edited here
+10. **Start Date**: can be edited here
 11. **End Date**: edited as shown
-12. **Level**: edited here
-13. **Show Details**: opens up the rest of the Course Details.
+12. **Level**: can be edited here
+13. **Show Details**: reveals remaining course details
 
 ## [Course Details](https://iliosproject.gitbook.io/ilios-user-guide/courses-and-sessions/courses#details)
 

@@ -38,7 +38,7 @@ It is worth noting that .pdf files have been configured so they can be viewed in
 
 This is only for users with advanced permissions over the Course or Session associated with this Learning Material object. The link to any Learning Material (file or not) can be copied to the user's clipboard and used elsewhere. Please refer to the [Permissions Matrix](https://iliosproject.gitbook.io/ilios-user-guide/permissions#permissions-matrix) for more information on user roles.
 
-![click to select](../../images/course_learning_materials/lm_view1.png)
+![click to select](../../images/course_learning_materials/click_to_select)
 
 ![view details](../../images/course_learning_materials/lm_view2.png)
 

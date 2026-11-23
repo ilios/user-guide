@@ -8,6 +8,7 @@ To go to the Learning Materials Summary, pull up a Course and click the correct 
 
 ## Search and Filter
 
+![sorting and filtering options](../../images/course_learning_materials/sorting_and_filtering_options.png)
 The available searching and filtering options are shown below.
 
 ![search and filter options](../../images/course_learning_materials/search_and_filter_options.png)

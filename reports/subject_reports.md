@@ -87,14 +87,13 @@ We will continue on to specify the data set we'd like to review. The screen refr
 
 It is worth keeping in mind that any school can have a number of different Vocabularies set up to be chosen under "Terms". In this case, we are selecting from the Vocabulary "Topics". The value chosen in this example is "Anatomy".
 
-![choose Topics > Anatomy as report option](../images/reports/anatomy_chosen.png)
+![choose report option](../images/reports/choose_report_option.png)
 
 # Report Output and View Options
 
 As shown in the previous steps, it has been decided to run a Term based report which will display all Sessions assoicated with the term "Anatomy", which is included in the "Topic" vocabulary. It can now be run immediately or saved to run at any point in the future. Reports that are believed to be generally useful and informative throughout time should be saved; whereas one-off ad hoc style reports can be immediately run and not saved. Below is the screen showing these two options. 
 
-![report options - to save ... or not](../images/reports/to_save_or_not_to_save.png)
-
+![to save or not to save](../images/reports/to_save_or_not_to_save.png)
 
 This workflow allows the user to view and / or download the data from a newly created report but not save it for future use. This would be for situations when the data is only needed this one time.
 

@@ -20,7 +20,7 @@ After clicking as shown above, the screen will refresh with the data outputted t
 
 As shown above, there is a link available to download the report's output. After clicking as shown above (on a Mac anyway), the report file (.csv) is named automatically and saved in the user's "Downloads" folder.
 
-![Download action shown](../images/reports/report_downloaded.png)
+![report downloaded](../images/reports/report_downloaded.png)
 
 In this report example, the .csv download includes the following fields ...
 
@@ -64,7 +64,7 @@ The information being presented below will vary depending on which of these top-
 
 Choose "Sessions" as the next selection option. This will ensure to retrieve a list of sessions that meet the speicifcations being selected.
 
-![choose sessions as report option](../images/reports/sessions_chosen.png)
+![sessions chosen](../images/reports/sessions_chosen.png)
 
 After choosing the value "Sessions" as shown above, we are now ready to select the next reporting option. 
 

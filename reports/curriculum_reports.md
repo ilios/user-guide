@@ -35,7 +35,7 @@ After the report gets run, a download button appears for the user to export the 
 
 The "copy link" and "run report" buttons are shown below. Hopefully it is obvious in the "courses chosen" image above that these buttons are available at the upper right portion of the screen even though that image does not specifically indicate their existence.
 
-![copy and run buttons](../images/reports/first_two_buttons.png)
+![copy and run buttons](../images/reports/copy_and_run_buttons.png)
 
 # View Results
 
@@ -115,7 +115,7 @@ The fields summarized are ...
 * Instructors (total count)
 * Learner Groups (total count)
 
-![session objectives results summary](../images/reports/curriculum_reports/session_offerings_results_summary.png)
+![session offerings results summary](../images/reports/curriculum_reports/session_offerings_results_summary.png)
 
 ## File Name 
 
